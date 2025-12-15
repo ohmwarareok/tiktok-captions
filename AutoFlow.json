@@ -534,8 +534,130 @@
       "tts_text": "บอกเลยชิ้นนี้ควรเปลี่ยน ที่นอนยางพาราแท้รุ่นซูพรีม นอนสบาย ใช้ได้นาน ราคาแค่สามพันเจ็ดร้อยเก้าสิบบาท ช้าอด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom lifestyle mattress no text no logo random angle",
+      "tts_text": "ดูนี่ก่อนทุกคน นอนทั้งคืนแต่ยังเมื่อย แปลว่าที่นอนไม่ตอบโจทย์ ที่นอนยางพาราแท้รุ่นซูพรีม รองรับดีขึ้น ตอนนี้เหลือสามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom morning mood mattress no text no logo",
+      "tts_text": "ตื่นเช้ามาไม่สดชื่น อย่าฝืนใช้ที่นอนเก่า ที่นอนยางพาราแท้รุ่นซูพรีม แน่นกำลังดี นอนสบาย ราคาแค่สามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom wide clean mattress no text no logo",
+      "tts_text": "ใครกำลังย้ายบ้านหรือเปลี่ยนห้อง ที่นอนต้องเลือกดี ที่นอนยางพาราแท้รุ่นซูพรีม ใช้ยาว คุ้มจริง เหลือสามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom close up mattress surface no text no logo",
+      "tts_text": "นอนแล้วไม่ยวบ ไม่จมตัวเกินไป ที่นอนยางพาราแท้รุ่นซูพรีม รองรับกำลังดี ตอนนี้ราคาแค่สามพันเจ็ดร้อยเก้าสิบบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom minimal style mattress no text no logo",
+      "tts_text": "อยากนอนสบายขึ้นโดยไม่ต้องเปลี่ยนอะไรเยอะ เริ่มจากที่นอน ที่นอนยางพาราแท้รุ่นซูพรีม เหลือสามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic bedroom cozy light mattress no text no logo",
+      "tts_text": "ใครนอนพลิกตัวบ่อย ลองเปลี่ยนที่นอนดู ที่นอนยางพาราแท้รุ่นซูพรีม รองรับดี นอนต่อเนื่อง ราคาแค่สามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom top view mattress no text no logo",
+      "tts_text": "ที่นอนดีช่วยให้การพักผ่อนคุ้มขึ้น ที่นอนยางพาราแท้รุ่นซูพรีม แน่นสบาย ใช้ได้นาน เหลือสามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom calm tone mattress no text no logo",
+      "tts_text": "ถ้านอนแล้วรู้สึกไม่เต็มอิ่ม ปัญหาอาจอยู่ที่ที่นอน ที่นอนยางพาราแท้รุ่นซูพรีม ราคาแค่สามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom soft daylight mattress no text no logo",
+      "tts_text": "การนอนคือการชาร์จพลัง ที่นอนต้องเลือกให้ดี ที่นอนยางพาราแท้รุ่นซูพรีม นอนสบายขึ้น เหลือสามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom lifestyle angle mattress no text no logo",
+      "tts_text": "ใครใช้ที่นอนมานานหลายปี ถึงเวลาเปลี่ยน ที่นอนยางพาราแท้รุ่นซูพรีม รองรับดี ราคาแค่สามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic bedroom clean aesthetic mattress no text no logo",
+      "tts_text": "นอนดีขึ้นไม่ต้องรอโปรแรงกว่านี้ ที่นอนยางพาราแท้รุ่นซูพรีม ราคาตอนนี้สามพันเจ็ดร้อยเก้าสิบบาท รีบตัดสินใจ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom side view mattress no text no logo",
+      "tts_text": "ที่นอนแน่นกำลังดี ไม่แข็ง ไม่ยวบ ที่นอนยางพาราแท้รุ่นซูพรีม ใช้จริงในบ้าน ราคาแค่สามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom peaceful mood mattress no text no logo",
+      "tts_text": "พักผ่อนให้เต็มที่ทุกคืน เริ่มจากที่นอน ที่นอนยางพาราแท้รุ่นซูพรีม รองรับดี เหลือสามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom modern style mattress no text no logo",
+      "tts_text": "ใครอยากปรับคุณภาพการนอนแบบง่ายที่สุด เปลี่ยนที่นอน ที่นอนยางพาราแท้รุ่นซูพรีม ราคาแค่สามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom mattress close detail no text no logo",
+      "tts_text": "นอนแล้วไม่ปวดเมื่อยสะสม ที่นอนยางพาราแท้รุ่นซูพรีม รองรับดีขึ้นจริง ตอนนี้เหลือสามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic bedroom warm tone mattress no text no logo",
+      "tts_text": "คืนไหนนอนสบาย วันรุ่งขึ้นทำอะไรก็ดี ที่นอนยางพาราแท้รุ่นซูพรีม ตัวนี้ช่วยได้ ราคาแค่สามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom wide lifestyle mattress no text no logo",
+      "tts_text": "ใครอยากนอนดีขึ้นแบบเห็นผล ต้องเลือกที่นอนดี ที่นอนยางพาราแท้รุ่นซูพรีม เหลือสามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom soft shadow mattress no text no logo",
+      "tts_text": "นอนทุกคืน อย่าปล่อยให้ที่นอนทำร้ายการพักผ่อน ที่นอนยางพาราแท้รุ่นซูพรีม ราคาแค่สามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom minimal calm mattress no text no logo",
+      "tts_text": "ถ้าจะลงทุนกับอะไรสักอย่างในบ้าน ที่นอนคือสิ่งสำคัญ ที่นอนยางพาราแท้รุ่นซูพรีม เหลือสามพันเจ็ดร้อยเก้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom final selling angle mattress no text no logo",
+      "tts_text": "บอกเลยรุ่นนี้เหมาะกับทุกบ้าน ที่นอนยางพาราแท้รุ่นซูพรีม นอนสบาย ใช้ยาว ราคาแค่สามพันเจ็ดร้อยเก้าสิบบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
     }
   ]
 }
 
-}
