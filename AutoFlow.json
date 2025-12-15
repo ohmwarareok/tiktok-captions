@@ -1,4 +1,1280 @@
 {
+  "1731354167400893015": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing portable speaker on table",
+      "tts_text": "ดูนี่ก่อนทุกคน อยากฟังเพลงแต่ลำโพงเล็กไม่สะใจ ลำโพงพกพาไร้สายตัวนี้ช่วยได้ เสียงดังฟังชัด ตอนนี้เหลือสองร้อยสิบสองบาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker front view",
+      "tts_text": "ใครหาลำโพงไว้ฟังที่บ้าน ลำโพงพกพาไร้สาย ขนาดกำลังดี ใช้งานง่าย ราคาแค่สองร้อยสิบสองบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker buttons close up",
+      "tts_text": "ปุ่มกดใช้ง่าย ไม่ซับซ้อน ลำโพงพกพาไร้สาย เปิดฟังได้ทันที เหลือสองร้อยสิบสองบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker handle",
+      "tts_text": "มีหูหิ้ว พกพาสะดวก ลำโพงพกพาไร้สาย เอาไปใช้ได้หลายที่ ราคาแค่สองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker in living room",
+      "tts_text": "เปิดฟังเพลงในบ้านสบาย ลำโพงพกพาไร้สาย เสียงชัดกำลังดี เหลือสองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker used casually",
+      "tts_text": "ฟังเพลง ทำงานบ้าน เพลินขึ้น ลำโพงพกพาไร้สาย ตัวนี้ตอบโจทย์ ราคาแค่สองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker side angle",
+      "tts_text": "ทรงสวย วางตรงไหนก็ดูดี ลำโพงพกพาไร้สาย ใช้งานง่าย เหลือสองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker close up grill",
+      "tts_text": "เสียงออกชัด ฟังสบายหู ลำโพงพกพาไร้สาย ใช้ฟังทุกวัน ราคาแค่สองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker on desk",
+      "tts_text": "ตั้งบนโต๊ะก็ไม่เกะกะ ลำโพงพกพาไร้สาย ขนาดพอดี เหลือสองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker daily use",
+      "tts_text": "หยิบมาเปิดฟังได้ทันที ลำโพงพกพาไร้สาย ใช้ง่ายไม่ยุ่งยาก ราคาแค่สองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker indoors night",
+      "tts_text": "เปิดฟังตอนเย็น บรรยากาศดี ลำโพงพกพาไร้สาย เสียงชัด เหลือสองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker portability",
+      "tts_text": "ยกไปเปลี่ยนมุมฟังได้ง่าย ลำโพงพกพาไร้สาย พกสบาย ราคาแค่สองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker near plant decor",
+      "tts_text": "วางกับของตกแต่งก็ดูดี ลำโพงพกพาไร้สาย ใช้ได้ทุกห้อง เหลือสองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker control usage",
+      "tts_text": "ปรับเสียงง่าย ฟังสบาย ลำโพงพกพาไร้สาย ใช้งานตรงไปตรงมา ราคาแค่สองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker relaxed vibe",
+      "tts_text": "เปิดเพลงคลอทั้งวันไม่เบื่อ ลำโพงพกพาไร้สาย ตัวนี้คุ้ม เหลือสองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker in bedroom",
+      "tts_text": "ฟังเพลงในห้องนอนเพลิน ลำโพงพกพาไร้สาย เสียงชัดกำลังดี ราคาแค่สองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker minimal setup",
+      "tts_text": "ไม่ต้องต่อสายให้วุ่น ลำโพงพกพาไร้สาย ใช้ง่าย เหลือสองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker on shelf",
+      "tts_text": "วางโชว์ก็ได้ ใช้งานก็ดี ลำโพงพกพาไร้สาย ราคาแค่สองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker casual lifestyle",
+      "tts_text": "ของใช้ประจำบ้านต้องมี ลำโพงพกพาไร้สาย ใช้ได้ทุกวัน เหลือสองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker ready to use",
+      "tts_text": "หยิบมาเปิดฟังได้ทันที ลำโพงพกพาไร้สาย ไม่ยุ่งยาก ราคาแค่สองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker everyday mood",
+      "tts_text": "เพิ่มความสนุกในบ้านง่ายๆ ลำโพงพกพาไร้สาย ตัวนี้ตอบโจทย์ เหลือสองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker calm environment",
+      "tts_text": "เปิดฟังเบาๆ ก็เพลิน ลำโพงพกพาไร้สาย ใช้งานได้จริง ราคาแค่สองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker lifestyle shot",
+      "tts_text": "ลำโพงที่ใช้ได้คุ้มจริง ลำโพงพกพาไร้สาย ขนาดกำลังดี เหลือสองร้อยสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing speaker final selling angle",
+      "tts_text": "บอกเลยราคานี้ต้องมี ลำโพงพกพาไร้สาย ฟังเพลิน คุ้ม ตอนนี้เหลือสองร้อยสิบสองบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731289478251054360": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing waist bag worn crossbody",
+      "tts_text": "ดูนี่ก่อนทุกคน ออกบ้านของเยอะ กลัวลืม กระเป๋าคาดอกคาดเอวใบนี้ช่วยได้ ใส่ของเป็นระเบียบ ตอนนี้เหลือห้าสิบบาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing waist bag front view",
+      "tts_text": "ใครพกของหลายอย่าง ต้องมี กระเป๋าคาดอกคาดเอว ใส่โทรศัพท์ กุญแจ กระเป๋าตังสบาย ราคาแค่ห้าสิบบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing multiple zipper pockets",
+      "tts_text": "หลายช่อง แยกของง่าย กระเป๋าคาดอกคาดเอว ใช้งานคล่อง เหลือห้าสิบบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag capacity demonstration",
+      "tts_text": "ของเยอะแต่ยังเอาอยู่ กระเป๋าคาดอกคาดเอว ใบเดียวจบ ราคาแค่ห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing adjustable strap",
+      "tts_text": "สายปรับได้ ใส่สบาย กระเป๋าคาดอกคาดเอว เหมาะทุกสรีระ เหลือห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing daily use walking",
+      "tts_text": "เดินตลาด เดินซอย คล่องตัว กระเป๋าคาดอกคาดเอว ตัวนี้ตอบโจทย์ ราคาแค่ห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing crossbody style",
+      "tts_text": "สะพายอกก็ได้ ดูเรียบเท่ กระเป๋าคาดอกคาดเอว ใช้ง่าย เหลือห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing waist wearing style",
+      "tts_text": "คาดเอวก็ไม่เกะกะ กระเป๋าคาดอกคาดเอว ใส่สบาย ราคาแค่ห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing fabric texture",
+      "tts_text": "ผ้าเบา แต่ใช้งานจริง กระเป๋าคาดอกคาดเอว ใช้ทุกวันได้ เหลือห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag close up",
+      "tts_text": "ทรงสวย ไม่เทอะทะ กระเป๋าคาดอกคาดเอว ราคาแค่ห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hands free walking",
+      "tts_text": "ไม่ต้องถือของให้เกะกะ กระเป๋าคาดอกคาดเอว ใช้สะดวก เหลือห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing zipper opening",
+      "tts_text": "หยิบของง่าย เปิดปิดไว กระเป๋าคาดอกคาดเอว ใช้งานจริง ราคาแค่ห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag stable fit",
+      "tts_text": "สะพายแล้วไม่แกว่ง กระเป๋าคาดอกคาดเอว ใส่มั่นใจ เหลือห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing everyday carry items",
+      "tts_text": "ใส่ของจำเป็นครบในใบเดียว กระเป๋าคาดอกคาดเอว ราคาแค่ห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual outfit match",
+      "tts_text": "แมตช์เสื้อผ้าง่าย ใช้ได้ทุกวัน กระเป๋าคาดอกคาดเอว เหลือห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing travel use",
+      "tts_text": "ออกต่างจังหวัดก็พกสบาย กระเป๋าคาดอกคาดเอว ตัวนี้คุ้ม ราคาแค่ห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing urban walking",
+      "tts_text": "เดินเมือง เดินตลาด คล่องตัว กระเป๋าคาดอกคาดเอว เหลือห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing secure wear",
+      "tts_text": "พกของใกล้ตัว อุ่นใจ กระเป๋าคาดอกคาดเอว ราคาแค่ห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing side angle bag",
+      "tts_text": "ทรงเรียบ ดูดี ไม่รก กระเป๋าคาดอกคาดเอว เหลือห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing minimal carry",
+      "tts_text": "พกน้อยแต่ครบ ต้องใบนี้ กระเป๋าคาดอกคาดเอว ราคาแค่ห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing daily lifestyle use",
+      "tts_text": "ของใช้ประจำวันต้องมี กระเป๋าคาดอกคาดเอว ใช้งานบ่อย เหลือห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing strap adjustment",
+      "tts_text": "ปรับสายง่าย ใส่ได้หลายแบบ กระเป๋าคาดอกคาดเอว ราคาแค่ห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing relaxed pose with bag",
+      "tts_text": "ใส่แล้วไม่อึดอัด กระเป๋าคาดอกคาดเอว ใช้ได้ทุกวัน เหลือห้าสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing final selling angle",
+      "tts_text": "บอกเลยราคานี้ต้องมี กระเป๋าคาดอกคาดเอว ใส่บ่อย คุ้ม ตอนนี้เหลือห้าสิบบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730255425167264732": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing digital blood pressure monitor on table",
+      "tts_text": "ดูนี่ก่อนทุกคน อยากเช็กค่าความดันเองที่บ้าน เครื่องวัดความดันดิจิตอลตัวนี้ช่วยได้ ใช้งานง่าย ดูตัวเลขชัด ตอนนี้เหลือแปดสิบห้าบาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing cuff and monitor",
+      "tts_text": "ไม่ต้องเดา ใช้ดูค่าตัวเลขชัด เครื่องวัดความดันดิจิตอล ใส่แขนแล้วกดใช้งาน ราคาแค่แปดสิบห้าบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing display close up",
+      "tts_text": "หน้าจออ่านง่าย มองเห็นชัด เครื่องวัดความดันดิจิตอล ใช้งานที่บ้านสะดวก เหลือแปดสิบห้าบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing one button operation",
+      "tts_text": "กดปุ่มเดียวก็ใช้งานได้ เครื่องวัดความดันดิจิตอล ไม่ยุ่งยาก ราคาแค่แปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing cuff wrapping arm",
+      "tts_text": "สายรัดแขน ใส่เองได้ง่าย เครื่องวัดความดันดิจิตอล ใช้ที่บ้านสบาย เหลือแปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing home environment use",
+      "tts_text": "อยู่บ้านก็เช็กค่าได้ เครื่องวัดความดันดิจิตอล ไม่ต้องออกไปข้างนอก ราคาแค่แปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing compact size",
+      "tts_text": "ขนาดกะทัดรัด วางไว้ใช้ง่าย เครื่องวัดความดันดิจิตอล เหลือแปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing device beside bed",
+      "tts_text": "วางข้างเตียงก็หยิบใช้ได้ เครื่องวัดความดันดิจิตอล ใช้งานสะดวก ราคาแค่แปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing daily routine use",
+      "tts_text": "ใช้ดูค่าตัวเลขเป็นประจำ เครื่องวัดความดันดิจิตอล ตัวนี้ตอบโจทย์ เหลือแปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing elderly hands using device",
+      "tts_text": "ปุ่มใหญ่ ใช้งานไม่ซับซ้อน เครื่องวัดความดันดิจิตอล ใช้ง่าย ราคาแค่แปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing monitor stored neatly",
+      "tts_text": "เก็บง่าย หยิบใช้สะดวก เครื่องวัดความดันดิจิตอล ใช้ที่บ้าน เหลือแปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing arm cuff detail",
+      "tts_text": "สายรัดแน่นพอดี ใส่สบาย เครื่องวัดความดันดิจิตอล ราคาแค่แปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing LCD screen lighting",
+      "tts_text": "หน้าจอสว่าง อ่านค่าได้ชัด เครื่องวัดความดันดิจิตอล เหลือแปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing device on desk",
+      "tts_text": "ตั้งไว้ตรงไหนก็ใช้ได้ เครื่องวัดความดันดิจิตอล ไม่เกะกะ ราคาแค่แปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing simple operation",
+      "tts_text": "ใช้งานตรงไปตรงมา เครื่องวัดความดันดิจิตอล เหมาะใช้เองที่บ้าน เหลือแปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing family home use",
+      "tts_text": "บ้านไหนอยากมีอุปกรณ์เช็กค่า เครื่องวัดความดันดิจิตอล ตัวนี้ควรมี ราคาแค่แปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing monitor close up",
+      "tts_text": "ดูตัวเลขได้ทันที เครื่องวัดความดันดิจิตอล ไม่ต้องคาดเดา เหลือแปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing device ready to use",
+      "tts_text": "หยิบมาใช้ได้เลย เครื่องวัดความดันดิจิตอล ไม่ยุ่งยาก ราคาแค่แปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing calm home setting",
+      "tts_text": "ใช้งานในบ้านสบายใจ เครื่องวัดความดันดิจิตอล ตัวนี้ตอบโจทย์ เหลือแปดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing product final angle",
+      "tts_text": "บอกเลยราคานี้ควรมีติดบ้าน เครื่องวัดความดันดิจิตอล ใช้งานง่าย คุ้ม ตอนนี้เหลือแปดสิบห้าบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729724353901857671": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing waist bag worn crossbody",
+      "tts_text": "ดูนี่ก่อนทุกคน ออกบ้านของเยอะ กลัวหาย กระเป๋าคาดอกคาดเอวใบนี้ช่วยได้ ใส่ของจำเป็นครบ ตอนนี้เหลือสี่สิบเจ็ดบาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing waist bag front view",
+      "tts_text": "ใครเดินทางบ่อย ต้องมี กระเป๋าคาดอกคาดเอว ใส่โทรศัพท์กระเป๋าตังสบาย ราคาแค่สี่สิบเจ็ดบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing zipper detail",
+      "tts_text": "ซิปแน่น เปิดปิดง่าย กระเป๋าคาดอกคาดเอว ใช้งานคล่อง เหลือสี่สิบเจ็ดบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag capacity",
+      "tts_text": "ใส่ของจำเป็นได้ครบ กระเป๋าคาดอกคาดเอว ใบกำลังดี ราคาแค่สี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing adjustable strap",
+      "tts_text": "สายปรับได้ ใส่สบาย กระเป๋าคาดอกคาดเอว เหมาะทุกสรีระ เหลือสี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing waist bag daily use",
+      "tts_text": "ออกไปซื้อของใกล้บ้าน สะดวกมาก กระเป๋าคาดอกคาดเอว ตัวนี้ตอบโจทย์ ราคาแค่สี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing crossbody style",
+      "tts_text": "สะพายอกก็ดูดี กระเป๋าคาดอกคาดเอว ใช้งานง่าย เหลือสี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing waist style wearing",
+      "tts_text": "คาดเอวก็คล่อง ไม่เกะกะ กระเป๋าคาดอกคาดเอว ราคาแค่สี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag texture",
+      "tts_text": "ผิวสัมผัสดี ดูเรียบร้อย กระเป๋าคาดอกคาดเอว ใช้ได้ทุกวัน เหลือสี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag close up",
+      "tts_text": "ขนาดกำลังดี ไม่ใหญ่เทอะทะ กระเป๋าคาดอกคาดเอว ราคาแค่สี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing walking with bag",
+      "tts_text": "เดินตลาด เดินเที่ยว สบาย กระเป๋าคาดอกคาดเอว ใบนี้ช่วยได้ เหลือสี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag hands free",
+      "tts_text": "ไม่ต้องถือของให้เกะกะ กระเป๋าคาดอกคาดเอว ใช้ง่าย ราคาแค่สี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag opening",
+      "tts_text": "หยิบของง่าย เปิดเร็ว กระเป๋าคาดอกคาดเอว ใช้งานจริง เหลือสี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag fit",
+      "tts_text": "สะพายแล้วไม่แกว่ง กระเป๋าคาดอกคาดเอว ใส่สบาย ราคาแค่สี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag lifestyle",
+      "tts_text": "ของใช้ประจำวันต้องมี กระเป๋าคาดอกคาดเอว ตัวนี้คุ้ม เหลือสี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag casual outfit",
+      "tts_text": "แมตช์กับเสื้อผ้าง่าย กระเป๋าคาดอกคาดเอว ใช้ได้หลายโอกาส ราคาแค่สี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag everyday carry",
+      "tts_text": "ใส่กุญแจ โทรศัพท์ กระเป๋าตังครบ กระเป๋าคาดอกคาดเอว เหลือสี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag secure wear",
+      "tts_text": "พกของใกล้ตัว อุ่นใจ กระเป๋าคาดอกคาดเอว ราคาแค่สี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag outdoor use",
+      "tts_text": "ออกนอกบ้านไม่ต้องพกหลายใบ กระเป๋าคาดอกคาดเอว เหลือสี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag side angle",
+      "tts_text": "ทรงสวย ไม่เทอะทะ กระเป๋าคาดอกคาดเอว ใช้งานง่าย ราคาแค่สี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag minimal carry",
+      "tts_text": "พกน้อยแต่ครบ ต้องใบนี้ กระเป๋าคาดอกคาดเอว เหลือสี่สิบเจ็ดบาท รีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag urban setting",
+      "tts_text": "เดินเมือง เดินซอย คล่องตัว กระเป๋าคาดอกคาดเอว ราคาแค่สี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag relaxed pose",
+      "tts_text": "ใส่แล้วไม่อึดอัด กระเป๋าคาดอกคาดเอว ใช้ได้ทุกวัน เหลือสี่สิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing bag final angle",
+      "tts_text": "บอกเลยราคานี้ต้องมี กระเป๋าคาดอกคาดเอว ใส่บ่อย คุ้ม ตอนนี้เหลือสี่สิบเจ็ดบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732476156673426453": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing handheld flashlight in hand",
+      "tts_text": "ดูนี่ก่อนทุกคน กลางคืนมืด หาอะไรไม่เจอ ไฟฉายพกพาแบบชาร์จได้ ตัวนี้ช่วยได้ สว่างใช้ง่าย ตอนนี้เหลือหกสิบเก้าบาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight turned on indoors",
+      "tts_text": "ใครเคยไฟดับแล้วมองไม่เห็น ไฟฉายพกพาแบบชาร์จได้ เปิดปุ๊บใช้งานเลย ราคาแค่หกสิบเก้าบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight grip detail",
+      "tts_text": "จับถนัดมือ ไม่ลื่น ไฟฉายพกพาแบบชาร์จได้ ใช้งานง่าย เหลือหกสิบเก้าบาท ควรมีติดบ้าน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight power display",
+      "tts_text": "มีหน้าจอดูพลังงาน ใช้ไม่เดา ไฟฉายพกพาแบบชาร์จได้ ราคาแค่หกสิบเก้าบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight charging",
+      "tts_text": "ชาร์จได้ ไม่ต้องซื้อถ่าน ไฟฉายพกพาแบบชาร์จได้ ใช้ซ้ำสบาย เหลือหกสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight used at night",
+      "tts_text": "กลางคืนเดินไม่สะดวก ตัวนี้ช่วย ไฟฉายพกพาแบบชาร์จได้ เปิดแล้วเห็นชัด ราคาแค่หกสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight in car",
+      "tts_text": "มีติดรถไว้ อุ่นใจมาก ไฟฉายพกพาแบบชาร์จได้ ขนาดกำลังดี เหลือหกสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight outdoor use",
+      "tts_text": "ออกนอกบ้านกลางคืนต้องมี ไฟฉายพกพาแบบชาร์จได้ ใช้งานคล่อง ราคาแค่หกสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight close up lens",
+      "tts_text": "ไฟออกสม่ำเสมอ ใช้จริงเห็นผล ไฟฉายพกพาแบบชาร์จได้ เหลือหกสิบเก้าบาท รีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight daily use",
+      "tts_text": "หยิบใช้บ่อยมาก ไฟฉายพกพาแบบชาร์จได้ ใช้ง่ายไม่ยุ่งยาก ราคาแค่หกสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight walking scene",
+      "tts_text": "เดินซอยมืดไม่ต้องกลัว ไฟฉายพกพาแบบชาร์จได้ ตัวนี้ช่วยได้ เหลือหกสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight button press",
+      "tts_text": "กดง่าย เปิดไว ไฟฉายพกพาแบบชาร์จได้ ไม่ซับซ้อน ราคาแค่หกสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight hand movement",
+      "tts_text": "น้ำหนักกำลังดี พกสบาย ไฟฉายพกพาแบบชาร์จได้ เหลือหกสิบเก้าบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight near door",
+      "tts_text": "เปิดหาของหน้าบ้านสะดวก ไฟฉายพกพาแบบชาร์จได้ ราคาแค่หกสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight resting on table",
+      "tts_text": "วางไว้หยิบใช้ทันที ไฟฉายพกพาแบบชาร์จได้ เหลือหกสิบเก้าบาท ต้องมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight emergency use",
+      "tts_text": "ไฟดับเมื่อไร ไม่มืดแน่ ไฟฉายพกพาแบบชาร์จได้ ตัวนี้เอาอยู่ ราคาแค่หกสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight indoors night",
+      "tts_text": "กลางคืนในบ้านต้องมี ไฟฉายพกพาแบบชาร์จได้ ใช้งานจริง เหลือหกสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight close grip",
+      "tts_text": "จับถือง่าย มือเดียวก็ไหว ไฟฉายพกพาแบบชาร์จได้ ราคาแค่หกสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight practical use",
+      "tts_text": "ของจำเป็นที่ไม่ควรขาด ไฟฉายพกพาแบบชาร์จได้ เหลือหกสิบเก้าบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing flashlight final angle",
+      "tts_text": "ราคานี้ต้องมีติดบ้าน ไฟฉายพกพาแบบชาร์จได้ ใช้งานบ่อย คุ้ม ตอนนี้เหลือหกสิบเก้าบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732280590080640545": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing portable generator front view",
+      "tts_text": "ดูนี่ก่อนทุกคน ไฟดับบ่อย งานสะดุด เครื่องกำเนิดไฟฟ้าสี่จังหวะตัวนี้ช่วยได้ ใช้งานง่าย พกพาสะดวก ตอนนี้เหลือห้าพันหกร้อยยี่สิบสองบาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator outdoor use",
+      "tts_text": "ใครเจอไฟดับกะทันหัน ต้องมี เครื่องกำเนิดไฟฟ้าสี่จังหวะ ให้ไฟต่อเนื่อง ใช้งานจริง ราคาแค่ห้าพันหกร้อยยี่สิบสองบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator side view",
+      "tts_text": "งานบ้าน งานสวน งานช่าง ใช้ได้หมด เครื่องกำเนิดไฟฟ้าสี่จังหวะ ตัวนี้ตอบโจทย์ เหลือห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator handle and frame",
+      "tts_text": "โครงแข็งแรง เคลื่อนย้ายง่าย เครื่องกำเนิดไฟฟ้าสี่จังหวะ พกพาสะดวก ราคาแค่ห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator control panel",
+      "tts_text": "ปลั๊กพร้อมใช้งาน ไม่ซับซ้อน เครื่องกำเนิดไฟฟ้าสี่จังหวะ เสียบใช้ได้เลย เหลือห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator in workshop",
+      "tts_text": "ไฟตก ไฟดับ งานหยุด ตัวนี้ช่วย เครื่องกำเนิดไฟฟ้าสี่จังหวะ ใช้งานต่อเนื่อง ราคาแค่ห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator in garden",
+      "tts_text": "สวน บ้านไร่ ต้องมีไฟสำรอง เครื่องกำเนิดไฟฟ้าสี่จังหวะ ใช้ง่าย เหลือห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator stable base",
+      "tts_text": "ตั้งพื้นมั่นคง ใช้งานสบาย เครื่องกำเนิดไฟฟ้าสี่จังหวะ ไม่ต้องกังวล ราคาแค่ห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator in open space",
+      "tts_text": "ใช้นอกบ้านก็สะดวก เครื่องกำเนิดไฟฟ้าสี่จังหวะ พกไปได้หลายที่ เหลือห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator power usage",
+      "tts_text": "ไฟใช้งานจำเป็นไม่ขาด เครื่องกำเนิดไฟฟ้าสี่จังหวะ ตัวนี้ตอบโจทย์ ราคาแค่ห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator daily use",
+      "tts_text": "มีไฟสำรอง อุ่นใจทุกสถานการณ์ เครื่องกำเนิดไฟฟ้าสี่จังหวะ เหลือห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator close up engine",
+      "tts_text": "เครื่องสี่จังหวะ ใช้งานเสถียร เครื่องกำเนิดไฟฟ้าสี่จังหวะ คุ้มราคา ราคาแค่ห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator connected devices",
+      "tts_text": "เสียบใช้อุปกรณ์ได้ทันที เครื่องกำเนิดไฟฟ้าสี่จังหวะ ใช้ง่าย เหลือห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator storage",
+      "tts_text": "เก็บไม่เปลืองที่ เครื่องกำเนิดไฟฟ้าสี่จังหวะ พกพาง่าย ราคาแค่ห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator ready to use",
+      "tts_text": "พร้อมใช้ตลอด ไม่ยุ่งยาก เครื่องกำเนิดไฟฟ้าสี่จังหวะ เหลือห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator at home",
+      "tts_text": "บ้านไหนไฟดับบ่อย ต้องเตรียม เครื่องกำเนิดไฟฟ้าสี่จังหวะ ตัวนี้ช่วยได้ ราคาแค่ห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator business use",
+      "tts_text": "ร้านค้า งานขาย ไฟห้ามดับ เครื่องกำเนิดไฟฟ้าสี่จังหวะ เหลือห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator construction site",
+      "tts_text": "ไซต์งานต้องมีไฟใช้ เครื่องกำเนิดไฟฟ้าสี่จังหวะ ใช้งานจริง ราคาแค่ห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator stable running",
+      "tts_text": "เปิดใช้งานแล้วมั่นใจ เครื่องกำเนิดไฟฟ้าสี่จังหวะ ตัวนี้ตอบโจทย์ เหลือห้าพันหกร้อยยี่สิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing generator final angle",
+      "tts_text": "บอกเลยคุ้มจริง เครื่องกำเนิดไฟฟ้าสี่จังหวะ ไฟไม่ขาด ตอนนี้เหลือห้าพันหกร้อยยี่สิบสองบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732180383769266185": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing plastic water drums lined up",
+      "tts_text": "ดูนี่ก่อนทุกคน น้ำใช้ไม่พอ เก็บน้ำไม่ทัน ต้องตัวนี้ ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร มีฝาปิด ใช้งานง่าย ตอนนี้เหลือสองร้อยเจ็ดสิบห้าบาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing water drum front view",
+      "tts_text": "ใครใช้น้ำเยอะ บ้านสวน โรงงาน ต้องมี ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ฝาปิดแน่น เก็บได้จุ ราคาแค่สองร้อยเจ็ดสิบห้าบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum lid detail",
+      "tts_text": "มีฝาปิด กันฝุ่น กันเศษสกปรก ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ใช้สะดวก เหลือสองร้อยเจ็ดสิบห้าบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum thickness close up",
+      "tts_text": "ถังหนา ใช้ทน ไม่แตกง่าย ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร เหมาะใช้งานหนัก ราคาแค่สองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum outdoor placement",
+      "tts_text": "ตั้งนอกบ้านก็ใช้ได้ ไม่ต้องกลัวพัง ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร เหลือสองร้อยเจ็ดสิบห้าบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing filling water into drum",
+      "tts_text": "เก็บน้ำฝน เก็บน้ำใช้สบาย ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ฝาปิดแน่น เติมง่าย ราคาแค่สองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum beside house",
+      "tts_text": "บ้านไหนน้ำขาดบ่อย ต้องเตรียมไว้ ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ตัวนี้ช่วยได้ เหลือสองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum warehouse storage",
+      "tts_text": "งานบ้าน งานสวน งานโรงงาน ใช้ได้หมด ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ราคาแค่สองร้อยเจ็ดสิบห้าบาท ควรมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum stable base",
+      "tts_text": "ตั้งพื้นมั่นคง ไม่ล้มง่าย ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ใช้งานสบาย เหลือสองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum side view",
+      "tts_text": "ทรงสูง ประหยัดพื้นที่ เก็บน้ำได้เยอะ ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ราคาแค่สองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum near plants",
+      "tts_text": "รดน้ำต้นไม้ ใช้น้ำสะดวก ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ฝาปิด ใช้ง่าย เหลือสองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing multiple drums aligned",
+      "tts_text": "ต้องใช้หลายใบก็วางเรียงได้ ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ใช้งานจริง ราคาแค่สองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum rim and lid",
+      "tts_text": "ฝาปิดแน่น เปิดปิดง่าย ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ไม่จุกจิก เหลือสองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum in daily use",
+      "tts_text": "ใช้ทุกวันไม่ต้องกลัวพัง ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร งานหนักก็เอาอยู่ ราคาแค่สองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum water surface",
+      "tts_text": "เก็บน้ำไว้ใช้สบายใจ ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร มีฝาปิด กันสิ่งสกปรก เหลือสองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum outdoor sunlight",
+      "tts_text": "ตั้งกลางแจ้งก็ยังใช้ได้ ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร แข็งแรง ทนแดด ราคาแค่สองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum beside faucet",
+      "tts_text": "ต่อใช้งานกับน้ำง่าย ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ฝาปิด ใช้คล่อง เหลือสองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum storage area",
+      "tts_text": "บ้านไหนต้องสำรองน้ำ ต้องมีใบนี้ ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ราคาแค่สองร้อยเจ็ดสิบห้าบาท รีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum capacity emphasis",
+      "tts_text": "ใบเดียวเก็บน้ำได้จุใจ ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร เหมาะทุกบ้าน เหลือสองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum ready to use",
+      "tts_text": "ถังน้ำที่ใช้ง่าย ไม่ซับซ้อน ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร คุ้มราคา ราคาแค่สองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing multiple drums perspective",
+      "tts_text": "หลายบ้านเลือกใช้รุ่นนี้ ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร ใช้งานได้จริง ตอนนี้เหลือสองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum base close up",
+      "tts_text": "ฐานแข็งแรง วางแล้วมั่นใจ ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร เหมาะทุกพื้นที่ ราคาแค่สองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum water use scenario",
+      "tts_text": "น้ำขาด น้ำหมด ไม่ต้องกังวล ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร เก็บสำรองได้ เหลือสองร้อยเจ็ดสิบห้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum aligned final angle",
+      "tts_text": "บอกเลยราคานี้คุ้มมาก ถังน้ำพลาสติกหนึ่งร้อยห้าสิบลิตร แข็งแรง ใช้ยาว ตอนนี้เหลือสองร้อยเจ็ดสิบห้าบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731126025680817034": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing zip jacket worn casually indoors",
+      "tts_text": "ดูนี่ก่อนทุกคน อากาศเปลี่ยนบ่อย ใส่อะไรไม่อุ่น เสื้อแจ็คเก็ตแขนยาวมีซิป ทรงหลวม ใส่สบาย ตัวนี้ช่วยได้ ตอนนี้เหลือแปดสิบสี่บาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket front view walking",
+      "tts_text": "ใครหาเสื้อคลุมใส่ทุกวัน เสื้อแจ็คเก็ตแขนยาวมีซิป ทรงหลวม ใส่คล่อง ไม่อึดอัด ราคาแค่แปดสิบสี่บาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing sleeve stripe detail",
+      "tts_text": "แขนมีลาย ดูสตรีทขึ้นทันที เสื้อแจ็คเก็ตแขนยาวมีซิป ใส่แล้วดูเท่ ใช้ได้จริง เหลือแปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket movement while walking",
+      "tts_text": "เดิน นั่ง ขยับตัวสบาย เสื้อแจ็คเก็ตแขนยาวมีซิป ทรงหลวม ไม่รั้ง ตอนนี้เหลือแปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing zipper close up",
+      "tts_text": "มีซิป ใส่ถอดง่าย เสื้อแจ็คเก็ตแขนยาว ใส่สะดวก ใช้บ่อย ราคาแค่แปดสิบสี่บาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual street outfit",
+      "tts_text": "ใส่ออกบ้านก็รอด ใส่เที่ยวก็ได้ เสื้อแจ็คเก็ตแขนยาวมีซิป ทรงหลวม ราคาแค่แปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing oversized fit jacket",
+      "tts_text": "ทรงหลวม ใส่แล้วไม่รัด เสื้อแจ็คเก็ตแขนยาว ใส่สบายทั้งวัน ตอนนี้เหลือแปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket styling with t-shirt",
+      "tts_text": "ใส่ทับเสื้อยืดก็ดูดี เสื้อแจ็คเก็ตแขนยาวมีซิป ใส่ง่าย แมตช์ง่าย ราคาแค่แปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing back view jacket",
+      "tts_text": "ทรงหลังสวย ใส่แล้วไม่โป๊ะ เสื้อแจ็คเก็ตแขนยาว ทรงหลวม เหลือแปดสิบสี่บาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual standing pose",
+      "tts_text": "ใส่แล้วดูสบายตา ไม่โทรม เสื้อแจ็คเก็ตแขนยาวมีซิป ตัวนี้ตอบโจทย์ ราคาแค่แปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing daily wear jacket",
+      "tts_text": "วันไหนอากาศเย็นขึ้นนิดหน่อย ต้องมีตัวนี้ เสื้อแจ็คเก็ตแขนยาวมีซิป เหลือแปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing sleeve length detail",
+      "tts_text": "แขนยาว ใส่แล้วอุ่นกำลังดี เสื้อแจ็คเก็ตแขนยาว ทรงหลวม ราคาแค่แปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket walking outdoors",
+      "tts_text": "เดินทั้งวันก็ยังคล่อง เสื้อแจ็คเก็ตแขนยาวมีซิป ไม่อึดอัด ตอนนี้เหลือแปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing relaxed street style",
+      "tts_text": "ใส่แล้วดูชิล สายสตรีทต้องชอบ เสื้อแจ็คเก็ตแขนยาวมีซิป ราคาแค่แปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket fabric flow",
+      "tts_text": "ผ้าทิ้งตัวดี ใส่แล้วไม่แข็ง เสื้อแจ็คเก็ตแขนยาว ใส่สบาย เหลือแปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual outfit pause",
+      "tts_text": "หยิบมาใส่ได้บ่อย เสื้อแจ็คเก็ตแขนยาวมีซิป ตัวนี้คุ้ม ราคาแค่แปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket street fashion",
+      "tts_text": "สายแต่งตัวต้องมี เสื้อแจ็คเก็ตแขนยาวมีซิป ใส่แล้วดูเท่ เหลือแปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket outfit standing",
+      "tts_text": "เสื้อคลุมที่ใส่ได้คุ้มสุด เสื้อแจ็คเก็ตแขนยาว ราคานี้ไม่ควรพลาด แปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket relaxed pose",
+      "tts_text": "ใส่แล้วดูไม่แก่ ไม่เชย เสื้อแจ็คเก็ตแขนยาวมีซิป ตอนนี้เหลือแปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket daily use",
+      "tts_text": "มีตัวนี้ติดตู้ ใส่ได้หลายโอกาส เสื้อแจ็คเก็ตแขนยาวมีซิป ราคาแค่แปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket comfortable pose",
+      "tts_text": "ใส่แล้วไม่ร้อน ไม่อึดอัด เสื้อแจ็คเก็ตแขนยาวมีซิป ใส่สบาย เหลือแปดสิบสี่บาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket everyday fashion",
+      "tts_text": "เสื้อแจ็คเก็ตที่ใช้ได้ทุกวันจริง เสื้อแจ็คเก็ตแขนยาวมีซิป ทรงหลวม ราคาแค่แปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket relaxed lifestyle",
+      "tts_text": "ไม่ต้องแต่งเยอะก็รอด เสื้อแจ็คเก็ตแขนยาวมีซิป ใส่สบาย เหลือแปดสิบสี่บาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing jacket final selling pose",
+      "tts_text": "บอกเลยราคานี้ต้องมี เสื้อแจ็คเก็ตแขนยาวมีซิป ใส่บ่อย คุ้ม ตอนนี้เหลือแปดสิบสี่บาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  {
+  "1731067387385121293": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing zip hoodie laid flat",
+      "tts_text": "ดูนี่ก่อนทุกคน อากาศเย็นบ้างร้อนบ้าง ใส่อะไรดี เสื้อคลุมแขนยาวมีซิป ผ้าหนานุ่ม ใส่สบาย ตัวนี้ช่วยได้ ตอนนี้เหลือหนึ่งร้อยยี่สิบเก้าบาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie front view",
+      "tts_text": "ใครหาเสื้อคลุมใส่ทุกวัน เสื้อคลุมแขนยาวมีซิป ผ้าหนานุ่ม ใส่คล่อง ไม่อึดอัด ราคาแค่หนึ่งร้อยยี่สิบเก้าบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing fabric close up",
+      "tts_text": "ผ้านุ่ม ใส่แล้วไม่ระคาย เสื้อคลุมแขนยาวมีซิป ใส่สบายทั้งวัน ตอนนี้เหลือหนึ่งร้อยยี่สิบเก้าบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie zipper detail",
+      "tts_text": "มีซิป ใส่ถอดง่าย เสื้อคลุมแขนยาวผ้าหนานุ่ม ใช้งานจริง ใส่ได้หลายโอกาส ราคาแค่หนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie with pockets",
+      "tts_text": "มีช่องล้วง ใส่แล้วครบ เสื้อคลุมแขนยาวมีซิป ผ้าหนานุ่ม เหมาะใส่ทุกวัน เหลือหนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual hoodie wear",
+      "tts_text": "ใส่อยู่บ้านก็สบาย ออกบ้านก็รอด เสื้อคลุมแขนยาวมีซิป ผ้าหนานุ่ม ราคาแค่หนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing oversized fit hoodie",
+      "tts_text": "ทรงหลวม ใส่แล้วไม่รัด เสื้อคลุมแขนยาวมีซิป ใส่สบายจริง ตอนนี้เหลือหนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie styling",
+      "tts_text": "แมตช์ง่าย ใส่กับอะไรก็ดูดี เสื้อคลุมแขนยาวมีซิป ผ้าหนานุ่ม ราคาแค่หนึ่งร้อยยี่สิบเก้าบาท รีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie back view",
+      "tts_text": "ทรงสวย ใส่แล้วดูละมุน เสื้อคลุมแขนยาวมีซิป ใส่ได้บ่อย เหลือหนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie casual pose",
+      "tts_text": "ใส่สบาย ไม่ต้องคิดเยอะ เสื้อคลุมแขนยาวมีซิป ตัวนี้ตอบโจทย์ ราคาแค่หนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie daily wear",
+      "tts_text": "อากาศแปรปรวนแค่ไหนก็เอาอยู่ เสื้อคลุมแขนยาวมีซิป ผ้าหนานุ่ม เหลือหนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie sleeves detail",
+      "tts_text": "แขนยาว ใส่แล้วอุ่นกำลังดี เสื้อคลุมแขนยาวมีซิป ใส่สบาย ราคาแค่หนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie walking movement",
+      "tts_text": "เดินทั้งวันก็ยังสบาย เสื้อคลุมแขนยาวมีซิป ผ้าหนานุ่ม ตอนนี้เหลือหนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie relaxed style",
+      "tts_text": "ใส่แล้วดูชิล ไม่โทรม เสื้อคลุมแขนยาวมีซิป เหมาะทุกวัน ราคาแค่หนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie fabric flow",
+      "tts_text": "ผ้าทิ้งตัวดี ใส่แล้วไม่แข็ง เสื้อคลุมแขนยาวมีซิป เหลือหนึ่งร้อยยี่สิบเก้าบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie casual outfit",
+      "tts_text": "หยิบมาใส่ได้บ่อย เสื้อคลุมแขนยาวมีซิป ผ้าหนานุ่ม ราคาแค่หนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie street style",
+      "tts_text": "สายชิลต้องมี เสื้อคลุมแขนยาวมีซิป ใส่แล้วดูดี เหลือหนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie outfit pause",
+      "tts_text": "เสื้อคลุมที่ใส่ได้คุ้มสุด เสื้อคลุมแขนยาวมีซิป ราคานี้ไม่ควรพลาด หนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie standing pose",
+      "tts_text": "ใส่แล้วดูสบายตา เสื้อคลุมแขนยาวมีซิป ผ้าหนานุ่ม ตอนนี้เหลือหนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie everyday use",
+      "tts_text": "มีตัวนี้ติดตู้ อุ่นใจทุกวัน เสื้อคลุมแขนยาวมีซิป ราคาแค่หนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie comfortable pose",
+      "tts_text": "ใส่แล้วไม่อึดอัด ไม่ร้อนเกิน เสื้อคลุมแขนยาวมีซิป เหลือหนึ่งร้อยยี่สิบเก้าบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie daily fashion",
+      "tts_text": "เสื้อคลุมที่ใช้ได้ทุกวันจริง เสื้อคลุมแขนยาวมีซิป ผ้าหนานุ่ม ราคาแค่หนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie relaxed lifestyle",
+      "tts_text": "ไม่ต้องแต่งเยอะก็รอด เสื้อคลุมแขนยาวมีซิป ใส่สบาย เหลือหนึ่งร้อยยี่สิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie final selling pose",
+      "tts_text": "บอกเลยราคานี้ต้องมี เสื้อคลุมแขนยาวมีซิป ผ้าหนานุ่ม ใส่บ่อย คุ้ม ตอนนี้เหลือหนึ่งร้อยยี่สิบเก้าบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1730669049807407135": [
     {
       "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing oversized hoodie worn casually",
