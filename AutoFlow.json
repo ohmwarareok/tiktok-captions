@@ -1,4 +1,436 @@
 {
+  "1730669049807407135": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing oversized hoodie worn casually",
+      "tts_text": "ดูนี่ก่อนทุกคน อากาศเย็นบ้างร้อนบ้าง ใส่อะไรไม่ถูก เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่สบาย ตัวนี้ช่วยได้ ตอนนี้เหลือแปดสิบสองบาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie front view walking",
+      "tts_text": "ใครชอบเสื้อคลุมใส่ง่าย เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่คล่องทุกวัน ราคาแค่แปดสิบสองบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie side angle movement",
+      "tts_text": "เดิน นั่ง ขยับตัวสบาย เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่แล้วไม่อึดอัด ตอนนี้เหลือแปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie fabric close up",
+      "tts_text": "ผ้านุ่ม ใส่แล้วไม่ระคาย เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม เหมาะใส่ทั้งวัน ราคาแค่แปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie with pockets",
+      "tts_text": "มีฮู้ด มีช่องล้วง ใส่แล้วดูครบ เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใช้งานจริง เหลือแปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual outdoor hoodie wear",
+      "tts_text": "ออกไปข้างนอกไม่ต้องคิดเยอะ เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่แล้วรอดทุกลุค ราคาแค่แปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing relaxed hoodie fit",
+      "tts_text": "ไม่รัด ไม่อึดอัด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่สบายมาก ตอนนี้เหลือแปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie styling with skirt",
+      "tts_text": "แมตช์กับกระโปรงหรือกางเกงก็ได้ เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่ง่าย ราคาแค่แปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie back view",
+      "tts_text": "ทรงหลวม ใส่แล้วไม่โป๊ะ เสื้อคลุมแขนยาวมีฮู้ด ใส่แล้วดูสบายตา เหลือแปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie casual pose",
+      "tts_text": "ใส่อยู่บ้านก็ได้ ใส่ออกบ้านก็รอด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ราคาแค่แปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie daily wear",
+      "tts_text": "วันไหนอากาศแปรปรวน ต้องมีตัวนี้ เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ช่วยได้ เหลือแปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie sleeves detail",
+      "tts_text": "แขนยาว ใส่แล้วอุ่นกำลังดี เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่สบาย ราคาแค่แปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie loose fit walking",
+      "tts_text": "เดินทั้งวันก็ยังสบาย เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ไม่อึดอัด ตอนนี้เหลือแปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie casual lifestyle",
+      "tts_text": "ใส่แล้วดูชิล ไม่ต้องแต่งเยอะ เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ราคาแค่แปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie movement flow",
+      "tts_text": "ผ้าทิ้งตัวดี ใส่แล้วดูละมุน เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม เหลือแปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie relaxed outfit",
+      "tts_text": "ใส่แล้วไม่ต้องคอยจัด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม หยิบมาใส่ได้เลย ราคาแค่แปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie street style",
+      "tts_text": "สายชิลต้องมี เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่แล้วดูดี เหลือแปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie outfit pause",
+      "tts_text": "เสื้อคลุมที่ใส่ได้บ่อยที่สุด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ราคานี้ไม่ควรพลาด แปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie casual standing",
+      "tts_text": "ใส่แล้วดูสบายตา ไม่โทรม เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ตอนนี้เหลือแปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie everyday use",
+      "tts_text": "มีตัวนี้ติดตู้ หยิบมาใส่ได้ตลอด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ราคาแค่แปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie comfortable pose",
+      "tts_text": "ใส่แล้วไม่อึดอัด ไม่ร้อนเกิน เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม เหลือแปดสิบสองบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie daily fashion",
+      "tts_text": "เสื้อคลุมที่ใส่ได้ทุกวันจริง เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ราคาแค่แปดสิบสองบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie relaxed lifestyle",
+      "tts_text": "ไม่ต้องแต่งตัวเยอะก็รอด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่สบาย เหลือแปดสิบสองบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie final selling pose",
+      "tts_text": "บอกเลยราคานี้ต้องมี เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่บ่อย คุ้ม ตอนนี้เหลือแปดสิบสองบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730415014033328331": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing large plastic water drums lined up",
+      "tts_text": "ดูนี่ก่อนทุกคน น้ำไม่พอใช้ เก็บน้ำไม่ทัน ต้องตัวนี้ ถังน้ำพลาสติกสองร้อยลิตร เปิดปาก ใช้งานง่าย แข็งแรง ตอนนี้เหลือสามร้อยแปดสิบเก้าบาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing open top plastic water drum",
+      "tts_text": "ใครเก็บน้ำแล้วล้นง่าย เทยาก ถังน้ำพลาสติกสองร้อยลิตร เปิดปาก ช่วยได้ เติมง่าย ใช้สะดวก ราคาแค่สามร้อยแปดสิบเก้าบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum thickness close up",
+      "tts_text": "ถังบางใช้ไม่นานก็แตก ต้องเปลี่ยน ถังน้ำพลาสติกสองร้อยลิตร งานหนา ใช้ทน ตอนนี้เหลือสามร้อยแปดสิบเก้าบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum used outdoors",
+      "tts_text": "ตั้งกลางแจ้งก็ใช้งานได้ ถังน้ำพลาสติกสองร้อยลิตร แข็งแรง ไม่เปราะ ใช้ได้ยาว ราคาแค่สามร้อยแปดสิบเก้าบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing filling water into drum",
+      "tts_text": "เก็บน้ำฝน เก็บน้ำใช้สบาย ถังน้ำพลาสติกสองร้อยลิตร เปิดปาก เติมง่าย ไม่หก ราคาเหลือสามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing multiple drums stacked",
+      "tts_text": "ต้องใช้หลายใบก็วางเรียงได้ ถังน้ำพลาสติกสองร้อยลิตร ประหยัดพื้นที่ ใช้งานคล่อง ราคาแค่สามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum side view",
+      "tts_text": "ทรงสูง เก็บน้ำได้เยอะ ถังน้ำพลาสติกสองร้อยลิตร เหมาะใช้ในบ้านและสวน ตอนนี้เหลือสามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum placed near house",
+      "tts_text": "บ้านไหนใช้น้ำเยอะ ต้องมีติดไว้ ถังน้ำพลาสติกสองร้อยลิตร ตัวนี้ช่วยได้ ราคาแค่สามร้อยแปดสิบเก้าบาท รีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum rim detail",
+      "tts_text": "ปากกว้าง ตักง่าย ล้างสะดวก ถังน้ำพลาสติกสองร้อยลิตร ใช้งานจริง ราคาเหลือสามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum in warehouse",
+      "tts_text": "งานสวน งานบ้าน งานเกษตร ใช้ได้หมด ถังน้ำพลาสติกสองร้อยลิตร ราคาแค่สามร้อยแปดสิบเก้าบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum on concrete floor",
+      "tts_text": "ตั้งพื้นก็มั่นคง ไม่ล้มง่าย ถังน้ำพลาสติกสองร้อยลิตร ใช้งานสบาย ตอนนี้เหลือสามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing water storage usage",
+      "tts_text": "น้ำขาด น้ำหมด ไม่ต้องกังวล ถังน้ำพลาสติกสองร้อยลิตร เก็บสำรองได้ ราคาแค่สามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum durability test style",
+      "tts_text": "ใช้ทน ไม่ต้องเปลี่ยนบ่อย ถังน้ำพลาสติกสองร้อยลิตร ตัวนี้ตอบโจทย์ เหลือสามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum near plants",
+      "tts_text": "รดน้ำต้นไม้ เก็บน้ำใช้สะดวก ถังน้ำพลาสติกสองร้อยลิตร เปิดปาก ใช้ง่าย ราคาแค่สามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum outdoor storage",
+      "tts_text": "ตั้งนอกบ้านก็ไม่ต้องกลัวพัง ถังน้ำพลาสติกสองร้อยลิตร แข็งแรง ใช้ได้นาน เหลือสามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum capacity emphasis",
+      "tts_text": "ใบเดียวเก็บน้ำได้จุใจ ถังน้ำพลาสติกสองร้อยลิตร เหมาะทุกบ้าน ราคาแค่สามร้อยแปดสิบเก้าบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum in daily use",
+      "tts_text": "ใช้งานทุกวันไม่ต้องกลัวพัง ถังน้ำพลาสติกสองร้อยลิตร งานบ้านต้องมี เหลือสามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum beside faucet",
+      "tts_text": "ต่อใช้งานกับน้ำได้ง่าย ถังน้ำพลาสติกสองร้อยลิตร เปิดปาก ใช้คล่อง ราคาแค่สามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum storage area",
+      "tts_text": "บ้านไหนต้องเก็บน้ำสำรอง ต้องตัวนี้ ถังน้ำพลาสติกสองร้อยลิตร เหลือสามร้อยแปดสิบเก้าบาท รีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum ready to use",
+      "tts_text": "ถังน้ำที่ใช้ง่าย ไม่จุกจิก ถังน้ำพลาสติกสองร้อยลิตร ราคาแค่สามร้อยแปดสิบเก้าบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing multiple drums perspective",
+      "tts_text": "หลายบ้านเลือกใช้รุ่นนี้ ถังน้ำพลาสติกสองร้อยลิตร ใช้งานได้จริง ตอนนี้เหลือสามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum stable base",
+      "tts_text": "ฐานมั่นคง ไม่โยก ไม่ล้มง่าย ถังน้ำพลาสติกสองร้อยลิตร เหมาะทุกพื้นที่ ราคาแค่สามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum water surface",
+      "tts_text": "เก็บน้ำไว้ใช้ได้สบายใจ ถังน้ำพลาสติกสองร้อยลิตร เปิดปาก เติมง่าย เหลือสามร้อยแปดสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing drum final selling angle",
+      "tts_text": "บอกเลยใบนี้คุ้มเกินราคา ถังน้ำพลาสติกสองร้อยลิตร แข็งแรง ใช้ยาว ตอนนี้เหลือสามร้อยแปดสิบเก้าบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729790917942544603": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing cargo pants worn standing",
+      "tts_text": "ดูนี่ก่อนทุกคน ใส่กางเกงแล้วอึดอัด เดินไม่คล่อง ต้องตัวนี้ กางเกงคาร์โก้เอวยืด ขากว้าง ใส่สบาย คล่องตัว ตอนนี้เหลือห้าสิบเจ็ดบาท จะไม่กดยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing wide leg cargo pants front view",
+      "tts_text": "ใครชอบกางเกงใส่แล้วไม่รัด กางเกงคาร์โก้เอวยืด ขากว้าง ทรงสวย ใส่เดินทั้งวันได้ ราคาแค่ห้าสิบเจ็ดบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing side view cargo pockets",
+      "tts_text": "กางเกงมีช่องเก็บของ ใส่จริงใช้งานได้ กางเกงคาร์โก้เอวยืด ขากว้าง สายลุยต้องมี ตอนนี้เหลือห้าสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing walking motion pants flow",
+      "tts_text": "เดิน นั่ง ขยับสบาย ไม่รั้ง กางเกงคาร์โก้เอวยืด ขากว้าง ใส่แล้วคล่องตัว ราคาแค่ห้าสิบเจ็ดบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing elastic waistband close up",
+      "tts_text": "เอวยืดยืดหยุ่น ใส่ไม่อึดอัด กางเกงคาร์โก้เอวยืด ขากว้าง เหมาะกับทุกวัน เหลือห้าสิบเจ็ดบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual street wear cargo pants",
+      "tts_text": "ใส่ออกบ้านก็ได้ ใส่อยู่บ้านก็สบาย กางเกงคาร์โก้เอวยืด ขากว้าง ตัวเดียวจบ ราคาแค่ห้าสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing relaxed fit pants",
+      "tts_text": "ใครไม่ชอบกางเกงรัด ต้องลอง กางเกงคาร์โก้เอวยืด ขากว้าง ใส่แล้วโล่ง เหลือห้าสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing outfit styling with cargo pants",
+      "tts_text": "แมตช์ง่าย ใส่กับเสื้ออะไรก็รอด กางเกงคาร์โก้เอวยืด ขากว้าง สายแต่งตัวต้องมี ราคาแค่ห้าสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing pants drape from waist to shoes",
+      "tts_text": "ทรงสวย ทิ้งตัวดี ใส่แล้วไม่โป๊ะ กางเกงคาร์โก้เอวยืด ขากว้าง เหลือห้าสิบเจ็ดบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual daily movement",
+      "tts_text": "ใส่ทั้งวันไม่เมื่อย ไม่รั้ง กางเกงคาร์โก้เอวยืด ขากว้าง เหมาะใช้ทุกวัน ราคาแค่ห้าสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing standing pose pants focus",
+      "tts_text": "กางเกงทรงนี้ใส่แล้วดูสบายตา กางเกงคาร์โก้เอวยืด ขากว้าง ใส่ได้บ่อย เหลือห้าสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing pocket usage",
+      "tts_text": "ช่องเยอะ ใช้งานจริง ไม่ใช่แค่สวย กางเกงคาร์โก้เอวยืด ขากว้าง ราคาแค่ห้าสิบเจ็ดบาท ควรมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual walk indoor",
+      "tts_text": "อยู่บ้านก็ใส่สบาย ออกนอกบ้านก็ได้ กางเกงคาร์โก้เอวยืด ขากว้าง เหลือห้าสิบเจ็ดบาท รีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing pants sway movement",
+      "tts_text": "ผ้านุ่ม ใส่แล้วไม่แข็ง กางเกงคาร์โก้เอวยืด ขากว้าง ใส่คล่อง ราคาแค่ห้าสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing relaxed street style",
+      "tts_text": "สายสบาย สายชิล ต้องตัวนี้ กางเกงคาร์โก้เอวยืด ขากว้าง ใส่แล้วไม่อึดอัด เหลือห้าสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing daily wear outfit",
+      "tts_text": "ใส่ทำกิจกรรมทั้งวันได้สบาย กางเกงคาร์โก้เอวยืด ขากว้าง ตัวนี้ตอบโจทย์ ราคาแค่ห้าสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing waist elastic stretch",
+      "tts_text": "เอวยืดใส่สบาย ไม่อึดอัดพุง กางเกงคาร์โก้เอวยืด ขากว้าง เหลือห้าสิบเจ็ดบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing pants from back view",
+      "tts_text": "ทรงหลังสวย ใส่แล้วดูดี กางเกงคาร์โก้เอวยืด ขากว้าง เหมาะกับหลายสไตล์ ราคาแค่ห้าสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual standing pose",
+      "tts_text": "กางเกงที่หยิบมาใส่บ่อยที่สุด กางเกงคาร์โก้เอวยืด ขากว้าง ราคานี้หายาก เหลือห้าสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing relaxed lifestyle pants",
+      "tts_text": "ใส่แล้วไม่ต้องคอยดึง ไม่รั้ง กางเกงคาร์โก้เอวยืด ขากว้าง ราคาแค่ห้าสิบเจ็ดบาท รีบเอา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing final selling pose pants",
+      "tts_text": "บอกเลยตัวนี้คุ้มเกินราคา กางเกงคาร์โก้เอวยืด ขากว้าง ใส่สบาย ใช้บ่อย ตอนนี้เหลือห้าสิบเจ็ดบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1731238981034543049": [
     {
       "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing portable bluetooth speaker on table",
