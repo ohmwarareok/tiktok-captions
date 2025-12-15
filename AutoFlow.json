@@ -1,4 +1,454 @@
 {
+  "1732171283308512756": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing high pressure hose nozzle outdoor",
+      "tts_text": "ดูนี่ก่อนทุกคน ล้างพื้นล้างรถน้ำไม่แรง หัวฉีดน้ำเพิ่มแรงดันตัวนี้ช่วยได้ ฉีดสะใจ ตอนนี้เหลือหนึ่งร้อยห้าสิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing nozzle spray",
+      "tts_text": "ใครล้างบ้านแล้วคราบไม่ออก หัวฉีดน้ำเพิ่มแรงดัน ปรับหัวฉีดได้ ใช้งานง่าย ราคาแค่หนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing hose and nozzle set",
+      "tts_text": "ได้ทั้งสายยางและหัวฉีด หัวฉีดน้ำเพิ่มแรงดัน ชุดเดียวจบ เหลือหนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing adjustable nozzle",
+      "tts_text": "หมุนปรับได้หลายแบบ หัวฉีดน้ำเพิ่มแรงดัน ใช้ล้างได้สารพัด ราคาแค่หนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing cleaning floor",
+      "tts_text": "ล้างพื้นเร็วขึ้น ไม่ต้องออกแรงเยอะ หัวฉีดน้ำเพิ่มแรงดัน ตัวนี้ตอบโจทย์ เหลือหนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing car washing",
+      "tts_text": "ล้างรถเองที่บ้านสบาย หัวฉีดน้ำเพิ่มแรงดัน ฉีดแรงสะใจ ราคาแค่หนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing hose length",
+      "tts_text": "สายยาว ใช้งานทั่วบ้าน หัวฉีดน้ำเพิ่มแรงดัน ไม่ต้องต่อเพิ่ม เหลือหนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing nozzle grip",
+      "tts_text": "จับถนัดมือ ฉีดไม่เมื่อย หัวฉีดน้ำเพิ่มแรงดัน ใช้ง่าย ราคาแค่หนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing garden use",
+      "tts_text": "รดน้ำต้นไม้ก็ได้ หัวฉีดน้ำเพิ่มแรงดัน ปรับน้ำได้ เหลือหนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing cleaning wall",
+      "tts_text": "คราบฝังแน่นก็เอาอยู่ หัวฉีดน้ำเพิ่มแรงดัน ตัวนี้ช่วยได้ ราคาแค่หนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing outdoor cleaning",
+      "tts_text": "บ้านใครน้ำเบา แนะนำตัวนี้ หัวฉีดน้ำเพิ่มแรงดัน ใช้งานเห็นผล เหลือหนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing hose connection",
+      "tts_text": "ต่อใช้งานง่าย ไม่ยุ่งยาก หัวฉีดน้ำเพิ่มแรงดัน ราคาแค่หนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing cleaning tiles",
+      "tts_text": "ล้างกระเบื้องสะอาดไว หัวฉีดน้ำเพิ่มแรงดัน ตัวนี้คุ้ม เหลือหนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing hose storage",
+      "tts_text": "เก็บง่าย ใช้สะดวก หัวฉีดน้ำเพิ่มแรงดัน เหมาะทุกบ้าน ราคาแค่หนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing daily household use",
+      "tts_text": "อุปกรณ์ล้างบ้านที่ควรมี หัวฉีดน้ำเพิ่มแรงดัน ใช้ได้ทุกวัน เหลือหนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing pressure spray close up",
+      "tts_text": "ฉีดแรงสม่ำเสมอ ใช้งานมั่นใจ หัวฉีดน้ำเพิ่มแรงดัน ราคาแค่หนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing cleaning equipment set",
+      "tts_text": "ซื้อครั้งเดียวได้ครบ หัวฉีดน้ำเพิ่มแรงดัน พร้อมสาย ใช้งานคุ้ม เหลือหนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing water spray pattern",
+      "tts_text": "ปรับรูปแบบน้ำได้ตามงาน หัวฉีดน้ำเพิ่มแรงดัน ตัวนี้ตอบโจทย์ ราคาแค่หนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing household cleaning vibe",
+      "tts_text": "ทำความสะอาดง่ายขึ้นเยอะ หัวฉีดน้ำเพิ่มแรงดัน คุ้มจริง เหลือหนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing hose durability",
+      "tts_text": "สายทน ใช้งานสบาย หัวฉีดน้ำเพิ่มแรงดัน ใช้ได้นาน ราคาแค่หนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing washing area",
+      "tts_text": "ล้างหน้าบ้านก็เอาอยู่ หัวฉีดน้ำเพิ่มแรงดัน ตัวนี้ต้องมี เหลือหนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing garden cleaning",
+      "tts_text": "งานสวน งานล้าง ใช้ได้หมด หัวฉีดน้ำเพิ่มแรงดัน ราคาแค่หนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing easy handling",
+      "tts_text": "ใครเบื่อใช้น้ำอ่อน ต้องตัวนี้ หัวฉีดน้ำเพิ่มแรงดัน ใช้ง่าย เหลือหนึ่งร้อยห้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing final selling shot",
+      "tts_text": "ราคานี้ไม่ซื้อไม่ได้ หัวฉีดน้ำเพิ่มแรงดัน พร้อมสาย คุ้ม ตอนนี้เหลือหนึ่งร้อยห้าสิบเอ็ดบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731855260328233734": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing oversized long sleeve striped shirt lifestyle",
+      "tts_text": "ดูนี่ก่อนทุกคน เสื้อยืดแขนยาวลายทาง ใส่แล้วสบาย ไม่ร้อน ทรงหลวมพรางหุ่น ตอนนี้เหลือห้าสิบเก้าบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing shirt front view",
+      "tts_text": "ใครหาเสื้อใส่ทุกวัน เสื้อยืดแขนยาวลายทาง ตัวนี้ตอบโจทย์ ใส่ง่าย ราคาแค่ห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing loose fit shirt",
+      "tts_text": "ไม่ชอบเสื้อรัด เสื้อยืดแขนยาวลายทาง ทรงหลวม ใส่สบาย เหลือห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing shirt sleeves",
+      "tts_text": "แขนยาว ใส่แล้วดูดี เสื้อยืดแขนยาวลายทาง ใส่ได้ทุกวัน ราคาแค่ห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing casual outfit",
+      "tts_text": "แมตช์ง่าย ใส่กับอะไรก็รอด เสื้อยืดแขนยาวลายทาง ตัวนี้คุ้ม เหลือห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing shirt movement",
+      "tts_text": "ผ้านุ่ม ใส่สบาย ไม่อึดอัด เสื้อยืดแขนยาวลายทาง ราคาแค่ห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing oversized style",
+      "tts_text": "ใครชอบแนวหลวม เสื้อยืดแขนยาวลายทาง ใส่แล้วดูชิล เหลือห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing shirt length",
+      "tts_text": "ทรงยาว ใส่แล้วพรางหุ่น เสื้อยืดแขนยาวลายทาง ใส่สบาย ราคาแค่ห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing daily wear",
+      "tts_text": "ใส่ไปคาเฟ่ก็ได้ เสื้อยืดแขนยาวลายทาง ดูดี เหลือห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing relaxed vibe",
+      "tts_text": "วันสบายๆ ต้องตัวนี้ เสื้อยืดแขนยาวลายทาง ใส่ง่าย ราคาแค่ห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing shirt fabric",
+      "tts_text": "ผ้าดี ใส่ไม่คัน เสื้อยืดแขนยาวลายทาง ตัวนี้ใส่สบาย เหลือห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing casual standing",
+      "tts_text": "หยิบมาใส่ได้ทุกวัน เสื้อยืดแขนยาวลายทาง ไม่ต้องคิดเยอะ ราคาแค่ห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing street style",
+      "tts_text": "สายชิลต้องมี เสื้อยืดแขนยาวลายทาง ใส่แล้วดูดี เหลือห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing loose sleeve detail",
+      "tts_text": "แขนหลวม ใส่สบาย เสื้อยืดแขนยาวลายทาง ตัวนี้คุ้ม ราคาแค่ห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing shirt fit",
+      "tts_text": "ใส่แล้วไม่อึดอัด เสื้อยืดแขนยาวลายทาง เหมาะทุกวัน เหลือห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing outfit match",
+      "tts_text": "ใส่กับกางเกงอะไรก็ได้ เสื้อยืดแขนยาวลายทาง ตัวนี้จบ ราคาแค่ห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing casual walk",
+      "tts_text": "เดินเล่นก็ใส่ได้ เสื้อยืดแขนยาวลายทาง สบาย เหลือห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing coffee shop vibe",
+      "tts_text": "คาเฟ่ลุคต้องมี เสื้อยืดแขนยาวลายทาง ใส่แล้วดูดี ราคาแค่ห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing relaxed pose",
+      "tts_text": "ใส่อยู่บ้านก็สบาย เสื้อยืดแขนยาวลายทาง ใช้ได้จริง เหลือห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing daily outfit",
+      "tts_text": "ตัวเดียวใส่ได้หลายโอกาส เสื้อยืดแขนยาวลายทาง ราคาแค่ห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing loose casual style",
+      "tts_text": "ชอบเสื้อใส่สบายต้องตัวนี้ เสื้อยืดแขนยาวลายทาง เหลือห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing everyday fashion",
+      "tts_text": "แฟชั่นง่ายๆ แต่ดูดี เสื้อยืดแขนยาวลายทาง ราคาแค่ห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing shirt comfort",
+      "tts_text": "ใส่ทั้งวันก็ไม่อึดอัด เสื้อยืดแขนยาวลายทาง ตัวนี้คุ้ม เหลือห้าสิบเก้าบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing final outfit",
+      "tts_text": "ราคานี้ต้องมี เสื้อยืดแขนยาวลายทาง ใส่สบาย ดูดี ตอนนี้เหลือห้าสิบเก้าบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731399140118398906": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing foldable scooter outdoor",
+      "tts_text": "ดูนี่ก่อนทุกคน ลูกอยากเล่น ผู้ใหญ่ก็ขี่ได้ สกู๊ตเตอร์พับได้สองล้อ ปรับความสูงง่าย ตอนนี้เหลือห้าร้อยหกสิบบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter folding",
+      "tts_text": "บ้านไหนพื้นที่น้อย สกู๊ตเตอร์พับได้ พับเก็บง่าย ไม่เกะกะ ราคาแค่ห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter wheels",
+      "tts_text": "ล้อใหญ่ เข็นลื่น ขี่สบาย สกู๊ตเตอร์พับได้สองล้อ ใช้ได้จริง เหลือห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter handle",
+      "tts_text": "ปรับระดับแฮนด์ได้ เด็กขี่ ผู้ใหญ่ใช้ สกู๊ตเตอร์พับได้ ตัวเดียวจบ ราคาแค่ห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter lifestyle",
+      "tts_text": "ขี่เล่นหน้าบ้านก็สนุก สกู๊ตเตอร์พับได้ แข็งแรง ใช้งานง่าย เหลือห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter standing",
+      "tts_text": "อยากให้ลูกมีกิจกรรม ไม่ต้องแพง สกู๊ตเตอร์พับได้ตัวนี้ คุ้ม ราคาแค่ห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter side view",
+      "tts_text": "โครงแน่น ขี่มั่นคง สกู๊ตเตอร์พับได้สองล้อ ใช้ได้นาน เหลือห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter deck",
+      "tts_text": "พื้นยืนกว้าง เหยียบสบาย สกู๊ตเตอร์พับได้ ขี่สนุก ราคาแค่ห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter in use",
+      "tts_text": "ขี่ไปมาในซอย เพลินทั้งวัน สกู๊ตเตอร์พับได้ ตัวนี้ตอบโจทย์ เหลือห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter parked",
+      "tts_text": "จอดง่าย ยกเก็บสะดวก สกู๊ตเตอร์พับได้ เหมาะทุกบ้าน ราคาแค่ห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter daily use",
+      "tts_text": "อยากได้ของเล่นที่ใช้ได้จริง สกู๊ตเตอร์พับได้ ตัวนี้คุ้ม เหลือห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter outdoors",
+      "tts_text": "พาเด็กออกมาเล่นนอกบ้าน สกู๊ตเตอร์พับได้ ช่วยได้ ราคาแค่ห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter stability",
+      "tts_text": "ขี่ง่าย ไม่ซับซ้อน สกู๊ตเตอร์พับได้ เหมาะทั้งเด็กและผู้ใหญ่ เหลือห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter handle adjustment",
+      "tts_text": "ปรับสูงต่ำตามคนขี่ สกู๊ตเตอร์พับได้ ใช้ได้นาน ราคาแค่ห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter fun vibe",
+      "tts_text": "ของเล่นที่เล่นแล้วไม่เบื่อ สกู๊ตเตอร์พับได้ ตัวนี้ต้องมี เหลือห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter compact fold",
+      "tts_text": "พับแล้วเก็บหลังรถได้ง่าย สกู๊ตเตอร์พับได้ สะดวกจริง ราคาแค่ห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter structure",
+      "tts_text": "โครงแข็งแรง ใช้งานสบาย สกู๊ตเตอร์พับได้ เหลือห้าร้อยหกสิบบาท คุ้ม",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter kids play",
+      "tts_text": "เด็กเล่น ผู้ใหญ่ก็ขี่ สกู๊ตเตอร์พับได้ ตัวเดียวจบ ราคาแค่ห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter smooth ride",
+      "tts_text": "เข็นลื่น ขี่เพลิน สกู๊ตเตอร์พับได้ ใช้ง่าย เหลือห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter home use",
+      "tts_text": "ซื้อครั้งเดียว เล่นได้ทั้งบ้าน สกู๊ตเตอร์พับได้ ราคาแค่ห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter ready to ride",
+      "tts_text": "หยิบออกมาขี่ได้ทันที สกู๊ตเตอร์พับได้ ไม่ยุ่งยาก เหลือห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter casual lifestyle",
+      "tts_text": "เพิ่มกิจกรรมให้วันว่าง สกู๊ตเตอร์พับได้ ตัวนี้ตอบโจทย์ ราคาแค่ห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter family vibe",
+      "tts_text": "เล่นได้ทั้งครอบครัว สกู๊ตเตอร์พับได้ คุ้มจริง เหลือห้าร้อยหกสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random angle showing scooter final selling shot",
+      "tts_text": "ราคานี้ต้องมี สกู๊ตเตอร์พับได้สองล้อ แข็งแรง คุ้ม ตอนนี้เหลือห้าร้อยหกสิบบาท ช้าอด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1731354167400893015": [
     {
       "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing portable speaker on table",
