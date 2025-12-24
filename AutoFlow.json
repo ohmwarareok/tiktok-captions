@@ -149,6 +149,162 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1729597598576969903": [
+    {
+      "visual_prompt": "9:16 photorealistic product closeup kitchen action no text no logo random location random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ครัวเร่งรีบ บดช้าไม่ทันใจ เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยได้ บดไว ละเอียด ใช้ง่าย ประหยัดเวลา วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cooking scene no text no logo random kitchen random footage",
+      "tts_text": "ใครเคยทำกับข้าวช้า เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยแก้ บดพริก เนื้อ ผัก เร็วทันใจ งานครัวจบไว ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบตัดสินใจ!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic food prep no text no logo random home random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน งานครัวเยอะไม่ไหว เครื่องปั่นสับอาหารห้าร้อยวัตต์ตัวนี้ช่วย บดแรง สม่ำเสมอ ใช้ง่าย วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบก่อนหมด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic lifestyle cooking no text no logo random scene random footage",
+      "tts_text": "ใครเบื่องานครัวนาน เครื่องปั่นสับอาหารห้าร้อยวัตต์คือคำตอบ บดเร็ว ประหยัดแรง ประหยัดเวลา วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท ต้องรีบแล้ว!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic chopping action no text no logo random kitchen random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ทำกับข้าวไม่ทันใจ เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยได้ บดพริก เนื้อ กระเทียม สบาย วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบจัด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic modern kitchen no text no logo random location random footage",
+      "tts_text": "ใครงานครัวแน่น เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยแบ่งเบา บดไว ใช้ง่าย ล้างสะดวก ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบตัดสินใจ!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic food cutting no text no logo random home random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ครัวต้องการตัวช่วย เครื่องปั่นสับอาหารห้าร้อยวัตต์ บดแรง ทำอาหารเร็วขึ้น วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic busy kitchen no text no logo random scene random footage",
+      "tts_text": "ใครเคยเหนื่อยกับงานครัว เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยได้ บดพริก เนื้อ ผัก จบไว วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home cooking no text no logo random location random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ทำอาหารให้ทันเวลา เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยจริง บดแรง สม่ำเสมอ วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท ต้องมี!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic food prep motion no text no logo random footage random place",
+      "tts_text": "ใครต้องการงานครัวไว เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยจัดการ บดละเอียด ประหยัดแรง ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic kitchen work no text no logo random scene random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน งานครัวไม่ต้องเหนื่อย เครื่องปั่นสับอาหารห้าร้อยวัตต์ บดพริก เนื้อ ผัก รวดเร็ว วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic food slicing no text no logo random location random footage",
+      "tts_text": "ใครอยากทำอาหารง่าย เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยได้ บดไว สม่ำเสมอ ล้างง่าย วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic daily cooking no text no logo random scene random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ครัวต้องการตัวช่วย เครื่องปั่นสับอาหารห้าร้อยวัตต์ทำงานเร็ว ประหยัดเวลา วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท ต้องจัด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fresh food prep no text no logo random place random footage",
+      "tts_text": "ใครทำกับข้าวทุกวัน เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยมาก บดละเอียด สม่ำเสมอ ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบตัดสินใจ!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen motion no text no logo random footage random location",
+      "tts_text": "ดูนี้ก่อนทุกคน งานครัวต้องไว เครื่องปั่นสับอาหารห้าร้อยวัตต์ตอบโจทย์ บดแรง ใช้ง่าย วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic cooking lifestyle no text no logo random scene random footage",
+      "tts_text": "ใครเบื่อเตรียมอาหารนาน เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยแก้ บดพริก เนื้อ ผัก สบาย วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic busy cooking no text no logo random footage random location",
+      "tts_text": "ดูนี้ก่อนทุกคน ครัวต้องมีตัวช่วย เครื่องปั่นสับอาหารห้าร้อยวัตต์ บดเร็ว ประหยัดแรง วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic modern cooking no text no logo random place random footage",
+      "tts_text": "ใครอยากให้งานครัวง่าย เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยได้ บดละเอียด ล้างง่าย วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home chef no text no logo random location random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ทำอาหารไม่ต้องเหนื่อย เครื่องปั่นสับอาหารห้าร้อยวัตต์ บดแรง รวดเร็ว วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic daily kitchen no text no logo random footage random place",
+      "tts_text": "ใครงานครัวเยอะ เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยจัดการ บดพริก เนื้อ ผัก จบไว วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic kitchen closeup no text no logo random scene random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ครัวต้องไว เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยจริง บดละเอียด สม่ำเสมอ วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic food processing no text no logo random place random footage",
+      "tts_text": "ใครอยากทำอาหารสะดวก เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยได้ บดเร็ว ประหยัดแรง วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen workday no text no logo random footage random location",
+      "tts_text": "ดูนี้ก่อนทุกคน งานครัวต้องมีตัวช่วย เครื่องปั่นสับอาหารห้าร้อยวัตต์ บดพริก เนื้อ ผัก สบาย วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cooking preparation no text no logo random scene random footage",
+      "tts_text": "ใครเคยเบื่อครัวนาน เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยแก้ บดไว ล้างง่าย วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fresh kitchen no text no logo random location random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ทำอาหารให้ทันเวลา เครื่องปั่นสับอาหารห้าร้อยวัตต์ช่วยจริง บดแรง ใช้ง่าย วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1732510987703714877": [
     {
       "visual_prompt": "9:16 photorealistic product showcase no text no logo dynamic lighting natural movement random location random footage",
