@@ -149,6 +149,163 @@
       "duration": "แปดวินาที"
     }
   ],
+  {
+  "1730069270590621976": [
+    {
+      "visual_prompt": "9:16 photorealistic lifestyle street fashion no text no logo random city random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ออกบ้านของเยอะ หยิบไม่ทันใจ LYS Bag กระเป๋าสะพายไหล่ช่วยได้ ใส่ของครบ คล่องตัวมาก วันนี้เหลือหกสิบสี่บาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cafe fashion no text no logo random location random footage",
+      "tts_text": "ใครเคยหากระเป๋าไม่จุ LYS Bag กระเป๋าสะพายไหล่ตัวนี้แก้ปัญหา ใส่ของสบาย ใช้ง่ายทุกวัน ตอนนี้เหลือหกสิบสี่บาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic daily outfit no text no logo random urban random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน แต่งตัวเร่งรีบ LYS Bag กระเป๋าสะพายไหล่ช่วยจัดระเบียบ ใส่ของครบ หยิบง่าย วันนี้เหลือหกสิบสี่บาท ต้องจัด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic walking lifestyle no text no logo random city random footage",
+      "tts_text": "ใครออกไปข้างนอกบ่อย LYS Bag กระเป๋าสะพายไหล่ตัวนี้ตอบโจทย์ ใส่ของจุ คล่องตัวมาก วันนี้เหลือหกสิบสี่บาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fashion motion no text no logo random scene random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ของใช้เยอะไม่ไหว LYS Bag กระเป๋าสะพายไหล่ช่วยได้ ใส่ครบ ไม่เกะกะ ตอนนี้เหลือหกสิบสี่บาท จะพลาดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic shopping street no text no logo random city random footage",
+      "tts_text": "ใครเดินตลาดทั้งวัน LYS Bag กระเป๋าสะพายไหล่ช่วยจริง ใส่ของสะดวก คล่องทุกก้าว วันนี้เหลือหกสิบสี่บาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic casual fashion no text no logo random location random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ออกบ้านของเยอะ LYS Bag กระเป๋าสะพายไหล่ตัวนี้จุจริง ใช้งานง่าย วันนี้เหลือหกสิบสี่บาท ต้องมี!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic campus lifestyle no text no logo random place random footage",
+      "tts_text": "ใครไปเรียนของแน่น LYS Bag กระเป๋าสะพายไหล่ช่วยจัดการ ใส่ครบไม่รก ตอนนี้เหลือหกสิบสี่บาท รีบตัดสินใจ!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic office walk no text no logo random city random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ไปทำงานต้องคล่อง LYS Bag กระเป๋าสะพายไหล่ช่วยได้ ใส่ของจุ พกสบาย วันนี้เหลือหกสิบสี่บาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic weekend outing no text no logo random location random footage",
+      "tts_text": "ใครออกเที่ยวบ่อย LYS Bag กระเป๋าสะพายไหล่ตอบโจทย์ ใส่ของครบ คล่องทั้งวัน ตอนนี้เหลือหกสิบสี่บาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic street walk no text no logo random scene random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ของใช้เยอะต้องมี LYS Bag กระเป๋าสะพายไหล่ ใส่สบาย หยิบง่าย วันนี้เหลือหกสิบสี่บาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cafe hopping no text no logo random location random footage",
+      "tts_text": "ใครไปคาเฟ่บ่อย LYS Bag กระเป๋าสะพายไหล่ช่วยจัดระเบียบ ใส่ของครบ ตอนนี้เหลือหกสิบสี่บาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic daily routine no text no logo random place random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน วันเร่งรีบต้องคล่อง LYS Bag กระเป๋าสะพายไหล่ ใส่จุ พกง่าย วันนี้เหลือหกสิบสี่บาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor lifestyle no text no logo random scene random footage",
+      "tts_text": "ใครชอบพกของเยอะ LYS Bag กระเป๋าสะพายไหล่ตัวนี้ช่วยได้ ใส่ครบ ไม่เกะกะ ตอนนี้เหลือหกสิบสี่บาท รีบตัดสินใจ!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic walking city no text no logo random location random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ออกบ้านทั้งวัน LYS Bag กระเป๋าสะพายไหล่ ใส่สบาย คล่องตัว วันนี้เหลือหกสิบสี่บาท ต้องจัด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic travel lifestyle no text no logo random place random footage",
+      "tts_text": "ใครเดินทางบ่อย LYS Bag กระเป๋าสะพายไหล่ช่วยจริง ใส่ของครบ พกง่าย ตอนนี้เหลือหกสิบสี่บาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic casual walk no text no logo random scene random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ของใช้จำเป็นต้องมี LYS Bag กระเป๋าสะพายไหล่ ใส่จุ หยิบสะดวก วันนี้เหลือหกสิบสี่บาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic daily fashion no text no logo random location random footage",
+      "tts_text": "ใครอยากพกของสบาย LYS Bag กระเป๋าสะพายไหล่ช่วยจัดการ ใส่ครบ คล่องตัว ตอนนี้เหลือหกสิบสี่บาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic lifestyle movement no text no logo random scene random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน วันยุ่งต้องคล่อง LYS Bag กระเป๋าสะพายไหล่ ใส่ของง่าย พกสะดวก วันนี้เหลือหกสิบสี่บาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic city strolling no text no logo random place random footage",
+      "tts_text": "ใครออกบ้านทุกวัน LYS Bag กระเป๋าสะพายไหล่ตอบโจทย์ ใส่ของครบ ตอนนี้เหลือหกสิบสี่บาท รีบตัดสินใจ!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic casual lifestyle no text no logo random scene random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ของเยอะไม่ต้องห่วง LYS Bag กระเป๋าสะพายไหล่ ใส่สบาย คล่องตัว วันนี้เหลือหกสิบสี่บาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic modern lifestyle no text no logo random location random footage",
+      "tts_text": "ใครชอบความคล่องตัว LYS Bag กระเป๋าสะพายไหล่ช่วยได้ ใส่ของครบ ตอนนี้เหลือหกสิบสี่บาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic lifestyle closeup no text no logo random scene random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน วันเร่งรีบต้องมี LYS Bag กระเป๋าสะพายไหล่ ใส่จุ พกง่าย วันนี้เหลือหกสิบสี่บาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic daily movement no text no logo random location random footage",
+      "tts_text": "ใครอยากจัดระเบียบของ LYS Bag กระเป๋าสะพายไหล่ช่วยจริง ใส่ครบ คล่องตัว ตอนนี้เหลือหกสิบสี่บาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic street lifestyle no text no logo random scene random footage",
+      "tts_text": "ดูนี้ก่อนทุกคน ออกบ้านต้องคล่อง LYS Bag กระเป๋าสะพายไหล่ตัวนี้ช่วยได้ ใส่ของจุ พกสบาย วันนี้เหลือหกสิบสี่บาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1729597598576969903": [
     {
       "visual_prompt": "9:16 photorealistic product closeup kitchen action no text no logo random location random footage",
