@@ -3148,150 +3148,155 @@
   ],
   "1730669049807407135": [
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing oversized hoodie worn casually",
-      "tts_text": "ดูนี่ก่อนทุกคน อากาศเย็นบ้างร้อนบ้าง ใส่อะไรไม่ถูก เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่สบาย ตัวนี้ช่วยได้ ตอนนี้เหลือแปดสิบสี่บาท จะไม่กดยังไง",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie outdoor walkway cafe",
+      "tts_text": "ดูนี้ก่อนทุกคน อากาศเย็นแต่เสื้อไม่พอ เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ใส่แล้วอุ่นสบาย ลุคดี ถ่ายรูปสวย ตอนนี้เหลือแปดสิบเจ็ดบาท จะไม่กดได้ยังไง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie front view walking",
-      "tts_text": "ใครชอบเสื้อคลุมใส่ง่าย เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่คล่องทุกวัน ราคาแค่แปดสิบสี่บาท รีบเอา",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie city street fashion",
+      "tts_text": "เช้าเย็นอากาศเปลี่ยนบ่อย ใส่อะไรดี เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ช่วยเลย กันลม ใส่สบาย ใส่เที่ยวได้ ตอนนี้เหลือแปดสิบเจ็ดบาท รีบเลยทุกคน",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie side angle movement",
-      "tts_text": "เดิน นั่ง ขยับตัวสบาย เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่แล้วไม่อึดอัด ตอนนี้เหลือแปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie modern cafe",
+      "tts_text": "ใครหนาวตอนกลางคืนบ้าง เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ใส่นุ่ม อุ่นสบาย ใส่ชิล ใส่เที่ยว ตอนนี้เหลือแปดสิบเจ็ดบาท ของมันต้องมี",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie fabric close up",
-      "tts_text": "ผ้านุ่ม ใส่แล้วไม่ระคาย เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม เหมาะใส่ทั้งวัน ราคาแค่แปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie park walkway",
+      "tts_text": "ลมแรงจนขนลุก ใส่อะไรดี เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ช่วยเลย กันลม ใส่สบาย ลุคดี ตอนนี้เหลือแปดสิบเจ็ดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie with pockets",
-      "tts_text": "มีฮู้ด มีช่องล้วง ใส่แล้วดูครบ เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใช้งานจริง เหลือแปดสิบสี่บาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual outdoor hoodie wear",
-      "tts_text": "ออกไปข้างนอกไม่ต้องคิดเยอะ เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่แล้วรอดทุกลุค ราคาแค่แปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie mall fashion",
+      "tts_text": "อากาศเย็นแบบนี้ใส่อะไร เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ตอบโจทย์ ใส่สบาย ใส่เที่ยวได้ ตอนนี้เหลือแปดสิบเจ็ดบาท จะไม่กดได้ยังไง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing relaxed hoodie fit",
-      "tts_text": "ไม่รัด ไม่อึดอัด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่สบายมาก ตอนนี้เหลือแปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie rooftop",
+      "tts_text": "หนาวตอนค่ำๆ ใส่อะไรดี เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ใส่แล้วอุ่น นุ่ม ใส่สบาย ตอนนี้เหลือแปดสิบเจ็ดบาท รีบเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie styling with skirt",
-      "tts_text": "แมตช์กับกระโปรงหรือกางเกงก็ได้ เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่ง่าย ราคาแค่แปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie campus style",
+      "tts_text": "เช้าเย็นอากาศเย็นลง ใส่อะไรดี เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ช่วยได้ ใส่สบาย ลุคดี ตอนนี้เหลือแปดสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie back view",
-      "tts_text": "ทรงหลวม ใส่แล้วไม่โป๊ะ เสื้อคลุมแขนยาวมีฮู้ด ใส่แล้วดูสบายตา เหลือแปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie street vibe",
+      "tts_text": "ลมเย็นๆ แบบนี้ใส่อะไร เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ตอบโจทย์ ใส่เที่ยว ใส่ทำงานก็ได้ ตอนนี้เหลือแปดสิบเจ็ดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie casual pose",
-      "tts_text": "ใส่อยู่บ้านก็ได้ ใส่ออกบ้านก็รอด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ราคาแค่แปดสิบสี่บาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie daily wear",
-      "tts_text": "วันไหนอากาศแปรปรวน ต้องมีตัวนี้ เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ช่วยได้ เหลือแปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie evening walk",
+      "tts_text": "ใครขี้หนาวต้องดู เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ใส่แล้วอุ่น ใส่สบาย ลุคดี ตอนนี้เหลือแปดสิบเจ็ดบาท จะพลาดได้ไง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie sleeves detail",
-      "tts_text": "แขนยาว ใส่แล้วอุ่นกำลังดี เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่สบาย ราคาแค่แปดสิบสี่บาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie loose fit walking",
-      "tts_text": "เดินทั้งวันก็ยังสบาย เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ไม่อึดอัด ตอนนี้เหลือแปดสิบสี่บาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie casual lifestyle",
-      "tts_text": "ใส่แล้วดูชิล ไม่ต้องแต่งเยอะ เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ราคาแค่แปดสิบสี่บาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie movement flow",
-      "tts_text": "ผ้าทิ้งตัวดี ใส่แล้วดูละมุน เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม เหลือแปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie travel style",
+      "tts_text": "ไปเที่ยวเจอลมเย็น ใส่อะไรดี เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ช่วยเลย ใส่สบาย ถ่ายรูปสวย ตอนนี้เหลือแปดสิบเจ็ดบาท รีบเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
 
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie relaxed outfit",
-      "tts_text": "ใส่แล้วไม่ต้องคอยจัด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม หยิบมาใส่ได้เลย ราคาแค่แปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie minimal cafe",
+      "tts_text": "อากาศเปลี่ยนบ่อยจนไม่ไหว เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ใส่สบาย อุ่น ลุคดี ตอนนี้เหลือแปดสิบเจ็ดบาท ของมันต้องมี",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie street style",
-      "tts_text": "สายชิลต้องมี เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่แล้วดูดี เหลือแปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie urban walk",
+      "tts_text": "ลมแรงขนาดนี้ใส่อะไร เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ช่วยเลย ใส่สบาย เท่ ถ่ายรูปสวย ตอนนี้เหลือแปดสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie outfit pause",
-      "tts_text": "เสื้อคลุมที่ใส่ได้บ่อยที่สุด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ราคานี้ไม่ควรพลาด แปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie casual street",
+      "tts_text": "หนาวแบบไม่ทันตั้งตัว เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ใส่แล้วอุ่น นุ่ม ใส่สบาย ตอนนี้เหลือแปดสิบเจ็ดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie casual standing",
-      "tts_text": "ใส่แล้วดูสบายตา ไม่โทรม เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ตอนนี้เหลือแปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie coffee shop",
+      "tts_text": "เช้าเย็นอากาศเปลี่ยน เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ช่วยได้ ใส่เที่ยว ใส่ทำงานก็รอด ตอนนี้เหลือแปดสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie everyday use",
-      "tts_text": "มีตัวนี้ติดตู้ หยิบมาใส่ได้ตลอด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ราคาแค่แปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie evening city",
+      "tts_text": "ใครขี้หนาวห้ามพลาด เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ใส่แล้วอุ่น ลุคดี ใส่สบาย ตอนนี้เหลือแปดสิบเจ็ดบาท รีบเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
 
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie comfortable pose",
-      "tts_text": "ใส่แล้วไม่อึดอัด ไม่ร้อนเกิน เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม เหลือแปดสิบสี่บาท รีบเอา",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie weekend vibe",
+      "tts_text": "ไปเที่ยวเจอลมเย็น ใส่อะไรดี เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ตอบโจทย์ ใส่สบาย ถ่ายรูปสวย ตอนนี้เหลือแปดสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie daily fashion",
-      "tts_text": "เสื้อคลุมที่ใส่ได้ทุกวันจริง เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ราคาแค่แปดสิบสี่บาท คุ้มมาก",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie rooftop sunset",
+      "tts_text": "ลมเย็นตอนเย็น ใส่อะไรดี เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ช่วยเลย ใส่สบาย ลุคดี ตอนนี้เหลือแปดสิบเจ็ดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie relaxed lifestyle",
-      "tts_text": "ไม่ต้องแต่งตัวเยอะก็รอด เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่สบาย เหลือแปดสิบสี่บาท",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie outdoor cafe",
+      "tts_text": "อากาศเย็นแบบนี้ต้องมี เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ใส่แล้วอุ่น นุ่ม ใส่สบาย ตอนนี้เหลือแปดสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hoodie final selling pose",
-      "tts_text": "บอกเลยราคานี้ต้องมี เสื้อคลุมแขนยาวมีฮู้ด ทรงหลวม ใส่บ่อย คุ้ม ตอนนี้เหลือแปดสิบสี่บาท ช้าอด",
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie modern street",
+      "tts_text": "หนาวๆ แบบนี้ใส่อะไร เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ช่วยเลย ใส่เที่ยวได้ ลุคดี ตอนนี้เหลือแปดสิบเจ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie fashion walk",
+      "tts_text": "อากาศเปลี่ยนจนไม่ทัน เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ใส่สบาย อุ่น ลุคดี ตอนนี้เหลือแปดสิบเจ็ดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie city cafe",
+      "tts_text": "ลมแรงขนาดนี้ใส่อะไร เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ช่วยเลย ใส่สบาย ใส่เที่ยว ตอนนี้เหลือแปดสิบเจ็ดบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie casual walk",
+      "tts_text": "เช้าเย็นอากาศเย็น เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ใส่แล้วอุ่น ใส่สบาย ลุคดี ตอนนี้เหลือแปดสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie evening street",
+      "tts_text": "ใครหนาวง่ายต้องมี เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ช่วยเลย ใส่สบาย ลุคดี ตอนนี้เหลือแปดสิบเจ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie travel mood",
+      "tts_text": "ไปเที่ยวเจอลม ใส่อะไรดี เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ตอบโจทย์ ใส่สบาย ถ่ายรูปสวย ตอนนี้เหลือแปดสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo hoodie chill vibe",
+      "tts_text": "อากาศเย็นจนขนลุก เสื้อฮู้ดแฟชั่นผู้หญิงตัวนี้ใส่แล้วอุ่น นุ่ม ใส่สบาย ตอนนี้เหลือแปดสิบเจ็ดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
