@@ -149,6 +149,614 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1732479810938962960": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage home living room blood pressure monitor close up cuff wrapping arm press start button",
+      "tts_text": "ดูนี้ก่อนทุกคน! ต้องคอยเช็กความดันที่บ้าน เครื่องวัดความดันโลหิตอัตโนมัติ ใช้ง่าย จอใหญ่ อ่านชัด บันทึกค่าได้ ตอนนี้เหลือร้อยห้าสิบสองบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage bedroom morning routine checking blood pressure cuff arm",
+      "tts_text": "ใครต้องเช็กค่าทุกวัน ฟังทางนี้ เครื่องวัดความดันโลหิตอัตโนมัติ วัดเร็ว ใช้ง่าย หน้าจอชัด พกสะดวก วันนี้เหลือร้อยห้าสิบสองบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage dining table family checking blood pressure monitor use",
+      "tts_text": "อยู่บ้านก็เช็กได้สบาย เครื่องวัดความดันโลหิตอัตโนมัติ ใช้งานง่าย กดปุ่มเดียว อ่านค่าชัด เก็บข้อมูลได้ ตอนนี้เหลือร้อยห้าสิบสองบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage close up digital display blood pressure monitor",
+      "tts_text": "ดูจอชัดมาก เครื่องวัดความดันโลหิตอัตโนมัติ ตัวเลขใหญ่ มองง่าย ใช้สะดวก ทั้งบ้านใช้ได้ วันนี้เหลือร้อยห้าสิบสองบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage living room senior using blood pressure monitor",
+      "tts_text": "มีคนในบ้านต้องเช็กประจำ ต้องมี เครื่องวัดความดันโลหิตอัตโนมัติ ใช้ง่าย วัดไว ไม่ยุ่งยาก ตอนนี้เหลือร้อยห้าสิบสองบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage kitchen table using blood pressure monitor",
+      "tts_text": "เช็กก่อนออกบ้านอุ่นใจ เครื่องวัดความดันโลหิตอัตโนมัติ พกง่าย ใช้งานสะดวก อ่านค่าชัด วันนี้เหลือร้อยห้าสิบสองบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage sofa sitting measuring blood pressure",
+      "tts_text": "นั่งเช็กสบาย ๆ ที่บ้าน เครื่องวัดความดันโลหิตอัตโนมัติ กดครั้งเดียว รู้ค่าเร็ว ใช้งานง่าย ตอนนี้เหลือร้อยห้าสิบสองบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage bedside checking blood pressure night",
+      "tts_text": "ก่อนนอนก็เช็กได้ เครื่องวัดความดันโลหิตอัตโนมัติ เงียบ ใช้ง่าย ไม่ยุ่งยาก อ่านชัด ตอนนี้เหลือร้อยห้าสิบสองบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage packing blood pressure monitor into bag",
+      "tts_text": "พกไปเที่ยวก็สะดวก เครื่องวัดความดันโลหิตอัตโนมัติ ขนาดพอดีมือ ใช้งานง่าย ทุกที่ใช้ได้ วันนี้เหลือร้อยห้าสิบสองบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage office desk checking blood pressure",
+      "tts_text": "ที่ทำงานก็เช็กได้ เครื่องวัดความดันโลหิตอัตโนมัติ ใช้ง่าย วัดเร็ว อ่านค่าไว ตอนนี้เหลือร้อยห้าสิบสองบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage family evening blood pressure check",
+      "tts_text": "ทั้งบ้านใช้ร่วมกันได้ เครื่องวัดความดันโลหิตอัตโนมัติ บันทึกค่าได้ สะดวก คุ้มมาก วันนี้เหลือร้อยห้าสิบสองบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage close up button press blood pressure monitor",
+      "tts_text": "กดปุ่มเดียวจบ เครื่องวัดความดันโลหิตอัตโนมัติ ไม่ซับซ้อน ใช้ง่ายมาก อ่านค่าชัด ตอนนี้เหลือร้อยห้าสิบสองบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage morning sunlight checking blood pressure",
+      "tts_text": "เช้า ๆ ต้องเช็กทุกวัน เครื่องวัดความดันโลหิตอัตโนมัติ ใช้สะดวก วัดเร็ว รู้ผลไว วันนี้เหลือร้อยห้าสิบสองบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage evening living room check blood pressure",
+      "tts_text": "เย็นกลับบ้านก็เช็กได้ เครื่องวัดความดันโลหิตอัตโนมัติ ใช้ง่าย ไม่ยุ่งยาก อ่านค่าชัด ตอนนี้เหลือร้อยห้าสิบสองบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage unboxing blood pressure monitor product",
+      "tts_text": "กล่องเปิดมาพร้อมใช้ เครื่องวัดความดันโลหิตอัตโนมัติ จอใหญ่ ปุ่มชัด ใช้ง่ายมาก วันนี้เหลือร้อยห้าสิบสองบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage living room couple checking blood pressure",
+      "tts_text": "คนในบ้านใช้ร่วมกันสบาย เครื่องวัดความดันโลหิตอัตโนมัติ ใช้ง่าย วัดไว อ่านค่าชัด ตอนนี้เหลือร้อยห้าสิบสองบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage bedside table blood pressure monitor night light",
+      "tts_text": "ตั้งไว้ข้างเตียงก็สะดวก เครื่องวัดความดันโลหิตอัตโนมัติ ใช้ง่าย ไม่ยุ่งยาก วัดได้ทุกเวลา วันนี้เหลือร้อยห้าสิบสองบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage packing for trip blood pressure monitor",
+      "tts_text": "เดินทางก็ไม่พลาดเช็ก เครื่องวัดความดันโลหิตอัตโนมัติ พกง่าย ใช้ได้ทุกที่ ตอนนี้เหลือร้อยห้าสิบสองบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage family morning routine check blood pressure",
+      "tts_text": "บ้านไหนห่วงสุขภาพต้องมี เครื่องวัดความดันโลหิตอัตโนมัติ ใช้ง่าย วัดเร็ว อ่านชัด คุ้มมาก วันนี้เหลือร้อยห้าสิบสองบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage sofa close product hero blood pressure monitor",
+      "tts_text": "ดูตัวนี้ก่อนทุกคน เครื่องวัดความดันโลหิตอัตโนมัติ ใช้ง่าย จอใหญ่ ชัดเจน ใช้ดีมาก ตอนนี้เหลือร้อยห้าสิบสองบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage night packing bag blood pressure monitor",
+      "tts_text": "ก่อนนอนก็ยังเช็กได้ เครื่องวัดความดันโลหิตอัตโนมัติ ใช้ง่าย วัดเร็ว รู้ผลไว วันนี้เหลือร้อยห้าสิบสองบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage final hero shot blood pressure monitor",
+      "tts_text": "ตัวนี้ต้องมีติดบ้าน เครื่องวัดความดันโลหิตอัตโนมัติ ใช้ง่าย วัดไว อ่านชัด คุ้มจริง ตอนนี้เหลือร้อยห้าสิบสองบาท รีบกดเดี๋ยวหมด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1733647850663740439": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage bathroom close up electric shaver fabric lint removal handheld demo",
+      "tts_text": "ดูนี่ก่อนทุกคน! เสื้อเป็นขุย กางเกงเป็นขุย ดูเก่าไม่ไหว เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก พกพาสะดวก ชาร์จเร็ว ใช้ง่าย ตอนนี้เหลือเก้าสิบแปดบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage bedroom lint removal sweater close",
+      "tts_text": "ใครเสื้อเป็นขุยจนไม่อยากใส่ ฟังทางนี้ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก พกง่าย ใบมีดสามคม ใช้สะอาด ตอนนี้เหลือเก้าสิบแปดบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage living room couch fabric lint demo",
+      "tts_text": "โซฟาเป็นขุย ผ้าห่มดูเก่า ใช้ตัวนี้จบ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก พกพาสะดวก ชาร์จเร็ว ทำความสะอาดไว วันนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage close up rotating blade lint falling",
+      "tts_text": "ดูการทำงานก่อนทุกคน เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม เก็บขุยเกลี้ยง ใช้ง่าย ไม่ยุ่งยาก ตอนนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage wardrobe lint removal coat demo",
+      "tts_text": "เสื้อโค้ทตัวโปรดเป็นขุย อย่าเพิ่งทิ้ง เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ช่วยได้ เก็บขุยไว ผ้าเรียบสวย เหลือเก้าสิบแปดบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage desk lint on chair fabric demo",
+      "tts_text": "เก้าอี้ทำงานดูเก่าเพราะขุย ใช้ตัวนี้จบ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก พกสะดวก ชาร์จเร็ว ทำความสะอาดง่าย วันนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage travel bag lint removal jacket demo",
+      "tts_text": "พกไปเที่ยวก็ใช้ได้ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก น้ำหนักเบา ใส่กระเป๋าง่าย เก็บขุยเกลี้ยง ตอนนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage sofa pillow lint cleaning demo",
+      "tts_text": "หมอน โซฟา ผ้าห่ม เป็นขุยหมด ใช้ตัวนี้เลย เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม ทำความสะอาดไว เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage slow motion lint removal before after",
+      "tts_text": "ก่อนกับหลังต่างกันมาก เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก เก็บขุยเนียน ผ้าเรียบสวย ใส่ใหม่เหมือนได้ใหม่ วันนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage home cleaning routine lint demo",
+      "tts_text": "ใครรักเสื้อผ้าต้องมี เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใช้ง่าย พกสะดวก ชาร์จเร็ว ใช้ได้ทุกวัน ตอนนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage closet fabric close demo",
+      "tts_text": "เสื้อแพงก็เป็นขุยได้ ใช้ตัวนี้ช่วย เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม เก็บขุยเนียน ดูใหม่อีกครั้ง เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage night room lint removal demo",
+      "tts_text": "กลับบ้านดึก เสื้อเป็นขุย ก็แก้ทันที เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใช้ง่าย เก็บขุยเร็ว ตอนนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage couch fabric detail demo",
+      "tts_text": "โซฟาบ้านใครดูเก่า ลองตัวนี้ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ทำความสะอาดไว ผ้าเรียบสวย ประหยัดแรง วันนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage laundry day lint removal demo",
+      "tts_text": "ซักผ้าเสร็จแล้วยังเป็นขุย ใช้ตัวนี้ต่อ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก เก็บขุยหมด ใส่แล้วดูใหม่ เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage office outfit lint demo",
+      "tts_text": "เสื้อทำงานเป็นขุยไม่มั่นใจ ใช้ตัวนี้ช่วย เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก เก็บขุยไว ดูดีขึ้นทันที ตอนนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage jacket lint cleaning demo",
+      "tts_text": "แจ็กเก็ตตัวโปรดเป็นขุย อย่ารอช้า เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม ทำความสะอาดง่าย เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage blanket lint demo",
+      "tts_text": "ผ้าห่มขนหลุดเต็มบ้าน ใช้ตัวนี้จบ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก พกง่าย เก็บขุยไว วันนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage pillow lint demo",
+      "tts_text": "หมอนบ้านใครเป็นขุยหมด เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม เก็บขุยเกลี้ยง ใช้ง่าย ตอนนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage final reveal lint gone demo",
+      "tts_text": "ดูผลลัพธ์ก่อนทุกคน เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ผ้าเรียบเหมือนได้ใหม่ ใช้ดีมาก วันนี้เหลือเก้าสิบแปดบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage packaging unbox product close",
+      "tts_text": "กล่องเล็ก พกง่าย ใช้สะดวก เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม คุ้มสุด เหลือเก้าสิบแปดบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage daily routine lint demo",
+      "tts_text": "ใช้ทุกวันก็ไม่ยุ่งยาก เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ชาร์จเร็ว พกสะดวก ประหยัดเวลา วันนี้เหลือเก้าสิบแปดบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage night packing bag product",
+      "tts_text": "พรุ่งนี้ออกบ้านต้องมี เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใส่กระเป๋าได้ เก็บขุยไว ตอนนี้เหลือเก้าสิบแปดบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage slow close product hero",
+      "tts_text": "ดูตัวนี้ก่อนทุกคน เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม ใช้ง่าย พกสะดวก คุ้มจริง เหลือเก้าสิบแปดบาท รีบกดเดี๋ยวหมด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730364975059995398": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage outdoor daylight fashion try on wide pants hanging rack walking pose",
+      "tts_text": "ดูนี้ก่อนทุกคน! อากาศร้อน เดินทั้งวัน เหงื่ออับไม่ไหว กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ใส่สบาย พริ้ว คล่องตัว ตอนนี้เหลือสี่สิบเก้าบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage street fashion walking turning back detail fabric close",
+      "tts_text": "ใครเคยใส่กางเกงแล้วอึดอัดบ้าง กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ระบายดี ไม่รัด เอวเชือกผูก ปรับง่าย ตอนนี้เหลือสี่สิบเก้าบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage park walking sunlight slow motion fabric sway",
+      "tts_text": "ปัญหาเดินนานแล้วเมื่อย ใส่ตัวนี้จบ กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม พริ้ว เบา ใส่ทั้งวันไม่ล้า วันนี้โปรแรง เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage city sidewalk fashion pose low angle",
+      "tts_text": "ดูนี้ก่อนทุกคน! ใส่แล้วขาดูยาว ทรงสวยมาก กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ใส่สบาย คล่องตัว ตอนนี้เหลือสี่สิบเก้าบาท ต้องมี!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage cafe walking sitting relaxed detail waist tie",
+      "tts_text": "ใครทำงานทั้งวันต้องตัวนี้ กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม เอวเชือกผูก ปรับง่าย นั่งยาวก็ไม่อึดอัด ตอนนี้เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage college campus walking stairs fabric flow",
+      "tts_text": "เดินเรียน เดินเที่ยว ทั้งวันไม่เมื่อย กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม เบา ใส่สบาย คล่องตัว โปรแรง เหลือสี่สิบเก้าบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage home try on mirror spin",
+      "tts_text": "ดูทรงนี้ก่อนทุกคน! ใส่แล้วพริ้วมาก กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม สวยทุกมุม ใส่ได้ทุกวัน ตอนนี้เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage outdoor steps sitting standing slow motion",
+      "tts_text": "ใครเบื่อกางเกงรัด ๆ ต้องลอง กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ไม่อึดอัด เคลื่อนไหวง่าย วันนี้เหลือสี่สิบเก้าบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage market walking crowd motion blur fashion",
+      "tts_text": "เดินตลาดร้อน ๆ ต้องตัวนี้ กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ระบายดี ใส่สบายทั้งวัน โปรแรง เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage afternoon sun turning pose detail hem",
+      "tts_text": "ดูชายกางเกงก่อนทุกคน! ทรงสวยมาก กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ใส่แล้วดูแพง ตอนนี้เหลือสี่สิบเก้าบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage couple walking park outfit match",
+      "tts_text": "ใส่คู่เพื่อนก็ดี ใส่เดี่ยวก็ปัง กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม สวยทุกลุค วันนี้เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage evening light street slow walk",
+      "tts_text": "ตอนเย็นเดินเล่นสบายมาก กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ลมเข้า พริ้ว เบา ตอนนี้เหลือสี่สิบเก้าบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage sitting cafe cross leg detail texture",
+      "tts_text": "นั่งคาเฟ่ทั้งบ่ายก็ไม่อึดอัด กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม นุ่ม เบา สบาย วันนี้เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage stairs walking down fabric movement",
+      "tts_text": "เดินขึ้นลงสบายมาก กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ไม่รั้ง ไม่รัด ใส่เพลิน โปรแรง เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage sunset backlight fashion pose",
+      "tts_text": "แสงเย็นถ่ายรูปขึ้นมาก กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ทรงสวย ใส่แล้วมั่นใจ ตอนนี้เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage home hallway walking slow",
+      "tts_text": "อยู่บ้านก็ใส่สบาย ออกไปข้างนอกก็ได้ กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ตัวเดียวจบ วันนี้เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage rooftop walking wind fabric sway",
+      "tts_text": "ลมพัดแล้วพริ้วสวยมาก กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม เบา ใส่สบาย ตอนนี้เหลือสี่สิบเก้าบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage indoor mirror walking spin",
+      "tts_text": "ใส่แล้วหมุนตัวสวยมาก กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ทรงเป๊ะทุกมุม วันนี้เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage outdoor stairs pose slow",
+      "tts_text": "ขึ้นบันไดก็ไม่รั้ง กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม เคลื่อนไหวคล่อง ตอนนี้เหลือสี่สิบเก้าบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage street crossing walking motion",
+      "tts_text": "เดินข้ามถนนก็ยังพริ้วสวย กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ใส่แล้วดูดี วันนี้เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage park bench sitting relaxed",
+      "tts_text": "นั่งพักก็ไม่ยับ กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ใส่สบายทั้งวัน โปรแรง เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage evening city walk slow motion",
+      "tts_text": "เย็นนี้ใส่เดินเล่นสบายสุด กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม พริ้ว เบา ตอนนี้เหลือสี่สิบเก้าบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage home door exit outfit check",
+      "tts_text": "ก่อนออกบ้านอย่าลืมตัวนี้ กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ใส่แล้วพร้อมลุย วันนี้เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage night street lights walking",
+      "tts_text": "กลางคืนก็ยังใส่สบาย กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ไม่อึดอัด โปรแรง เหลือสี่สิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage final pose walking away sunset",
+      "tts_text": "ดูนี้ก่อนทุกคน! ตัวเดียวจบทุกวัน กางเกงขายาวทรงหลวม ผ้าลูกฟูกหนานุ่ม ใส่สบาย คุ้มมาก ตอนนี้เหลือสี่สิบเก้าบาท รีบกดเดี๋ยวหมด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730417782843476404": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage bedroom unboxing close up product pack three pillows usage sleeping tossing turning morning light natural handheld",
+      "tts_text": "ดูนี้ก่อนทุกคน! นอนพลิกทั้งคืน ปวดคอไม่หาย หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง ช่วยหนุนนุ่ม หลับสบาย ตอนนี้เหลือร้อยแปดสิบเก้าบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage living room family resting afternoon soft daylight product detail texture squeeze test",
+      "tts_text": "ใครตื่นมาคอแข็งบ้าง! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง นุ่มแน่น รองรับดี เปลี่ยนคืนให้หลับสบาย วันนี้โปรแรง เหลือร้อยแปดสิบเก้าบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage cozy bedroom night lamp side sleeping posture before after demonstration",
+      "tts_text": "ปัญหานอนยาก หลับไม่สนิท ต้องตัวนี้ หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง หนุนคอพอดี พลิกกี่ท่าก็สบาย โปรวันนี้เหลือร้อยแปดสิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage morning routine bed making product stack three pieces",
+      "tts_text": "บ้านไหนหมอนแบนเร็ว ฟังทางนี้! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง ฟูแน่น คืนรูปไว หลับยาวกว่าเดิม ตอนนี้เหลือร้อยแปดสิบเก้าบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage close up stitching fabric press release rebound",
+      "tts_text": "ดูนี่ก่อนทุกคน! นอนแล้วคอไม่พับ หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง รองรับดี คืนตัวเร็ว โปรโหด เหลือร้อยแปดสิบเก้าบาท จะรออะไร!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage dorm room student relaxing gaming then sleeping",
+      "tts_text": "ใครนอนดึกตื่นไม่สดชื่น ต้องเปลี่ยน! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง นุ่มกำลังดี หนุนสบาย ตอนนี้เหลือร้อยแปดสิบเก้าบาท รีบคว้า!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage couple bedroom evening cozy ambience product placement",
+      "tts_text": "นอนสองคนหมอนไม่พอใช่ไหม! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง ได้สามใบ คุ้มมาก โปรวันนี้เหลือร้อยแปดสิบเก้าบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage unpacking plastic wrap reveal pillows arranged",
+      "tts_text": "ดูนี้ก่อนทุกคน! แกะกล่องปุ๊บฟูทันที หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง สัมผัสนุ่ม หลับสบาย โปรแรง เหลือร้อยแปดสิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage side sleeper back sleeper switching positions",
+      "tts_text": "นอนตะแคงก็ได้ นอนหงายก็สบาย! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง รองรับพอดี ตอนนี้เหลือร้อยแปดสิบเก้าบาท รีบกดเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage bedroom kids jumping on bed product durability test",
+      "tts_text": "บ้านไหนหมอนยวบเร็ว ฟังทางนี้! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง แน่นทน คืนรูปไว โปรโหด เหลือร้อยแปดสิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage afternoon nap window light peaceful",
+      "tts_text": "งีบกลางวันไม่เต็มอิ่ม เปลี่ยนเลย! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง นุ่มสบาย หลับง่าย โปรวันนี้เหลือร้อยแปดสิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage hotel style bed making luxury feel",
+      "tts_text": "อยากได้ฟีลโรงแรมที่บ้าน ต้องตัวนี้! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง ฟูสวย นุ่มแน่น เหลือร้อยแปดสิบเก้าบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage close up edge support neck curve",
+      "tts_text": "คอไม่ตก หมุนกี่ท่าก็สบาย! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง รองรับดี โปรแรง เหลือร้อยแปดสิบเก้าบาท จะพลาดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage bedroom minimal tidy shelves product styling",
+      "tts_text": "อยากให้ห้องน่านอนขึ้น ต้องมี! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง สวยเรียบ นุ่มสบาย วันนี้เหลือร้อยแปดสิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage packing three pillows into bag travel",
+      "tts_text": "พกไปค้างคืนไม่ลำบาก! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง นุ่มกำลังดี โปรแรง เหลือร้อยแปดสิบเก้าบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage before after sleep wake up smile",
+      "tts_text": "ตื่นมาสดใสกว่าเดิม! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง เปลี่ยนการนอน คืนสบาย ตอนนี้เหลือร้อยแปดสิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage cozy blanket cuddle product close",
+      "tts_text": "หนาวๆอยากนอนสบาย ต้องมี! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง นุ่มฟู อบอุ่น โปรวันนี้เหลือร้อยแปดสิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage studio apartment evening lights product on sofa",
+      "tts_text": "คอนโดเล็กหมอนพอใช้ไหม! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง ได้สามใบ คุ้มมาก เหลือร้อยแปดสิบเก้าบาท รีบกด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage close up hands pressing corners bounce",
+      "tts_text": "ดูการคืนรูปนี่สิ! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง แน่นนุ่ม รองรับดี โปรแรง เหลือร้อยแปดสิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage bedroom morning sun rays product stack",
+      "tts_text": "เช้าสดชื่นเพราะนอนดี! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง นุ่มสบาย ตอนนี้เหลือร้อยแปดสิบเก้าบาท จะไม่กดได้ยังไง!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage family room movie night using pillows",
+      "tts_text": "ดูหนังยาวต้องหนุนดี! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง นั่งเอนสบาย โปรวันนี้เหลือร้อยแปดสิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage guest bedroom preparing for visitors",
+      "tts_text": "มีแขกมานอนต้องเตรียม! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง สบายคุ้ม โปรแรง เหลือร้อยแปดสิบเก้าบาท รีบเลย!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage loft bedroom stairs product display",
+      "tts_text": "บ้านชั้นลอยก็ต้องมี! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง นุ่มแน่น หลับสบาย ตอนนี้เหลือร้อยแปดสิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage minimalist white bedroom product trio",
+      "tts_text": "สายมินิมอลฟังทางนี้! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง เรียบสวย นุ่มสบาย โปรวันนี้เหลือร้อยแปดสิบเก้าบาท!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random phone footage night routine lights off product on bed",
+      "tts_text": "คืนนี้อยากหลับสบาย เริ่มที่หมอน! หมอนดิงสไตล์ สีพื้น หนุน สอง แถม หนึ่ง คุ้มจัด ตอนนี้เหลือร้อยแปดสิบเก้าบาท รีบกดเดี๋ยวหมด!",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1730973304958716736": [
     {
       "visual_prompt": "9:16 photorealistic no text no logo random phone random footage",
