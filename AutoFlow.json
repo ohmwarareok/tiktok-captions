@@ -6155,150 +6155,155 @@
   ],
   "1729700366524582174": [
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing waffle texture t-shirt folded on table",
-      "tts_text": "ดูนี่ก่อนทุกคน เสื้อยืดใส่แล้วร้อน อับ เหนียว ต้องตัวนี้ เสื้อยืดผ้าวาฟเฟิลผู้ชาย ใส่สบาย ระบายดี ตอนนี้เหลือห้าสิบห้าบาท จะไม่กดยังไง",
+      "visual_prompt": "9:16 photorealistic no text no logo random home indoor footage",
+      "tts_text": "ดูนี่ก่อนทุกคน เสื้อยืดผ้าวาฟเฟิล ใส่แล้วอยู่ทรง ไม่ย้วย ซักง่าย รีบเลยโปรมา แค่ห้าสิบแปดบาท จะไม่กดได้ยังไง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing hand holding waffle fabric",
-      "tts_text": "อากาศร้อนทั้งวัน เสื้อธรรมดาไม่ไหว เสื้อยืดผ้าวาฟเฟิลผู้ชาย เนื้อโปร่ง ใส่แล้วไม่อึดอัด ราคาแค่ห้าสิบห้าบาท รีบเอา",
+      "visual_prompt": "9:16 photorealistic no text no logo random street casual footage",
+      "tts_text": "ฟังทางนี้ เสื้อยืดผ้าวาฟเฟิล ใส่ทำงานใส่เที่ยวได้ ปัญหาเสื้อย้วยตัวนี้เอาอยู่ ตอนนี้เหลือห้าสิบแปดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing t-shirt drape on hanger",
-      "tts_text": "ใครหาเสื้อใส่สบายทุกวัน ต้องรุ่นนี้ เสื้อยืดผ้าวาฟเฟิลผู้ชาย ทรงสวย ใส่ได้ยาว ราคาเหลือห้าสิบห้าบาท คุ้มจริง",
+      "visual_prompt": "9:16 photorealistic no text no logo random lifestyle footage",
+      "tts_text": "ดูนี่ก่อน เสื้อยืดผ้าวาฟเฟิล ใส่สบาย ระบายอากาศดี ไม่อึดอัด ตัวเดียวจบ ตอนนี้แค่ห้าสิบแปดบาท เร็วมาก",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing stack of t-shirts",
-      "tts_text": "ใส่ทำงาน ใส่อยู่บ้าน ใส่ออกนอกบ้าน เสื้อยืดผ้าวาฟเฟิลผู้ชาย ตัวเดียวเอาอยู่ ตอนนี้เหลือห้าสิบห้าบาท รีบกด",
+      "visual_prompt": "9:16 photorealistic no text no logo random closet footage",
+      "tts_text": "ใครเบื่อเสื้อยืดบาง เสื้อยืดผ้าวาฟเฟิลตัวนี้หนากำลังดี ใส่แล้วดูเรียบร้อย เหลือห้าสิบแปดบาท ต้องจัดแล้ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing fabric stretch",
-      "tts_text": "เสื้อยืดที่ไม่รั้ง ไม่อึดอัด เสื้อยืดผ้าวาฟเฟิลผู้ชาย ใส่สบายทั้งวัน ราคาแค่ห้าสิบห้าบาท ถูกมาก",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual daily wear t-shirt",
-      "tts_text": "วันไหนไม่รู้จะใส่อะไร หยิบตัวนี้จบ เสื้อยืดผ้าวาฟเฟิลผู้ชาย ใส่ง่าย ดูดี ราคาเหลือห้าสิบห้าบาท",
+      "visual_prompt": "9:16 photorealistic no text no logo random daily wear footage",
+      "tts_text": "ดูนี้ก่อนทุกคน เสื้อยืดผ้าวาฟเฟิล ใส่แล้วดูดี ไม่ต้องรีดบ่อย ใส่ได้ทุกวัน โปรนี้แค่ห้าสิบแปดบาท รีบเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing neckline detail",
-      "tts_text": "คอไม่ย้วย ทรงไม่เสีย เสื้อยืดผ้าวาฟเฟิลผู้ชาย ใส่ได้นาน ใช้จริง ราคาแค่ห้าสิบห้าบาท ควรมี",
+      "visual_prompt": "9:16 photorealistic no text no logo random home morning footage",
+      "tts_text": "ปัญหาเสื้อยืดใส่แล้วไม่เป็นทรง เสื้อยืดผ้าวาฟเฟิลช่วยได้ ใส่สวยง่าย ตอนนี้เหลือห้าสิบแปดบาท จะรออะไร",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing relaxed fit t-shirt",
-      "tts_text": "ใส่หลวมสบาย ไม่อึดอัด เสื้อยืดผ้าวาฟเฟิลผู้ชาย เหมาะกับทุกวัน ตอนนี้เหลือห้าสิบห้าบาท รีบจัด",
+      "visual_prompt": "9:16 photorealistic no text no logo random urban footage",
+      "tts_text": "ฟังทางนี้ เสื้อยืดผ้าวาฟเฟิล งานเรียบแต่ดูดี ใส่ได้หลายโอกาส โปรแรงตอนนี้ แค่ห้าสิบแปดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing soft fabric close up",
-      "tts_text": "เนื้อผ้านุ่ม ใส่แล้วไม่ระคาย เสื้อยืดผ้าวาฟเฟิลผู้ชาย ใส่สบายจริง ราคาแค่ห้าสิบห้าบาท",
+      "visual_prompt": "9:16 photorealistic no text no logo random casual walking footage",
+      "tts_text": "ดูนี่ เสื้อยืดผ้าวาฟเฟิล ใส่แล้วไม่ร้อน ระบายอากาศดี ตัวนี้คนหยิบเยอะ ตอนนี้ห้าสิบแปดบาท เร็วมาก",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual outfit flat lay",
-      "tts_text": "เสื้อพื้นฐานที่ควรมีติดตู้ เสื้อยืดผ้าวาฟเฟิลผู้ชาย ใส่ได้ทุกโอกาส เหลือห้าสิบห้าบาท คุ้มมาก",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing everyday home wear",
-      "tts_text": "อยู่บ้านก็ต้องใส่สบาย เสื้อยืดผ้าวาฟเฟิลผู้ชาย ไม่ร้อน ไม่เหนอะ ราคาแค่ห้าสิบห้าบาท รีบเอา",
+      "visual_prompt": "9:16 photorealistic no text no logo random indoor daylight footage",
+      "tts_text": "ใครหาเสื้อใส่ทุกวัน เสื้อยืดผ้าวาฟเฟิลตอบโจทย์ ใส่สบาย ดูสุภาพ เหลือห้าสิบแปดบาท ต้องรีบแล้ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual walking outfit",
-      "tts_text": "ออกไปข้างนอกแบบง่ายๆ เสื้อยืดผ้าวาฟเฟิลผู้ชาย ใส่แล้วดูดี ไม่โทรม ราคาเหลือห้าสิบห้าบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing breathable fabric movement",
-      "tts_text": "อากาศถ่ายเทดี ใส่แล้วไม่อบ เสื้อยืดผ้าวาฟเฟิลผู้ชาย เหมาะกับอากาศร้อน ราคาแค่ห้าสิบห้าบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing t-shirt on hanger sway",
-      "tts_text": "ทรงสวย ใส่แล้วไม่โป๊ะ เสื้อยืดผ้าวาฟเฟิลผู้ชาย ตัวนี้ตอบโจทย์ เหลือห้าสิบห้าบาท รีบกด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing minimalist wardrobe",
-      "tts_text": "อยากได้เสื้อใส่ง่าย ไม่ต้องคิดเยอะ เสื้อยืดผ้าวาฟเฟิลผู้ชาย ราคาแค่ห้าสิบห้าบาท ต้องมี",
+      "visual_prompt": "9:16 photorealistic no text no logo random lifestyle closeup footage",
+      "tts_text": "ดูนี้ก่อน เสื้อยืดผ้าวาฟเฟิล งานดี ใส่แล้วดูแพงขึ้นนิดนึง โปรมาแรง แค่ห้าสิบแปดบาท จะไม่กดได้ยังไง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
 
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing daily routine outfit",
-      "tts_text": "ใส่ได้ทุกวันไม่เบื่อ เสื้อยืดผ้าวาฟเฟิลผู้ชาย ตัวเดียวคุ้ม ตอนนี้เหลือห้าสิบห้าบาท",
+      "visual_prompt": "9:16 photorealistic no text no logo random home footage",
+      "tts_text": "ปัญหาเสื้อยืดใส่แล้วดูโทรม เสื้อยืดผ้าวาฟเฟิลช่วยแก้ ใส่แล้วดูใหม่ ตอนนี้เหลือห้าสิบแปดบาท รีบจัด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing folded t-shirt stack",
-      "tts_text": "ซื้อเก็บไว้หลายตัวก็ยังคุ้ม เสื้อยืดผ้าวาฟเฟิลผู้ชาย ราคานี้หายาก เหลือห้าสิบห้าบาท รีบ",
+      "visual_prompt": "9:16 photorealistic no text no logo random minimal footage",
+      "tts_text": "ฟังนะทุกคน เสื้อยืดผ้าวาฟเฟิล ใส่สบาย ไม่ต้องคิดเยอะ หยิบใส่ได้เลย โปรนี้แค่ห้าสิบแปดบาท เร็ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing relaxed lifestyle",
-      "tts_text": "เสื้อใส่สบายที่หยิบมาใส่บ่อย เสื้อยืดผ้าวาฟเฟิลผู้ชาย ราคาแค่ห้าสิบห้าบาท คิดดู",
+      "visual_prompt": "9:16 photorealistic no text no logo random wardrobe footage",
+      "tts_text": "ดูนี้ก่อน เสื้อยืดผ้าวาฟเฟิล ผ้าดูมีมิติ ใส่แล้วดูเรียบเท่ ตอนนี้เหลือห้าสิบแปดบาท ต้องกดแล้ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual home scene",
-      "tts_text": "ไม่ต้องแต่งเยอะก็ใส่ดูดี เสื้อยืดผ้าวาฟเฟิลผู้ชาย ตัวนี้ช่วยได้ เหลือห้าสิบห้าบาท",
+      "visual_prompt": "9:16 photorealistic no text no logo random casual indoor footage",
+      "tts_text": "ใครกำลังหาเสื้อใหม่ เสื้อยืดผ้าวาฟเฟิลใส่แล้วสบาย ไม่อึดอัด โปรนี้ห้าสิบแปดบาท รีบก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing fabric texture close",
-      "tts_text": "ผ้าดี ใส่แล้วต่างจากเสื้อทั่วไป เสื้อยืดผ้าวาฟเฟิลผู้ชาย ราคาแค่ห้าสิบห้าบาท รีบจัด",
+      "visual_prompt": "9:16 photorealistic no text no logo random lifestyle footage",
+      "tts_text": "ดูนี่ เสื้อยืดผ้าวาฟเฟิล ใส่ทำงานก็ได้ ใส่เที่ยวก็ดี ตอนนี้ราคาแค่ห้าสิบแปดบาท ต้องรีบแล้ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
 
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing casual outfit mirror",
-      "tts_text": "ใส่แล้วดูสบายตา ไม่โทรม เสื้อยืดผ้าวาฟเฟิลผู้ชาย ตอนนี้เหลือห้าสิบห้าบาท",
+      "visual_prompt": "9:16 photorealistic no text no logo random street footage",
+      "tts_text": "ฟังทางนี้ เสื้อยืดผ้าวาฟเฟิล ใส่แล้วไม่บาง ไม่ย้วย ปัญหาเสื้อเดิมจบ โปรนี้ห้าสิบแปดบาท รีบ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing daily wear detail",
-      "tts_text": "เสื้อยืดที่ใส่แล้วอยากหยิบซ้ำ เสื้อยืดผ้าวาฟเฟิลผู้ชาย ราคานี้ไม่ควรพลาด ห้าสิบห้าบาท",
+      "visual_prompt": "9:16 photorealistic no text no logo random daily routine footage",
+      "tts_text": "ดูนี้ก่อนทุกคน เสื้อยืดผ้าวาฟเฟิล ใส่สบายทั้งวัน ไม่ต้องเปลี่ยนบ่อย ตอนนี้แค่ห้าสิบแปดบาท เร็ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing simple clean style",
-      "tts_text": "สายสบายต้องชอบ เสื้อยืดผ้าวาฟเฟิลผู้ชาย ใส่คล่องทุกวัน เหลือห้าสิบห้าบาท รีบเอา",
+      "visual_prompt": "9:16 photorealistic no text no logo random home casual footage",
+      "tts_text": "ใครเคยซื้อเสื้อแล้วไม่ค่อยได้ใส่ เสื้อยืดผ้าวาฟเฟิลตัวนี้หยิบใช้บ่อย เหลือห้าสิบแปดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random angle random footage showing final selling angle t-shirt",
-      "tts_text": "บอกเลยตัวนี้คุ้มเกินราคา เสื้อยืดผ้าวาฟเฟิลผู้ชาย ใส่ดี ใช้บ่อย ตอนนี้เหลือห้าสิบห้าบาท ช้าอด",
+      "visual_prompt": "9:16 photorealistic no text no logo random lifestyle close footage",
+      "tts_text": "ดูนี่ เสื้อยืดผ้าวาฟเฟิล ผ้าดี ใส่แล้วดูสุภาพ ไม่แก่ โปรตอนนี้แค่ห้าสิบแปดบาท ต้องจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random minimal home footage",
+      "tts_text": "ฟังนะ เสื้อยืดผ้าวาฟเฟิล ใส่แล้วดูเรียบร้อย ปัญหาเสื้อย้วยจบ ตอนนี้เหลือห้าสิบแปดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random indoor soft light footage",
+      "tts_text": "ดูนี้ก่อน เสื้อยืดผ้าวาฟเฟิล ใส่สบาย ไม่ต้องดูแลเยอะ โปรแรงแบบนี้ แค่ห้าสิบแปดบาท จะพลาดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random daily wear footage",
+      "tts_text": "ใครหาเสื้อใส่ทุกวัน เสื้อยืดผ้าวาฟเฟิลตัวนี้ตอบโจทย์ ตอนนี้ราคาแค่ห้าสิบแปดบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random lifestyle footage",
+      "tts_text": "ดูนี่ เสื้อยืดผ้าวาฟเฟิล ใส่แล้วดูดีทันที ไม่ต้องแต่งเพิ่ม โปรมาแรง ห้าสิบแปดบาท เร็ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random casual indoor footage",
+      "tts_text": "ฟังทางนี้ เสื้อยืดผ้าวาฟเฟิล ใส่สบาย ดูเรียบ ใช้ได้ยาว ตอนนี้เหลือห้าสิบแปดบาท ต้องรีบ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo random lifestyle closing footage",
+      "tts_text": "ดูนี้ก่อนทุกคน เสื้อยืดผ้าวาฟเฟิล ตัวนี้คนถามเยอะ โปรนี้แค่ห้าสิบแปดบาท จะไม่กดได้ยังไง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
