@@ -152,150 +152,6 @@
   "1732148492433393553": [
     {
       "visual_prompt": "9:16 photorealistic no text no logo modern bedroom mattress on bed",
-      "tts_text": "ดูนี่ก่อนทุกคน นอนแล้วพลิกทั้งคืน ที่นอนสปริงรุ่นเบบี้รับน้ำหนักดี นุ่มแน่น หลับสบาย ตอนนี้เหลือสองพันห้าสิบสองบาท จะไม่กดได้ยังไง",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo cozy bedroom mattress close up",
-      "tts_text": "ใครตื่นมาแล้วยังล้า ที่นอนสปริงรุ่นเบบี้ช่วยได้ รองรับทั้งตัว นอนยาวไม่ยวบ โปรนี้เหลือสองพันห้าสิบสองบาท รีบเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo mattress surface detail",
-      "tts_text": "ดูนี่ก่อนทุกคน นอนจม นอนย้วย มันเสียเวลา ที่นอนสปริงรุ่นเบบี้แน่นกำลังดี ตอนนี้ราคาแค่สองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo bedroom night lighting mattress",
-      "tts_text": "ปัญหานอนแล้วไม่สบายตัว แก้ด้วยที่นอนสปริงรุ่นเบบี้ รองรับดี ไม่ยวบง่าย เหลือสองพันห้าสิบสองบาท ต้องจัด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo minimal bedroom mattress",
-      "tts_text": "ดูนี่ก่อนทุกคน ที่นอนสปริงรุ่นเบบี้ นอนคู่ก็ไม่สะเทือน หลับยาวทั้งคืน โปรตอนนี้สองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo mattress on modern bed frame",
-      "tts_text": "ใครเปลี่ยนที่นอนแล้วรู้สึกต่าง ที่นอนสปริงรุ่นเบบี้ แน่น นุ่มกำลังดี ราคาเหลือสองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo bedroom lifestyle mattress",
-      "tts_text": "ดูนี่ก่อนทุกคน นอนทั้งคืนไม่เมื่อย ที่นอนสปริงรุ่นเบบี้ รองรับสรีระดี ตอนนี้สองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo mattress corner detail",
-      "tts_text": "เคยไหมนอนแล้วรู้สึกยุบ ที่นอนสปริงรุ่นเบบี้แก้จบ นุ่มแน่น ใช้ได้นาน เหลือสองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo clean bedroom mattress",
-      "tts_text": "ดูนี่ก่อนทุกคน ที่นอนสปริงรุ่นเบบี้ ใครนอนดิ้นก็เอาอยู่ โปรวันนี้สองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo mattress texture close up",
-      "tts_text": "ใครกำลังมองหาที่นอนใหม่ ที่นอนสปริงรุ่นเบบี้ตอบโจทย์ ตอนนี้ราคาแค่สองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo modern bedroom wide shot",
-      "tts_text": "ดูนี่ก่อนทุกคน นอนแล้วไม่อยากลุก ที่นอนสปริงรุ่นเบบี้ แน่นสบาย หลับเพลิน ราคาเหลือสองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo mattress on bed daylight",
-      "tts_text": "ปัญหาที่นอนเก่ายุบ แก้ด้วยที่นอนสปริงรุ่นเบบี้ รองรับดีขึ้นชัด ตอนนี้สองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo bedroom calm mood mattress",
-      "tts_text": "ดูนี่ก่อนทุกคน ที่นอนสปริงรุ่นเบบี้ นอนสบายตั้งแต่คืนแรก โปรนี้เหลือสองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo mattress side view",
-      "tts_text": "ใครเบื่อที่นอนนิ่มเกิน ที่นอนสปริงรุ่นเบบี้แน่นกำลังดี ราคาแค่สองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo bedroom interior mattress",
-      "tts_text": "ดูนี่ก่อนทุกคน ที่นอนสปริงรุ่นเบบี้ นอนคู่ไม่สะเทือน หลับสบายทั้งคืน เหลือสองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo mattress close up fabric",
-      "tts_text": "ใครนอนแล้วตื่นบ่อย ลองที่นอนสปริงรุ่นเบบี้ รองรับดี นอนนิ่ง ราคาโปรสองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo cozy bedroom mattress",
-      "tts_text": "ดูนี่ก่อนทุกคน ที่นอนสปริงรุ่นเบบี้ เปลี่ยนแล้วรู้สึกต่าง ตอนนี้เหลือสองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo mattress on bed night",
-      "tts_text": "ใครอยากนอนสบายขึ้น ที่นอนสปริงรุ่นเบบี้ช่วยได้ ราคาแค่สองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo modern bedroom mattress angle",
-      "tts_text": "ดูนี่ก่อนทุกคน ที่นอนสปริงรุ่นเบบี้ แน่นกำลังดี ใช้ได้ยาว โปรนี้สองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo mattress lifestyle shot",
-      "tts_text": "ใครกำลังเปลี่ยนห้องนอน ที่นอนสปริงรุ่นเบบี้ตอบโจทย์ ตอนนี้สองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo bedroom soft light mattress",
-      "tts_text": "ดูนี่ก่อนทุกคน นอนทั้งคืนไม่ยวบ ที่นอนสปริงรุ่นเบบี้ โปรแรงเหลือสองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo mattress detail stitching",
-      "tts_text": "ใครยังใช้ที่นอนเก่า ที่นอนสปริงรุ่นเบบี้เปลี่ยนฟีลนอน ตอนนี้สองพันห้าสิบสองบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo modern bedroom mattress full",
-      "tts_text": "ดูนี่ก่อนทุกคน ที่นอนสปริงรุ่นเบบี้ นอนสบาย ใช้ทุกคืน เหลือสองพันห้าสิบสองบาท จะไม่กดได้ยังไง",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    }
-  ],
-  "1732148492433393553": [
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo modern bedroom mattress on bed",
       "tts_text": "ดูนี่ก่อนทุกคน นอนแล้วพลิกทั้งคืน ที่นอนสปริงรุ่นเบบี้ แน่นกำลังดี รองรับทั้งตัว โปรตอนนี้เหลือสองพันห้าสิบสองบาท ผ่อนได้ จะไม่กดได้ยังไง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
@@ -433,6 +289,161 @@
     {
       "visual_prompt": "9:16 photorealistic no text no logo modern bedroom full shot",
       "tts_text": "ดูนี่ก่อนทุกคน ที่นอนสปริงรุ่นเบบี้ หลับสบายทุกคืน เหลือสองพันห้าสิบสองบาท ผ่อนได้ จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732400972528977676": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo cutting meat on stainless steel chopping board kitchen scene",
+      "tts_text": "ดูนี่ก่อนทุกคน เขียงสแตนเลสสองด้าน สับ หั่น ไม่ดูดกลิ่น ล้างง่าย ครัวไม่เหม็น ตอนนี้เหลือร้อยยี่สิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo food prep stainless steel chopping board close up",
+      "tts_text": "ใครเบื่อเขียงไม้เหม็นคาว เขียงสแตนเลสสองด้าน ใช้สับเนื้อได้ ล้างไว ไม่ติดคราบ โปรวันนี้เหลือร้อยยี่สิบเอ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo slicing meat on chopping board modern kitchen",
+      "tts_text": "ดูนี่ก่อนทุกคน ครัวบ้านต้องมี เขียงสแตนเลสสองด้าน แข็งแรง ไม่ซึมน้ำ ใช้ทุกวันสบาย ตอนนี้แค่ร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo chopping raw meat stainless board",
+      "tts_text": "ปัญหาเขียงเหม็น ล้างไม่ออก แก้ด้วยเขียงสแตนเลสสองด้าน สับเนื้อหั่นผักจบใบเดียว เหลือร้อยยี่สิบเอ็ดบาท ต้องจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo kitchen prep stainless chopping board",
+      "tts_text": "ดูนี่ก่อนทุกคน เขียงสแตนเลสสองด้าน แยกของคาวของผักได้ ไม่เลอะครัว ใช้ง่ายมาก ตอนนี้เหลือร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo cutting board stainless steel food prep",
+      "tts_text": "ใครทำกับข้าวทุกวัน ฟังทางนี้ เขียงสแตนเลสสองด้าน ล้างเร็ว ไม่อมกลิ่น ครัวสะอาด ตอนนี้แค่ร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo chopping board kitchen close up",
+      "tts_text": "ดูนี่ก่อน เขียงสแตนเลสสองด้าน แข็งแรง วางนิ่ง สับไม่กระเด้ง ใช้จริงทุกบ้าน โปรวันนี้ร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo preparing meat on board",
+      "tts_text": "เคยไหมเขียงเปื้อนง่าย เขียงสแตนเลสสองด้านช่วยได้ ล้างออกไว ใช้สบาย ตอนนี้เหลือร้อยยี่สิบเอ็ดบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo modern kitchen chopping board",
+      "tts_text": "ดูนี่ก่อนทุกคน เขียงสแตนเลสสองด้าน ใบเดียวจบ งานครัวไวขึ้น ไม่ต้องเปลี่ยนบ่อย เหลือร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo slicing ingredients on board",
+      "tts_text": "ใครเบื่อเขียงเก่าโทรม เขียงสแตนเลสสองด้าน ใช้ง่าย ดูแลง่าย ครัวดูดีขึ้น ราคาแค่ร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo chopping meat clean kitchen",
+      "tts_text": "ดูนี่ก่อนทุกคน เขียงสแตนเลสสองด้าน ไม่ดูดน้ำ ไม่ติดคราบ ล้างทีเดียวจบ ตอนนี้เหลือร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo food prep board stainless",
+      "tts_text": "ปัญหาครัวรก เขียงหลายใบ จบด้วยเขียงสแตนเลสสองด้าน ใบเดียวเอาอยู่ โปรวันนี้ร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo cutting meat board close up",
+      "tts_text": "ดูนี่ก่อน เขียงสแตนเลสสองด้าน สับเนื้อแน่น ไม่ยวบ ใช้งานมั่นใจ ตอนนี้แค่ร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo chopping board daily use",
+      "tts_text": "ใครครัวเล็กต้องมี เขียงสแตนเลสสองด้าน ประหยัดพื้นที่ ใช้คล่องทุกมื้อ เหลือร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo kitchen cutting board",
+      "tts_text": "ดูนี่ก่อนทุกคน เขียงสแตนเลสสองด้าน ใช้หั่นผัก สับเนื้อ ครบจบใบเดียว ราคาโปรร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo food prep stainless board",
+      "tts_text": "ใครทำอาหารขาย ฟังทางนี้ เขียงสแตนเลสสองด้าน ล้างไว ไม่เสียเวลา เหลือร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo chopping ingredients board",
+      "tts_text": "ดูนี่ก่อน เขียงสแตนเลสสองด้าน ใช้ได้ยาว ไม่ต้องเปลี่ยนบ่อย ครัวพร้อมทุกวัน ร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo kitchen prep clean board",
+      "tts_text": "เคยไหมเขียงเหม็นติดมือ เปลี่ยนเป็นเขียงสแตนเลสสองด้าน ล้างจบจริง ตอนนี้แค่ร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo stainless chopping board use",
+      "tts_text": "ดูนี่ก่อนทุกคน เขียงสแตนเลสสองด้าน แข็งแรง ใช้คล่อง ครัวบ้านสบายขึ้น เหลือร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo cutting board modern kitchen",
+      "tts_text": "ใครกำลังหาเขียงใหม่ เขียงสแตนเลสสองด้าน ตอบโจทย์ทุกครัว ราคาโปรร้อยยี่สิบเอ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo chopping board food prep",
+      "tts_text": "ดูนี่ก่อน เขียงสแตนเลสสองด้าน วางนิ่ง ไม่ลื่น ทำครัวมั่นใจ ตอนนี้เหลือร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo slicing meat kitchen",
+      "tts_text": "ใครเบื่อเขียงไม้ดูดกลิ่น เขียงสแตนเลสสองด้านช่วยได้ ราคาแค่ร้อยยี่สิบเอ็ดบาท ต้องจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo clean kitchen chopping board",
+      "tts_text": "ดูนี่ก่อนทุกคน เขียงสแตนเลสสองด้าน ครัวดูสะอาดขึ้น ใช้ทุกวันไม่เบื่อ ร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo chopping board stainless steel",
+      "tts_text": "ปัญหาเขียงพังง่าย แก้ด้วยเขียงสแตนเลสสองด้าน แข็งแรง ใช้นาน เหลือร้อยยี่สิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo food prep board close up",
+      "tts_text": "ดูนี่ก่อนทุกคน เขียงสแตนเลสสองด้าน ใบเดียวเอาอยู่ทุกเมนู ตอนนี้แค่ร้อยยี่สิบเอ็ดบาท จะไม่กดได้ยังไง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
