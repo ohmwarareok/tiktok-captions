@@ -2151,153 +2151,156 @@
   ],
   "1733647850663740439": [
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage bathroom close up electric shaver fabric lint removal handheld demo",
-      "tts_text": "ดูนี่ก่อนทุกคน! เสื้อเป็นขุย กางเกงเป็นขุย ดูเก่าไม่ไหว เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก พกพาสะดวก ชาร์จเร็ว ใช้ง่าย ตอนนี้เหลือเก้าสิบแปดบาท จะไม่กดได้ยังไง!",
+      "visual_prompt": "9:16 photorealistic no text no logo close-up electric shaver on sink realistic lighting",
+      "tts_text": "ดูนี่ก่อนทุกคน หนวดขึ้นไว โกนไม่ทัน ที่โกนหนวดไฟฟ้าตัวนี้ช่วยได้ โกนไว เรียบเนียน พกง่าย ตอนนี้เหลือเก้าสิบแปดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage bedroom lint removal sweater close",
-      "tts_text": "ใครเสื้อเป็นขุยจนไม่อยากใส่ ฟังทางนี้ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก พกง่าย ใบมีดสามคม ใช้สะอาด ตอนนี้เหลือเก้าสิบแปดบาท รีบเลย!",
+      "visual_prompt": "9:16 photorealistic no text no logo man grooming beard bathroom mirror",
+      "tts_text": "ใครเบื่อหนวดรกตอนเช้า ที่โกนหนวดไฟฟ้าใช้ง่าย แค่เปิดแล้วโกน ไม่บาดผิว พกสะดวก ชาร์จง่าย ตอนนี้เก้าสิบแปดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage living room couch fabric lint demo",
-      "tts_text": "โซฟาเป็นขุย ผ้าห่มดูเก่า ใช้ตัวนี้จบ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก พกพาสะดวก ชาร์จเร็ว ทำความสะอาดไว วันนี้เหลือเก้าสิบแปดบาท!",
+      "visual_prompt": "9:16 photorealistic no text no logo electric shaver handheld rotation head",
+      "tts_text": "ดูทรงหัวโกนก่อนทุกคน ที่โกนหนวดไฟฟ้าแนบผิว โกนเกลี้ยงเร็ว ไม่ต้องกลัวรีบ ตอนนี้ลดเหลือเก้าสิบแปดบาท จะไม่กดได้ยังไง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage close up rotating blade lint falling",
-      "tts_text": "ดูการทำงานก่อนทุกคน เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม เก็บขุยเกลี้ยง ใช้ง่าย ไม่ยุ่งยาก ตอนนี้เหลือเก้าสิบแปดบาท!",
+      "visual_prompt": "9:16 photorealistic no text no logo travel bag electric shaver inside",
+      "tts_text": "สายเดินทางต้องมี ที่โกนหนวดไฟฟ้าพกไปได้ทุกที่ ไม่ง้อร้าน ไม่ต้องรอเวลา เหลือแค่เก้าสิบแปดบาท ของมันต้องมี",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage wardrobe lint removal coat demo",
-      "tts_text": "เสื้อโค้ทตัวโปรดเป็นขุย อย่าเพิ่งทิ้ง เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ช่วยได้ เก็บขุยไว ผ้าเรียบสวย เหลือเก้าสิบแปดบาท รีบกด!",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage desk lint on chair fabric demo",
-      "tts_text": "เก้าอี้ทำงานดูเก่าเพราะขุย ใช้ตัวนี้จบ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก พกสะดวก ชาร์จเร็ว ทำความสะอาดง่าย วันนี้เหลือเก้าสิบแปดบาท!",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage travel bag lint removal jacket demo",
-      "tts_text": "พกไปเที่ยวก็ใช้ได้ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก น้ำหนักเบา ใส่กระเป๋าง่าย เก็บขุยเกลี้ยง ตอนนี้เหลือเก้าสิบแปดบาท!",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage sofa pillow lint cleaning demo",
-      "tts_text": "หมอน โซฟา ผ้าห่ม เป็นขุยหมด ใช้ตัวนี้เลย เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม ทำความสะอาดไว เหลือเก้าสิบแปดบาท!",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage slow motion lint removal before after",
-      "tts_text": "ก่อนกับหลังต่างกันมาก เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก เก็บขุยเนียน ผ้าเรียบสวย ใส่ใหม่เหมือนได้ใหม่ วันนี้เหลือเก้าสิบแปดบาท!",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage home cleaning routine lint demo",
-      "tts_text": "ใครรักเสื้อผ้าต้องมี เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใช้ง่าย พกสะดวก ชาร์จเร็ว ใช้ได้ทุกวัน ตอนนี้เหลือเก้าสิบแปดบาท!",
+      "visual_prompt": "9:16 photorealistic no text no logo shaving beard jawline smooth motion",
+      "tts_text": "หนวดแข็งก็เอาอยู่ ที่โกนหนวดไฟฟ้าโกนลื่น ไม่สะดุด ใช้เองได้ทุกวัน ตอนนี้ราคาเก้าสิบแปดบาท รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
 
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage closet fabric close demo",
-      "tts_text": "เสื้อแพงก็เป็นขุยได้ ใช้ตัวนี้ช่วย เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม เก็บขุยเนียน ดูใหม่อีกครั้ง เหลือเก้าสิบแปดบาท!",
+      "visual_prompt": "9:16 photorealistic no text no logo bathroom counter electric shaver water drops",
+      "tts_text": "ใครเบื่อมีดโกน ที่โกนหนวดไฟฟ้าตัวนี้ใช้ง่าย ไม่ต้องเปลี่ยนใบให้วุ่น เหลือเก้าสิบแปดบาท ถูกจริงต้องรีบ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo morning routine man shaving",
+      "tts_text": "เช้าเร่งแค่ไหนก็ทัน ที่โกนหนวดไฟฟ้าโกนไว จบในไม่กี่นาที ตอนนี้เหลือเก้าสิบแปดบาท พลาดไม่ได้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo rotating blade electric shaver detail",
+      "tts_text": "หัวโกนหมุนแนบผิว ที่โกนหนวดไฟฟ้าโกนได้ทั่วหน้า ไม่ต้องซ้ำหลายรอบ ราคาแค่เก้าสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo compact electric shaver in hand",
+      "tts_text": "เล็กแต่แรงนะทุกคน ที่โกนหนวดไฟฟ้าใช้สะดวก มือเดียวก็เอาอยู่ ตอนนี้เก้าสิบแปดบาท ของมันต้องมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo grooming before work",
+      "tts_text": "ก่อนออกจากบ้านต้องเป๊ะ ที่โกนหนวดไฟฟ้าช่วยให้หน้าโล่ง ดูเรียบร้อยทันใจ เหลือเก้าสิบแปดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
 
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage night room lint removal demo",
-      "tts_text": "กลับบ้านดึก เสื้อเป็นขุย ก็แก้ทันที เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใช้ง่าย เก็บขุยเร็ว ตอนนี้เหลือเก้าสิบแปดบาท!",
+      "visual_prompt": "9:16 photorealistic no text no logo sink countertop electric shaver lifestyle",
+      "tts_text": "ไม่ต้องง้อร้านโกน ที่โกนหนวดไฟฟ้าใช้ง่าย ประหยัดเวลา ตอนนี้ราคาเก้าสิบแปดบาท จะรออะไร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo shaving jaw smooth clean look",
+      "tts_text": "โกนแล้วดูสะอาดขึ้นทันที ที่โกนหนวดไฟฟ้าเหมาะใช้ทุกวัน ราคาเหลือเก้าสิบแปดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo electric shaver charging type-c cable",
+      "tts_text": "ชาร์จง่าย ใช้งานสบาย ที่โกนหนวดไฟฟ้าไม่ต้องวุ่น ตอนนี้เก้าสิบแปดบาท ของมันควรมีติดบ้าน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo man grooming close-up beard",
+      "tts_text": "หนวดขึ้นทุกวันก็ไม่กลัว ที่โกนหนวดไฟฟ้าโกนได้เรื่อย ไม่ยุ่งยาก เหลือเก้าสิบแปดบาท รีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo electric shaver smooth pass",
+      "tts_text": "รูดเดียวรู้เรื่อง ที่โกนหนวดไฟฟ้าโกนไว ไม่ต้องออกแรง ราคาเก้าสิบแปดบาท ถูกแบบนี้ต้องรีบ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
 
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage couch fabric detail demo",
-      "tts_text": "โซฟาบ้านใครดูเก่า ลองตัวนี้ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ทำความสะอาดไว ผ้าเรียบสวย ประหยัดแรง วันนี้เหลือเก้าสิบแปดบาท!",
+      "visual_prompt": "9:16 photorealistic no text no logo bathroom grooming setup",
+      "tts_text": "ใครกำลังมองหาเครื่องโกน ที่โกนหนวดไฟฟ้าตัวนี้ตอบโจทย์ ราคาแค่เก้าสิบแปดบาท หมดแล้วหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo man shaving calmly",
+      "tts_text": "ไม่ต้องรีบก็เสร็จไว ที่โกนหนวดไฟฟ้าโกนง่าย ใช้ได้ทุกวัน เหลือเก้าสิบแปดบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo compact shaver rotating head",
+      "tts_text": "หัวโกนแนบทุกมุม ที่โกนหนวดไฟฟ้าโกนเกลี้ยง ดูเรียบร้อย ราคาเก้าสิบแปดบาท ต้องมีแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo travel grooming lifestyle",
+      "tts_text": "ไปไหนก็พกได้ ที่โกนหนวดไฟฟ้าไม่กินที่ ใช้ง่าย ตอนนี้เหลือเก้าสิบแปดบาท รีบตัดสินใจ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo shaving beard chin area",
+      "tts_text": "หนวดคางก็โกนได้สบาย ที่โกนหนวดไฟฟ้าใช้ง่าย ไม่ต้องกลัวช้า ราคาเก้าสิบแปดบาท ถูกจริง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
 
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage laundry day lint removal demo",
-      "tts_text": "ซักผ้าเสร็จแล้วยังเป็นขุย ใช้ตัวนี้ต่อ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก เก็บขุยหมด ใส่แล้วดูใหม่ เหลือเก้าสิบแปดบาท!",
+      "visual_prompt": "9:16 photorealistic no text no logo electric shaver lifestyle clean",
+      "tts_text": "ของใช้ผู้ชายที่ควรมี ที่โกนหนวดไฟฟ้าโกนไว ดูแลง่าย เหลือเก้าสิบแปดบาท รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage office outfit lint demo",
-      "tts_text": "เสื้อทำงานเป็นขุยไม่มั่นใจ ใช้ตัวนี้ช่วย เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก เก็บขุยไว ดูดีขึ้นทันที ตอนนี้เหลือเก้าสิบแปดบาท!",
+      "visual_prompt": "9:16 photorealistic no text no logo mirror reflection shaving",
+      "tts_text": "เช็กหน้าในกระจกแล้วต้องยิ้ม ที่โกนหนวดไฟฟ้าช่วยให้ดูเรียบร้อย ราคาเก้าสิบแปดบาท ต้องมี",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage jacket lint cleaning demo",
-      "tts_text": "แจ็กเก็ตตัวโปรดเป็นขุย อย่ารอช้า เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม ทำความสะอาดง่าย เหลือเก้าสิบแปดบาท!",
+      "visual_prompt": "9:16 photorealistic no text no logo handheld electric shaver close",
+      "tts_text": "จับถนัดมือ ใช้ง่ายมาก ที่โกนหนวดไฟฟ้าเหมาะใช้ทุกวัน ตอนนี้เก้าสิบแปดบาท ของมันดีจริง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage blanket lint demo",
-      "tts_text": "ผ้าห่มขนหลุดเต็มบ้าน ใช้ตัวนี้จบ เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก พกง่าย เก็บขุยไว วันนี้เหลือเก้าสิบแปดบาท!",
+      "visual_prompt": "9:16 photorealistic no text no logo grooming after shave clean look",
+      "tts_text": "โกนเสร็จหน้าดูโล่งขึ้นทันที ที่โกนหนวดไฟฟ้าตัวนี้คุ้ม ราคาเก้าสิบแปดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage pillow lint demo",
-      "tts_text": "หมอนบ้านใครเป็นขุยหมด เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม เก็บขุยเกลี้ยง ใช้ง่าย ตอนนี้เหลือเก้าสิบแปดบาท!",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage final reveal lint gone demo",
-      "tts_text": "ดูผลลัพธ์ก่อนทุกคน เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ผ้าเรียบเหมือนได้ใหม่ ใช้ดีมาก วันนี้เหลือเก้าสิบแปดบาท รีบกด!",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage packaging unbox product close",
-      "tts_text": "กล่องเล็ก พกง่าย ใช้สะดวก เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม คุ้มสุด เหลือเก้าสิบแปดบาท จะไม่กดได้ยังไง!",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage daily routine lint demo",
-      "tts_text": "ใช้ทุกวันก็ไม่ยุ่งยาก เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ชาร์จเร็ว พกสะดวก ประหยัดเวลา วันนี้เหลือเก้าสิบแปดบาท!",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage night packing bag product",
-      "tts_text": "พรุ่งนี้ออกบ้านต้องมี เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใส่กระเป๋าได้ เก็บขุยไว ตอนนี้เหลือเก้าสิบแปดบาท รีบเลย!",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo random phone footage slow close product hero",
-      "tts_text": "ดูตัวนี้ก่อนทุกคน เครื่องกำจัดขนหมอนุไฟฟ้า ขนาดเล็ก ใบมีดสามคม ใช้ง่าย พกสะดวก คุ้มจริง เหลือเก้าสิบแปดบาท รีบกดเดี๋ยวหมด!",
+      "visual_prompt": "9:16 photorealistic no text no logo electric shaver final hero shot",
+      "tts_text": "ปิดท้ายเลยทุกคน ที่โกนหนวดไฟฟ้าใช้ง่าย ราคาแค่เก้าสิบแปดบาท ของแบบนี้หมดไว จะไม่กดได้ยังไง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
