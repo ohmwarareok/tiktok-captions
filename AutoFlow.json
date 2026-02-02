@@ -7892,158 +7892,156 @@
   ],
   "1729959423215766351": [
     {
-      "visual_prompt": "9:16 photorealistic, inside car roadside emergency, portable car air pump connected to tire valve, natural daylight, handheld realistic footage, shallow depth of field, no text, no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน รถยางอ่อนกลางทาง เครื่องปั๊มลมไฟฟ้าติดรถยนต์ตัวนี้ช่วยได้ ปั๊มไว แรงดี พกง่าย ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท จะไม่กดได้ยังไง",
+      "visual_prompt": "9:16 photorealistic handheld portable car electric air pump in use inflating tire no text no logo realistic lighting random angle",
+      "tts_text": "ดูนี่ก่อนทุกคน รถยางอ่อนกลางทางคือปัญหา ปั๊มลมไฟฟ้ารถยนต์แบบพกพาตัวนี้ เสียบปั๊มได้เลย ตอนนี้เหลือแค่หนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, night street parking, car owner using portable air pump inflating motorcycle tire, ambient street light, cinematic handheld, no text, no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน มอเตอร์ไซค์ยางแฟบก่อนไปทำงาน เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยทันที เติมเร็ว ประหยัดเวลา เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกดเถอะ",
+      "visual_prompt": "9:16 photorealistic compact electric air pump close-up hand holding device no text no logo shallow depth of field",
+      "tts_text": "ใครเคยลมยางอ่อนตอนรีบออกจากบ้าน ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ช่วยได้จริง เล็ก พกง่าย ราคานี้คือคุ้ม หนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, rainy roadside stop, car tire inflation with portable pump, water droplets, natural mood, handheld shot, no text, no logo",
-      "tts_text": "ฝนตกยางอ่อนใครเคยเจอ เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยชีวิตจริง ปั๊มง่าย ไม่ต้องเข็นรถ ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท ต้องมีแล้ว",
+      "visual_prompt": "9:16 photorealistic car tire inflation roadside scenario natural light no text no logo",
+      "tts_text": "บอกเลยของจำเป็นมาก ยางอ่อนปุ๊บ ไม่ต้องรอใคร ปั๊มลมไฟฟ้ารถยนต์แบบพกพา เสียบใช้งานทันที โปรตอนนี้หนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, morning garage, woman inflating car tire with portable air pump, warm light, realistic motion, no text, no logo",
-      "tts_text": "เช้ารีบไปทำงานรถยางแฟบ เครื่องปั๊มลมไฟฟ้าติดรถยนต์แก้ปัญหา ปั๊มแรง เสียบใช้ได้ทันที เหลือหนึ่งร้อยหกสิบเจ็ดบาท คุ้มสุดแล้ว",
+      "visual_prompt": "9:16 photorealistic air pump accessories laid out on table no text no logo studio light",
+      "tts_text": "อุปกรณ์ครบ ใช้งานง่าย ไม่ยุ่งยาก ปั๊มลมไฟฟ้ารถยนต์แบบพกพา มีติดรถไว้สบายใจ ตอนนี้ลดเหลือหนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, roadside travel stop, family car tire inflation, natural sunlight, handheld cinematic, no text, no logo",
-      "tts_text": "ขับทางไกลยางอ่อนกลางทาง เครื่องปั๊มลมไฟฟ้าติดรถยนต์ตัวนี้จำเป็น ปั๊มไว ปลอดภัย ประหยัดเวลา ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบจัด",
+      "visual_prompt": "9:16 photorealistic woman hand plugging air pump into car power socket no text no logo",
+      "tts_text": "เสียบแล้วปั๊มเลย ไม่ต้องออกแรง ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ตัวช่วยยามเร่งด่วน ราคาแค่นี้ จะไม่กดได้ยังไง หนึ่งร้อยหกสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+  
+    {
+      "visual_prompt": "9:16 photorealistic air pump inflating motorcycle tire no text no logo outdoor lighting",
+      "tts_text": "ไม่ใช่แค่รถยนต์ มอเตอร์ไซค์ก็ใช้ได้ ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ตัวเดียวเอาอยู่ ตอนนี้โปรแรง หนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, parking lot afternoon, inflating SUV tire with portable air pump, soft sunlight, no text, no logo",
-      "tts_text": "ใครใช้รถทุกวันต้องมี เครื่องปั๊มลมไฟฟ้าติดรถยนต์ พกติดรถไว้สบายใจ ยางอ่อนเมื่อไหร่ปั๊มได้ทันที เหลือหนึ่งร้อยหกสิบเจ็ดบาท ถูกมาก",
+      "visual_prompt": "9:16 photorealistic close-up air pump operating with vibration no text no logo",
+      "tts_text": "เครื่องเล็กแต่ทำงานจริง ปั๊มลมไฟฟ้ารถยนต์แบบพกพา มีไว้ไม่เสียใจ โปรวันนี้หนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, night highway stop, emergency tire inflation, car lights glowing, realistic scene, no text, no logo",
-      "tts_text": "กลางคืนรถยางอ่อนแล้วเครียด เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยจริง ปั๊มง่าย ไม่ต้องง้อใคร ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท ต้องมีติดรถ",
+      "visual_prompt": "9:16 photorealistic night roadside car tire inflation no text no logo realistic shadows",
+      "tts_text": "กลางคืนยางอ่อนก็ไม่ต้องตกใจ ปั๊มลมไฟฟ้ารถยนต์แบบพกพา หยิบใช้ได้ทันที ราคานี้หายาก หนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, woman inflating scooter tire with portable pump, outdoor daylight, casual handheld, no text, no logo",
-      "tts_text": "มอเตอร์ไซค์ยางอ่อนก่อนออกบ้าน เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยทันที เสียบแล้วปั๊มได้เลย เหลือหนึ่งร้อยหกสิบเจ็ดบาท ถูกจนต้องมี",
+      "visual_prompt": "9:16 photorealistic pump stored in car trunk no text no logo",
+      "tts_text": "ของมันต้องมีติดรถ ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ใช้เมื่อไหร่ก็คุ้ม ตอนนี้ลดแรง เหลือหนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, home garage, checking tire pressure with portable air pump, warm tone, no text, no logo",
-      "tts_text": "ดูแลรถเองง่ายมาก เครื่องปั๊มลมไฟฟ้าติดรถยนต์พกไว้บ้าน ปั๊มยางสบาย ไม่เสียเวลา เหลือหนึ่งร้อยหกสิบเจ็ดบาท คุ้มเกินราคา",
+      "visual_prompt": "9:16 photorealistic air pump inflating ball and tire mix no text no logo",
+      "tts_text": "ใช้งานได้หลากหลาย ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ตัวเดียวจบ ราคาเบาๆ หนึ่งร้อยหกสิบเจ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+  
+    {
+      "visual_prompt": "9:16 photorealistic hand switching pump on and off no text no logo",
+      "tts_text": "เปิด ปั๊ม ปิด จบง่ายมาก ปั๊มลมไฟฟ้ารถยนต์แบบพกพา เหมาะกับทุกบ้าน โปรนี้หนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, roadside sunset, car tire inflation, cinematic lighting, no text, no logo",
-      "tts_text": "รถยางอ่อนช่วงเย็นใครเคย เครื่องปั๊มลมไฟฟ้าติดรถยนต์ตัวนี้ช่วยจริง ปั๊มแรง เสียบง่าย ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบเลย",
+      "visual_prompt": "9:16 photorealistic air pump detail texture no text no logo macro shot",
+      "tts_text": "งานแน่น ใช้งานจริง ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ราคาแค่นี้คือเกินคุ้ม หนึ่งร้อยหกสิบเจ็ดบาท ต้องมีแล้ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, small car parking, inflating tire, natural environment, no text, no logo",
-      "tts_text": "ใครไม่มีเครื่องปั๊มลมไฟฟ้าติดรถยนต์ถือว่าพลาด ยางอ่อนเมื่อไหร่แก้ได้เอง เหลือหนึ่งร้อยหกสิบเจ็ดบาท ของมันต้องมี",
+      "visual_prompt": "9:16 photorealistic roadside emergency scenario no text no logo",
+      "tts_text": "ยางอ่อนเมื่อไหร่คือเรื่องใหญ่ ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ช่วยคุณได้ทันที ราคาโปรหนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, countryside road stop, emergency tire inflation, soft sunlight, no text, no logo",
-      "tts_text": "ขับต่างจังหวัดยางอ่อนกลางทาง เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยสุด ปั๊มเร็ว ไม่ต้องเข็นรถ เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบจัด",
+      "visual_prompt": "9:16 photorealistic pump placed on car hood daylight no text no logo",
+      "tts_text": "ของดีราคาไม่แรง ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ซื้อครั้งเดียวใช้ยาว ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, urban street parking, inflating tire, handheld realism, no text, no logo",
-      "tts_text": "อยู่เมืองรถติดยางอ่อนแล้วช้า เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยได้ทันที ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท จะไม่กดได้ยังไง",
+      "visual_prompt": "9:16 photorealistic hand carrying pump with handle no text no logo",
+      "tts_text": "พกง่าย น้ำหนักเบา ปั๊มลมไฟฟ้ารถยนต์แบบพกพา เอาไว้เถอะ ตอนจำเป็นจะขอบคุณตัวเอง หนึ่งร้อยหกสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+  
+    {
+      "visual_prompt": "9:16 photorealistic pump inflating car tire close shot no text no logo",
+      "tts_text": "ไม่ต้องรอร้าน ไม่ต้องง้อใคร ปั๊มลมไฟฟ้ารถยนต์แบบพกพา เสียบแล้วใช้งานได้เลย ราคาโปรหนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, gas station parking, portable air pump in use, realistic environment, no text, no logo",
-      "tts_text": "ปั๊มยางไม่ต้องเข้าปั๊ม เครื่องปั๊มลมไฟฟ้าติดรถยนต์พกไว้ ปั๊มเองได้ทุกที่ เหลือหนึ่งร้อยหกสิบเจ็ดบาท ถูกจริง",
+      "visual_prompt": "9:16 photorealistic device placed on ground near car no text no logo",
+      "tts_text": "ของมันต้องมีจริงๆ ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ราคานี้หาไม่ได้บ่อย หนึ่งร้อยหกสิบเจ็ดบาท รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, rainy urban night, emergency tire inflation, dramatic light, no text, no logo",
-      "tts_text": "ฝนตกกลางคืนยางอ่อนแล้วแย่ เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยทันที ปั๊มง่าย ไม่ยุ่งยาก เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกด",
+      "visual_prompt": "9:16 photorealistic pump in action daytime outdoor no text no logo",
+      "tts_text": "ใช้งานจริง ไม่จุกจิก ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ตอบโจทย์คนใช้รถ ราคาโปรหนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, travel rest stop, family checking tire, portable air pump, no text, no logo",
-      "tts_text": "เดินทางไกลต้องพก เครื่องปั๊มลมไฟฟ้าติดรถยนต์ ยางอ่อนเมื่อไหร่ก็ไม่ต้องเครียด เหลือหนึ่งร้อยหกสิบเจ็ดบาท คุ้มมาก",
+      "visual_prompt": "9:16 photorealistic accessories connecting to tire valve no text no logo",
+      "tts_text": "หัวต่อใช้ง่าย ไม่ซับซ้อน ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ใครใช้รถควรมี หนึ่งร้อยหกสิบเจ็ดบาทเท่านั้น",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, apartment parking lot, inflating tire, everyday lifestyle, no text, no logo",
-      "tts_text": "ใครอยู่คอนโดไม่มีปั๊มยาง เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยจริง ปั๊มไว ใช้ง่าย เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบเลย",
+      "visual_prompt": "9:16 photorealistic air pump stored neatly in car no text no logo",
+      "tts_text": "ติดรถไว้คืออุ่นใจ ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ราคาไม่แรง ใช้ได้จริง หนึ่งร้อยหกสิบเจ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+  
+    {
+      "visual_prompt": "9:16 photorealistic roadside usage afternoon no text no logo",
+      "tts_text": "เวลาฉุกเฉินไม่ต้องลุ้น ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ช่วยคุณได้ทันที โปรวันนี้หนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, roadside noon, emergency car stop, tire inflation, no text, no logo",
-      "tts_text": "แดดร้อนรถยางอ่อนแล้วหงุดหงิด เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยทันใจ ปั๊มแรง เสียบง่าย เหลือหนึ่งร้อยหกสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic pump operating with steady motion no text no logo",
+      "tts_text": "เครื่องเดียวจบ ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ใช้ง่าย ใช้บ่อย คุ้มแน่นอน ราคาโปรหนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, suburban driveway, inflating tire, calm mood, no text, no logo",
-      "tts_text": "ดูแลรถเองไม่ยาก เครื่องปั๊มลมไฟฟ้าติดรถยนต์ตัวนี้จำเป็น ปั๊มยางสบาย ประหยัดเวลา เหลือหนึ่งร้อยหกสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic close-up tire inflation finishing no text no logo",
+      "tts_text": "ยางตึงพร้อมลุย ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ทำได้จริง ราคาแบบนี้ต้องรีบ หนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, highway shoulder stop, emergency tire inflation, cinematic view, no text, no logo",
-      "tts_text": "ใครขับทางไกลยางอ่อนแล้วกลัว เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยทันที ปั๊มง่าย ไม่ต้องง้อช่าง เหลือหนึ่งร้อยหกสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic pump shown next to car wheel no text no logo",
+      "tts_text": "ของดีราคาน่ารัก ปั๊มลมไฟฟ้ารถยนต์แบบพกพา ใครมีรถควรมีติดไว้ หนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, small motorcycle roadside, inflating tire, everyday realism, no text, no logo",
-      "tts_text": "มอเตอร์ไซค์ยางอ่อนก่อนไปทำงาน เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยได้ ปั๊มไว ไม่เสียเวลา เหลือหนึ่งร้อยหกสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic, home garage night, checking tire with air pump, warm lighting, no text, no logo",
-      "tts_text": "กลางคืนรถยางอ่อนแล้ววุ่น เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยจริง เสียบแล้วปั๊มได้เลย เหลือหนึ่งร้อยหกสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic, outdoor parking daytime, inflating tire, realistic handheld, no text, no logo",
-      "tts_text": "ทุกบ้านควรมี เครื่องปั๊มลมไฟฟ้าติดรถยนต์ ยางอ่อนเมื่อไหร่ก็ไม่ต้องตกใจ เหลือหนึ่งร้อยหกสิบเจ็ดบาท คุ้มมาก",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic, roadside morning light, emergency tire inflation, no text, no logo",
-      "tts_text": "เช้ารีบออกบ้านยางอ่อน เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยทันที ปั๊มไว ไม่เสียเวลา เหลือหนึ่งร้อยหกสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic, parking lot evening, inflating tire, cinematic glow, no text, no logo",
-      "tts_text": "เลิกงานรถยางอ่อนแล้วเหนื่อย เครื่องปั๊มลมไฟฟ้าติดรถยนต์ช่วยได้จริง ปั๊มง่าย สบายใจ เหลือหนึ่งร้อยหกสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic, roadside sunset, final emergency tire inflation, calm tone, no text, no logo",
-      "tts_text": "สรุปเลยทุกคน เครื่องปั๊มลมไฟฟ้าติดรถยนต์จำเป็นจริง ยางอ่อนเมื่อไหร่แก้ได้เอง ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกด",
+      "visual_prompt": "9:16 photorealistic final hero shot air pump product no text no logo",
+      "tts_text": "สรุปเลย จำเป็นจริง ปั๊มลมไฟฟ้ารถยนต์แบบพกพา โปรแรงขนาดนี้ จะรออะไร หนึ่งร้อยหกสิบเจ็ดบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
