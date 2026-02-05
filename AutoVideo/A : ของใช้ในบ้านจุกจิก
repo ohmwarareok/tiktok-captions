@@ -1,5 +1,5 @@
 {
-  "1729992512739117475": [
+  "1731646185688368933": [
     {
       "visual_prompt": "9:16 photorealistic high power blender on kitchen counter realistic lighting no text no logo",
       "tts_text": "ดูนี่ก่อนทุกคน ใครปั่นไม่ละเอียด เครื่องปั่นอเนกประสงค์ตัวนี้แรงจริง ปั่นผลไม้เนียนเร็ว ใช้ทุกวันได้ ตอนนี้เหลือสองร้อยหกสิบเก้าบาท",
@@ -462,7 +462,7 @@
       "duration": "แปดวินาที"
     }
   ],
-  "1729992512739117475": [
+  "1731624946866750673": [
     {
       "visual_prompt": "9:16 photorealistic rechargeable wall lamp on bedside table realistic lighting no text no logo",
       "tts_text": "ดูนี่ก่อนทุกคน ใครอ่านหนังสือแล้วไฟไม่พอ โคมไฟแท่งตัวนี้ช่วย แสงนุ่ม เปิดง่าย ชาร์จได้ ตอนนี้เหลือหนึ่งร้อยหนึ่งบาท",
@@ -904,7 +904,7 @@
       "duration": "แปดวินาที"
     }
   ],
-  "1729992512739117475": [
+  "1732400972528977676": [
     {
       "visual_prompt": "9:16 photorealistic stainless steel cutting board on kitchen counter realistic lighting no text no logo",
       "tts_text": "ดูนี่ก่อนทุกคน ใครใช้เขียงแล้วมีกลิ่น เขียงสแตนเลสสองด้านตัวนี้ช่วย ล้างง่าย ไม่อมกลิ่น ตอนนี้เหลือหนึ่งร้อยยี่สิบเอ็ดบาท",
@@ -1054,157 +1054,132 @@
       "duration": "แปดวินาที"
     }
   ],
-  "1729992512739117475": [
+  "1729763355619068357": [
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan set kitchen use, realistic lighting, no text, no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน กระทะเดิมไหม้ติด ล้างยาก กระทะสแตนเลสใบนี้ทน ใช้งานง่าย แถมอีกใบ คุ้มมาก ตอนนี้เหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless steel frying pans on kitchen counter realistic lighting no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ใครหากระทะใช้ทน กระทะสแตนเลสร้อนเร็ว ใช้คุ้มมาก ตอนนี้โปรหนึ่งแถมหนึ่ง เหลือหนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan cooking scene, no text, no logo",
-      "tts_text": "ใครทำกับข้าวแล้วติดกระทะตลอด กระทะสแตนเลสช่วยให้ผัดลื่น ใช้ได้นาน แถมอีกใบ ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless steel pan cooking lifestyle no text no logo",
+      "tts_text": "เคยไหม กระทะบางใช้ไม่นานงอ กระทะสแตนเลสใบนี้แข็งแรง แถมได้อีกใบ โปรหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan close up surface, no text, no logo",
-      "tts_text": "กระทะบางใช้ไม่นานก็พัง กระทะสแตนเลสใบนี้แข็งแรง ใช้คุ้ม แถมอีกใบในชุด ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan surface close up no text no logo",
+      "tts_text": "พื้นผิวเรียบ ล้างง่าย ใช้ได้ยาว กระทะสแตนเลสคู่นี้คุ้มสุด โปรหนึ่งแถมหนึ่ง ตอนนี้หนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan frying food, no text, no logo",
-      "tts_text": "ผัด ทอด ทำอาหารทุกวัน กระทะสแตนเลสช่วยให้ร้อนไว ใช้งานคล่อง แถมอีกใบ คุ้มจริง ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan frying food no text no logo",
+      "tts_text": "ผัด ทอด ทำกับข้าวได้หมด กระทะสแตนเลสใช้งานจริง ได้สองใบ โปรหนึ่งแถมหนึ่ง เหลือหนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan set on stove, no text, no logo",
-      "tts_text": "บ้านไหนทำกับข้าวบ่อยต้องมี กระทะสแตนเลสทน ไม่กลัวพัง ซื้อหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan daily kitchen use, no text, no logo",
-      "tts_text": "กระทะใบเดียวไม่พอ กระทะสแตนเลสชุดนี้ได้สองใบ ใช้งานสลับกัน คุ้มมาก ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan clean kitchen, no text, no logo",
-      "tts_text": "ล้างง่าย ไม่ต้องขัดหนัก กระทะสแตนเลสช่วยประหยัดแรงในครัว แถมอีกใบ ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan cooking at home, no text, no logo",
-      "tts_text": "ทำกับข้าวทุกวันแต่ไม่อยากเปลี่ยนบ่อย กระทะสแตนเลสใบนี้ทน ใช้นาน แถมอีกใบ ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan close up handle, no text, no logo",
-      "tts_text": "จับถนัดมือ ใช้งานคล่อง กระทะสแตนเลสช่วยให้ทำอาหารง่ายขึ้น แถมอีกใบ คุ้ม ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan lifestyle kitchen, no text, no logo",
-      "tts_text": "ใครกำลังมองหากระทะใช้จริง กระทะสแตนเลสชุดนี้ตอบโจทย์ ซื้อหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan kitchen prep no text no logo",
+      "tts_text": "บ้านใครทำครัวบ่อยต้องมี กระทะสแตนเลสคู่นี้คุ้ม แถมอีกใบ โปรหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
 
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan frying vegetables, no text, no logo",
-      "tts_text": "ผัดผัก ผัดเนื้อ ใช้ได้หมด กระทะสแตนเลสใบนี้ร้อนสม่ำเสมอ แถมอีกใบ ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan clean kitchen scene no text no logo",
+      "tts_text": "ใครเบื่อกระทะเก่าพังง่าย กระทะสแตนเลสทนกว่า ได้สองใบ โปรหนึ่งแถมหนึ่ง ตอนนี้หนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan modern kitchen, no text, no logo",
-      "tts_text": "ครัวเล็กหรือใหญ่ก็ใช้ได้ กระทะสแตนเลสทน คุ้ม ซื้อหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan cooking stir fry no text no logo",
+      "tts_text": "ร้อนเร็ว ผัดง่าย ประหยัดเวลา กระทะสแตนเลสคู่เดียวจบ โปรหนึ่งแถมหนึ่ง เหลือหนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan cooking action, no text, no logo",
-      "tts_text": "ทำอาหารไวขึ้นด้วยกระทะดีๆ กระทะสแตนเลสช่วยให้ผัดง่าย ไม่ติด แถมอีกใบ ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan home cooking lifestyle no text no logo",
+      "tts_text": "อยู่หอหรือบ้านก็ใช้ได้ กระทะสแตนเลสคู่นี้คุ้ม ได้สองใบ โปรหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan kitchen prep, no text, no logo",
-      "tts_text": "เปลี่ยนกระทะใหม่ทีเดียวจบ กระทะสแตนเลสได้สองใบ ใช้งานคุ้ม ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan handle detail no text no logo",
+      "tts_text": "ด้ามจับถนัดมือ ใช้งานสบาย กระทะสแตนเลสแถมอีกใบ โปรหนึ่งแถมหนึ่ง ตอนนี้หนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan clean surface, no text, no logo",
-      "tts_text": "ไม่ต้องกลัวกระทะพังง่าย กระทะสแตนเลสแข็งแรง ใช้ได้นาน แถมอีกใบ ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan daily cooking, no text, no logo",
-      "tts_text": "บ้านไหนทำกับข้าวทุกวัน กระทะสแตนเลสช่วยให้ครัวพร้อมใช้งานตลอด แถมอีกใบ ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan kitchen lifestyle, no text, no logo",
-      "tts_text": "กระทะดีช่วยให้ทำอาหารง่ายขึ้น กระทะสแตนเลสชุดนี้คุ้ม ซื้อหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan stovetop, no text, no logo",
-      "tts_text": "ผัดง่าย ล้างง่าย ใช้สบาย กระทะสแตนเลสใบนี้ตอบโจทย์ แถมอีกใบ ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan home cooking, no text, no logo",
-      "tts_text": "ไม่ต้องซื้อหลายรอบ กระทะสแตนเลสชุดเดียวใช้ได้ยาว แถมอีกใบ ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan final kitchen shot, no text, no logo",
-      "tts_text": "ของใช้ครัวที่ควรมี กระทะสแตนเลสแข็งแรง คุ้มราคา ซื้อหนึ่งแถมหนึ่ง เหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan daily kitchen use no text no logo",
+      "tts_text": "กระทะคู่เดียวใช้ได้ทุกวัน กระทะสแตนเลสคุ้มจริง โปรหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
 
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan cooking close up, no text, no logo",
-      "tts_text": "ทำกับข้าวสนุกขึ้นเพราะกระทะดี กระทะสแตนเลสช่วยให้ผัดลื่น ใช้งานง่าย ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan product shot clean no text no logo",
+      "tts_text": "ซื้อครั้งเดียวได้สองใบ กระทะสแตนเลสใช้งานยาว โปรหนึ่งแถมหนึ่ง ตอนนี้หนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan lifestyle clean kitchen, no text, no logo",
-      "tts_text": "ครัวพร้อมเมื่อมีกระทะดี กระทะสแตนเลสชุดนี้ได้สองใบ คุ้มมาก ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan cooking eggs no text no logo",
+      "tts_text": "ทำอาหารเช้าง่ายขึ้น กระทะสแตนเลสคู่เดียวจบ แถมอีกใบ โปรหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan stovetop cooking, no text, no logo",
-      "tts_text": "ไม่อยากปวดหัวเรื่องกระทะ กระทะสแตนเลสช่วยให้จบในชุดเดียว แถมอีกใบ ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan modern kitchen no text no logo",
+      "tts_text": "ครัวใครก็เหมาะ กระทะสแตนเลสใช้ง่าย ได้สองใบ โปรหนึ่งแถมหนึ่ง ตอนนี้หนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stainless steel wok pan final lifestyle shot, no text, no logo",
-      "tts_text": "ไม่ต้องคิดเยอะ ซื้อหนึ่งได้สอง กระทะสแตนเลสใช้งานจริง คุ้มสุด ราคาเหลือหนึ่งร้อยห้าสิบเจ็ดบาท",
+      "visual_prompt": "9:16 photorealistic stainless pan cooking vegetables no text no logo",
+      "tts_text": "ผัก เนื้อ ผัดได้หมด กระทะสแตนเลสใช้งานจริง โปรหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบหกบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic stainless pan minimal kitchen no text no logo",
+      "tts_text": "ไม่ต้องคิดเยอะ กระทะสแตนเลสคู่นี้คุ้ม ได้สองใบ โปรหนึ่งแถมหนึ่ง ตอนนี้หนึ่งร้อยห้าสิบหกบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic stainless pan frying meat no text no logo",
+      "tts_text": "ทอด ผัด ไม่ต้องเปลี่ยนบ่อย กระทะสแตนเลสทน ได้อีกใบ โปรหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบหกบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic stainless pan washing sink no text no logo",
+      "tts_text": "ล้างง่าย ไม่ยุ่งยาก กระทะสแตนเลสใช้งานสบาย ได้สองใบ โปรหนึ่งแถมหนึ่ง ตอนนี้หนึ่งร้อยห้าสิบหกบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic stainless pan close up texture no text no logo",
+      "tts_text": "เนื้อแน่น ใช้ได้นาน กระทะสแตนเลสคู่นี้คุ้ม โปรหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบหกบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic stainless pan everyday cooking no text no logo",
+      "tts_text": "ทำกับข้าวทุกวันต้องมี กระทะสแตนเลสได้สองใบ โปรหนึ่งแถมหนึ่ง ตอนนี้หนึ่งร้อยห้าสิบหกบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic stainless pan final product no text no logo",
+      "tts_text": "สรุปเลย กระทะสแตนเลสทน ใช้คุ้ม ได้สองใบ โปรหนึ่งแถมหนึ่ง ราคาเหลือหนึ่งร้อยห้าสิบหกบาท",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
   ],
-  "1729992512739117475": [
+  "1732653783317841716": [
     {
       "visual_prompt": "9:16 photorealistic kitchen floor mats set of two in kitchen realistic lighting no text no logo",
       "tts_text": "ดูนี่ก่อนทุกคน ใครยืนทำครัวแล้วพื้นลื่น พรมเช็ดเท้าเข้าครัวสองชิ้นช่วยซับน้ำ กันลื่น ตอนนี้เหลือห้าสิบเจ็ดบาท",
@@ -1814,7 +1789,7 @@
       "duration": "แปดวินาที"
     }
   ],
-  "1729992512739117475": [
+  "1731792605055060604": [
     {
       "visual_prompt": "9:16 photorealistic air fryer on kitchen counter cooking food realistic lighting no text no logo",
       "tts_text": "ดูนี่ก่อนทุกคน ใครทอดของกินแล้วน้ำมันกระเด็น หม้อทอดลมร้อนไร้น้ำมันตัวนี้ช่วย อาหารกรอบง่าย ตอนนี้เหลือสี่ร้อยสิบแปดบาท",
@@ -2586,7 +2561,7 @@
       "duration": "แปดวินาที"
     }
   ],
-  "1729992512739117475": [
+  "1729595408900459430": [
     {
       "visual_prompt": "9:16 photorealistic cartoon blanket on bed cozy bedroom, realistic lighting, no text, no logo",
       "tts_text": "ดูนี่ก่อนทุกคน นอนแล้วหนาวบ้างร้อนบ้าง ผ้าห่มนาโนลายการ์ตูนผืนนี้นุ่ม เบา ห่มสบาย หลับง่าย ตอนนี้เหลือห้าสิบเก้าบาท",
