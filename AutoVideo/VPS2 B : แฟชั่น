@@ -2436,150 +2436,152 @@
   ],
   "1730364975059995398": [
     {
-      "visual_prompt": "9:16 photorealistic wide leg pants casual street style realistic lighting no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน ใครใส่กางเกงแล้วอึดอัด กางเกงขายาวผ้านุ่มเอวยางยืดตัวนี้ใส่สบาย เดินทั้งวัน ตอนนี้เหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic woman wearing the exact same corduroy elastic-waist long pants walking along a modern concrete street, natural daylight, cinematic handheld motion, product clearly visible, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน กางเกงขายาวเอวยางยืดผ้าลูกฟูก ใส่สบาย เดินทั้งวันไม่อึดอัด โปรวันนี้เหลือสี่สิบเก้าบาท รีบกดก่อนของหมดเร็วมาก",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual pants lifestyle walking scene no text no logo",
-      "tts_text": "เคยไหม ใส่กางเกงแล้วแน่นเอว ตัวนี้เอวยางยืด นั่งยืนสบาย ใส่ทุกวันได้ ราคาเหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic same pants model standing beside minimalist wall adjusting waistband, soft natural light, lifestyle fashion footage, no text, no logo",
+      "tts_text": "ใครเบื่อกางเกงรัดแน่นต้องลอง กางเกงขายาวเอวยางยืดผ้าลูกฟูก ทรงสวย ใส่แล้วคล่องตัว โปรแรงเหลือสี่สิบเก้าบาท ถูกมากจริง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic wide pants fabric flow movement no text no logo",
-      "tts_text": "ผ้านุ่ม ทิ้งตัวดี ไม่รัดขา กางเกงขายาวตัวนี้ใส่แล้วคล่อง ตอนนี้เหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic close-up hand touching the corduroy texture of the same pants worn by model, outdoor sidewalk background blur, no text, no logo",
+      "tts_text": "จับแล้วรู้เลยผ้านุ่มมาก กางเกงขายาวเอวยางยืดผ้าลูกฟูก ใส่ทำงานหรือเที่ยวก็ได้ ตอนนี้เหลือสี่สิบเก้าบาท รีบกดด่วน",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual pants everyday outfit no text no logo",
-      "tts_text": "ใส่เที่ยว ใส่อยู่บ้านก็ได้ กางเกงขายาวผ้านุ่มตัวนี้คุ้ม ราคาแค่สี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic model sitting casually on bench wearing the same pants, street lifestyle shot, cinematic shallow depth of field, no text, no logo",
+      "tts_text": "ใครอยากได้กางเกงใส่สบายทุกวัน กางเกงขายาวเอวยางยืดผ้าลูกฟูก ตัวนี้ตอบโจทย์ โปรพิเศษเหลือสี่สิบเก้าบาท รีบสั่งเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic elastic waist pants close up no text no logo",
-      "tts_text": "จุดเด่นคือเอวยางยืด ใส่แล้วไม่อึดอัด กางเกงขายาวตัวนี้ เหลือสี่สิบเก้าบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic casual wide pants lifestyle no text no logo",
-      "tts_text": "ใครชอบกางเกงใส่สบาย ต้องลอง กางเกงขายาวผ้านุ่ม ราคาเหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic model walking confidently across crosswalk wearing the same pants, natural sunlight, motion capture style, no text, no logo",
+      "tts_text": "เห็นแล้วต้องหยุดดู กางเกงขายาวเอวยางยืดผ้าลูกฟูก ทรงหลวมใส่สบาย เคลื่อนไหวง่าย วันนี้ลดแรงเหลือสี่สิบเก้าบาท คุ้มสุดแล้ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic pants walking urban style no text no logo",
-      "tts_text": "เดินเยอะก็ไม่รั้ง กางเกงขายาวผ้านุ่มช่วยให้คล่องตัว ตอนนี้สี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic indoor cafe lifestyle shot, model standing near window wearing same pants, warm sunlight glow, no text, no logo",
+      "tts_text": "ออกจากบ้านทั้งวันยังสบาย กางเกงขายาวเอวยางยืดผ้าลูกฟูก ไม่อึดอัดเลย ตอนนี้จัดโปรเหลือสี่สิบเก้าบาท ถูกจนต้องรีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual pants home wear no text no logo",
-      "tts_text": "อยู่บ้านก็ใส่สบาย ออกข้างนอกก็ได้ กางเกงขายาวตัวนี้ ราคาเหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic model turning around showing back fit of same pants, urban street background, clean lifestyle look, no text, no logo",
+      "tts_text": "หากำลังมองหากางเกงใส่ทุกวัน กางเกงขายาวเอวยางยืดผ้าลูกฟูก ใส่แล้วดูดี คล่องตัว โปรวันนี้เหลือสี่สิบเก้าบาท รีบเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic pants minimal outfit no text no logo",
-      "tts_text": "ทรงสวย ใส่ง่าย ไม่ต้องคิดเยอะ กางเกงขายาวผ้านุ่ม ตอนนี้เหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic slow motion walking shot focusing on pant fabric movement, same product worn by model, no text, no logo",
+      "tts_text": "ผ้านุ่ม เดินแล้วพริ้ว กางเกงขายาวเอวยางยืดผ้าลูกฟูก ใส่เที่ยวหรือทำงานก็ได้ ลดหนักเหลือสี่สิบเก้าบาท กดทันถือว่าคุ้มมาก",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual pants daily lifestyle no text no logo",
-      "tts_text": "ใครหากางเกงใส่ทุกวัน ตัวนี้ตอบโจทย์ ราคาเหลือสี่สิบเก้าบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic wide leg pants street casual no text no logo",
-      "tts_text": "ผ้านุ่ม ไม่หนา ไม่ร้อน กางเกงขายาวใส่สบาย ราคาเหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic model adjusting drawstring waistband of the same pants close-up, modern outdoor setting, no text, no logo",
+      "tts_text": "เอวยางยืดปรับง่าย ใส่แล้วสบายจริง กางเกงขายาวเอวยางยืดผ้าลูกฟูก โปรพิเศษวันนี้เหลือสี่สิบเก้าบาท เห็นราคานี้ต้องรีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic elastic waist pants lifestyle no text no logo",
-      "tts_text": "เอวยืด ใส่สบายทั้งวัน กางเกงขายาวตัวนี้ คุ้มมาก ตอนนี้สี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic fashion lifestyle shot model leaning against wall wearing same pants, stylish urban tone, no text, no logo",
+      "tts_text": "อยากได้กางเกงใส่แล้วดูชิลแต่ดูดี กางเกงขายาวเอวยางยืดผ้าลูกฟูก ตัวนี้ตอบโจทย์ เหลือสี่สิบเก้าบาท รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual pants relaxed fit no text no logo",
-      "tts_text": "ใส่แล้วไม่แน่น ไม่อึดอัด กางเกงขายาวผ้านุ่ม เหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic walking upstairs shot capturing full outfit with same pants, natural daylight, no text, no logo",
+      "tts_text": "ขึ้นลงบันไดก็ยังคล่อง กางเกงขายาวเอวยางยืดผ้าลูกฟูก ใส่สบายทั้งวัน ตอนนี้ลดเหลือสี่สิบเก้าบาท ถูกจนต้องรีบซื้อ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic pants walking lifestyle no text no logo",
-      "tts_text": "วันไหนอยากแต่งตัวง่าย ๆ กางเกงขายาวตัวนี้ช่วยได้ ราคาเหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic model spinning lightly showing movement of the same pants, clean city plaza background, no text, no logo",
+      "tts_text": "ทรงสวย ใส่แล้วดูสูงขึ้น กางเกงขายาวเอวยางยืดผ้าลูกฟูก ใครเห็นก็ถามหา วันนี้เหลือสี่สิบเก้าบาท รีบสั่งก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual pants clean scene no text no logo",
-      "tts_text": "ไม่ต้องคิดเยอะ กางเกงขายาวผ้านุ่มตัวนี้คุ้ม ตอนนี้เหลือสี่สิบเก้าบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic casual pants everyday wear no text no logo",
-      "tts_text": "ใส่ทำงานเบา ๆ หรือพักผ่อน กางเกงขายาวผ้านุ่ม ราคาเหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic seated coffee shop lifestyle shot showing pants clearly, cozy environment, no text, no logo",
+      "tts_text": "นั่งนานก็ยังไม่รัด กางเกงขายาวเอวยางยืดผ้าลูกฟูก ใส่สบายทั้งวัน โปรแรงเหลือสี่สิบเก้าบาท ราคานี้หายากมาก",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic wide pants casual lifestyle no text no logo",
-      "tts_text": "ทรงปล่อย ใส่แล้วดูสบาย กางเกงขายาวตัวนี้ ตอนนี้สี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic outdoor park walking shot same pants, soft golden sunlight, cinematic style, no text, no logo",
+      "tts_text": "ใครมองหากางเกงใส่เดินเที่ยวสบาย กางเกงขายาวเอวยางยืดผ้าลูกฟูก ตัวนี้เลย ตอนนี้เหลือสี่สิบเก้าบาท ต้องรีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic pants relaxed daily look no text no logo",
-      "tts_text": "วันเร่งรีบก็หยิบมาใส่ได้ กางเกงขายาวผ้านุ่ม ราคาเหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic close-up fabric stretching demonstration on same pants worn by model, lifestyle shot, no text, no logo",
+      "tts_text": "ผ้ายืดนิดหน่อย ใส่แล้วไม่อึดอัด กางเกงขายาวเอวยางยืดผ้าลูกฟูก โปรวันนี้เหลือสี่สิบเก้าบาท เห็นราคานี้ต้องจัดแล้ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual pants walking comfort no text no logo",
-      "tts_text": "ใครเดินทั้งวันต้องมี กางเกงขายาวผ้านุ่ม ใส่สบาย ราคาเหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic street fashion walking sequence showing pants clearly from side angle, no text, no logo",
+      "tts_text": "ใส่แล้วดูเท่ทันที กางเกงขายาวเอวยางยืดผ้าลูกฟูก ทรงหลวมกำลังดี โปรลดเหลือสี่สิบเก้าบาท ช้าอาจพลาดจริง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic pants final lifestyle shot no text no logo",
-      "tts_text": "สรุปเลย กางเกงขายาวผ้านุ่ม เอวยางยืด ใส่สบาย ราคาเหลือสี่สิบเก้าบาท",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic casual pants clean lifestyle no text no logo",
-      "tts_text": "ของใส่ทุกวันที่ควรมี กางเกงขายาวผ้านุ่ม ราคาดี เหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic model adjusting shoes while wearing same pants, modern sidewalk setting, no text, no logo",
+      "tts_text": "แต่งง่าย เข้ากับเสื้อหลายแบบ กางเกงขายาวเอวยางยืดผ้าลูกฟูก ตอนนี้เหลือสี่สิบเก้าบาท ราคานี้ต้องรีบกดทันที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic wide pants minimal style no text no logo",
-      "tts_text": "ใส่แล้วคล่อง ไม่อึดอัด กางเกงขายาวตัวนี้ ราคาเหลือสี่สิบเก้าบาท",
+      "visual_prompt": "9:16 photorealistic slow walking alley shot focusing on pants silhouette, urban minimal background, no text, no logo",
+      "tts_text": "อยากได้กางเกงใส่สบายไม่ต้องคิดเยอะ กางเกงขายาวเอวยางยืดผ้าลูกฟูก เหลือสี่สิบเก้าบาท รีบกดก่อนของหมดไว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual pants studio style no text no logo",
-      "tts_text": "ราคาเบา แต่ใส่สบายจริง กางเกงขายาวผ้านุ่ม เหลือสี่สิบเก้าบาท รีบจัด",
+      "visual_prompt": "9:16 photorealistic model leaning on railing wearing same pants, daylight lifestyle capture, no text, no logo",
+      "tts_text": "ใส่เดินชิลก็ได้ ใส่ทำงานก็สวย กางเกงขายาวเอวยางยืดผ้าลูกฟูก โปรแรงเหลือสี่สิบเก้าบาท ต้องรีบกดเดี๋ยวหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual pants end lifestyle shot no text no logo",
-      "tts_text": "ใครเล็งอยู่ บอกเลยคุ้ม กางเกงขายาวผ้านุ่ม ราคานี้สี่สิบเก้าบาท ช้าอด",
+      "visual_prompt": "9:16 photorealistic mid-shot model walking toward camera highlighting pants clearly, clean background, no text, no logo",
+      "tts_text": "ดูดีแบบไม่ต้องพยายาม กางเกงขายาวเอวยางยืดผ้าลูกฟูก ใส่แล้วสบายจริง วันนี้ลดเหลือสี่สิบเก้าบาท รีบจัดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic stepping down stairs cinematic shot showing pants movement, same product, no text, no logo",
+      "tts_text": "ทรงหลวมกำลังดี เดินสบายมาก กางเกงขายาวเอวยางยืดผ้าลูกฟูก โปรพิเศษเหลือสี่สิบเก้าบาท ถูกแบบนี้ต้องรีบซื้อ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic model standing relaxed near bench wearing same pants, bright daylight, no text, no logo",
+      "tts_text": "ใส่แล้วสบายจนไม่อยากถอด กางเกงขายาวเอวยางยืดผ้าลูกฟูก ตอนนี้เหลือสี่สิบเก้าบาท รีบกดก่อนหมดล็อตนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic side walking tracking shot showing full pants length clearly, urban environment, no text, no logo",
+      "tts_text": "หากำลังหากางเกงใส่ทุกวัน กางเกงขายาวเอวยางยืดผ้าลูกฟูก ตัวเดียวจบ โปรเหลือสี่สิบเก้าบาท ต้องรีบกดทันที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor casual pose showing waistband and pant texture clearly, same product, no text, no logo",
+      "tts_text": "เอวยางยืดไม่บีบเลย ใส่แล้วสบายมาก กางเกงขายาวเอวยางยืดผ้าลูกฟูก โปรลดเหลือสี่สิบเก้าบาท คุ้มจริงต้องรีบ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic walking away shot highlighting pant silhouette and relaxed fit, cinematic natural light, no text, no logo",
+      "tts_text": "ใครเห็นก็ถามว่าซื้อที่ไหน กางเกงขายาวเอวยางยืดผ้าลูกฟูก ใส่สบายสุด ตอนนี้เหลือสี่สิบเก้าบาท รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
