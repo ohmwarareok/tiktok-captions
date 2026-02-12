@@ -151,6 +151,316 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1732407883156194513": [
+    {
+      "visual_prompt": "9:16 photorealistic close-up real camping usage, night outdoor hiking scene, authentic headlamp product exactly as original, natural lighting, handheld movement, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ไฟฉายคาดหัวตัวนี้สว่างมาก ใช้เดินป่า ซ่อมรถ หรือไฟดับก็เอาอยู่ ตอนนี้เหลือเพียงเจ็ดสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rainy outdoor campsite usage, authentic product unchanged, cinematic handheld footage, no text, no logo",
+      "tts_text": "ใครเคยหาของตอนกลางคืนไม่เจอบ้าง ไฟฉายคาดหัวช่วยส่องชัด มือว่างทำงานสะดวก ตอนนี้โปรแรงเหลือแค่เจ็ดสิบเอ็ดบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic fixing car at night wearing the same headlamp, realistic lighting, no text, no logo",
+      "tts_text": "ช่างใช้จริงบอกเลย ไฟฉายคาดหัวสว่างพุ่งไกล ทำงานกลางคืนง่ายขึ้นเยอะ ตอนนี้จัดโปรพิเศษเหลือเจ็ดสิบเอ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home blackout situation using the headlamp indoors, natural lighting, no text, no logo",
+      "tts_text": "ไฟดับบ่อยต้องมีติดบ้าน ไฟฉายคาดหัวเปิดใช้งานง่าย แบตอึดใช้ได้นาน ตอนนี้ราคาเหลือเพียงเจ็ดสิบเอ็ดบาท ของมีจำนวนจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hiking trail early morning usage, authentic product unchanged, no text, no logo",
+      "tts_text": "เดินป่าหรือวิ่งเช้ามืดต้องมี ไฟฉายคาดหัวช่วยมองทางชัด ปลอดภัยขึ้นมาก วันนี้ลดแรงเหลือเจ็ดสิบเอ็ดบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fisherman using the headlamp at riverside night scene, no text, no logo",
+      "tts_text": "สายตกปลากลางคืนห้ามพลาด ไฟฉายคาดหัวส่องสว่างต่อเนื่อง ใช้ง่ายมาก ตอนนี้โปรเด็ดเหลือเพียงเจ็ดสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic household repair under sink using headlamp, realistic lighting, no text, no logo",
+      "tts_text": "ซ่อมของในบ้านแสงไม่พอใช่ไหม ไฟฉายคาดหัวช่วยให้เห็นชัด มือทำงานคล่องขึ้น วันนี้ราคาแค่เจ็ดสิบเอ็ดบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic camping cooking scene at dusk using the headlamp, no text, no logo",
+      "tts_text": "ตั้งแคมป์ทำอาหารตอนเย็นต้องมี ไฟฉายคาดหัวสว่างคมชัด ใช้งานสะดวก ตอนนี้โปรแรงเหลือเจ็ดสิบเอ็ดบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic warehouse worker picking items wearing the headlamp, no text, no logo",
+      "tts_text": "ทำงานโกดังแสงน้อยต้องใช้ ไฟฉายคาดหัวช่วยมองเห็นชัด ทำงานไวขึ้น ตอนนี้ราคาพิเศษเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cyclist preparing night ride using the headlamp, no text, no logo",
+      "tts_text": "ปั่นจักรยานกลางคืนต้องมีตัวช่วย ไฟฉายคาดหัวส่องทางชัด ปลอดภัยกว่าเดิม วันนี้ลดเหลือเจ็ดสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic farmer working early dawn with headlamp, natural lighting, no text, no logo",
+      "tts_text": "ตื่นเช้าทำสวนแสงยังไม่พอ ไฟฉายคาดหัวช่วยส่องชัด ใช้งานง่ายมาก ตอนนี้โปรเหลือเจ็ดสิบเอ็ดบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic security guard night patrol wearing the headlamp, no text, no logo",
+      "tts_text": "ยามกลางคืนต้องสว่างชัด ไฟฉายคาดหัวช่วยให้เดินตรวจง่าย มือว่างทำงานสะดวก ตอนนี้ราคาเหลือเจ็ดสิบเอ็ดบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car trunk emergency search using headlamp, no text, no logo",
+      "tts_text": "หาของท้ายรถตอนมืดลำบากใช่ไหม ไฟฉายคาดหัวช่วยส่องชัดทันที วันนี้โปรแรงเหลือเพียงเจ็ดสิบเอ็ดบาท ของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic electrician repairing power box wearing headlamp, no text, no logo",
+      "tts_text": "ช่างไฟต้องมีติดตัว ไฟฉายคาดหัวส่องตรงจุด ทำงานง่ายขึ้นเยอะ ตอนนี้ลดเหลือเจ็ดสิบเอ็ดบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mountain trail evening walk using headlamp, no text, no logo",
+      "tts_text": "เดินเขาช่วงเย็นแสงเริ่มน้อย ไฟฉายคาดหัวช่วยให้เห็นทางชัด วันนี้ราคาพิเศษเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fisherman preparing gear at night wearing the headlamp, no text, no logo",
+      "tts_text": "เตรียมอุปกรณ์ตกปลาตอนกลางคืนต้องใช้ ไฟฉายคาดหัวสว่างพุ่งไกล ตอนนี้โปรแรงเหลือเจ็ดสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic backyard night cleaning using headlamp, no text, no logo",
+      "tts_text": "เก็บของหลังบ้านตอนค่ำมืด ไฟฉายคาดหัวช่วยส่องชัด มือว่างทำงานสะดวก วันนี้ลดเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic night jogging preparation wearing the headlamp, no text, no logo",
+      "tts_text": "สายวิ่งกลางคืนต้องมี ไฟฉายคาดหัวช่วยมองทางชัด ปลอดภัยขึ้นมาก ตอนนี้โปรเหลือเจ็ดสิบเอ็ดบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic camping tent setup at dusk using the headlamp, no text, no logo",
+      "tts_text": "กางเต็นท์ตอนฟ้ามืดลำบากไหม ไฟฉายคาดหัวช่วยส่องมือสองข้างว่าง วันนี้ราคาโปรเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic warehouse shelf picking with headlamp, no text, no logo",
+      "tts_text": "หยิบของในชั้นมืดมองไม่เห็น ไฟฉายคาดหัวช่วยส่องชัดทันที ตอนนี้ลดแรงเหลือเจ็ดสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic roadside tire change at night using headlamp, no text, no logo",
+      "tts_text": "รถยางแตกตอนกลางคืนต้องมี ไฟฉายคาดหัวช่วยให้ซ่อมได้ง่าย วันนี้ราคาเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fishing dock evening scene using the headlamp, no text, no logo",
+      "tts_text": "ตกปลาช่วงเย็นต้องแสงสว่างชัด ไฟฉายคาดหัวส่องพุ่งไกล ใช้งานสะดวก วันนี้โปรเหลือเจ็ดสิบเอ็ดบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic night garden watering using the headlamp, no text, no logo",
+      "tts_text": "รดน้ำต้นไม้ตอนค่ำต้องเห็นชัด ไฟฉายคาดหัวช่วยส่องตรงจุด ตอนนี้ราคาพิเศษเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home attic searching using the headlamp, no text, no logo",
+      "tts_text": "ค้นของบนห้องเก็บของมืดมาก ไฟฉายคาดหัวช่วยให้เห็นชัดทันที วันนี้โปรแรงเหลือเจ็ดสิบเอ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic early morning campsite packing using the headlamp, no text, no logo",
+      "tts_text": "เก็บของตอนเช้ามืดต้องมีตัวช่วย ไฟฉายคาดหัวสว่างชัด ใช้งานง่ายมาก ตอนนี้ลดเหลือเจ็ดสิบเอ็ดบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731398916535650126": [
+    {
+      "visual_prompt": "9:16 photorealistic night fishing scene rocky river, person wearing LED headlamp illuminating water clearly, product identical to reference, cinematic lighting, handheld footage feel, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ไฟฉายคาดหัวแอลอีดีดำน้ำ ส่องไกล ลุยฝนลุยน้ำสบาย มือว่างทำงานสะดวก ตอนนี้โปรเหลือสองร้อยหกสิบแปดบาท รีบกดเลยของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic camping night scene person fixing tent using LED headlamp, rain droplets visible, realistic lighting, no text, no logo",
+      "tts_text": "ใครชอบเข้าป่าหรือทำงานกลางคืนต้องมี ไฟฉายคาดหัวแอลอีดีดำน้ำ แสงสว่างชัด มือไม่ต้องถือ ตอนนี้ลดแรงเหลือสองร้อยหกสิบแปดบาท รีบเลยหมดไวมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic repairing motorcycle at night using LED headlamp illumination, shallow depth of field, no text, no logo",
+      "tts_text": "ซ่อมรถกลางคืนมองไม่เห็นใช่ไหม ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยส่องชัด ทำงานสะดวกสุด ตอนนี้ราคาโปรเหลือสองร้อยหกสิบแปดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fisherman walking in shallow river at dusk wearing LED headlamp shining on rocks, cinematic realism, no text, no logo",
+      "tts_text": "สายหาปลาต้องจัด ไฟฉายคาดหัวแอลอีดีดำน้ำ ลุยน้ำได้ ส่องชัดทุกก้าว ปลอดภัยกว่าเดิม ตอนนี้โปรแรงเหลือสองร้อยหกสิบแปดบาท รีบกดก่อนหมดสต๊อก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic construction worker night site wearing LED headlamp while checking equipment, realistic dust particles, no text, no logo",
+      "tts_text": "ทำงานไซต์กลางคืนต้องใช้ ไฟฉายคาดหัวแอลอีดีดำน้ำ แสงแรงเห็นชัด มือว่างคล่องตัวมาก ตอนนี้เหลือสองร้อยหกสิบแปดบาท โปรนี้ไม่อยู่ตลอดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person hiking forest trail at night using LED headlamp illuminating path, mist atmosphere, no text, no logo",
+      "tts_text": "เดินป่ามืดๆเสี่ยงสะดุดง่าย ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยส่องทางชัด เดินมั่นใจขึ้นเยอะ ตอนนี้ราคาเหลือสองร้อยหกสิบแปดบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic roadside car breakdown night emergency scene person repairing tire wearing LED headlamp, no text, no logo",
+      "tts_text": "รถเสียกลางคืนอย่าพลาด ไฟฉายคาดหัวแอลอีดีดำน้ำส่องสว่างทำงานง่าย ไม่ต้องถือไฟฉายให้เกะกะ ตอนนี้เหลือสองร้อยหกสิบแปดบาท รีบเก็บไว้ติดรถ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home power outage scene person searching items using LED headlamp inside dark room, no text, no logo",
+      "tts_text": "ไฟดับกะทันหันหาอะไรไม่เจอ ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยส่องรอบตัวทันที มือว่างหยิบของง่าย ตอนนี้โปรเหลือสองร้อยหกสิบแปดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fisherman casting net at dawn wearing LED headlamp reflecting on water, cinematic realism, no text, no logo",
+      "tts_text": "ออกหาปลาตีสี่ต้องมี ไฟฉายคาดหัวแอลอีดีดำน้ำ ส่องไกล มองเห็นชัดทุกจุด ตอนนี้เหลือสองร้อยหกสิบแปดบาท โปรแรงแบบนี้ไม่ได้มีบ่อย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic farmer checking irrigation channel at night using LED headlamp, realistic countryside atmosphere, no text, no logo",
+      "tts_text": "ตรวจสวนกลางคืนไม่ต้องกลัวมืด ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยให้เห็นทางชัด ทำงานไวขึ้นมาก ตอนนี้ราคาเหลือสองร้อยหกสิบแปดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic plumber fixing pipe in dim basement wearing LED headlamp, water reflections realistic, no text, no logo",
+      "tts_text": "ช่างซ่อมต้องมี ไฟฉายคาดหัวแอลอีดีดำน้ำ ส่องตรงจุดทำงานแม่น มือว่างคล่องตัวสุด ตอนนี้โปรเหลือสองร้อยหกสิบแปดบาท รีบซื้อเก็บไว้ใช้งาน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic night cycling rider wearing LED headlamp illuminating path, motion blur cinematic, no text, no logo",
+      "tts_text": "ปั่นจักรยานกลางคืนต้องชัด ไฟฉายคาดหัวแอลอีดีดำน้ำส่องทางไกล เห็นก่อนถึงจุดเสี่ยง ตอนนี้เหลือสองร้อยหกสิบแปดบาท โปรนี้หมดแล้วหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rescue worker searching forest area at night using LED headlamp beam cutting through fog, no text, no logo",
+      "tts_text": "พื้นที่มืดต้องแสงแรง ไฟฉายคาดหัวแอลอีดีดำน้ำส่องชัดรอบตัว ใช้งานลุยได้จริง ตอนนี้ราคาเหลือสองร้อยหกสิบแปดบาท รีบกดก่อนโปรหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person cleaning backyard at night using LED headlamp illumination, warm household lighting, no text, no logo",
+      "tts_text": "ทำงานบ้านตอนค่ำมองไม่ชัดใช่ไหม ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยส่องชัดทุกมุม มือว่างสะดวกมาก ตอนนี้เหลือสองร้อยหกสิบแปดบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fisherman preparing equipment at riverside night using LED headlamp, realistic reflections, no text, no logo",
+      "tts_text": "เตรียมอุปกรณ์กลางคืนต้องแสงดี ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยเห็นรายละเอียดครบ ตอนนี้ราคาโปรเหลือสองร้อยหกสิบแปดบาท รีบซื้อก่อนหมดล็อต",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic warehouse worker checking boxes in dim storage using LED headlamp, cinematic realism, no text, no logo",
+      "tts_text": "คลังสินค้ามืดทำงานยาก ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยส่องชัดไม่ต้องถือไฟ ทำงานไวขึ้น ตอนนี้เหลือสองร้อยหกสิบแปดบาท โปรแรงต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fisherman standing knee-deep in water at night wearing LED headlamp shining ahead, no text, no logo",
+      "tts_text": "ลุยน้ำกลางคืนต้องมีตัวช่วย ไฟฉายคาดหัวแอลอีดีดำน้ำส่องชัดทุกย่างก้าว ใช้งานง่ายมาก ตอนนี้ราคาเหลือสองร้อยหกสิบแปดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic electrician repairing power line box at night wearing LED headlamp illumination, no text, no logo",
+      "tts_text": "ช่างไฟทำงานมืดๆต้องใช้ ไฟฉายคาดหัวแอลอีดีดำน้ำ ส่องตรงจุดแม่นยำ ทำงานสะดวกขึ้น ตอนนี้โปรเหลือสองร้อยหกสิบแปดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic security guard walking parking lot at night using LED headlamp scanning area, cinematic lighting, no text, no logo",
+      "tts_text": "เดินตรวจกลางคืนต้องเห็นชัด ไฟฉายคาดหัวแอลอีดีดำน้ำส่องกว้าง ใช้งานสะดวกมาก ตอนนี้ราคาเหลือสองร้อยหกสิบแปดบาท รีบกดก่อนราคาปรับ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic camper cooking near tent at night wearing LED headlamp lighting cooking area, no text, no logo",
+      "tts_text": "ทำกับข้าวแคมป์กลางคืนต้องแสงแรง ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยส่องชัด มือว่างทำงานง่าย ตอนนี้เหลือสองร้อยหกสิบแปดบาท รีบซื้อเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic farmer walking rice field levee at night wearing LED headlamp shining path, no text, no logo",
+      "tts_text": "เดินคันนาตอนมืดเสี่ยงพลาดง่าย ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยส่องชัดทุกก้าว ตอนนี้ราคาเหลือสองร้อยหกสิบแปดบาท โปรแรงต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic traveler fixing luggage strap in dim bus station using LED headlamp illumination, no text, no logo",
+      "tts_text": "เดินทางกลางคืนต้องมีแสง ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยส่องทันที มือว่างใช้งานสะดวก ตอนนี้เหลือสองร้อยหกสิบแปดบาท รีบเก็บไว้ติดกระเป๋า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person checking fishing nets at riverside night using LED headlamp, realistic reflections, no text, no logo",
+      "tts_text": "เช็คอวนตอนกลางคืนต้องสว่าง ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยมองเห็นชัดทุกจุด ตอนนี้ราคาเหลือสองร้อยหกสิบแปดบาท รีบกดก่อนหมดโปร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic roadside vendor organizing items at dusk wearing LED headlamp illumination, natural lighting, no text, no logo",
+      "tts_text": "ตั้งร้านตอนค่ำต้องเห็นชัด ไฟฉายคาดหัวแอลอีดีดำน้ำช่วยส่องของครบ มือว่างทำงานไว ตอนนี้เหลือสองร้อยหกสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic forest ranger walking trail at night using LED headlamp illuminating trees, cinematic fog, no text, no logo",
+      "tts_text": "เข้าพื้นที่มืดต้องแสงแรง ไฟฉายคาดหัวแอลอีดีดำน้ำส่องไกล เห็นเส้นทางชัดมาก ตอนนี้ราคาเหลือสองร้อยหกสิบแปดบาท โปรแรงกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up real product LED headlamp placed on wet rock near river reflecting light beam realistically, handheld camera feel, no text, no logo",
+      "tts_text": "ใครหาตัวช่วยแสงแรงต้องตัวนี้ ไฟฉายคาดหัวแอลอีดีดำน้ำ สว่างจริง ใช้งานลุยได้ ตอนนี้เหลือสองร้อยหกสิบแปดบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1730269869980748122": [
     {
       "visual_prompt": "9:16 photorealistic portable USB air cooler fan placed on desk blowing mist cool air indoor kitchen background natural lighting no text no logo",
