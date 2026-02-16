@@ -761,7 +761,1223 @@
       "duration": "แปดวินาที"
     }
   ],
-  "1731195083370169547": [
+  "1734290011115587082": [
+    {
+      "visual_prompt": "9:16 photorealistic fermented pork cartilage sausage sliced on wooden board Thai street food style natural lighting close up no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน แหนมกระดูกอ่อนรสแซ่บ กรอบหนึบเคี้ยวเพลิน ตอนนี้โปรเหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic Thai fermented pork cartilage sausage served with chili garlic herbs traditional plate no text no logo",
+      "tts_text": "ใครชอบแหนมกรุบกรอบต้องลอง แหนมกระดูกอ่อนรสจัดถึงใจ ตอนนี้เหลือเจ็ดสิบเจ็ดบาท ราคานี้มีช่วงโปร รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up sliced fermented pork cartilage sausage showing texture chili herbs garnish no text no logo",
+      "tts_text": "กัดแล้วกรอบหนึบเต็มคำ แหนมกระดูกอ่อนหอมเปรี้ยวกำลังดี โปรแรงเหลือเจ็ดสิบเจ็ดบาท รีบสั่งก่อนหมดล็อต",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic Thai snack plate fermented pork cartilage sausage with vegetables rustic table no text no logo",
+      "tts_text": "กินเล่นก็อร่อย กินกับข้าวก็ฟิน แหนมกระดูกอ่อนรสแซ่บ ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนราคากลับ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic street food vendor slicing fermented pork cartilage sausage Thai market scene no text no logo",
+      "tts_text": "สายของกินแซ่บห้ามพลาด แหนมกระดูกอ่อนกรุบกรอบมาก ตอนนี้โปรเหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนหมดจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fermented pork cartilage sausage served on banana leaf Thai traditional presentation no text no logo",
+      "tts_text": "รสเปรี้ยวหอมกำลังดี แหนมกระดูกอ่อนเคี้ยวเพลินสุด ตอนนี้เหลือเจ็ดสิบเจ็ดบาท ของมีจำนวนจำกัด รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up pork cartilage sausage texture showing crispy cartilage pieces macro shot no text no logo",
+      "tts_text": "กระดูกอ่อนกรุบทุกคำ แหนมกระดูกอ่อนอร่อยจัดเต็ม ตอนนี้โปรเหลือเจ็ดสิบเจ็ดบาท รีบสั่งก่อนหมดล็อต",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic Thai appetizer fermented pork cartilage sausage with chili garlic lime side dish no text no logo",
+      "tts_text": "กินกับพริกกระเทียมยิ่งเด็ด แหนมกระดูกอ่อนรสแซ่บ ตอนนี้เหลือเจ็ดสิบเจ็ดบาท เห็นราคาแล้วต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic overhead shot fermented pork cartilage sausage plate Thai snack style no text no logo",
+      "tts_text": "ของกินยอดฮิตสายแซ่บ แหนมกระดูกอ่อนกรุบกรอบอร่อย ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนหมดจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand picking sliced fermented pork cartilage sausage appetizer scene no text no logo",
+      "tts_text": "หยิบกินเพลินหยุดไม่ได้ แหนมกระดูกอ่อนรสจัดจ้าน ตอนนี้โปรเหลือเจ็ดสิบเจ็ดบาท รีบสั่งก่อนราคากลับ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic Thai food table fermented pork cartilage sausage served ready to eat no text no logo",
+      "tts_text": "พร้อมกินทันที ไม่ต้องปรุงเพิ่ม แหนมกระดูกอ่อนรสถึงเครื่อง ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic street snack fermented pork cartilage sausage sliced and arranged neatly no text no logo",
+      "tts_text": "สายกินกรุบกรอบต้องลอง แหนมกระดูกอ่อนเคี้ยวสนุกมาก ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนหมดล็อต",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic macro shot fermented pork cartilage sausage with herbs chili garnish Thai style no text no logo",
+      "tts_text": "หอมเครื่องเทศเต็มคำ แหนมกระดูกอ่อนรสเข้มข้น ตอนนี้โปรเหลือเจ็ดสิบเจ็ดบาท รีบสั่งก่อนหมดจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic Thai fermented pork cartilage sausage snack served with fresh vegetables no text no logo",
+      "tts_text": "กินกับผักสดยิ่งอร่อย แหนมกระดูกอ่อนกรอบหนึบมาก ตอนนี้เหลือเจ็ดสิบเจ็ดบาท ราคานี้ต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic sliced fermented pork cartilage sausage platter rustic Thai kitchen background no text no logo",
+      "tts_text": "สายแซ่บต้องมีติดบ้าน แหนมกระดูกอ่อนรสจัดกำลังดี ตอนนี้โปรเหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fermented pork cartilage sausage snack plate close focus Thai food lighting no text no logo",
+      "tts_text": "เคี้ยวเพลินหยุดไม่อยู่ แหนมกระดูกอ่อนกรอบอร่อยมาก ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบสั่งก่อนหมดล็อต",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic Thai appetizer fermented pork cartilage sausage sliced served with chili no text no logo",
+      "tts_text": "แค่เปิดก็พร้อมกิน แหนมกระดูกอ่อนรสแซ่บจัดจ้าน ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนราคากลับ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic street market style fermented pork cartilage sausage vendor tray no text no logo",
+      "tts_text": "ของโปรดสายของกินเล่น แหนมกระดูกอ่อนกรอบหนึบมาก ตอนนี้โปรเหลือเจ็ดสิบเจ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fermented pork cartilage sausage snack served on wooden table Thai style no text no logo",
+      "tts_text": "รสเปรี้ยวหอมกำลังดี แหนมกระดูกอ่อนอร่อยเต็มคำ ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบสั่งก่อนหมดจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up pork cartilage sausage texture crispy cartilage pieces highlighted no text no logo",
+      "tts_text": "กระดูกอ่อนกรุบชัดทุกคำ แหนมกระดูกอ่อนรสจัดถึงใจ ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนหมดล็อต",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic Thai snack platter fermented pork cartilage sausage herbs garnish cinematic lighting no text no logo",
+      "tts_text": "ของดีสายแซ่บต้องลอง แหนมกระดูกอ่อนหอมเครื่องมาก ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic sliced fermented pork cartilage sausage served ready to eat Thai street food no text no logo",
+      "tts_text": "กินเพลินทั้งบ้าน แหนมกระดูกอ่อนกรุบกรอบอร่อย ตอนนี้โปรเหลือเจ็ดสิบเจ็ดบาท รีบสั่งก่อนราคากลับ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fermented pork cartilage sausage appetizer close up Thai rustic table no text no logo",
+      "tts_text": "รสเข้มข้นถึงเครื่อง แหนมกระดูกอ่อนสายแซ่บต้องจัด ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนหมดล็อต",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic Thai snack fermented pork cartilage sausage served with chili lime no text no logo",
+      "tts_text": "หอมเปรี้ยวเผ็ดกำลังดี แหนมกระดูกอ่อนเคี้ยวเพลินมาก ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic food close up fermented pork cartilage sausage sliced macro cinematic no text no logo",
+      "tts_text": "กรอบหนึบทุกชิ้น อร่อยจัดเต็ม แหนมกระดูกอ่อนตอนนี้เหลือเจ็ดสิบเจ็ดบาท ของมีจำกัด รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730087799700229062": [
+    {
+      "visual_prompt": "Photorealistic person hiking outdoors holding large insulated stainless steel water bottle attached to backpack, natural mountain daylight, cinematic lifestyle shot, 9:16, no text, no logo",
+      "tts_text": "ใครออกกำลังกายต้องมี กระบอกน้ำเก็บอุณหภูมิสแตนเลสจุใหญ่ พกน้ำได้ทั้งวัน ร้อนเย็นอยู่ครบ ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up insulated stainless steel bottle pouring cold water into cup with visible condensation, photorealistic studio lighting, 9:16, no text, no logo",
+      "tts_text": "อยากดื่มน้ำเย็นทั้งวัน กระบอกน้ำเก็บอุณหภูมิช่วยเก็บความเย็นได้นาน ใช้ง่ายมาก ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Young woman placing stainless steel insulated bottle into gym bag before workout, photorealistic lifestyle scene, 9:16, no text, no logo",
+      "tts_text": "ไปยิมหรือไปเที่ยวก็พกง่าย กระบอกน้ำเก็บอุณหภูมิจุใหญ่ใส่น้ำได้เยอะ ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท โปรแรงต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up insulated bottle standing on wooden desk beside laptop during workday, photorealistic indoor lighting, 9:16, no text, no logo",
+      "tts_text": "ทำงานทั้งวันไม่ต้องเติมน้ำบ่อย กระบอกน้ำเก็บอุณหภูมิจุใหญ่ใช้งานสะดวกมาก ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Hiker drinking water from stainless steel insulated bottle during forest trail walk, photorealistic outdoor scene, 9:16, no text, no logo",
+      "tts_text": "สายเที่ยวสายเดินต้องจัด กระบอกน้ำเก็บอุณหภูมิพกง่าย เก็บความเย็นได้นาน ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Top view insulated bottle with handle placed beside sports equipment on gym floor, photorealistic lighting, 9:16, no text, no logo",
+      "tts_text": "จุใหญ่ดื่มได้ทั้งวัน กระบอกน้ำเก็บอุณหภูมิสแตนเลสใช้งานง่ายมาก ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งตอนยังมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up hand opening flip lid of insulated stainless bottle with smooth motion, photorealistic detail shot, 9:16, no text, no logo",
+      "tts_text": "เปิดปิดง่ายใช้งานสะดวก กระบอกน้ำเก็บอุณหภูมิพกติดตัวได้ทุกวัน ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Runner resting after workout drinking from large insulated stainless steel bottle, photorealistic lifestyle shot, 9:16, no text, no logo",
+      "tts_text": "ออกกำลังกายไม่ต้องหาน้ำบ่อย กระบอกน้ำเก็บอุณหภูมิจุใหญ่ช่วยได้มาก ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Insulated bottle placed on outdoor picnic table beside fruits and snacks, photorealistic natural lighting, 9:16, no text, no logo",
+      "tts_text": "ไปปิกนิกก็พกสะดวก กระบอกน้ำเก็บอุณหภูมิจุใหญ่ใส่น้ำได้เยอะ ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท โปรแรงต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up stainless steel insulated bottle with condensation drops showing cold retention, photorealistic studio lighting, 9:16, no text, no logo",
+      "tts_text": "เก็บความเย็นได้นานจริง กระบอกน้ำเก็บอุณหภูมิใช้ได้ทั้งร้อนทั้งเย็น ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Young man placing insulated bottle into car cup holder before driving, photorealistic lifestyle scene, 9:16, no text, no logo",
+      "tts_text": "เดินทางไกลก็พกง่าย กระบอกน้ำเก็บอุณหภูมิจุใหญ่ใช้สะดวกทุกวัน ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Office worker drinking hot coffee from insulated bottle in workspace environment, photorealistic indoor lighting, 9:16, no text, no logo",
+      "tts_text": "อยากดื่มน้ำอุ่นทั้งวัน กระบอกน้ำเก็บอุณหภูมิช่วยเก็บความร้อนได้นาน ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งตอนยังมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Hiker standing on mountain viewpoint holding stainless steel insulated bottle proudly, photorealistic cinematic outdoor shot, 9:16, no text, no logo",
+      "tts_text": "สายเที่ยวต้องมีติดตัว กระบอกน้ำเก็บอุณหภูมิพกง่าย เก็บน้ำได้เยอะ ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up pouring hot tea from insulated bottle into small cup with steam rising, photorealistic detail shot, 9:16, no text, no logo",
+      "tts_text": "น้ำร้อนก็เก็บได้ดี กระบอกน้ำเก็บอุณหภูมิใช้ได้ทุกวัน สะดวกมาก ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Gym locker room scene with insulated bottle placed beside towel and shoes, photorealistic lighting, 9:16, no text, no logo",
+      "tts_text": "ออกกำลังกายพกง่ายมาก กระบอกน้ำเก็บอุณหภูมิจุใหญ่ดื่มได้ทั้งวัน ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท รีบกดก่อนหมดโปร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Outdoor runner picking up insulated bottle from park bench after exercise, photorealistic lifestyle shot, 9:16, no text, no logo",
+      "tts_text": "ดื่มน้ำสะดวกทุกเวลา กระบอกน้ำเก็บอุณหภูมิช่วยให้พกน้ำง่ายมาก ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Insulated bottle hanging on backpack strap during hiking trip in forest trail, photorealistic outdoor lighting, 9:16, no text, no logo",
+      "tts_text": "พกติดกระเป๋าเดินทางสะดวก กระบอกน้ำเก็บอุณหภูมิใช้งานง่ายมาก ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up stainless steel insulated bottle placed on office desk beside notebook and pen, photorealistic indoor scene, 9:16, no text, no logo",
+      "tts_text": "ทำงานทั้งวันมีน้ำดื่มพร้อม กระบอกน้ำเก็บอุณหภูมิใช้ง่าย คุ้มมาก ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Person refilling insulated bottle with cold water from faucet kitchen sink, photorealistic lifestyle shot, 9:16, no text, no logo",
+      "tts_text": "เติมน้ำครั้งเดียวใช้ได้ทั้งวัน กระบอกน้ำเก็บอุณหภูมิจุใหญ่สะดวกสุดๆ ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Outdoor picnic group passing insulated bottle while relaxing together, photorealistic lifestyle scene, 9:16, no text, no logo",
+      "tts_text": "ไปเที่ยวกับเพื่อนก็ใช้ได้ กระบอกน้ำเก็บอุณหภูมิจุใหญ่ใส่น้ำได้เยอะ ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up insulated bottle lid being locked securely with hand, photorealistic detail shot, 9:16, no text, no logo",
+      "tts_text": "ฝาปิดแน่นไม่หกง่าย กระบอกน้ำเก็บอุณหภูมิพกติดตัวได้ทุกวัน ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Runner standing under sunlight drinking water from insulated bottle after jogging, photorealistic cinematic shot, 9:16, no text, no logo",
+      "tts_text": "ดื่มน้ำเย็นหลังวิ่งฟินมาก กระบอกน้ำเก็บอุณหภูมิช่วยเก็บความเย็นได้นาน ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Insulated bottle placed beside camping tent at sunrise outdoor campsite, photorealistic lifestyle scene, 9:16, no text, no logo",
+      "tts_text": "สายแคมป์ต้องมี กระบอกน้ำเก็บอุณหภูมิจุใหญ่พกง่าย ใช้สะดวก ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up condensation drops forming on cold insulated bottle placed on wooden table, photorealistic lighting, 9:16, no text, no logo",
+      "tts_text": "เก็บความเย็นได้ดีมาก กระบอกน้ำเก็บอุณหภูมิใช้งานคุ้มสุดๆ ตอนนี้ราคาเหลือหนึ่งร้อยสิบแปดบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Young woman walking outdoors carrying insulated stainless steel bottle in hand confidently, photorealistic lifestyle shot, 9:16, no text, no logo",
+      "tts_text": "พกน้ำติดตัวทุกวันสะดวกมาก กระบอกน้ำเก็บอุณหภูมิจุใหญ่ตอบโจทย์สุดๆ ตอนนี้เหลือหนึ่งร้อยสิบแปดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1733229087919932424": [
+    {
+      "visual_prompt": "9:16 photorealistic vacuum sealed salted dried mackerel pieces neatly arranged on kitchen table clean natural lighting no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ปลาอินทรีหอมเค็มแพ็คสุญญากาศ ทอดง่าย หอมอร่อยกินกับข้าวร้อน ตอนนี้โปรเหลือห้าสิบสองบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic frying salted dried mackerel slices in pan hot oil cooking scene appetizing look no text no logo",
+      "tts_text": "อยากได้กับข้าวง่ายๆ ทอดปลาอินทรีหอมเค็มก็จบ หอมกินกับข้าวฟินมาก ตอนนี้เหลือห้าสิบสองบาท รีบสั่งด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic plated fried salted mackerel served with rice on dining table appetizing composition no text no logo",
+      "tts_text": "ข้าวร้อนจานเดียวก็อร่อย แค่ทอดปลาอินทรีหอมเค็มก็พร้อมกิน ตอนนี้โปรเหลือห้าสิบสองบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic vacuum sealed fish packages stacked neatly freezer storage scene no text no logo",
+      "tts_text": "แพ็คสุญญากาศเก็บได้นาน หยิบทอดเมื่อไรก็สะดวก ปลาอินทรีหอมเค็มเหลือห้าสิบสองบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up salted dried fish texture inside vacuum pack macro food photography no text no logo",
+      "tts_text": "ชิ้นใหญ่ เนื้อแน่น รสหอมเค็มกำลังดี ทอดแล้วอร่อยมาก ตอนนี้เหลือห้าสิบสองบาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person preparing salted dried mackerel for frying in kitchen cutting board scene no text no logo",
+      "tts_text": "ทำกับข้าวง่ายขึ้น แค่เอาออกจากแพ็คแล้วทอดได้เลย ตอนนี้ปลาอินทรีหอมเค็มเหลือห้าสิบสองบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cooked fried salted mackerel close-up crispy golden surface appetizing lighting no text no logo",
+      "tts_text": "ทอดแล้วหอมเค็มกำลังดี กินกับข้าวสวยอร่อยมาก ตอนนี้เหลือห้าสิบสองบาท ราคานี้ต้องรีบสั่ง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic freezer drawer filled with vacuum sealed fish packs organized neatly no text no logo",
+      "tts_text": "ซื้อเก็บไว้ทำกินได้หลายมื้อ แพ็คสุญญากาศสะดวกมาก ตอนนี้เหลือห้าสิบสองบาท รีบกดก่อนหมดล็อต",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen dining scene family meal fried salted mackerel served with rice no text no logo",
+      "tts_text": "มื้อครอบครัวก็ง่าย ทอดปลาอินทรีหอมเค็มจานเดียวจบ ตอนนี้โปรเหลือห้าสิบสองบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic vacuum sealed fish package being opened on kitchen counter no text no logo",
+      "tts_text": "เปิดแพ็คแล้วทอดได้ทันที ไม่ต้องเตรียมเยอะ ตอนนี้ปลาอินทรีหอมเค็มเหลือห้าสิบสองบาท รีบสั่งด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic plated fried fish with dipping sauce on wooden table appetizing food styling no text no logo",
+      "tts_text": "กินกับน้ำจิ้มซีฟู้ดยิ่งอร่อย ปลาอินทรีหอมเค็มชิ้นใหญ่คุ้มมาก ตอนนี้เหลือห้าสิบสองบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person placing fish package into freezer storage home kitchen no text no logo",
+      "tts_text": "เก็บง่าย ไม่กินวันนี้ก็แช่ไว้ได้ แพ็คสุญญากาศสะดวก ตอนนี้เหลือห้าสิบสองบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic seasoning fried fish with lime slice garnish appetizing scene no text no logo",
+      "tts_text": "บีบมะนาวนิดเดียว หอมอร่อยเพิ่มทันที ปลาอินทรีหอมเค็มตอนนี้เหลือห้าสิบสองบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic food prep kitchen scene fried fish served with vegetables minimal composition no text no logo",
+      "tts_text": "ทำกับข้าวง่าย ประหยัดเวลา แค่ทอดก็พร้อมกิน ตอนนี้ปลาอินทรีหอมเค็มเหลือห้าสิบสองบาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fried fish served in lunch box meal prep lifestyle shot no text no logo",
+      "tts_text": "ทำข้าวกล่องก็สะดวก ทอดปลาอินทรีหอมเค็มใส่กล่องจบ ตอนนี้เหลือห้าสิบสองบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic vacuum sealed fish packs arranged on wooden table natural daylight no text no logo",
+      "tts_text": "ชิ้นใหญ่คุ้มราคา ซื้อไว้ทำกินได้หลายครั้ง ตอนนี้เหลือห้าสิบสองบาท รีบกดก่อนหมดล็อต",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person cooking fried fish in pan sizzling oil cinematic cooking shot no text no logo",
+      "tts_text": "แค่ตั้งกระทะก็ได้กับข้าวหอมๆ ทันที ปลาอินทรีหอมเค็มเหลือห้าสิบสองบาท รีบกดตอนยังมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic plated fried fish with rice and vegetables balanced meal scene no text no logo",
+      "tts_text": "มื้อธรรมดาก็อร่อยขึ้นทันที แค่ทอดปลาอินทรีหอมเค็ม ตอนนี้เหลือห้าสิบสองบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic freezer storage filled with vacuum sealed fish packages organized neat no text no logo",
+      "tts_text": "ซื้อเก็บไว้กินได้หลายวัน แพ็คสุญญากาศสะดวกมาก ตอนนี้เหลือห้าสิบสองบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up crispy fried fish texture macro food photography no text no logo",
+      "tts_text": "ทอดแล้วเนื้อแน่น หอมเค็มกำลังดี กินกับข้าวสวยฟินมาก ตอนนี้เหลือห้าสิบสองบาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person serving fried fish on plate kitchen serving scene no text no logo",
+      "tts_text": "เสิร์ฟง่าย ได้กับข้าวอร่อยทันที ปลาอินทรีหอมเค็มตอนนี้เหลือห้าสิบสองบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fried fish placed beside chili sauce bowl rustic wooden table no text no logo",
+      "tts_text": "กินกับน้ำจิ้มเผ็ดนิดเดียว อร่อยเพิ่มขึ้นมาก ตอนนี้ปลาอินทรีหอมเค็มเหลือห้าสิบสองบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic meal prep table arranging fried fish portions into containers no text no logo",
+      "tts_text": "เตรียมอาหารล่วงหน้าก็สะดวก แค่ทอดแล้วแบ่งเก็บได้ ตอนนี้เหลือห้าสิบสองบาท รีบสั่งด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic vacuum sealed fish pack hero shot clean studio lighting minimal background no text no logo",
+      "tts_text": "ปลาอินทรีหอมเค็มแพ็คสุญญากาศ ชิ้นใหญ่คุ้มราคา ตอนนี้โปรเหลือห้าสิบสองบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic final hero shot fried salted mackerel served on plate warm cinematic lighting minimal background no text no logo",
+      "tts_text": "โปรแรงรอบนี้ลดหนัก ปลาอินทรีหอมเค็มทอดง่าย อร่อยทันที ตอนนี้เหลือห้าสิบสองบาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1733915263174870110": [
+    {
+      "visual_prompt": "Photorealistic young woman riding classic city bicycle with front basket along sunny urban street, natural daylight, lifestyle cinematic scene, 9:16, no text, no logo",
+      "tts_text": "ใครอยากได้จักรยานขี่สบาย จักรยานผู้หญิงพร้อมตะกร้าหน้าพกของได้เยอะ ปั่นง่าย ใช้ได้ทุกวัน ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up woman placing shopping bag into bicycle front basket before riding, photorealistic outdoor scene, 9:16, no text, no logo",
+      "tts_text": "ไปตลาดหรือทำธุระสะดวกมาก จักรยานผู้หญิงพร้อมตะกร้าหน้าช่วยใส่ของได้สบาย ปั่นง่ายสุดๆ ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Young woman cycling slowly in park path enjoying relaxed ride on city bicycle, photorealistic warm lighting, 9:16, no text, no logo",
+      "tts_text": "อยากปั่นชิลๆทุกวัน จักรยานผู้หญิงขี่นุ่ม เบาะนั่งสบาย ใช้งานง่ายมาก ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท โปรแรงต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up hands adjusting bicycle seat height before riding on city street, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ปรับเบาะง่ายขี่สบายขึ้น จักรยานผู้หญิงพร้อมตะกร้าหน้าเหมาะใช้ทุกวัน ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Woman riding vintage style city bicycle across quiet residential street, cinematic daylight, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ขี่ไปทำงานหรือไปเที่ยวก็สะดวก จักรยานผู้หญิงขี่ง่าย น้ำหนักกำลังดี ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up rotating bicycle wheel while riding slowly on smooth road, photorealistic motion shot, 9:16, no text, no logo",
+      "tts_text": "ล้อหมุนลื่นปั่นสบายมาก จักรยานผู้หญิงใช้ง่าย เหมาะใช้ทุกวัน ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งตอนยังมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Woman parking classic city bicycle near cafe with basket full of flowers, photorealistic lifestyle shot, 9:16, no text, no logo",
+      "tts_text": "ปั่นไปคาเฟ่ก็สวยสะดวก จักรยานผู้หญิงพร้อมตะกร้าหน้าใส่ของได้เยอะ ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Young woman smiling while walking beside parked city bicycle on sidewalk, photorealistic urban scene, 9:16, no text, no logo",
+      "tts_text": "ขี่ง่ายไม่ต้องออกแรงมาก จักรยานผู้หญิงเหมาะใช้ในเมืองทุกวัน ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up front basket of bicycle holding groceries while parked outdoors, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ตะกร้าใส่ของได้เยอะมาก จักรยานผู้หญิงช่วยให้ไปซื้อของสะดวกสุดๆ ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบกดตอนโปรยังอยู่",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Woman cycling slowly along riverside walkway enjoying sunny morning ride, photorealistic cinematic lighting, 9:16, no text, no logo",
+      "tts_text": "อยากออกกำลังกายเบาๆทุกวัน จักรยานผู้หญิงขี่สบาย ใช้งานง่ายมาก ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up hands holding bicycle handlebar while riding in park, photorealistic lifestyle shot, 9:16, no text, no logo",
+      "tts_text": "จับแฮนด์ถนัดควบคุมง่าย จักรยานผู้หญิงปั่นลื่น เหมาะใช้ทุกวัน ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Young woman loading small bag into bicycle basket before riding, photorealistic outdoor scene, 9:16, no text, no logo",
+      "tts_text": "พกของไปไหนก็สะดวก จักรยานผู้หญิงพร้อมตะกร้าหน้าใส่ของได้ครบ ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งตอนยังมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Woman cycling through quiet neighborhood street in afternoon sunlight, photorealistic cinematic scene, 9:16, no text, no logo",
+      "tts_text": "ขี่ไปทำธุระใกล้บ้านง่ายมาก จักรยานผู้หญิงปั่นสบาย ใช้งานได้ทุกวัน ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up elegant brown bicycle saddle under warm sunlight, photorealistic detail shot, 9:16, no text, no logo",
+      "tts_text": "เบาะนั่งนุ่มขี่สบาย จักรยานผู้หญิงช่วยให้ปั่นได้นานไม่เมื่อย ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Young woman stopping bicycle near park bench and smiling while holding handlebar, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ขี่เที่ยวเล่นก็สนุก จักรยานผู้หญิงปั่นง่าย ใช้งานสะดวกมาก ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท โปรแรงต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up bicycle pedals rotating slowly while riding along smooth pavement, photorealistic motion capture, 9:16, no text, no logo",
+      "tts_text": "ปั่นลื่นไม่ฝืด จักรยานผู้หญิงช่วยให้ขี่สบายทุกวัน ใช้งานง่ายสุดๆ ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Woman parking bicycle near grocery store entrance with basket full of shopping items, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ไปซื้อของใกล้บ้านสะดวกมาก จักรยานผู้หญิงพร้อมตะกร้าหน้าใส่ของได้เยอะ ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Young woman cycling through tree-lined park pathway enjoying relaxing ride, photorealistic cinematic lighting, 9:16, no text, no logo",
+      "tts_text": "อยากปั่นชิลๆทุกวันต้องมี จักรยานผู้หญิงขี่ง่าย เบาสบาย ใช้ได้จริง ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up bicycle front basket decorated with flowers while parked outdoors, photorealistic lifestyle detail, 9:16, no text, no logo",
+      "tts_text": "ตะกร้าหน้าพกของได้ครบ จักรยานผู้หญิงใช้งานสะดวกมาก เหมาะใช้ทุกวัน ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Woman riding city bicycle slowly across pedestrian bridge at sunset, cinematic lighting, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ปั่นออกกำลังกายเบาๆสบายมาก จักรยานผู้หญิงช่วยให้ขี่ได้ทุกวัน ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up bicycle handlebar bell being pressed while riding through park, photorealistic detail, 9:16, no text, no logo",
+      "tts_text": "ขี่ง่ายควบคุมสบาย จักรยานผู้หญิงเหมาะใช้ในเมืองทุกวัน ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท โปรแรงต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Young woman walking bicycle along sunny street smiling casually, photorealistic lifestyle shot, 9:16, no text, no logo",
+      "tts_text": "พกไปไหนก็สะดวก จักรยานผู้หญิงขี่ง่าย ใช้งานได้จริงทุกวัน ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Woman riding classic bicycle through quiet residential neighborhood morning light, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ขี่ไปทำงานหรือไปเที่ยวสบาย จักรยานผู้หญิงปั่นลื่น ใช้งานง่ายมาก ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up elegant city bicycle parked beside cafe entrance in afternoon light, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ใช้งานได้ทุกวันคุ้มมาก จักรยานผู้หญิงพร้อมตะกร้าหน้าใส่ของสะดวก ตอนนี้ราคาเหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบสั่งตอนยังมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Young woman riding city bicycle through open park field smiling confidently, photorealistic cinematic shot, 9:16, no text, no logo",
+      "tts_text": "อยากเริ่มปั่นจักรยานต้องจัด จักรยานผู้หญิงขี่ง่าย สบาย ใช้งานได้จริง ตอนนี้เหลือหนึ่งพันเจ็ดร้อยหนึ่งบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730515834996755177": [
+    {
+      "visual_prompt": "9:16 photorealistic high capacity power bank placed on modern desk with smartphone charging cable connected soft cinematic lighting no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน พาวเวอร์แบงค์ความจุห้าหมื่นแอม ชาร์จได้หลายรอบ ใช้ทั้งวันสบาย ตอนนี้โปรเหลือสองร้อยยี่สิบเจ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic traveler charging smartphone outdoors using power bank lifestyle scene no text no logo",
+      "tts_text": "ออกนอกบ้านแบตหมดบ่อยไหม พาวเวอร์แบงค์ห้าหมื่นแอมตัวนี้ช่วยได้ ชาร์จได้หลายเครื่อง ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบสั่งด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power bank charging multiple devices simultaneously on wooden table minimal background no text no logo",
+      "tts_text": "เครื่องเดียวชาร์จได้หลายอุปกรณ์ เพราะความจุห้าหมื่นแอม รุ่นนี้คุ้มมาก ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic commuter charging phone on train using power bank modern lifestyle scene no text no logo",
+      "tts_text": "เดินทางทั้งวันไม่ต้องกลัวแบตหมด พาวเวอร์แบงค์ห้าหมื่นแอมเอาอยู่ ตอนนี้โปรเหลือสองร้อยยี่สิบเจ็ดบาท ถูกมากจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic modern desk flat lay showing power bank cables and smartphone minimal composition no text no logo",
+      "tts_text": "สายใช้งานหนักต้องมี ความจุห้าหมื่นแอม ชาร์จได้หลายรอบ รุ่นนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดตอนยังมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic student charging phone at university desk using power bank no text no logo",
+      "tts_text": "เรียนทั้งวันก็ยังชาร์จได้ เพราะพาวเวอร์แบงค์ห้าหมื่นแอมสำรองไฟยาว ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic office desk late evening charging phone using power bank warm ambient lighting no text no logo",
+      "tts_text": "ทำงานดึกไม่ต้องหาปลั๊กให้วุ่นวาย พาวเวอร์แบงค์ห้าหมื่นแอมเอาอยู่ ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic charging smartphone while walking city street using power bank handheld shot no text no logo",
+      "tts_text": "เดินทั้งวันก็ยังมีไฟใช้ ความจุห้าหมื่นแอมช่วยได้ ตอนนี้โปรเหลือสองร้อยยี่สิบเจ็ดบาท ราคานี้ต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power bank charging tablet on coffee shop table lifestyle scene no text no logo",
+      "tts_text": "นั่งคาเฟ่ก็ชาร์จแท็บเล็ตได้สบาย เพราะความจุห้าหมื่นแอม ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic traveler airport waiting area charging phone with power bank cinematic shot no text no logo",
+      "tts_text": "รอเครื่องบินนานก็ไม่ต้องกลัวแบตหมด พาวเวอร์แบงค์ห้าหมื่นแอมช่วยได้ ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up power bank ports and cables plugged in simultaneously cinematic macro shot no text no logo",
+      "tts_text": "ชาร์จหลายพอร์ตพร้อมกันได้สบาย เพราะความจุห้าหมื่นแอม ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic backpack pocket showing compact power bank partially visible outdoor scene no text no logo",
+      "tts_text": "พกติดกระเป๋าไว้สบายใจ แบตหมดเมื่อไรเสียบใช้ได้ทันที ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดตอนยังมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power bank connected to phone fast charging glow effect minimal scene no text no logo",
+      "tts_text": "ชาร์จไวทันใจ ใช้งานง่าย รุ่นความจุห้าหมื่นแอมกำลังขายดี ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand holding power bank compact size outdoor daylight no text no logo",
+      "tts_text": "ขนาดพกง่าย แต่ความจุห้าหมื่นแอมใช้งานยาวมาก ตอนนี้โปรเหลือสองร้อยยี่สิบเจ็ดบาท ราคานี้ต้องรีบสั่ง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic modern desk flat lay showing power bank beside laptop and smartphone minimal composition no text no logo",
+      "tts_text": "สายทำงานต้องมี พาวเวอร์แบงค์ห้าหมื่นแอมชาร์จได้ทั้งวัน ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดก่อนหมดล็อต",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic night camping scene charging phone using power bank warm ambient lighting no text no logo",
+      "tts_text": "เที่ยวกลางคืนก็ไม่ต้องกลัวไฟหมด พาวเวอร์แบงค์ห้าหมื่นแอมเอาอยู่ ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up battery indicator lights glowing on power bank dark background no text no logo",
+      "tts_text": "ดูระดับแบตง่าย ใช้งานสะดวก รุ่นความจุห้าหมื่นแอมคุ้มมาก ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person placing power bank into small bag compact lifestyle shot no text no logo",
+      "tts_text": "พกติดตัวไว้สบายใจ ใช้ได้หลายวันไม่ต้องชาร์จบ่อย ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic charging wireless earbuds and smartphone simultaneously using power bank no text no logo",
+      "tts_text": "ชาร์จมือถือหูฟังพร้อมกันได้สบาย เพราะความจุห้าหมื่นแอม ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic office meeting table feet view showing charging devices using power bank no text no logo",
+      "tts_text": "ประชุมทั้งวันก็ยังมีไฟใช้ พาวเวอร์แบงค์ห้าหมื่นแอมช่วยได้ ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบสั่งด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor park bench charging phone using power bank sunny daylight no text no logo",
+      "tts_text": "ออกไปข้างนอกทั้งวันก็ยังชาร์จได้สบาย รุ่นความจุห้าหมื่นแอมคุ้มสุด ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up plugging cable into power bank port cinematic macro focus no text no logo",
+      "tts_text": "เสียบปุ๊บชาร์จปั๊บ ใช้งานง่ายมาก พาวเวอร์แบงค์ห้าหมื่นแอมขายดี ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic stylish flat lay showing power bank with cables arranged neatly minimal background no text no logo",
+      "tts_text": "เครื่องเดียวจบ ใช้ได้ทั้งมือถือแท็บเล็ต เพราะความจุห้าหมื่นแอม ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบสั่งด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic traveler charging phone while sitting in car passenger seat lifestyle shot no text no logo",
+      "tts_text": "เดินทางไกลก็ไม่ต้องกลัวแบตหมด พาวเวอร์แบงค์ห้าหมื่นแอมเอาอยู่ ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic final hero product shot power bank dramatic studio lighting minimal background no text no logo",
+      "tts_text": "โปรแรงรอบนี้ลดหนัก พาวเวอร์แบงค์ความจุห้าหมื่นแอม ชาร์จไว ใช้คุ้ม ตอนนี้เหลือสองร้อยยี่สิบเจ็ดบาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732833082849134288": [
+    {
+      "visual_prompt": "Photorealistic multipurpose grill pan placed on portable stove cooking meat and vegetables outdoors picnic setting, natural daylight, cinematic lighting, 9:16, no text, no logo",
+      "tts_text": "สายปิ้งย่างต้องดู เตาย่างอเนกประสงค์พกง่าย ใช้ได้ทั้งบ้านและแคมป์ ทำอาหารสะดวกมาก ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up grilled meat sizzling on multipurpose grill pan with steam rising, photorealistic cooking scene, 9:16, no text, no logo",
+      "tts_text": "อยากปิ้งย่างง่ายๆที่บ้าน เตาย่างอเนกประสงค์ตัวนี้ใช้สะดวก ทำอาหารได้หลายแบบ ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Family picnic outdoor using portable multipurpose grill pan cooking vegetables and seafood, photorealistic lifestyle shot, 9:16, no text, no logo",
+      "tts_text": "ไปแคมป์หรือปาร์ตี้ก็ใช้ได้ เตาย่างอเนกประสงค์พกง่าย น้ำหนักเบา ใช้งานสะดวก ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท โปรแรงต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Person placing multipurpose grill pan on tabletop stove preparing barbecue at home kitchen, photorealistic, 9:16, no text, no logo",
+      "tts_text": "อยากทำปิ้งย่างไม่ต้องร้าน เตาย่างอเนกประสงค์ช่วยทำอาหารได้ทันที ใช้ง่ายสุดๆ ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Top view grilled seafood cooking on portable multipurpose grill pan outdoor camping, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ปิ้งหมู ปิ้งทะเลทำได้หมด เตาย่างอเนกประสงค์ใช้งานสะดวก ทำอาหารสนุกขึ้น ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท รีบกดก่อนราคาขึ้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Portable multipurpose grill pan placed on picnic table beside ingredients ready for barbecue, photorealistic scene, 9:16, no text, no logo",
+      "tts_text": "ของมันต้องมีสายปิ้งย่าง เตาย่างอเนกประสงค์พกง่าย ใช้ได้ทุกที่ ทำอาหารสะดวกมาก ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up vegetables grilling on non-stick multipurpose grill pan with light smoke, photorealistic, 9:16, no text, no logo",
+      "tts_text": "อยากกินปิ้งย่างเมื่อไรก็ได้ เตาย่างอเนกประสงค์ตัวนี้ใช้สะดวก ล้างง่าย ใช้ได้จริง ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Couple cooking barbecue together using portable multipurpose grill pan at balcony evening lighting, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ทำปาร์ตี้เล็กๆที่บ้านง่ายมาก เตาย่างอเนกประสงค์ใช้งานสะดวก ปิ้งย่างได้ทันที ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Hands placing meat slices onto heated multipurpose grill pan with visible sizzling effect, photorealistic, 9:16, no text, no logo",
+      "tts_text": "อยากปิ้งย่างไวไม่ต้องรอนาน เตาย่างอเนกประสงค์ตัวนี้ร้อนเร็ว ใช้ง่ายมาก ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท โปรแรงต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Portable multipurpose grill pan displayed on outdoor wooden table ready for barbecue, photorealistic lighting, 9:16, no text, no logo",
+      "tts_text": "พกไปเที่ยวก็สะดวก เตาย่างอเนกประสงค์น้ำหนักเบา ใช้ได้หลายเมนู ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท รีบสั่งก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Family gathering grilling together using portable multipurpose grill pan in garden, photorealistic, 9:16, no text, no logo",
+      "tts_text": "รวมเพื่อนทำปิ้งย่างสนุกขึ้น เตาย่างอเนกประสงค์ช่วยทำอาหารง่าย ใช้ได้ทุกบ้าน ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up grill pan surface showing oil channel design while cooking meat, photorealistic cooking detail, 9:16, no text, no logo",
+      "tts_text": "ออกแบบใช้งานสะดวก เตาย่างอเนกประสงค์ช่วยปิ้งย่างง่าย ทำอาหารได้หลายแบบ ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Person cleaning multipurpose grill pan easily at kitchen sink after cooking, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ทำอาหารเสร็จล้างง่ายมาก เตาย่างอเนกประสงค์ใช้งานสะดวกสุดๆ เหมาะทุกบ้าน ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท รีบกดตอนยังมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Outdoor camping barbecue using portable multipurpose grill pan cooking sausages and vegetables, photorealistic, 9:16, no text, no logo",
+      "tts_text": "สายแคมป์ต้องมี เตาย่างอเนกประสงค์พกง่าย ปิ้งย่างได้ทุกที่ ใช้งานสะดวก ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Top angle multipurpose grill pan cooking assorted meats at home dining table, photorealistic lighting, 9:16, no text, no logo",
+      "tts_text": "อยากกินปิ้งย่างเมื่อไรก็ได้ เตาย่างอเนกประสงค์ตัวนี้ช่วยได้ทันที ใช้ง่ายสุดๆ ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Portable multipurpose grill pan set displayed with cooking ingredients on kitchen counter, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ของมันต้องมีติดบ้าน เตาย่างอเนกประสงค์ใช้งานสะดวก ทำได้หลายเมนู ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท โปรแรงรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up smoke rising from grilled seafood on portable multipurpose grill pan, photorealistic cinematic lighting, 9:16, no text, no logo",
+      "tts_text": "กลิ่นปิ้งย่างหอมทันที เตาย่างอเนกประสงค์ทำอาหารง่าย ใช้ได้ทุกบ้าน ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท รีบสั่งก่อนหมดโปร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Friends cooking barbecue together using portable grill pan at outdoor party evening scene, photorealistic, 9:16, no text, no logo",
+      "tts_text": "จัดปาร์ตี้ปิ้งย่างสบายๆ เตาย่างอเนกประสงค์พกง่าย ใช้งานสะดวกมาก ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Hands placing vegetables on heated multipurpose grill pan showing even cooking surface, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ปิ้งผัก ปิ้งหมูทำได้หมด เตาย่างอเนกประสงค์ใช้ง่าย ทำอาหารได้หลากหลาย ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Portable grill pan packed inside camping gear bag ready for trip, photorealistic travel scene, 9:16, no text, no logo",
+      "tts_text": "ไปเที่ยวก็พกง่าย เตาย่างอเนกประสงค์น้ำหนักเบา ใช้งานได้ทุกที่ ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Close-up non-stick grill surface with food cooking evenly under warm lighting, photorealistic, 9:16, no text, no logo",
+      "tts_text": "ใช้ง่ายไม่ติดกระทะ เตาย่างอเนกประสงค์ช่วยให้ทำอาหารสะดวกมาก ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท รีบสั่งตอนยังมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Couple grilling dinner together at home balcony using portable multipurpose grill pan, photorealistic, 9:16, no text, no logo",
+      "tts_text": "อยากทำมื้อพิเศษที่บ้านง่ายๆ เตาย่างอเนกประสงค์ช่วยปิ้งย่างได้ทันที ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Portable grill pan placed on wooden outdoor table surrounded by barbecue ingredients, photorealistic lighting, 9:16, no text, no logo",
+      "tts_text": "สายปิ้งย่างต้องจัด เตาย่างอเนกประสงค์ใช้งานสะดวก ทำได้หลายเมนู ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท โปรแรงต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Top view grill pan cooking mixed meats with smoke rising beautifully, photorealistic cinematic lighting, 9:16, no text, no logo",
+      "tts_text": "ทำปิ้งย่างเมื่อไรก็ง่าย เตาย่างอเนกประสงค์ตัวนี้ช่วยให้สะดวกสุดๆ ตอนนี้ราคาเหลือหนึ่งร้อยหกสิบห้าบาท รีบสั่งก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "Portable multipurpose grill pan ready for cooking on small tabletop stove indoors, photorealistic kitchen scene, 9:16, no text, no logo",
+      "tts_text": "มีติดบ้านไว้ไม่พลาด เตาย่างอเนกประสงค์ใช้งานง่าย ทำอาหารได้หลายแบบ ตอนนี้เหลือหนึ่งร้อยหกสิบห้าบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731759248243460950": [
+    {
+      "visual_prompt": "9:16 photorealistic woman cleaning kitchen floor using stainless spin mop bucket realistic home lighting no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ถูพื้นแล้วเหนื่อยใช่ไหม ชุดถังปั่นพร้อมไม้ถูพื้นช่วยบิดแห้งไว ไม่เลอะมือ ตอนนี้โปรเหลือหนึ่งร้อยหนึ่งบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person spinning mop in bucket water splashing slightly realistic indoor scene no text no logo",
+      "tts_text": "ใครขี้เกียจบิดผ้าเอง ชุดถังปั่นพร้อมไม้ถูพื้นปั่นแห้งเร็ว ใช้งานง่าย พื้นสะอาดไว ตอนนี้ราคาเหลือหนึ่งร้อยหนึ่งบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cleaning living room floor with spin mop realistic house environment no text no logo",
+      "tts_text": "บ้านสกปรกแค่ไหนก็เอาอยู่ ชุดถังปั่นพร้อมไม้ถูพื้นถูง่าย เบาแรง ปั่นแห้งทันที โปรแรงเหลือหนึ่งร้อยหนึ่งบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up spin mop head touching shiny tile floor realistic lighting no text no logo",
+      "tts_text": "ถูพื้นให้สะอาดเร็วขึ้น ชุดถังปั่นพร้อมไม้ถูพื้นหมุนลื่น ปั่นแห้งไว ไม่ต้องเลอะมือ ตอนนี้เหลือหนึ่งร้อยหนึ่งบาท ต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cleaning bathroom tiles using spin mop bucket set realistic bathroom scene no text no logo",
+      "tts_text": "ห้องน้ำลื่นถูยากใช่ไหม ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้ถูง่าย พื้นแห้งไว โปรวันนี้เหลือหนึ่งร้อยหนึ่งบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman spinning mop handle pressing pedal bucket mechanism realistic kitchen scene no text no logo",
+      "tts_text": "เหยียบปุ๊บแห้งปั๊บ ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้ทำความสะอาดเร็ว ไม่ต้องบิดเอง ตอนนี้ราคาเหลือหนึ่งร้อยหนึ่งบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person cleaning wooden floor using spin mop realistic living room background no text no logo",
+      "tts_text": "พื้นไม้ก็ใช้ได้ ชุดถังปั่นพร้อมไม้ถูพื้นถูสะอาด เบาแรง ปั่นแห้งทันที โปรลดเหลือหนึ่งร้อยหนึ่งบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bucket with stainless spinner rotating mop head realistic close-up no text no logo",
+      "tts_text": "ถังสแตนเลสหมุนลื่น ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้ผ้าแห้งเร็ว ไม่ต้องเปื้อนมือ โปรตอนนี้เหลือหนึ่งร้อยหนึ่งบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cleaning apartment floor using spin mop bucket set indoor daylight no text no logo",
+      "tts_text": "คอนโดก็ต้องมี ชุดถังปั่นพร้อมไม้ถูพื้นถูง่าย ประหยัดเวลา พื้นสะอาดไว ตอนนี้เหลือหนึ่งร้อยหนึ่งบาท ต้องรีบซื้อ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman carrying spin mop bucket across room realistic household environment no text no logo",
+      "tts_text": "ยกง่าย ใช้สะดวก ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้ทำความสะอาดไว ไม่ต้องออกแรงเยอะ โปรเหลือหนึ่งร้อยหนึ่งบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person replacing mop head on spin mop realistic cleaning setup no text no logo",
+      "tts_text": "ผ้าม็อบเปลี่ยนง่าย ชุดถังปั่นพร้อมไม้ถูพื้นใช้ได้นาน ถูสะอาดทุกมุม ตอนนี้ราคาเหลือหนึ่งร้อยหนึ่งบาท รีบสั่งทันที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cleaning dining room floor with spin mop realistic indoor lighting no text no logo",
+      "tts_text": "พื้นเลอะคราบหนักก็เอาอยู่ ชุดถังปั่นพร้อมไม้ถูพื้นถูไว ปั่นแห้งเร็ว โปรแรงเหลือหนึ่งร้อยหนึ่งบาท ต้องรีบกดแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bucket filled with clean water and spinning mop realistic close-up no text no logo",
+      "tts_text": "น้ำสกปรกก็ปั่นออกไว ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้ถูต่อได้ทันที ตอนนี้เหลือหนึ่งร้อยหนึ่งบาท รีบซื้อก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person cleaning hallway tiles using spin mop realistic apartment setting no text no logo",
+      "tts_text": "ถูทางเดินก็สบาย ชุดถังปั่นพร้อมไม้ถูพื้นหมุนลื่น ใช้ง่าย พื้นสะอาดไว โปรวันนี้เหลือหนึ่งร้อยหนึ่งบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman wiping kitchen floor with spin mop bucket beside realistic lighting no text no logo",
+      "tts_text": "ทำความสะอาดครัวง่ายขึ้น ชุดถังปั่นพร้อมไม้ถูพื้นช่วยบิดแห้งไว ไม่ต้องเลอะมือ ตอนนี้ราคาเหลือหนึ่งร้อยหนึ่งบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up pressing bucket pedal spinning mop fast realistic lighting no text no logo",
+      "tts_text": "เหยียบปั่นแห้งทันที ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้ถูเสร็จเร็ว ประหยัดแรง โปรแรงเหลือหนึ่งร้อยหนึ่งบาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cleaning office floor using spin mop bucket realistic workplace setting no text no logo",
+      "tts_text": "ร้านหรือออฟฟิศก็ใช้ดี ชุดถังปั่นพร้อมไม้ถูพื้นถูสะอาดไว ปั่นแห้งเร็ว ตอนนี้เหลือหนึ่งร้อยหนึ่งบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic carrying spin mop bucket upstairs realistic home interior no text no logo",
+      "tts_text": "น้ำหนักเบา เคลื่อนง่าย ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้ทำความสะอาดทุกชั้นสะดวก โปรเหลือหนึ่งร้อยหนึ่งบาท ต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cleaning bedroom floor with spin mop realistic cozy home lighting no text no logo",
+      "tts_text": "ห้องนอนก็สะอาดไว ชุดถังปั่นพร้อมไม้ถูพื้นหมุนลื่น ถูง่าย พื้นแห้งเร็ว โปรวันนี้เหลือหนึ่งร้อยหนึ่งบาท รีบซื้อ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic replacing water in spin mop bucket realistic cleaning process no text no logo",
+      "tts_text": "เปลี่ยนน้ำง่าย ใช้สะดวก ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้ถูต่อได้ไว ตอนนี้ราคาเหลือหนึ่งร้อยหนึ่งบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spinning mop head drying quickly inside bucket realistic lighting no text no logo",
+      "tts_text": "ปั่นแห้งไว ไม่ต้องรอ ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้ถูบ้านเสร็จเร็ว โปรแรงเหลือหนึ่งร้อยหนึ่งบาท ของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cleaning balcony tiles using spin mop realistic outdoor balcony no text no logo",
+      "tts_text": "ระเบียงก็ถูง่าย ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้พื้นสะอาดไว ไม่ต้องออกแรงเยอะ ตอนนี้เหลือหนึ่งร้อยหนึ่งบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman smiling while cleaning floor using spin mop bucket realistic home scene no text no logo",
+      "tts_text": "ทำความสะอาดง่ายขึ้นจริง ชุดถังปั่นพร้อมไม้ถูพื้นใช้ง่าย ปั่นแห้งเร็ว โปรวันนี้เหลือหนึ่งร้อยหนึ่งบาท ต้องรีบซื้อ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cleaning marble floor using spin mop bucket realistic indoor lighting no text no logo",
+      "tts_text": "พื้นหินอ่อนก็ถูได้ ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้ถูไว พื้นเงาสะอาด ตอนนี้ราคาเหลือหนึ่งร้อยหนึ่งบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up mop head absorbing water on tile floor realistic cleaning scene no text no logo",
+      "tts_text": "ดูดน้ำดี ถูสะอาดเร็ว ชุดถังปั่นพร้อมไม้ถูพื้นช่วยให้บ้านสะอาดไว โปรแรงเหลือหนึ่งร้อยหนึ่งบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1734341532398225294": [
+    {
+      "visual_prompt": "9:16 photorealistic portable straw bottle exactly matching product design placed on café table lifestyle shot, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน! แก้วหลอดพกพาดีไซน์เก๋ พกง่าย ดื่มสะดวก ใส่กระเป๋าได้ทุกวัน ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person holding portable straw bottle while walking outdoors, realistic lifestyle scene, no text, no logo",
+      "tts_text": "ใครชอบพกน้ำออกบ้านต้องมี แก้วหลอดพกพาดีไซน์เก๋ เปิดดื่มง่าย ไม่หกเลอะ ตอนนี้โปรโมชั่นเหลือหนึ่งร้อยสามสิบห้าบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable straw bottle placed inside handbag showing compact size, no text, no logo",
+      "tts_text": "กระเป๋าเล็กก็ใส่ได้ แก้วหลอดพกพาดีไซน์เก๋ ขนาดกำลังดี พกสะดวกทุกวัน ตอนนี้ลดเหลือหนึ่งร้อยสามสิบห้าบาท รีบสั่งด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic office desk scene with portable straw bottle next to laptop, no text, no logo",
+      "tts_text": "ทำงานทั้งวันต้องมีน้ำดื่ม แก้วหลอดพกพาดีไซน์เก๋ เปิดดื่มง่าย ใช้สะดวกมาก ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up drinking from portable straw bottle outdoors, no text, no logo",
+      "tts_text": "ไม่ต้องเปิดฝาบ่อย แก้วหลอดพกพาดีไซน์เก๋ ดื่มง่ายสะดวกทุกเวลา ตอนนี้ราคาแค่หนึ่งร้อยสามสิบห้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic school backpack side pocket holding portable straw bottle, no text, no logo",
+      "tts_text": "เด็กนักเรียนก็ใช้ดี แก้วหลอดพกพาดีไซน์เก๋ ใส่กระเป๋าสบายไม่เกะกะ ตอนนี้โปรแรงเหลือหนึ่งร้อยสามสิบห้าบาท รีบด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic gym environment with portable straw bottle placed near sports equipment, no text, no logo",
+      "tts_text": "สายออกกำลังกายต้องชอบ แก้วหลอดพกพาดีไซน์เก๋ ดื่มสะดวกพกง่ายทุกที่ ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic multiple portable straw bottles lined up on wooden table lifestyle shot, no text, no logo",
+      "tts_text": "ลายน่ารักใช้ได้ทุกวัย แก้วหลอดพกพาดีไซน์เก๋ เหมาะพกไปเรียนหรือทำงาน ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท รีบซื้อ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable straw bottle used during travel sitting on airplane tray table, no text, no logo",
+      "tts_text": "เดินทางบ่อยต้องมี แก้วหลอดพกพาดีไซน์เก๋ พกง่ายไม่เปลืองที่ ใช้สะดวกมาก ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic picnic scene with portable straw bottle on blanket outdoors, no text, no logo",
+      "tts_text": "ไปปิกนิกก็พกง่าย แก้วหลอดพกพาดีไซน์เก๋ ดื่มสะดวกไม่ต้องเปิดฝาบ่อย ตอนนี้ราคาเพียงหนึ่งร้อยสามสิบห้าบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable straw bottle on kitchen counter being filled with water, no text, no logo",
+      "tts_text": "เติมน้ำง่าย ใช้ได้ทุกวัน แก้วหลอดพกพาดีไซน์เก๋ เหมาะพกติดตัวตลอด ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand carrying portable straw bottle using wrist strap outdoors, no text, no logo",
+      "tts_text": "มีสายคล้องพกสะดวก แก้วหลอดพกพาดีไซน์เก๋ หิ้วง่ายไม่ต้องถือให้เมื่อย ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท รีบสั่ง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable straw bottle placed beside study desk books, no text, no logo",
+      "tts_text": "อ่านหนังสือนานๆ ต้องมีน้ำดื่ม แก้วหลอดพกพาดีไซน์เก๋ เปิดดื่มสะดวกมาก ตอนนี้โปรเหลือหนึ่งร้อยสามสิบห้าบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable straw bottle used in car cup holder driving scene, no text, no logo",
+      "tts_text": "ขับรถก็วางได้พอดี แก้วหลอดพกพาดีไซน์เก๋ หยิบดื่มง่ายระหว่างทาง ตอนนี้ราคาเหลือหนึ่งร้อยสามสิบห้าบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up lid opening mechanism of portable straw bottle, no text, no logo",
+      "tts_text": "เปิดปิดง่ายมาก แก้วหลอดพกพาดีไซน์เก๋ ใช้งานสะดวกทุกวัน ไม่ต้องยุ่งยาก ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท รีบด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic backpacker placing portable straw bottle into side pocket hiking scene, no text, no logo",
+      "tts_text": "สายเที่ยวต้องมีติดตัว แก้วหลอดพกพาดีไซน์เก๋ พกง่ายน้ำไม่หกเลอะ ตอนนี้โปรแรงเหลือหนึ่งร้อยสามสิบห้าบาท รีบซื้อ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable straw bottle placed on office meeting table, no text, no logo",
+      "tts_text": "ประชุมทั้งวันก็ยังสะดวก แก้วหลอดพกพาดีไซน์เก๋ ดื่มง่ายไม่ต้องเปิดฝา ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic student using portable straw bottle in classroom desk scene, no text, no logo",
+      "tts_text": "เด็กๆ ใช้ก็สะดวกมาก แก้วหลอดพกพาดีไซน์เก๋ น้ำไม่หกง่าย พกไปเรียนสบาย ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic travel suitcase packing portable straw bottle inside, no text, no logo",
+      "tts_text": "แพ็คกระเป๋าเที่ยวอย่าลืม แก้วหลอดพกพาดีไซน์เก๋ ใช้งานสะดวกทุกที่ ตอนนี้ลดเหลือหนึ่งร้อยสามสิบห้าบาท รีบด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable straw bottle on restaurant dining table lifestyle shot, no text, no logo",
+      "tts_text": "ไปกินข้าวนอกบ้านก็พกได้ แก้วหลอดพกพาดีไซน์เก๋ ใช้ดื่มสะดวกทุกเวลา ตอนนี้ราคาเพียงหนึ่งร้อยสามสิบห้าบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable straw bottle in gym bag compartment, no text, no logo",
+      "tts_text": "ใส่กระเป๋ายิมก็พอดี แก้วหลอดพกพาดีไซน์เก๋ พกง่ายไม่เปลืองพื้นที่ ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up drinking moment smiling lifestyle scene portable straw bottle, no text, no logo",
+      "tts_text": "ดื่มง่ายแค่เปิดหลอด แก้วหลอดพกพาดีไซน์เก๋ ใช้สะดวกมากทุกวัน ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท รีบสั่งเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable straw bottle placed on wooden bench park background, no text, no logo",
+      "tts_text": "ออกไปสวนก็พกสบาย แก้วหลอดพกพาดีไซน์เก๋ ดื่มน้ำง่ายทุกเวลา ตอนนี้โปรเหลือหนึ่งร้อยสามสิบห้าบาท รีบด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic family outing picnic using portable straw bottle, no text, no logo",
+      "tts_text": "ทั้งบ้านใช้ได้หมด แก้วหลอดพกพาดีไซน์เก๋ พกง่ายดื่มสะดวกทุกวัย ตอนนี้ราคาเหลือหนึ่งร้อยสามสิบห้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic stylish lifestyle table setup with portable straw bottle as main focus, no text, no logo",
+      "tts_text": "ของมันต้องมีจริงๆ แก้วหลอดพกพาดีไซน์เก๋ ใช้ง่ายพกสะดวกทุกวัน ตอนนี้โปรโมชั่นเหลือหนึ่งร้อยสามสิบห้าบาท รีบซื้อด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731921017822741798": [
     {
       "visual_prompt": "9:16 photorealistic real standing fan exactly as shown modern room natural daylight product hero shot no text no logo",
       "tts_text": "ดูนี่ก่อนทุกคน อากาศร้อนมาก พัดลมตั้งพื้นปรับแรงลมได้สามระดับ ลมแรง เสียงเงียบ ใช้ได้ทั้งบ้าน วันนี้เหลือสองร้อยเจ็ดสิบเอ็ดบาท รีบกดเลย",
