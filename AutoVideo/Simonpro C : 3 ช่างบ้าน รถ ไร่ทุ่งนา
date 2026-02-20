@@ -151,6 +151,256 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1731883236621518033": [
+    {
+      "visual_prompt": "9:16 photorealistic ไฟโซลาเซลล์สปอร์ตไลท์ตามภาพ แผงโซลาร์ด้านหลัง ตัวไฟด้านหน้า กล่องสินค้าอยู่ซ้าย รีโมตอยู่ล่างซ้าย ฉากบ้านสนามหญ้า no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ สว่างแรงไม่ต้องง้อไฟบ้าน ติดครั้งเดียวจบ ตอนนี้สามร้อยยี่สิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ไฟโซลาเซลล์ตามภาพ ซ้ายกล่องสินค้า ขวาแผงโซลาร์ ตัวไฟเด่นกลางภาพ ฉากบ้านกลางคืน no text no logo",
+      "tts_text": "ใครบ้านมืดอยู่ฟังนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ เปิดเองอัตโนมัติ กันฝนได้ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท รีบเลยของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ตัวไฟและแผงโซลาร์เหมือนภาพ รีโมตถือในมือด้านหน้า สนามหญ้าหลังบ้าน no text no logo",
+      "tts_text": "มึงฟังดีๆ ค่าไฟแพงใช่ไหม ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ใช้แดดล้วนๆ ไม่ต้องเสียบปลั๊ก ตอนนี้สามร้อยยี่สิบเอ็ดบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ไฟสปอร์ตไลท์โซลาร์ตามภาพ แผงตั้งข้างบ้าน กล่องวางซ้าย รีโมตด้านล่าง no text no logo",
+      "tts_text": "จะหน้าฝนแล้วนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ กันน้ำแน่น เปิดสว่างทั้งคืน ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ไฟโซลาเซลล์ติดผนังบ้าน แผงโซลาร์ตั้งข้างๆ กล่องสินค้าเห็นชัด no text no logo",
+      "tts_text": "ลานจอดรถมืดไหม ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ติดง่ายไม่ต้องเดินสาย ตอนนี้สามร้อยยี่สิบเอ็ดบาท ถูกกว่านี้ไม่มีแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ตัวไฟเปิดสว่างกลางคืน แผงโซลาร์ตั้งพื้น รีโมตวางข้างกล่อง no text no logo",
+      "tts_text": "ของมันต้องมี ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ สว่างแรงทั้งสวน ไม่ง้อไฟบ้าน ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ไฟและแผงจัดวางตามภาพต้นฉบับ ฉากหน้าบ้านตอนเย็น no text no logo",
+      "tts_text": "เตือนแล้วนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ เปิดอัตโนมัติ ปิดเองได้ ตอนนี้สามร้อยยี่สิบเอ็ดบาท รีบก่อนขึ้นราคา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ไฟติดกำแพงบ้าน แผงโซลาร์ข้างๆ รีโมตอยู่มือผู้ใช้ no text no logo",
+      "tts_text": "ใครขี้เกียจเดินสายไฟ ฟังนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ใช้แดดล้วนๆ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท หมดแล้วหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ตัวไฟและแผงเหมือนภาพ กล่องสินค้าวางซ้าย ฉากสนามหน้าบ้าน no text no logo",
+      "tts_text": "บ้านใครมืดอยู่นี่ทางออก ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ สว่างแรง เปิดทั้งคืน ตอนนี้สามร้อยยี่สิบเอ็ดบาท จะรออะไร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ไฟโซลาเซลล์และแผงวางตามภาพ แสงแดดตอนกลางวัน no text no logo",
+      "tts_text": "กลางวันชาร์จ กลางคืนสว่าง ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ไม่ต้องเสียค่าไฟ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท รีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ไฟเปิดสว่างในสวน แผงโซลาร์ตั้งพื้น กล่องอยู่ข้างๆ no text no logo",
+      "tts_text": "ส่องสว่างทั้งสวนไม่ต้องลากสาย ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ตอนนี้สามร้อยยี่สิบเอ็ดบาท ถูกจนต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ไฟติดผนังบ้านตอนกลางคืน แผงตั้งด้านข้าง รีโมตวางหน้า no text no logo",
+      "tts_text": "ไฟดับก็ไม่กลัว ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ใช้พลังแดดเต็มๆ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท คุ้มสุด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ไฟและแผงจัดเรียงเหมือนภาพต้นฉบับ ฉากบ้านกลางคืน no text no logo",
+      "tts_text": "ของมันต้องรีบ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ติดครั้งเดียวจบ ตอนนี้สามร้อยยี่สิบเอ็ดบาท รีบก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ตัวไฟและแผงในสวน รีโมตถือในมือ no text no logo",
+      "tts_text": "ใครกำลังจะติดไฟหน้าบ้าน ฟังนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ไม่ต้องเดินสาย ตอนนี้สามร้อยยี่สิบเอ็ดบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ไฟสปอร์ตไลท์เปิดสว่าง แผงโซลาร์ตั้งข้างกำแพง no text no logo",
+      "tts_text": "ลานกว้างก็เอาอยู่ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ สว่างแรงทั้งคืน ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท รีบก่อนพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ไฟและแผงเหมือนภาพ กล่องสินค้าอยู่ซ้าย no text no logo",
+      "tts_text": "ราคานี้หาไม่ได้ง่ายๆ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ใช้แดดล้วน ตอนนี้สามร้อยยี่สิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ไฟติดผนังบ้านตอนกลางคืน แผงข้างบ้าน no text no logo",
+      "tts_text": "ของดีไม่ต้องพูดเยอะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ประหยัดไฟบ้าน ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ตัวไฟสว่างเต็มเฟรม แผงโซลาร์ชัดด้านหลัง no text no logo",
+      "tts_text": "ใครยังลังเลอยู่ ฟังนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ติดง่าย ใช้งานยาว ตอนนี้สามร้อยยี่สิบเอ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic ไฟโซลาเซลล์และแผงจัดวางตามภาพต้นฉบับ no text no logo",
+      "tts_text": "จะไม่กดได้ยังไง ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ใช้แดดเต็มๆ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท หมดแล้วหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731469410435173216": [
+    {
+      "visual_prompt": "9:16 photorealistic engine bay car radiator area mechanic opening cap pouring coolant from two 2KG bottles placed side by side exactly like reference image left to right angle, realistic garage lighting, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน รถความร้อนขึ้นบ่อยใช่ไหม น้ำยาหล่อเย็นรถสองกิโลตัวนี้ช่วยเลย ระบายความร้อนดี ป้องกันสนิม ตอนนี้เหลือแปดสิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up coolant bottle 2KG same product as reference placed beside open hood car engine left to right layout, mechanic hand holding bottle ready to pour, no text, no logo",
+      "tts_text": "ใครขับรถทุกวันต้องมี น้ำยาหล่อเย็นรถสองกิโล เติมง่าย ใช้ได้หลายรุ่น ช่วยดูแลหม้อน้ำ เหลือแปดสิบเอ็ดบาท รีบเลยของหมดไวมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car dashboard temperature gauge slightly high mechanic checking radiator and holding two coolant 2KG bottles as reference image, garage background, no text, no logo",
+      "tts_text": "เข็มความร้อนขยับทีใจหาย น้ำยาหล่อเย็นรถสองกิโลช่วยได้ ลดการสะสมตะกรัน ดูแลระบบหล่อเย็น เหลือแปดสิบเอ็ดบาท คุ้มกว่านี้ไม่มีแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pouring green coolant liquid into radiator from identical 2KG bottle like reference image left to right product display on table, realistic lighting, no text, no logo",
+      "tts_text": "อย่าปล่อยให้หม้อน้ำแห้ง น้ำยาหล่อเย็นรถสองกิโลเติมแล้วพร้อมลุย ระบายความร้อนดี ป้องกันการกัดกร่อน เหลือแปดสิบเอ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic two 2KG coolant bottles placed on mechanic workbench exactly like reference image left to right, car engine blurred background, no text, no logo",
+      "tts_text": "สายขับไกลต้องจัด น้ำยาหล่อเย็นรถสองกิโล ขนาดคุ้ม เติมได้หลายครั้ง ช่วยดูแลหม้อน้ำ เหลือแปดสิบเอ็ดบาท เห็นราคาแล้วต้องรีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic checking radiator hose and showing identical coolant 2KG bottles same as reference image side by side, workshop scene, no text, no logo",
+      "tts_text": "รถติดนานๆเครื่องร้อนง่ายนะ น้ำยาหล่อเย็นรถสองกิโลตัวนี้ช่วยดูแลระบบหล่อเย็น ใช้ได้คุ้ม เหลือแปดสิบเอ็ดบาท ถูกกว่านี้ไม่มีแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car hood open steam slightly visible mechanic placing two coolant 2KG bottles like reference image left to right on front bumper, no text, no logo",
+      "tts_text": "เห็นไอน้ำขึ้นอย่าชะล่าใจ น้ำยาหล่อเย็นรถสองกิโลช่วยดูแลหม้อน้ำ ลดสนิม ลดคราบตะกรัน เหลือแปดสิบเอ็ดบาท รีบจัดก่อนพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up pouring coolant into transparent container showing clean liquid from same 2KG bottle reference image layout left to right, no text, no logo",
+      "tts_text": "ใครยังใช้น้ำเปล่าอยู่เลิกเลย น้ำยาหล่อเย็นรถสองกิโลช่วยได้ดีกว่า ดูแลระบบหล่อเย็น เหลือแปดสิบเอ็ดบาท จะรออะไรอีก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car maintenance scene mechanic wiping hands and pointing at two 2KG coolant bottles identical to reference image placed side by side, no text, no logo",
+      "tts_text": "ซ่อมหม้อน้ำแพงกว่านี้เยอะ น้ำยาหล่อเย็นรถสองกิโลตัวเดียวจบ เติมง่าย ใช้สะดวก เหลือแปดสิบเอ็ดบาท คุ้มมากต้องรีบแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic engine bay top view two identical 2KG coolant bottles like reference image positioned left to right on table, realistic lighting, no text, no logo",
+      "tts_text": "ขับขึ้นเขาหรือรถติดก็อุ่นใจ น้ำยาหล่อเย็นรถสองกิโลช่วยดูแลหม้อน้ำให้พร้อมใช้งาน เหลือแปดสิบเอ็ดบาท เห็นแล้วต้องกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic holding coolant 2KG bottle identical to reference image next to open radiator cap, garage scene, no text, no logo",
+      "tts_text": "อย่ารอให้เครื่องรวนก่อนค่อยเติม น้ำยาหล่อเย็นรถสองกิโลช่วยดูแลระบบหล่อเย็น เหลือแปดสิบเอ็ดบาท ถูกจริงต้องรีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic two coolant 2KG bottles exactly like reference image left to right placed on car hood shiny surface, no text, no logo",
+      "tts_text": "ของมันต้องมีติดรถ น้ำยาหล่อเย็นรถสองกิโล เติมได้หลายครั้ง ดูแลหม้อน้ำได้ดี เหลือแปดสิบเอ็ดบาท ช้าหมดนะบอกเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pouring coolant into radiator slow motion from identical 2KG bottle reference image layout left to right, no text, no logo",
+      "tts_text": "ดูแลรถก่อนจะสาย น้ำยาหล่อเย็นรถสองกิโลช่วยลดคราบตะกรัน ป้องกันสนิม เหลือแปดสิบเอ็ดบาท ราคานี้ต้องรีบแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic in garage placing two 2KG coolant bottles same as reference image on workbench left to right, no text, no logo",
+      "tts_text": "สายรักรถฟังทางนี้ น้ำยาหล่อเย็นรถสองกิโลตัวนี้ช่วยดูแลหม้อน้ำให้พร้อมใช้งาน เหลือแปดสิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car engine cooling system close up mechanic checking hose and coolant 2KG bottles identical to reference image beside engine, no text, no logo",
+      "tts_text": "เครื่องร้อนง่ายแก้ตรงจุด น้ำยาหล่อเย็นรถสองกิโลช่วยดูแลระบบหล่อเย็น เติมง่าย เหลือแปดสิบเอ็ดบาท รีบเลยก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic two identical 2KG coolant bottles reference image left to right placed on clean table garage background blurred, no text, no logo",
+      "tts_text": "ราคานี้หาไม่ได้บ่อย น้ำยาหล่อเย็นรถสองกิโลช่วยดูแลหม้อน้ำได้ดี ใช้คุ้ม เหลือแปดสิบเอ็ดบาท เห็นแล้วต้องจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic tightening radiator cap after pouring coolant from identical 2KG bottle like reference image left to right, no text, no logo",
+      "tts_text": "เติมแล้วอุ่นใจกว่าเยอะ น้ำยาหล่อเย็นรถสองกิโลช่วยป้องกันการกัดกร่อน ดูแลหม้อน้ำ เหลือแปดสิบเอ็ดบาท รีบก่อนพลาดโปร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up coolant flowing smoothly into radiator from identical 2KG bottle reference image layout left to right, no text, no logo",
+      "tts_text": "ขับทุกวันต้องดูแล น้ำยาหล่อเย็นรถสองกิโลตัวนี้ช่วยระบายความร้อนดี เหลือแปดสิบเอ็ดบาท ถูกจนต้องรีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic smiling satisfied beside open hood and two 2KG coolant bottles identical to reference image placed left to right, no text, no logo",
+      "tts_text": "เติมแล้วสบายใจ น้ำยาหล่อเย็นรถสองกิโลช่วยดูแลหม้อน้ำให้พร้อมใช้งาน เหลือแปดสิบเอ็ดบาท จะรอให้แพงกว่านี้ทำไม",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic two identical coolant 2KG bottles exactly like reference image left to right on garage floor beside car tire, realistic lighting, no text, no logo",
+      "tts_text": "รถดีต้องดูแลให้ถึง น้ำยาหล่อเย็นรถสองกิโลช่วยดูแลระบบหล่อเย็นได้ครบ เหลือแปดสิบเอ็ดบาท รีบเลยก่อนราคาขึ้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1731380438972533108": [
     {
       "visual_prompt": "9:16 photorealistic camping tent pitched on grassy field morning light family preparing camping gear natural outdoor environment no text no logo",
