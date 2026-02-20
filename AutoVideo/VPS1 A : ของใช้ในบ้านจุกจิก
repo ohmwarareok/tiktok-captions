@@ -149,6 +149,588 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1731514406709921367": [
+    {
+      "visual_prompt": "9:16 photorealistic red multi purpose electric pan with lid and food cooking inside, shabu soup and grilled meat visible, home kitchen, natural light, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน หม้อชาบูปิ้งย่างไฟฟ้า เครื่องเดียวได้ทั้งต้มทั้งย่าง ความจุสองจุดห้าลิตร ตอนนี้เหลือสองร้อยเก้าสิบเอ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up red electric pan boiling soup with vegetables and meat, steam rising naturally, no text, no logo",
+      "tts_text": "อยู่หอทำกินเองบ่อยต้องมี หม้อชาบูปิ้งย่างไฟฟ้า ร้อนเร็ว ปรับไฟได้ ทำหลายเมนู ตอนนี้สองร้อยเก้าสิบเอ็ดบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic top view red electric pan cooking mixed ingredients, lid beside pan, no text, no logo",
+      "tts_text": "เบื่อหม้อหลายใบไหม ตัวนี้จบเลย หม้อชาบูปิ้งย่างไฟฟ้า เครื่องเดียวครบ ล้างง่าย ใช้สะดวก เหลือสองร้อยเก้าสิบเอ็ดบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan with temperature knob visible, food simmering inside, no text, no logo",
+      "tts_text": "ทำกินกับเพื่อนก็สนุก หม้อชาบูปิ้งย่างไฟฟ้า ปรับระดับความร้อนได้ อาหารสุกไว ความจุสองจุดห้าลิตร ตอนนี้สองร้อยเก้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic angled shot red electric pan grilling meat and boiling soup, no text, no logo",
+      "tts_text": "จะปิ้งจะต้มก็เอาอยู่ หม้อชาบูปิ้งย่างไฟฟ้า ไม่ต้องหลายเตา ใช้งานง่าย ตอนนี้เหลือสองร้อยเก้าสิบเอ็ดบาท รีบก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan on dining table with fresh ingredients around, no text, no logo",
+      "tts_text": "ใครชอบชาบูที่บ้านต้องมี หม้อชาบูปิ้งย่างไฟฟ้า ทำง่าย ร้อนเร็ว ประหยัดพื้นที่ เหลือสองร้อยเก้าสิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic steam rising from red electric pan filled with soup and seafood, no text, no logo",
+      "tts_text": "อยากกินหมูกระทะแต่ไม่มีเตา ตัวนี้ช่วยได้ หม้อชาบูปิ้งย่างไฟฟ้า เครื่องเดียวครบ ตอนนี้สองร้อยเก้าสิบเอ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up control knob on red electric pan with food cooking inside, no text, no logo",
+      "tts_text": "ปรับไฟได้ตามใจ หม้อชาบูปิ้งย่างไฟฟ้า ร้อนเร็ว อาหารสุกทั่วถึง ความจุสองจุดห้าลิตร เหลือสองร้อยเก้าสิบเอ็ดบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan with lid slightly open showing boiling soup, no text, no logo",
+      "tts_text": "ทำสุกี้ก็ได้ ต้มยำก็ได้ หม้อชาบูปิ้งย่างไฟฟ้า เครื่องเดียวจบ ตอนนี้โปรสองร้อยเก้าสิบเอ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan grilling sliced pork and vegetables, no text, no logo",
+      "tts_text": "ใครชอบปิ้งย่างต้องลอง หม้อชาบูปิ้งย่างไฟฟ้า ใช้ง่าย ทำความสะอาดง่าย ตอนนี้เหลือสองร้อยเก้าสิบเอ็ดบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan cooking hot pot at center of table, family style, no text, no logo",
+      "tts_text": "กินพร้อมกันได้ทั้งบ้าน หม้อชาบูปิ้งย่างไฟฟ้า ความจุสองจุดห้าลิตร อิ่มครบ ตอนนี้สองร้อยเก้าสิบเอ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan on countertop with ingredients prepared beside, no text, no logo",
+      "tts_text": "เตรียมของน้อยแต่ทำได้หลายเมนู หม้อชาบูปิ้งย่างไฟฟ้า ตัวนี้คุ้มมาก เหลือสองร้อยเก้าสิบเอ็ดบาท รีบก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up boiling broth with meat in red electric pan, steam visible, no text, no logo",
+      "tts_text": "อยากกินอะไรร้อนๆที่บ้านง่ายๆ หม้อชาบูปิ้งย่างไฟฟ้า ตัวนี้ตอบโจทย์ ตอนนี้สองร้อยเก้าสิบเอ็ดบาท รีบเลยทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan with grilled seafood and vegetables, no text, no logo",
+      "tts_text": "ปิ้งซีฟู้ดก็ได้ ต้มชาบูก็ได้ หม้อชาบูปิ้งย่างไฟฟ้า เครื่องเดียวครบ เหลือสองร้อยเก้าสิบเอ็ดบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan with lid closed on table, soft kitchen background, no text, no logo",
+      "tts_text": "บ้านไหนครัวเล็กต้องมี หม้อชาบูปิ้งย่างไฟฟ้า ประหยัดพื้นที่ ใช้งานง่าย ตอนนี้สองร้อยเก้าสิบเอ็ดบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan cooking noodles and vegetables, no text, no logo",
+      "tts_text": "ทำมาม่าชาบูก็ฟิน หม้อชาบูปิ้งย่างไฟฟ้า ร้อนเร็ว สะดวกมาก เหลือสองร้อยเก้าสิบเอ็ดบาท อย่ารอช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan grilling meat close up, oil sizzling lightly, no text, no logo",
+      "tts_text": "เนื้อย่างหอมๆที่บ้านง่ายๆ หม้อชาบูปิ้งย่างไฟฟ้า ทำได้เลย ตอนนี้สองร้อยเก้าสิบเอ็ดบาท คุ้มสุดแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan at center with friends gathering around, no text, no logo",
+      "tts_text": "ชวนเพื่อนมากินก็สะดวก หม้อชาบูปิ้งย่างไฟฟ้า เครื่องเดียวจบ ไม่ต้องหลายเตา เหลือสองร้อยเก้าสิบเอ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan with vegetables boiling in broth, no text, no logo",
+      "tts_text": "สายรักสุขภาพก็ใช้ได้ หม้อชาบูปิ้งย่างไฟฟ้า ต้มผักต้มเนื้อสบาย ตอนนี้สองร้อยเก้าสิบเอ็ดบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan and lid beside, food cooking inside, no text, no logo",
+      "tts_text": "อยากได้หม้อดีๆราคานี้หายาก หม้อชาบูปิ้งย่างไฟฟ้า เหลือสองร้อยเก้าสิบเอ็ดบาท รีบก่อนหมดโปร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan cooking pork belly slices, no text, no logo",
+      "tts_text": "หมูกระทะที่บ้านไม่ต้องง้อร้าน หม้อชาบูปิ้งย่างไฟฟ้า เครื่องเดียวครบ ตอนนี้สองร้อยเก้าสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan with soup bubbling, close shot, no text, no logo",
+      "tts_text": "เห็นเดือดปุ๊บก็หิวปั๊บ หม้อชาบูปิ้งย่างไฟฟ้า ร้อนเร็วทันใจ เหลือสองร้อยเก้าสิบเอ็ดบาท เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan on wooden table with fresh meat beside, no text, no logo",
+      "tts_text": "เตรียมเนื้อผักไว้พร้อม ตัวนี้ช่วยได้ หม้อชาบูปิ้งย่างไฟฟ้า ตอนนี้สองร้อยเก้าสิบเอ็ดบาท คุ้มสุดๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan grilling and boiling at same time, no text, no logo",
+      "tts_text": "จะต้มจะย่างในเวลาเดียวกันก็ได้ หม้อชาบูปิ้งย่างไฟฟ้า เหลือสองร้อยเก้าสิบเอ็ดบาท รีบก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan placed on compact kitchen counter, no text, no logo",
+      "tts_text": "ครัวเล็กก็วางได้สบาย หม้อชาบูปิ้งย่างไฟฟ้า ใช้งานง่าย ประหยัดพื้นที่ ตอนนี้สองร้อยเก้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan with seafood and vegetables cooking, no text, no logo",
+      "tts_text": "ซีฟู้ดเดือดๆที่บ้านง่ายมาก หม้อชาบูปิ้งย่างไฟฟ้า ตัวนี้คุ้ม เหลือสองร้อยเก้าสิบเอ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan with steam rising heavily, no text, no logo",
+      "tts_text": "เห็นไอน้ำแล้วหิวทันที หม้อชาบูปิ้งย่างไฟฟ้า ทำได้หลายเมนู ตอนนี้สองร้อยเก้าสิบเอ็ดบาท อย่าพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan on table with chopsticks picking food, no text, no logo",
+      "tts_text": "หยิบกินได้เลยร้อนๆ หม้อชาบูปิ้งย่างไฟฟ้า เครื่องเดียวครบ เหลือสองร้อยเก้าสิบเอ็ดบาท คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan cooking sliced beef close up, no text, no logo",
+      "tts_text": "สายเนื้อห้ามพลาด หม้อชาบูปิ้งย่างไฟฟ้า ปิ้งย่างได้ฟิน ตอนนี้สองร้อยเก้าสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan cooking hot pot at night cozy lighting, no text, no logo",
+      "tts_text": "คืนไหนอยากกินชาบูง่ายๆ หม้อชาบูปิ้งย่างไฟฟ้า ตัวนี้ช่วยได้ เหลือสองร้อยเก้าสิบเอ็ดบาท รีบด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan with lid slightly open steam coming out, no text, no logo",
+      "tts_text": "เปิดฝาปุ๊บกลิ่นหอมมาเลย หม้อชาบูปิ้งย่างไฟฟ้า เครื่องเดียวครบ ตอนนี้สองร้อยเก้าสิบเอ็ดบาท รีบก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan with temperature knob highlighted naturally, no text, no logo",
+      "tts_text": "ปรับไฟได้ตามเมนู หม้อชาบูปิ้งย่างไฟฟ้า ใช้งานง่ายมาก เหลือสองร้อยเก้าสิบเอ็ดบาท คุ้มเกินราคา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan cooking vegetables only, no text, no logo",
+      "tts_text": "ต้มผักกินง่ายๆที่บ้าน หม้อชาบูปิ้งย่างไฟฟ้า เครื่องเดียวจบ ตอนนี้สองร้อยเก้าสิบเอ็ดบาท รีบเลยทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic red electric pan with noodles and meat cooking, no text, no logo",
+      "tts_text": "มื้อดึกก็จัดได้ หม้อชาบูปิ้งย่างไฟฟ้า ร้อนเร็ว ทำง่าย เหลือสองร้อยเก้าสิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hero shot red multi purpose electric pan centered with food inside, no text, no logo",
+      "tts_text": "โปรนี้ไม่ได้มีบ่อย หม้อชาบูปิ้งย่างไฟฟ้า เครื่องเดียวครบทั้งบ้าน ตอนนี้สองร้อยเก้าสิบเอ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731387421529508051": [
+    {
+      "visual_prompt": "9:16 photorealistic shampoo black hair dye bottle and box 3 in 1 two sets buy one get one free 500ML plus 500ML placed left to right on clean bathroom counter realistic lighting no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน! ผมหงอกขึ้นแล้วตกใจ แชมพูย้อมผมดำทรีอินวัน สระง่ายมาก ตอนนี้หนึ่งร้อยสิบสามบาท ได้สองขวด จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up black hair dye shampoo bottle and box 500ML plus 500ML on sink soft daylight realistic texture no text no logo",
+      "tts_text": "ใครผมขาวขึ้นเร็วต้องรีบ แชมพูย้อมผมดำทรีอินวัน ตัวเดียวจบ หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง คุ้มมากจริงๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic two shampoo bottles and boxes arranged side by side 500ML plus 500ML indoor lighting no text no logo",
+      "tts_text": "เห็นโปรนี้แล้วอย่านิ่ง แชมพูย้อมผมดำทรีอินวัน สระสะดวกไม่ต้องหลายขั้นตอน หนึ่งร้อยสิบสามบาท ได้สองขวดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bathroom shelf product display black hair dye shampoo 500ML plus 500ML realistic shadows no text no logo",
+      "tts_text": "ผมหงอกขึ้นทีไรเสียความมั่นใจ แชมพูย้อมผมดำทรีอินวัน ใช้ง่ายมาก หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง รีบก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand holding shampoo bottle next to box 500ML plus 500ML bathroom background no text no logo",
+      "tts_text": "ของมันต้องมีติดบ้าน แชมพูย้อมผมดำทรีอินวัน สระแล้วล้างออกง่าย หนึ่งร้อยสิบสามบาท ได้สองขวด คุ้มสุดๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic product on marble counter two sets 500ML plus 500ML clean realistic light no text no logo",
+      "tts_text": "ดูดีขึ้นได้ง่ายๆนะ แชมพูย้อมผมดำทรีอินวัน สระครั้งเดียวสะดวก หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง จัดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foam in hand with bottle and box visible 500ML plus 500ML bathroom scene no text no logo",
+      "tts_text": "ใครกำลังลังเลฟังนี่ แชมพูย้อมผมดำทรีอินวัน ตัวเดียวจบง่ายๆ หนึ่งร้อยสิบสามบาท ได้สองขวด คุ้มเกินราคา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic two shampoo boxes and bottles aligned left to right 500ML plus 500ML wooden table no text no logo",
+      "tts_text": "เหลือหนึ่งร้อยสิบสามบาทเองนะทุกคน แชมพูย้อมผมดำทรีอินวัน ได้หนึ่งแถมหนึ่ง ไม่กดตอนนี้จะรออะไร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bathroom sink scene product pair 500ML plus 500ML natural light no text no logo",
+      "tts_text": "ผมขาวขึ้นแล้วอย่าปล่อยผ่าน แชมพูย้อมผมดำทรีอินวัน สระง่ายสะดวก หนึ่งร้อยสิบสามบาท ได้สองขวด รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close product focus black hair dye shampoo 500ML plus 500ML neutral background no text no logo",
+      "tts_text": "โปรแรงมากจริงๆ แชมพูย้อมผมดำทรีอินวัน สระแล้วดูเข้มขึ้น หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง คุ้มจนต้องตุน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic bathroom mirror scene bottle and box 500ML plus 500ML realistic reflection no text no logo",
+      "tts_text": "เห็นผมขาวแล้วเครียดใช่ไหม แชมพูย้อมผมดำทรีอินวัน ตัวช่วยง่ายๆ หนึ่งร้อยสิบสามบาท ได้สองขวดแบบนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic product placed on white shelf two sets 500ML plus 500ML soft light no text no logo",
+      "tts_text": "ของมันต้องรีบ แชมพูย้อมผมดำทรีอินวัน ใช้สะดวกมาก หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง พลาดไม่ได้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up bottle texture and box 500ML plus 500ML indoor light no text no logo",
+      "tts_text": "อย่ารอให้ผมขาวเต็มหัว แชมพูย้อมผมดำทรีอินวัน สระง่ายในขั้นตอนเดียว หนึ่งร้อยสิบสามบาท ได้สองขวด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand arranging two bottles and boxes 500ML plus 500ML clean bathroom no text no logo",
+      "tts_text": "หนึ่งร้อยสิบสามบาทเองนะ ได้ตั้งสองขวด แชมพูย้อมผมดำทรีอินวัน คุ้มจนต้องกดตอนนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic product duo left to right on wooden counter 500ML plus 500ML realistic depth no text no logo",
+      "tts_text": "ผมหงอกขึ้นแล้วรีบจัด แชมพูย้อมผมดำทรีอินวัน ใช้ง่ายมาก หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic bathroom scene product close focus 500ML plus 500ML natural light no text no logo",
+      "tts_text": "โปรแบบนี้ไม่ได้มีบ่อย แชมพูย้อมผมดำทรีอินวัน สระสะดวกสุดๆ หนึ่งร้อยสิบสามบาท ได้สองขวด คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foam squeeze with bottle beside 500ML plus 500ML no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน แชมพูย้อมผมดำทรีอินวัน ตัวเดียวจบง่ายๆ หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic clean neutral background product pair 500ML plus 500ML no text no logo",
+      "tts_text": "ผมขาวขึ้นแล้วอย่าปล่อยผ่าน แชมพูย้อมผมดำทรีอินวัน ใช้สะดวกมาก หนึ่งร้อยสิบสามบาท ได้สองขวด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic marble counter product display 500ML plus 500ML no text no logo",
+      "tts_text": "หนึ่งร้อยสิบสามบาทเองนะ ได้หนึ่งแถมหนึ่ง แชมพูย้อมผมดำทรีอินวัน คุ้มจนต้องตุนไว้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic shelf display shampoo and box 500ML plus 500ML no text no logo",
+      "tts_text": "เห็นโปรนี้แล้วอย่าช้า แชมพูย้อมผมดำทรีอินวัน สระง่ายไม่ยุ่งยาก หนึ่งร้อยสิบสามบาท ได้สองขวด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic bathroom countertop realistic reflection 500ML plus 500ML no text no logo",
+      "tts_text": "ผมหงอกขึ้นแล้วต้องจัด แชมพูย้อมผมดำทรีอินวัน ตัวช่วยง่ายๆ หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic product focus indoor lighting 500ML plus 500ML no text no logo",
+      "tts_text": "โปรแรงจนต้องรีบบอก แชมพูย้อมผมดำทรีอินวัน ใช้สะดวกมาก หนึ่งร้อยสิบสามบาท ได้สองขวดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up packaging detail 500ML plus 500ML no text no logo",
+      "tts_text": "อย่าปล่อยให้ผมขาวทำเสียลุค แชมพูย้อมผมดำทรีอินวัน หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic sink side product duo 500ML plus 500ML no text no logo",
+      "tts_text": "หนึ่งร้อยสิบสามบาท ได้ตั้งสองขวด แชมพูย้อมผมดำทรีอินวัน โปรนี้ต้องรีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand holding bottle clean background 500ML plus 500ML no text no logo",
+      "tts_text": "ผมขาวขึ้นแล้วไม่ต้องตกใจ แชมพูย้อมผมดำทรีอินวัน สระง่ายมาก หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic bathroom shelf pair product 500ML plus 500ML no text no logo",
+      "tts_text": "ดูดีขึ้นง่ายๆเลย แชมพูย้อมผมดำทรีอินวัน ตัวเดียวจบ หนึ่งร้อยสิบสามบาท ได้สองขวด คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic clean marble surface product set 500ML plus 500ML no text no logo",
+      "tts_text": "โปรแบบนี้ไม่จัดไม่ได้ แชมพูย้อมผมดำทรีอินวัน หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง รีบก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic indoor soft lighting product display 500ML plus 500ML no text no logo",
+      "tts_text": "ผมหงอกเห็นชัดต้องแก้ด่วน แชมพูย้อมผมดำทรีอินวัน ใช้ง่ายมาก หนึ่งร้อยสิบสามบาท ได้สองขวด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bathroom mirror reflection product 500ML plus 500ML no text no logo",
+      "tts_text": "หนึ่งร้อยสิบสามบาทเท่านั้น ได้ตั้งสองขวด แชมพูย้อมผมดำทรีอินวัน คุ้มจนต้องกดทันที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic wooden counter product focus 500ML plus 500ML no text no logo",
+      "tts_text": "อย่ารอให้โปรหมด แชมพูย้อมผมดำทรีอินวัน ได้หนึ่งแถมหนึ่ง หนึ่งร้อยสิบสามบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic clean white background product duo 500ML plus 500ML no text no logo",
+      "tts_text": "ผมขาวขึ้นแล้วต้องรีบจัด แชมพูย้อมผมดำทรีอินวัน สระง่ายสุดๆ หนึ่งร้อยสิบสามบาท ได้สองขวด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bathroom counter natural light 500ML plus 500ML no text no logo",
+      "tts_text": "หนึ่งร้อยสิบสามบาทเองนะทุกคน ได้หนึ่งแถมหนึ่ง แชมพูย้อมผมดำทรีอินวัน คุ้มเกินราคา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close packaging and bottle detail 500ML plus 500ML no text no logo",
+      "tts_text": "ของมันต้องมีติดบ้าน แชมพูย้อมผมดำทรีอินวัน ใช้ง่ายมาก หนึ่งร้อยสิบสามบาท ได้สองขวด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foam and bottle bathroom scene 500ML plus 500ML no text no logo",
+      "tts_text": "โปรนี้แรงจริง แชมพูย้อมผมดำทรีอินวัน ได้หนึ่งแถมหนึ่ง หนึ่งร้อยสิบสามบาท ต้องรีบกดแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic product on marble clean setting 500ML plus 500ML no text no logo",
+      "tts_text": "ผมหงอกขึ้นแล้วอย่าช้า แชมพูย้อมผมดำทรีอินวัน ตัวช่วยง่ายๆ หนึ่งร้อยสิบสามบาท ได้สองขวดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic bathroom shelf realistic lighting 500ML plus 500ML no text no logo",
+      "tts_text": "หนึ่งร้อยสิบสามบาท ได้ตั้งสองขวด แชมพูย้อมผมดำทรีอินวัน คุ้มมากจริงๆ รีบก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic indoor wooden counter product pair 500ML plus 500ML no text no logo",
+      "tts_text": "อย่าปล่อยให้ผมขาวทำเสียลุค แชมพูย้อมผมดำทรีอินวัน หนึ่งร้อยสิบสามบาท ได้หนึ่งแถมหนึ่ง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close product texture detail 500ML plus 500ML no text no logo",
+      "tts_text": "โปรนี้ต้องรีบจัด แชมพูย้อมผมดำทรีอินวัน สระง่ายมาก หนึ่งร้อยสิบสามบาท ได้สองขวดแบบนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bathroom mirror background product 500ML plus 500ML no text no logo",
+      "tts_text": "เห็นราคานี้แล้วอย่าช้า แชมพูย้อมผมดำทรีอินวัน ได้หนึ่งแถมหนึ่ง หนึ่งร้อยสิบสามบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730005454770112837": [
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ วางเรียงสี่ขวดบนแท่นสีขาว ฉากพื้นหลังโทนอุ่น มีประกายแสงอ่อนๆ น้ำผึ้งหยดช้าๆด้านข้างขวด มุมกล้องแพนซ้ายไปขวาช้าๆ no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน น้ำผึ้งเดือนห้าแท้ๆ สี่ขวดใหญ่จุกๆ หวานหอมธรรมชาติ กินกับอะไรก็อร่อย ตอนนี้เหลือสองร้อยสามสิบสามบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ วางเรียงจากซ้ายไปขวาครบสี่ขวด มีช้อนตักน้ำผึ้งราดลงขนมปัง ฉากครัวบ้านๆอบอุ่น กล้องซูมเข้าใกล้ช้าๆ no text no logo",
+      "tts_text": "บ้านไหนชอบทาขนมปังฟังทางนี้ น้ำผึ้งเดือนห้าสี่ขวดใหญ่ หวานนุ่มละมุน ใช้ได้นาน คุ้มมาก เหลือสองร้อยสามสิบสามบาท รีบเลยของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงตรงกลางเฟรมครบสี่ขวด มีรังผึ้งวางด้านหน้า แสงสะท้อนทองธรรมชาติ กล้องดอลลี่เข้า no text no logo",
+      "tts_text": "ใครกำลังหาน้ำผึ้งแท้ๆอยู่ น้ำผึ้งเดือนห้าสี่ขวดใหญ่ หอมหวานเข้มข้น ใช้ทำเครื่องดื่มก็ฟิน ตอนนี้สองร้อยสามสิบสามบาทเท่านั้น ต้องรีบแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงครบสี่ขวดบนโต๊ะไม้ มีน้ำผึ้งไหลช้าๆจากช้อนลงถ้วย กล้องแพนขวาไปซ้าย no text no logo",
+      "tts_text": "ดูดีๆนะ สี่ขวดใหญ่แบบนี้ คุ้มมาก น้ำผึ้งเดือนห้าแท้ๆ หวานธรรมชาติ ทำขนมก็อร่อย เหลือสองร้อยสามสิบสามบาท จะรออะไรอีก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงสี่ขวดชัดเจน ฉากพื้นหลังอบอุ่น แสงแดดยามเช้าส่องผ่าน กล้องซูมออกเล็กน้อย no text no logo",
+      "tts_text": "ใครชอบชงน้ำผึ้งมะนาวฟังนะ น้ำผึ้งเดือนห้าสี่ขวดใหญ่ ใช้ได้นานทั้งบ้าน ตอนนี้เหลือสองร้อยสามสิบสามบาท รีบกดก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ วางเรียงครบสี่ขวด มีช็อตราดลงแพนเค้ก กล้องแพนขึ้นเล็กน้อย no text no logo",
+      "tts_text": "โอ้ยคุ้มเกิน น้ำผึ้งเดือนห้าสี่ขวดใหญ่ หวานหอมธรรมชาติ กินกับแพนเค้กคือที่สุด ตอนนี้แค่สองร้อยสามสิบสามบาท รีบเลยทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงซ้ายไปขวาครบสี่ขวด มีรังผึ้งวางข้างๆ กล้องหมุนช้าๆ no text no logo",
+      "tts_text": "ฟังนะบ้านไหนใช้น้ำผึ้งบ่อย น้ำผึ้งเดือนห้าสี่ขวดใหญ่ คุ้มสุดๆตอนนี้ เหลือสองร้อยสามสิบสามบาท รีบเก็บไว้ใช้ยาวๆเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงครบสี่ขวดบนพื้นหลังโทนอุ่น มีน้ำผึ้งหยดใส่แก้วชา กล้องซูมเข้า no text no logo",
+      "tts_text": "ใครชอบดื่มชาร้อนต้องมี น้ำผึ้งเดือนห้าสี่ขวดใหญ่ หอมหวานกำลังดี ตอนนี้สองร้อยสามสิบสามบาท คุ้มจนต้องรีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงครบสี่ขวดบนแท่นเรียบสะอาด มีช้อนตักน้ำผึ้งเงาวาว กล้องแพนซ้าย no text no logo",
+      "tts_text": "เหลือไม่กี่ชุดแล้วนะ น้ำผึ้งเดือนห้าสี่ขวดใหญ่ หวานธรรมชาติแท้ๆ ตอนนี้สองร้อยสามสิบสามบาท จะพลาดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ วางเรียงครบสี่ขวด ฉากบ้านอบอุ่น มีแสงธรรมชาติส่องขวด กล้องดอลลี่เข้า no text no logo",
+      "tts_text": "ใครกำลังหาของฝากดีๆ น้ำผึ้งเดือนห้าสี่ขวดใหญ่ ให้เป็นชุดคือคุ้มมาก ตอนนี้สองร้อยสามสิบสามบาท รีบก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงสี่ขวดชัดๆ มีน้ำผึ้งราดผลไม้สด กล้องแพนขวา no text no logo",
+      "tts_text": "ผลไม้เปรี้ยวๆราดน้ำผึ้งคือดีมาก น้ำผึ้งเดือนห้าสี่ขวดใหญ่ ใช้ได้ทั้งบ้าน ตอนนี้สองร้อยสามสิบสามบาท รีบเลยทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ วางเรียงครบสี่ขวดบนโต๊ะไม้ มีไอน้ำจากแก้วเครื่องดื่ม กล้องซูมเข้า no text no logo",
+      "tts_text": "ชงเครื่องดื่มเองที่บ้านต้องมี น้ำผึ้งเดือนห้าสี่ขวดใหญ่ หอมหวานเข้มข้น ตอนนี้สองร้อยสามสิบสามบาท คุ้มเกินราคาจริงๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงครบสี่ขวด มีแสงสะท้อนสีทองสวยงาม กล้องแพนช้าๆ no text no logo",
+      "tts_text": "ดูสีทองสวยมาก น้ำผึ้งเดือนห้าสี่ขวดใหญ่ หวานธรรมชาติแท้ๆ ตอนนี้เหลือสองร้อยสามสิบสามบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงครบสี่ขวดบนพื้นหลังสะอาด มีช้อนตักน้ำผึ้งไหลช้าๆ กล้องดอลลี่เข้า no text no logo",
+      "tts_text": "บ้านไหนทำขนมบ่อยต้องจัด น้ำผึ้งเดือนห้าสี่ขวดใหญ่ ใช้ได้นานไม่ต้องซื้อบ่อย ตอนนี้สองร้อยสามสิบสามบาท คุ้มสุดแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงซ้ายไปขวาครบสี่ขวด มีรังผึ้งด้านหน้า กล้องหมุนช้าๆ no text no logo",
+      "tts_text": "บอกเลยว่าคุ้มมาก น้ำผึ้งเดือนห้าสี่ขวดใหญ่ หอมหวานธรรมชาติ ตอนนี้สองร้อยสามสิบสามบาท รีบเลยก่อนราคาปรับขึ้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงครบสี่ขวด มีช็อตเทใส่แก้วใส กล้องแพนขึ้น no text no logo",
+      "tts_text": "ใครชอบทำเครื่องดื่มหวานธรรมชาติ น้ำผึ้งเดือนห้าสี่ขวดใหญ่ ตอบโจทย์เลย ตอนนี้สองร้อยสามสิบสามบาท ต้องรีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ วางเรียงครบสี่ขวดบนแท่นสีขาวสะอาด มีแสงโบเก้ด้านหลัง กล้องซูมเข้า no text no logo",
+      "tts_text": "ของดีแบบนี้ไม่บอกต่อไม่ได้ น้ำผึ้งเดือนห้าสี่ขวดใหญ่ ตอนนี้เหลือสองร้อยสามสิบสามบาท ถูกกว่านี้ไม่มีแล้ว รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงครบสี่ขวดบนโต๊ะครัว มีช้อนตักน้ำผึ้งเงาวาว กล้องดอลลี่เข้า no text no logo",
+      "tts_text": "ของใช้ในบ้านต้องมี น้ำผึ้งเดือนห้าสี่ขวดใหญ่ หวานหอมธรรมชาติ ตอนนี้สองร้อยสามสิบสามบาท รีบกดก่อนหมดจริงๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงสี่ขวดชัดเจน มีน้ำผึ้งไหลจากช้อน กล้องแพนช้าๆ no text no logo",
+      "tts_text": "ใครยังลังเลดูดีๆ น้ำผึ้งเดือนห้าสี่ขวดใหญ่ คุ้มมากใช้ได้นาน ตอนนี้สองร้อยสามสิบสามบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic น้ำผึ้งเดือนห้า สี่ขวดใหญ่ เรียงครบสี่ขวด มีผลไม้วางข้างๆ กล้องซูมเข้าใกล้ฉลากชัดๆ no text no logo",
+      "tts_text": "รีบเลยทุกคน น้ำผึ้งเดือนห้าสี่ขวดใหญ่ หวานธรรมชาติแท้ๆ ใช้ได้สารพัด ตอนนี้สองร้อยสามสิบสามบาท หมดแล้วหมดเลยนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1729597598576969903": [
     {
       "visual_prompt": "9:16 photorealistic electric meat grinder five hundred watt stainless steel body clear motor head transparent lid large steel bowl blending meat evenly from left to right no text no logo",
