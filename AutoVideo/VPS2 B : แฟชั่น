@@ -151,6 +151,738 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1734002351497184258": [
+    {
+      "visual_prompt": "9:16 photorealistic woman wearing elastic waist short pants standing indoors like reference image, natural daylight, handheld phone angle, full body from waist to mid thigh, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน กางเกงขาสั้นเอวยางยืด ใส่สบาย ไม่รัดพุง เอวขยายได้จริง ตอนนี้เหลือห้าสิบสองบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up elastic waistband detail on short pants, natural indoor light, slight camera movement, no text, no logo",
+      "tts_text": "ใครใส่กางเกงแล้วอึดอัดต้องดู กางเกงขาสั้นเอวยางยืด ตัวนี้เอวไม่บีบ นั่งสบาย ตอนนี้เหลือห้าสิบสองบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic side angle of woman wearing elastic waist shorts walking casually indoors, no text, no logo",
+      "tts_text": "ใส่อยู่บ้านก็ชิล ใส่ออกนอกบ้านก็ได้ กางเกงขาสั้นเอวยางยืด ผ้านุ่ม ใส่สบาย เหลือห้าสิบสองบาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic front view of elastic waist short pants styled with casual top, natural lighting, no text, no logo",
+      "tts_text": "เอวแน่นพุงปลิ้นจบเลย กางเกงขาสั้นเอวยางยืด ช่วยให้ใส่สบาย ไม่รัด ตอนนี้โปรห้าสิบสองบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up fabric texture of short pants, soft natural light, no text, no logo",
+      "tts_text": "ผ้านุ่ม ใส่แล้วไม่คัน กางเกงขาสั้นเอวยางยืด ตัวนี้ใส่ได้ทุกวัน ตอนนี้เหลือห้าสิบสองบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman adjusting elastic waistband naturally, indoor setting like reference, no text, no logo",
+      "tts_text": "เอวยืดจริงไม่จกตา กางเกงขาสั้นเอวยางยืด ใส่แล้วไม่อึดอัด นั่งยองก็สบาย เหลือห้าสิบสองบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic walking motion shot of elastic waist shorts indoors, handheld phone feel, no text, no logo",
+      "tts_text": "เดินทั้งวันก็ไม่รั้ง กางเกงขาสั้นเอวยางยืด เบา ใส่สบาย ตอนนี้จัดโปรห้าสิบสองบาท จะรออะไร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic sitting pose wearing elastic waist short pants on chair like reference background, no text, no logo",
+      "tts_text": "นั่งทำงานนานๆก็ไม่อึดอัด กางเกงขาสั้นเอวยางยืด ตัวนี้ตอบโจทย์ ตอนนี้เหลือห้าสิบสองบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic front and slight side angle showing fit of elastic waist short pants, no text, no logo",
+      "tts_text": "ใส่แล้วทรงสวยไม่หลวมเกิน กางเกงขาสั้นเอวยางยืด เอวปรับตามตัว ตอนนี้ห้าสิบสองบาท คุ้มสุดๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close shot mid thigh to waist of elastic waist shorts, natural home lighting, no text, no logo",
+      "tts_text": "กางเกงตัวเก่ารัดเกินไปไหม เปลี่ยนเป็นกางเกงขาสั้นเอวยางยืด ใส่สบายกว่า ตอนนี้เหลือห้าสิบสองบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic slight zoom on elastic waistband stretching demonstration, no text, no logo",
+      "tts_text": "เอวยืดได้จริงไม่หลอก กางเกงขาสั้นเอวยางยืด ใส่แล้วไม่แน่นพุง ตอนนี้โปรห้าสิบสองบาท รีบก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic casual outfit pairing elastic waist short pants indoors, no text, no logo",
+      "tts_text": "แมตช์เสื้ออะไรก็ง่าย กางเกงขาสั้นเอวยางยืด ใส่ได้ทุกลุค ตอนนี้เหลือห้าสิบสองบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mirror shot wearing elastic waist short pants, home interior, no text, no logo",
+      "tts_text": "ใส่แล้วดูดีไม่อ้วน กางเกงขาสั้นเอวยางยืด เอวสบาย ผ้านุ่ม ตอนนี้ห้าสิบสองบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic natural movement adjusting shorts slightly, indoor daylight, no text, no logo",
+      "tts_text": "ใครหาใส่เที่ยวชิลๆต้องตัวนี้ กางเกงขาสั้นเอวยางยืด ใส่สบายทั้งวัน เหลือห้าสิบสองบาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up stitching detail of elastic waist short pants, no text, no logo",
+      "tts_text": "ตัดเย็บดีไม่รุ่ยง่าย กางเกงขาสั้นเอวยางยืด คุ้มเกินราคา ตอนนี้โปรห้าสิบสองบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic side walking shot wearing elastic waist shorts, casual indoor scene, no text, no logo",
+      "tts_text": "อยู่บ้านก็ได้ ออกไปตลาดก็ได้ กางเกงขาสั้นเอวยางยืด ใส่สบายสุดๆ ตอนนี้เหลือห้าสิบสองบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up elastic waist detail stretched by hand, no text, no logo",
+      "tts_text": "เอวไม่รั้ง ไม่บีบ กางเกงขาสั้นเอวยางยืด ใส่แล้วโล่งสบาย ตอนนี้ห้าสิบสองบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic casual standing pose wearing elastic waist shorts like reference setting, no text, no logo",
+      "tts_text": "ใครชอบใส่สบายต้องจัด กางเกงขาสั้นเอวยางยืด ตัวนี้ขายดี ตอนนี้เหลือห้าสิบสองบาท รีบด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic natural indoor pose highlighting waistband and length of shorts, no text, no logo",
+      "tts_text": "ความยาวกำลังดีไม่สั้นเกิน กางเกงขาสั้นเอวยางยืด ใส่ได้ทุกวัน ตอนนี้โปรห้าสิบสองบาท รีบก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic final hero shot elastic waist short pants worn indoors similar to reference image, no text, no logo",
+      "tts_text": "ราคานี้ไม่ได้มีตลอด กางเกงขาสั้นเอวยางยืด ใส่สบายจริง ตอนนี้เหลือห้าสิบสองบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1733466558414226686": [
+    {
+      "visual_prompt": "9:16 photorealistic vintage bluetooth earbuds with retro digital display charging case showing 100 battery, three units placed left to right on round podium beige green brown tones, earbuds placed in front, soft studio lighting, realistic product texture, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน หูฟังวินเทจบลูทูธ เสียงชัด เชื่อมต่อง่าย เคสมีหน้าจอบอกแบต ตอนนี้เหลือร้อยเก้าสิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up vintage bluetooth earbuds and digital display case showing 100 battery, product arranged left to right on podium, earbuds placed front, soft warm light, no text, no logo",
+      "tts_text": "ใครสายฟังเพลงทั้งวันต้องมี หูฟังวินเทจบลูทูธ ใส่สบาย แบตอึด มีจอบอกสถานะแบต เหลือร้อยเก้าสิบเอ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic retro bluetooth earbuds with charging case digital 100 display, three pieces left to right podium display, earbuds placed front foreground, soft shadow, no text, no logo",
+      "tts_text": "บอกเลยคุ้มมาก หูฟังวินเทจบลูทูธ เปิดปุ๊บเชื่อมปั๊บ เสียงแน่น ใช้ได้ทั้งสองระบบ ตอนนี้เหลือร้อยเก้าสิบเอ็ดบาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic product shot vintage bluetooth earbuds retro speaker style case digital display 100, left to right layout on round podium, earbuds front, studio light, no text, no logo",
+      "tts_text": "ใครหูฟังเก่าพังบ้าง ฟังไม่ชัดดีดทิ้งเลย หูฟังวินเทจบลูทูธตัวนี้เสียงชัด มีจอบอกแบต เหลือร้อยเก้าสิบเอ็ดบาทด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic detailed vintage bluetooth earbuds with digital 100 display case, three units arranged left center right on podium, earbuds in front, neutral background, no text, no logo",
+      "tts_text": "จะออกกำลังกายหรือทำงานก็ใช้ได้ หูฟังวินเทจบลูทูธ เสียงใส เชื่อมต่อไว มีหน้าจอแบต เหลือร้อยเก้าสิบเอ็ดบาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic vintage bluetooth earbuds and charging case digital battery 100 display, left to right arrangement podium scene, earbuds foreground, clean studio, no text, no logo",
+      "tts_text": "ดูดีไม่ซ้ำใคร หูฟังวินเทจบลูทูธ ดีไซน์วินเทจ เสียงชัด แบตทน เหลือร้อยเก้าสิบเอ็ดบาท รีบก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic retro bluetooth earbuds product display with digital 100 indicator, three color units left to right podium, earbuds front, soft highlight, no text, no logo",
+      "tts_text": "ใครชอบของคุ้มฟังทางนี้ หูฟังวินเทจบลูทูธ เสียงแน่น มีจอบอกแบต ใช้ง่าย เหลือร้อยเก้าสิบเอ็ดบาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close angle vintage bluetooth earbuds retro case digital 100 display, arranged left to right podium, earbuds front detail, natural shadow, no text, no logo",
+      "tts_text": "เสียบหูแล้วพร้อมลุย หูฟังวินเทจบลูทูธ เชื่อมต่อง่าย เสียงชัด มีหน้าจอแบต ตอนนี้เหลือร้อยเก้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic studio shot vintage bluetooth earbuds with digital battery 100 display case, three units on podium left to right, earbuds foreground, soft beige backdrop, no text, no logo",
+      "tts_text": "กำลังหาหูฟังคุ้มๆอยู่ใช่ไหม หูฟังวินเทจบลูทูธ เสียงดี ใส่สบาย แบตอึด เหลือร้อยเก้าสิบเอ็ดบาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic vintage bluetooth earbuds retro speaker style case digital display 100, left to right podium layout, earbuds front, soft studio lighting, no text, no logo",
+      "tts_text": "จะคุยงานหรือฟังเพลงก็เอาอยู่ หูฟังวินเทจบลูทูธ เสียงชัด ต่อไว มีจอบอกแบต เหลือร้อยเก้าสิบเอ็ดบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic detailed vintage bluetooth earbuds charging case digital 100 display, three units podium left to right, earbuds placed front, clean scene, no text, no logo",
+      "tts_text": "อย่ารอให้พลาด หูฟังวินเทจบลูทูธ ดีไซน์วินเทจ เสียงแน่น ใช้ง่าย เหลือร้อยเก้าสิบเอ็ดบาทตอนนี้เท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic retro bluetooth earbuds and digital display case 100 battery, arranged left to right podium, earbuds in front foreground, realistic lighting, no text, no logo",
+      "tts_text": "สายทำงานต้องจัด หูฟังวินเทจบลูทูธ ฟังชัด ไม่หลุดง่าย มีหน้าจอบอกแบต เหลือร้อยเก้าสิบเอ็ดบาทเอง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic vintage bluetooth earbuds product showcase digital 100 display, three units left to right podium display, earbuds front detail, neutral soft background, no text, no logo",
+      "tts_text": "ใครยังใช้หูฟังสายอยู่ เลิกเถอะ หูฟังวินเทจบลูทูธ ไร้สาย เสียงชัด แบตทน เหลือร้อยเก้าสิบเอ็ดบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up vintage bluetooth earbuds with retro digital display 100 battery case, left to right podium scene, earbuds foreground, no text, no logo",
+      "tts_text": "ฟังชัดทุกสาย หูฟังวินเทจบลูทูธ ต่อไว ใช้ง่าย มีจอบอกแบต ตอนนี้เหลือร้อยเก้าสิบเอ็ดบาทด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic studio display vintage bluetooth earbuds retro case digital battery 100, three units left to right podium, earbuds front, soft shadow lighting, no text, no logo",
+      "tts_text": "คุ้มจนต้องบอกต่อ หูฟังวินเทจบลูทูธ เสียงแน่น ใส่สบาย มีหน้าจอแบต เหลือร้อยเก้าสิบเอ็ดบาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic vintage bluetooth earbuds charging case digital 100 display, left to right podium arrangement beige green brown tones, earbuds placed front, no text, no logo",
+      "tts_text": "จะเดินทางหรือทำงานก็สะดวก หูฟังวินเทจบลูทูธ เสียงชัด เชื่อมต่อง่าย เหลือร้อยเก้าสิบเอ็ดบาท รีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic detailed retro bluetooth earbuds and digital display case 100 battery, arranged left to right podium, earbuds foreground focus, no text, no logo",
+      "tts_text": "ของมันต้องมีจริงๆ หูฟังวินเทจบลูทูธ ฟังเพลินทั้งวัน มีจอบอกแบต เหลือร้อยเก้าสิบเอ็ดบาทตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic vintage bluetooth earbuds with retro speaker style charging case digital 100 display, three units left to right podium, earbuds front, soft warm light, no text, no logo",
+      "tts_text": "ใครชอบดีไซน์วินเทจห้ามพลาด หูฟังวินเทจบลูทูธ เสียงชัด แบตทน เหลือร้อยเก้าสิบเอ็ดบาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic product angle vintage bluetooth earbuds digital 100 display case, left to right podium layout, earbuds placed in front foreground, clean backdrop, no text, no logo",
+      "tts_text": "เห็นราคาแล้วต้องรีบ หูฟังวินเทจบลูทูธ ใช้ง่าย เสียงดี มีหน้าจอบอกแบต เหลือร้อยเก้าสิบเอ็ดบาทเอง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic studio shot vintage bluetooth earbuds retro digital display 100 battery case, three units arranged left to right podium scene, earbuds front detail, no text, no logo",
+      "tts_text": "ของดีราคานี้มีไม่บ่อย หูฟังวินเทจบลูทูธ เสียงแน่น ต่อไว มีจอบอกแบต เหลือร้อยเก้าสิบเอ็ดบาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732823609461605452": [
+    {
+      "visual_prompt": "9:16 photorealistic young woman wearing the exact oversized graphic t-shirt from reference image front view standing indoor casual pose, natural lighting, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกตัวนี้ใส่แล้วตัวเล็กลง แมตช์ง่าย ใส่สบาย ตอนนี้เหลือหกสิบแปดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic side angle of model wearing the exact same oversized graphic t-shirt from reference image pairing with shorts indoor, soft daylight, no text, no logo",
+      "tts_text": "ใครหาเสื้อใส่ชิลทุกวันต้องตัวนี้ เสื้อยืดโอเวอร์ไซซ์ลายกราฟิก ทรงหลวมพรางหุ่น ใส่เที่ยวได้เลย เหลือหกสิบแปดบาท รีบเลยของหมดไว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up fabric detail of the exact oversized graphic t-shirt from reference image showing texture, indoor lighting, no text, no logo",
+      "tts_text": "เคยไหมเสื้อบางใส่แล้วไม่มั่นใจ เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกผ้านุ่มใส่สบาย ไม่รัดตัว เหลือหกสิบแปดบาท ราคานี้ต้องรีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mirror selfie angle model wearing the exact oversized graphic t-shirt from reference image casual vibe, no text, no logo",
+      "tts_text": "อยากได้ลุคเกาหลีไม่ต้องแพง เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกตัวนี้ใส่กับยีนส์ก็จบ เหลือหกสิบแปดบาท ช้าหมดแน่นอน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic walking pose model wearing the exact oversized graphic t-shirt from reference image indoor hallway, natural motion blur, no text, no logo",
+      "tts_text": "ใส่แล้วดูเท่แบบไม่ต้องพยายาม เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกทรงหลวมใส่สบาย เหลือหกสิบแปดบาท เห็นราคาแล้วต้องรีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic front full body of model wearing the exact oversized graphic t-shirt from reference image paired with shorts, indoor soft light, no text, no logo",
+      "tts_text": "ใครไม่ชอบเสื้อรัดตัวฟังทางนี้ เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกใส่แล้วพรางหุ่นดีมาก เหลือหกสิบแปดบาท จะรออะไรอีก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic sitting pose model wearing the exact oversized graphic t-shirt from reference image relaxed indoor scene, no text, no logo",
+      "tts_text": "วันสบายๆต้องมีตัวนี้ เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกใส่อยู่บ้านหรือออกข้างนอกก็ได้ เหลือหกสิบแปดบาท รีบก่อนหมดโปร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up chest graphic of the exact oversized graphic t-shirt from reference image showing print detail, no text, no logo",
+      "tts_text": "ลายกราฟิกเด่นมากใส่แล้วสะดุดตา เสื้อยืดโอเวอร์ไซซ์ตัวนี้แมตช์ง่ายทุกลุค เหลือหกสิบแปดบาท ราคานี้ไม่จัดไม่ได้แล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic model adjusting sleeve of the exact oversized graphic t-shirt from reference image indoor, natural light, no text, no logo",
+      "tts_text": "แขนกว้างใส่แล้วไม่อึดอัด เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกใส่สบายทั้งวัน เหลือหกสิบแปดบาท ช้าอดนะบอกเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic casual pose leaning on wall wearing the exact oversized graphic t-shirt from reference image, no text, no logo",
+      "tts_text": "อยากได้เสื้อตัวเดียวจบต้องนี่ เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกใส่กับอะไรก็รอด เหลือหกสิบแปดบาท รีบกดก่อนราคาเปลี่ยน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic walking outdoor daylight model wearing the exact oversized graphic t-shirt from reference image, no text, no logo",
+      "tts_text": "ออกไปเที่ยวถ่ายรูปต้องมี เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกใส่แล้วดูเด่นมาก เหลือหกสิบแปดบาท เห็นแล้วต้องรีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spinning pose model wearing the exact oversized graphic t-shirt from reference image playful vibe, no text, no logo",
+      "tts_text": "ใส่แล้วขยับตัวสบายไม่รั้ง เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกผ้านุ่มกำลังดี เหลือหกสิบแปดบาท คุ้มเกินราคามาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up hem detail of the exact oversized graphic t-shirt from reference image, no text, no logo",
+      "tts_text": "ความยาวกำลังดีใส่เป็นเดรสก็ได้ เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกตัวนี้คุ้มสุด เหลือหกสิบแปดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic indoor fashion pose model wearing the exact oversized graphic t-shirt from reference image soft background, no text, no logo",
+      "tts_text": "ใครแต่งตัวไม่เก่งต้องตัวนี้ เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกใส่ง่ายไม่ต้องคิดเยอะ เหลือหกสิบแปดบาท รีบเลยก่อนพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic natural candid shot model laughing wearing the exact oversized graphic t-shirt from reference image, no text, no logo",
+      "tts_text": "ใส่แล้วมั่นใจขึ้นจริง เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกพรางหุ่นดีมาก เหลือหกสิบแปดบาท ราคานี้ต้องรีบแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic model pairing the exact oversized graphic t-shirt from reference image with sneakers indoor, no text, no logo",
+      "tts_text": "แมตช์กับรองเท้าผ้าใบก็ดูดี เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกตัวนี้ใส่ได้ทุกวัน เหลือหกสิบแปดบาท ช้าอดแน่นอน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up shoulder detail of the exact oversized graphic t-shirt from reference image, no text, no logo",
+      "tts_text": "ทรงหลวมไม่รัดช่วงไหล่ เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกใส่แล้วสบายทั้งวัน เหลือหกสิบแปดบาท รีบจัดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic model walking up stairs wearing the exact oversized graphic t-shirt from reference image, no text, no logo",
+      "tts_text": "อยากได้เสื้อใส่เที่ยวแบบง่ายๆ เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกตัวนี้ตอบโจทย์ เหลือหกสิบแปดบาท ต้องรีบแล้วนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic relaxed home pose model wearing the exact oversized graphic t-shirt from reference image sitting on bed, no text, no logo",
+      "tts_text": "อยู่บ้านก็ใส่สบาย ออกไปข้างนอกก็รอด เสื้อยืดโอเวอร์ไซซ์ลายกราฟิก เหลือหกสิบแปดบาท เห็นแล้วต้องกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic confident standing pose model wearing the exact oversized graphic t-shirt from reference image indoor clean background, no text, no logo",
+      "tts_text": "ใครยังไม่มีต้องมีแล้ว เสื้อยืดโอเวอร์ไซซ์ลายกราฟิกใส่แล้วดูดีทันที เหลือหกสิบแปดบาท จะปล่อยผ่านได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731488763680689148": [
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายวางเรียงสี่ใบตามภาพ สีแตกต่างกัน จัดวางบนพื้นหลังเรียบสะอาด มีปากกาวางด้านข้าง มุมกล้องดอลลี่เข้าใกล้ช้าๆ แสงธรรมชาติ soft shadow no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน กระเป๋าสตางค์ผู้ชายทรงบาง ใส่บัตรใส่เงินครบ พกง่ายไม่ตุงกระเป๋า ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ถูกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงเฉียงตามภาพบนพื้นเรียบ กล้องแพนซ้ายไปขวาช้าๆ โฟกัสพื้นผิววัสดุชัดเจน no text no logo",
+      "tts_text": "ใครกระเป๋าหนาเกินฟังทางนี้ กระเป๋าสตางค์ผู้ชายใบนี้บางเฉียบ ใส่บัตรหลายช่อง ใช้งานทุกวันคุ้ม ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางตามภาพ มุมกล้องซูมเข้าให้เห็นขอบเย็บชัดๆ แสงเรียบหรู no text no logo",
+      "tts_text": "ดูงานเย็บก่อน กระเป๋าสตางค์ผู้ชายทรงเรียบ ใส่เงินใส่บัตรครบ พกไปทำงานได้เลย ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางเรียงครบตามภาพ มีมือหยิบเปิดดูด้านในหนึ่งใบ กล้องดอลลี่เข้า no text no logo",
+      "tts_text": "ใครกำลังหาของขวัญให้แฟนฟังนะ กระเป๋าสตางค์ผู้ชายทรงสุภาพ ใส่บัตรได้หลายช่อง ตอนนี้หนึ่งร้อยสิบเก้าบาท ถูกจนต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายวางสี่ใบตามภาพบนพื้นเรียบ มุมกล้องหมุนช้าๆรอบสินค้า โฟกัสชัดลึก no text no logo",
+      "tts_text": "บ้านไหนหากระเป๋าใหม่อยู่ กระเป๋าสตางค์ผู้ชายทรงบาง พกง่ายใส่กระเป๋ากางเกงสบาย ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางเรียงตามภาพบนโต๊ะเรียบ มีแสงธรรมชาติส่องด้านข้าง กล้องซูมเข้า no text no logo",
+      "tts_text": "มึงฟังนะ ของใช้ทุกวันต้องดี กระเป๋าสตางค์ผู้ชายทรงเรียบ ใส่บัตรแน่นๆได้หลายใบ ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบจัดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพ โฟกัสด้านในช่องบัตรหนึ่งใบ กล้องแพนขวา no text no logo",
+      "tts_text": "ใครบัตรเยอะต้องดู กระเป๋าสตางค์ผู้ชายช่องจัดเต็ม หยิบใช้ง่ายไม่รก ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ถูกเกินจริง รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางครบตามภาพ มุมกล้องดอลลี่ออกเล็กน้อยให้เห็นภาพรวมทั้งหมด no text no logo",
+      "tts_text": "ดูครบทั้งสี่ใบเลยนะ กระเป๋าสตางค์ผู้ชายทรงสุภาพ ใช้ทำงานหรือเที่ยวก็ได้ ตอนนี้หนึ่งร้อยสิบเก้าบาท จะรออะไรอีก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายวางเรียงตามภาพ พื้นหลังเรียบสะอาด กล้องซูมเข้าเน้นความบางของตัวกระเป๋า no text no logo",
+      "tts_text": "ใครไม่ชอบกระเป๋าหนาฟังนะ กระเป๋าสตางค์ผู้ชายใบนี้บางมาก พกง่ายไม่เกะกะ ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางเรียงตามภาพ มีมือหยิบใส่บัตรลงช่อง กล้องดอลลี่เข้า no text no logo",
+      "tts_text": "ใส่บัตร ใส่เงินครบจบในใบเดียว กระเป๋าสตางค์ผู้ชายทรงเรียบ ใช้ทุกวันคุ้มมาก ตอนนี้หนึ่งร้อยสิบเก้าบาท ต้องรีบแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางครบตามภาพ แสงสะท้อนพื้นผิววัสดุชัด กล้องแพนซ้ายช้าๆ no text no logo",
+      "tts_text": "ดูผิวสัมผัสก่อนเลย กระเป๋าสตางค์ผู้ชายทรงสุภาพ ใส่กระเป๋ากางเกงสบายมาก ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบจัดเลยทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพ มุมกล้องซูมเข้าให้เห็นขนาดกำลังดี no text no logo",
+      "tts_text": "ขนาดกำลังพอดีมือ กระเป๋าสตางค์ผู้ชายพกง่าย ใส่บัตรได้หลายช่อง ตอนนี้หนึ่งร้อยสิบเก้าบาท ถูกจนต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางครบตามภาพ บนโต๊ะเรียบ มีปากกาวางข้างๆตามภาพ กล้องดอลลี่เข้า no text no logo",
+      "tts_text": "ดูดีๆนะ งานเรียบหรูมาก กระเป๋าสตางค์ผู้ชายทรงสุภาพ ใช้ทำงานได้เลย ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพ กล้องหมุนช้าๆรอบสินค้า โฟกัสคมชัด no text no logo",
+      "tts_text": "ของใช้ผู้ชายต้องเรียบๆแบบนี้ กระเป๋าสตางค์ผู้ชายบางเฉียบ ใส่บัตรครบไม่อึดอัด ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางเรียงครบตามภาพ มุมกล้องแพนขวาไปซ้ายช้าๆ no text no logo",
+      "tts_text": "ใครกำลังเปลี่ยนใบใหม่ต้องดู กระเป๋าสตางค์ผู้ชายทรงบาง ใส่เงินใส่บัตรครบ ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพ พื้นหลังเรียบสะอาด โฟกัสเน้นขอบกระเป๋า no text no logo",
+      "tts_text": "งานเย็บเรียบร้อยมาก กระเป๋าสตางค์ผู้ชายใบนี้ใช้ได้นาน ใส่บัตรหลายช่อง ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางครบตามภาพ กล้องซูมเข้าเน้นความเรียบหรู no text no logo",
+      "tts_text": "ของดีราคานี้หายากนะ กระเป๋าสตางค์ผู้ชายทรงสุภาพ พกไปไหนก็ได้ ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบเลยทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพ มีมือหยิบถือหนึ่งใบ กล้องดอลลี่เข้า no text no logo",
+      "tts_text": "ถือแล้วดูดีมาก กระเป๋าสตางค์ผู้ชายทรงบาง ใส่บัตรแน่นๆได้หลายใบ ตอนนี้หนึ่งร้อยสิบเก้าบาท ต้องรีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางครบตามภาพ แสงธรรมชาติ soft shadow กล้องแพนช้าๆ no text no logo",
+      "tts_text": "ของใช้ประจำวันต้องคุ้ม กระเป๋าสตางค์ผู้ชายใบนี้ตอบโจทย์มาก ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท หมดแล้วหมดเลยนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพบนพื้นเรียบสะอาด มุมกล้องดอลลี่เข้าใกล้สุดท้าย no text no logo",
+      "tts_text": "รีบเลยทุกคน กระเป๋าสตางค์ผู้ชายทรงเรียบ ใส่บัตรใส่เงินครบจบในใบเดียว ตอนนี้หนึ่งร้อยสิบเก้าบาท จะรออะไรอีก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730760772361029809": [
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบทรงคลาสสิกตามภาพ มุมซ้ายเห็นรองเท้าคู่สีดำเชือกขาว พื้นขาว ด้านขวาเห็นอีกคู่ตามภาพ พื้นหลังเรียบ แสงธรรมชาติ no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน รองเท้า ผ้าใบ ทรงคลาสสิก ใส่เรียน ใส่ทำงาน เดินทั้งวันไม่เมื่อย ตอนนี้เหลือเจ็ดสิบสามบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบตามภาพ จัดวางซ้ายขวาตามรูป มุมกล้องกดต่ำเล็กน้อย เห็นพื้นหนาชัด แสงข้างหน้าสว่าง no text no logo",
+      "tts_text": "ใครหารองเท้าใส่ทุกวันอยู่ ฟังนะ รองเท้า ผ้าใบ ทรงนี้แมตช์ง่าย เดินตลาด เดินห้างสบาย ตอนนี้เจ็ดสิบสามบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบทรงเดียวกับภาพ ซ้ายคู่หลัก ขวาคู่รองตามภาพ จัดเรียงเหมือนต้นฉบับ พื้นหลังขาวสะอาด no text no logo",
+      "tts_text": "บอกเลยของมันต้องมี รองเท้า ผ้าใบ ทรงเบสิค ใส่ได้ทั้งหญิงชาย ไม่ต้องคิดเยอะ เหลือเจ็ดสิบสามบาท หมดแล้วหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบตามภาพ ซ้ายใหญ่ ขวาเล็กตามสัดส่วนภาพ แสงนุ่มธรรมชาติ เห็นพื้นหนาชัดเจน no text no logo",
+      "tts_text": "จะเปิดเทอมแล้วนะ รองเท้า ผ้าใบ คู่นี้ใส่สบาย พื้นแน่น เดินทั้งวันเอาอยู่ ตอนนี้เจ็ดสิบสามบาท รีบกดก่อนขึ้นราคา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบทรงเดียวกับภาพ จัดวางซ้ายขวาตามต้นฉบับ มุมเฉียงเห็นเชือกชัด no text no logo",
+      "tts_text": "ใครรองเท้าพังอยู่ ฟังทางนี้ รองเท้า ผ้าใบ ทรงฮิต ใส่สบาย แมตช์ง่าย ตอนนี้เหลือเจ็ดสิบสามบาท ถูกแบบนี้มีไม่บ่อย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบตามภาพ ซ้ายคู่หลัก ขวาคู่รอง เห็นดีเทลพื้นและเชือกชัด no text no logo",
+      "tts_text": "ดูนี่ก่อน รองเท้า ผ้าใบ ทรงเรียบ ใส่เที่ยว ใส่เรียน ได้หมด เดินนานไม่อึดอัด ตอนนี้เจ็ดสิบสามบาท รีบเลยของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบจัดวางเหมือนภาพต้นฉบับ ซ้ายใหญ่ ขวาเล็ก แสงสตูดิโอนุ่ม no text no logo",
+      "tts_text": "งบจำกัดแต่อยากได้รองเท้าดีๆ รองเท้า ผ้าใบ คู่นี้ตอบโจทย์ ใส่ได้ทุกลุค ตอนนี้เหลือเจ็ดสิบสามบาท จะรออะไร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบทรงตามภาพ ซ้ายขวาตามต้นฉบับ พื้นหลังเรียบสะอาด no text no logo",
+      "tts_text": "เตือนแล้วนะ รองเท้า ผ้าใบ ทรงคลาสสิก ใส่ได้ทั้งวัน ไม่ต้องเปลี่ยนบ่อย เหลือเจ็ดสิบสามบาท กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบเหมือนภาพ ซ้ายเด่น ขวารอง แสงธรรมชาติเน้นพื้นรองเท้า no text no logo",
+      "tts_text": "ของมันคุ้มมาก รองเท้า ผ้าใบ ทรงนี้ใส่กับยีนส์ก็สวย ใส่ทำงานก็ได้ ตอนนี้เจ็ดสิบสามบาท ถูกจนตกใจ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบตามภาพ ซ้ายคู่ใหญ่ ขวาคู่เล็ก จัดเรียงเหมือนต้นฉบับ no text no logo",
+      "tts_text": "ใครกำลังตัดสินใจอยู่ ฟังนะ รองเท้า ผ้าใบ ใส่สบาย พื้นหนาแน่น เดินทั้งวันไหว ตอนนี้เหลือเจ็ดสิบสามบาท รีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบทรงเดียวกับภาพ จัดวางซ้ายขวาเหมือนต้นฉบับ no text no logo",
+      "tts_text": "จะไม่กดได้ยังไง รองเท้า ผ้าใบ ทรงเรียบ ใส่ได้ทุกโอกาส ราคานี้เจ็ดสิบสามบาท ช้าหมดนะบอกเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบเหมือนภาพ ซ้ายใหญ่ ขวาเล็ก เห็นดีเทลชัด no text no logo",
+      "tts_text": "ฟังดีๆ รองเท้า ผ้าใบ คู่นี้ใส่เรียน ใส่เที่ยว แมตช์ง่ายสุด ตอนนี้เหลือเจ็ดสิบสามบาท รีบก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบจัดวางตามภาพต้นฉบับ ซ้ายขวาชัดเจน no text no logo",
+      "tts_text": "ใครเดินเยอะทุกวันต้องมี รองเท้า ผ้าใบ ทรงนี้ใส่สบาย ไม่อึดอัด ตอนนี้เจ็ดสิบสามบาท คุ้มเกินราคา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบตามภาพ ซ้ายคู่หลัก ขวาคู่รอง แสงนุ่มธรรมชาติ no text no logo",
+      "tts_text": "รีบฟังเลย รองเท้า ผ้าใบ ทรงฮิต ใส่กับชุดไหนก็รอด ตอนนี้เหลือเจ็ดสิบสามบาท ถูกแบบนี้ไม่บ่อยนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบเหมือนภาพต้นฉบับ ซ้ายใหญ่ ขวาเล็ก no text no logo",
+      "tts_text": "อย่าปล่อยผ่าน รองเท้า ผ้าใบ ทรงคลาสสิก ใส่ได้ทั้งหญิงชาย ตอนนี้เจ็ดสิบสามบาท กดก่อนปรับราคา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบจัดวางเหมือนภาพ ซ้ายขวาชัด no text no logo",
+      "tts_text": "ใครงบน้อยแต่ต้องการรองเท้าดี รองเท้า ผ้าใบ คู่นี้ตอบโจทย์ ตอนนี้เหลือเจ็ดสิบสามบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบตามภาพต้นฉบับ ซ้ายคู่หลัก ขวาคู่รอง no text no logo",
+      "tts_text": "จะรออะไร รองเท้า ผ้าใบ ใส่สบาย พื้นแน่น เดินทั้งวันเอาอยู่ ตอนนี้เจ็ดสิบสามบาท หมดแล้วหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบทรงเดียวกับภาพ ซ้ายขวาตามต้นฉบับ no text no logo",
+      "tts_text": "บอกตรงๆ ราคานี้หายาก รองเท้า ผ้าใบ ใส่ได้ทุกลุค ตอนนี้เหลือเจ็ดสิบสามบาท รีบกดก่อนพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบเหมือนภาพ ซ้ายใหญ่ ขวาเล็ก no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน รองเท้า ผ้าใบ ทรงเบสิค ใส่สบาย ไม่ต้องคิดเยอะ ตอนนี้เจ็ดสิบสามบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าผ้าใบจัดวางตามภาพต้นฉบับ ซ้ายขวาชัด no text no logo",
+      "tts_text": "เตือนรอบสุดท้าย รองเท้า ผ้าใบ คู่นี้ใส่ได้ทุกวัน ตอนนี้เหลือเจ็ดสิบสามบาท รีบเลยก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730638407436568830": [
+    {
+      "visual_prompt": "9:16 photorealistic wireless earbuds with dual charging cases and single earbud placed in front, digital battery display on case, product layout from left to right like reference image, realistic table surface, soft studio lighting, handheld phone angle, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน หูฟังไร้สาย รุ่นนี้ เสียงชัด ใส่สบาย เชื่อมต่อง่าย มีหน้าจอแบตดูได้เลย ตอนนี้เหลือแค่สองร้อยเก้าสิบสี่บาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up charging case with digital battery screen open, two earbuds inside, another earbud placed beside, natural daylight, slight camera movement, no text, no logo",
+      "tts_text": "ใครหาหูฟังสำรองฟังเพลงประชุมบ่อย รุ่นนี้ตอบโจทย์ เสียงแน่น คุยชัด แบตอึด มีหน้าจอบอกระดับ ตอนนี้สองร้อยเก้าสิบสี่บาท รีบเลยของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic top view of wireless earbuds and charging case with battery indicator, product arranged left to right like original, indoor soft light, casual phone footage, no text, no logo",
+      "tts_text": "บอกเลยตัวนี้คุ้มมาก หูฟังไร้สาย รุ่นนี้ ใช้งานง่าย พกสะดวก ใส่นานไม่อึดอัด แถมกันละอองน้ำได้ ตอนนี้เหลือสองร้อยเก้าสิบสี่บาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic angled shot of two charging cases side by side with earbuds, digital battery display visible, clean table background, soft shadow, no text, no logo",
+      "tts_text": "ใครสายดูหนังฟังเพลงทุกวัน ต้องมีหูฟังไร้สาย รุ่นนี้ เสียงชัด เบสแน่น ใช้ได้ยาวทั้งวัน ตอนนี้จัดโปรเหลือสองร้อยเก้าสิบสี่บาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close handheld shot opening charging case showing earbuds and battery display, single earbud placed in foreground, realistic lighting, no text, no logo",
+      "tts_text": "ปัญหาสายพันกันเก็บยากจบเลย หูฟังไร้สาย รุ่นนี้ หยิบใช้ทันที เสียงชัด คุยรู้เรื่อง แบตเห็นชัดบนหน้าจอ เหลือสองร้อยเก้าสิบสี่บาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic product showcase left to right arrangement like reference, dual cases and one earbud outside, soft studio glow, vertical frame, no text, no logo",
+      "tts_text": "ใครยังใช้หูฟังสายอยู่ฟังทางนี้ หูฟังไร้สาย รุ่นนี้ เสียงดี ใส่สบาย พกง่ายมาก ตอนนี้ลดเหลือสองร้อยเก้าสิบสี่บาท คุ้มจริงรีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic desk scene with wireless earbuds and charging case open, digital battery indicator clear, slight zoom in, natural indoor light, no text, no logo",
+      "tts_text": "ทำงานก็ใช้ได้ ออกกำลังกายก็สะดวก หูฟังไร้สาย รุ่นนี้ เสียงชัดไม่หลุดง่าย มีหน้าจอแบตดูง่าย ตอนนี้สองร้อยเก้าสิบสี่บาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic side angle showing earbuds inside case and one earbud outside, realistic texture, clean background, phone style footage, no text, no logo",
+      "tts_text": "ของมันต้องมีจริงๆ หูฟังไร้สาย รุ่นนี้ ใช้งานง่าย แค่เปิดก็เชื่อมต่อทันที เสียงชัด คุ้มเกินราคา เหลือสองร้อยเก้าสิบสี่บาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rotating product shot of charging case with digital display and earbuds, arranged like reference image, soft highlight, no text, no logo",
+      "tts_text": "ดูดีใช้งานก็ง่าย หูฟังไร้สาย รุ่นนี้ เสียงชัด คุยโทรศัพท์ชัดเจน ใส่สบายไม่เจ็บหู ตอนนี้จัดโปรเหลือสองร้อยเก้าสิบสี่บาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up of digital battery screen on charging case, earbuds visible inside, vertical framing, natural shadow, no text, no logo",
+      "tts_text": "ใครชอบดูซีรีส์ยาวๆต้องตัวนี้ หูฟังไร้สาย รุ่นนี้ แบตอึด มีหน้าจอดูระดับชัด เสียงแน่นเต็มหู เหลือสองร้อยเก้าสิบสี่บาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic flat lay of wireless earbuds and charging cases like reference left to right, soft studio light, subtle camera shake, no text, no logo",
+      "tts_text": "จะฟังเพลงหรือคุยงานก็จบ หูฟังไร้สาย รุ่นนี้ เสียงใส คุยชัด ใส่สบายมาก ตอนนี้ลดเหลือสองร้อยเก้าสิบสี่บาท บอกเลยคุ้มสุด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close handheld footage opening and closing charging case showing earbuds and battery display, clean background, no text, no logo",
+      "tts_text": "ปกติราคาสูงกว่านี้นะ ตอนนี้หูฟังไร้สาย รุ่นนี้ เหลือสองร้อยเก้าสิบสี่บาท เสียงชัด ใช้ง่าย พกสะดวก คุ้มจริงอย่าพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic angled tabletop scene with two cases and one earbud in foreground, digital display lit, vertical composition, no text, no logo",
+      "tts_text": "ใครกำลังหาหูฟังดีๆสักตัว หูฟังไร้สาย รุ่นนี้ เสียงชัด แบตอึด มีหน้าจอบอกระดับ ตอนนี้สองร้อยเก้าสิบสี่บาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic product beauty shot soft background, earbuds inside open case, single earbud beside, realistic reflection, no text, no logo",
+      "tts_text": "ของมันดีจริงไม่ต้องพูดเยอะ หูฟังไร้สาย รุ่นนี้ ใส่สบาย เสียงชัด ใช้งานง่าย ตอนนี้โปรเหลือสองร้อยเก้าสิบสี่บาท เท่านั้นนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic slight zoom on digital battery display and earbuds arranged left to right like reference image, soft indoor lighting, no text, no logo",
+      "tts_text": "อย่ารอให้ของหมด หูฟังไร้สาย รุ่นนี้ เสียงแน่น คุยชัด แบตเห็นระดับชัดบนหน้าจอ เหลือสองร้อยเก้าสิบสี่บาท รีบเลยทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic casual desk environment with charging case open and earbuds, natural light window, handheld feeling, no text, no logo",
+      "tts_text": "ตัวนี้เหมาะมากกับคนใช้งานทุกวัน หูฟังไร้สาย รุ่นนี้ เสียงดี ใส่สบาย พกง่าย ตอนนี้เหลือสองร้อยเก้าสิบสี่บาท จะช้าทำไม",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up of earbud outside case with case in background showing battery display, vertical framing, no text, no logo",
+      "tts_text": "ใครเบื่อหูฟังเสียงแตกต้องลอง หูฟังไร้สาย รุ่นนี้ เสียงชัดเต็มหู ใช้งานง่าย แบตดูได้เลย เหลือสองร้อยเก้าสิบสี่บาท รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rotating vertical product shot showing both cases and earbuds like reference layout, soft highlight, no text, no logo",
+      "tts_text": "เห็นราคาแล้วต้องรีบ หูฟังไร้สาย รุ่นนี้ เสียงชัด ใช้สะดวก มีหน้าจอบอกแบต ตอนนี้แค่สองร้อยเก้าสิบสี่บาท คุ้มสุดแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic natural indoor scene with earbuds and charging case placed left to right like reference, slight camera sway, no text, no logo",
+      "tts_text": "ดูนี่ก่อนตัดสินใจ หูฟังไร้สาย รุ่นนี้ เสียงดี ใส่สบาย ใช้งานง่าย มีหน้าจอแบตชัด ตอนนี้เหลือสองร้อยเก้าสิบสี่บาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic final hero shot of wireless earbuds and charging cases arranged like reference image, digital battery display visible, soft studio light, no text, no logo",
+      "tts_text": "โปรนี้ไม่ได้มีบ่อยนะ หูฟังไร้สาย รุ่นนี้ เสียงชัด คุ้มราคา พกง่าย ใช้ทุกวันได้ ตอนนี้สองร้อยเก้าสิบสี่บาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1734123046229279968": [
     {
       "visual_prompt": "9:16 photorealistic white lace-up sport shoes placed on white box, side angle close-up from left to right, thick sole texture visible, indoor soft light, no text, no logo",
