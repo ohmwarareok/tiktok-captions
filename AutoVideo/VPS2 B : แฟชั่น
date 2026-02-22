@@ -151,6 +151,616 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1733154128100230314": [
+    {
+      "visual_prompt": "9:16 photorealistic green and white football jersey front and back displayed standing on grass field with stadium background, show number ten on back and striped front clearly, handheld phone style, no text, no logo",
+      "tts_text": "ดูนี้ก่อนทุกคน! เสื้อบอลเบอร์สิบ ลายเท่ใส่เชียร์ก็ได้ ใส่เที่ยวก็ปัง ตอนนี้เหลือห้าสิบเก้าบาท จะไม่กดได้ยังไง รีบเลยของหมดไวมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up of green white striped football jersey fabric texture and printed number ten on back, outdoor field background, natural light, no text, no logo",
+      "tts_text": "ใครหาเสื้อบอลเท่ๆอยู่ฟังนะ เสื้อบอลเบอร์สิบ ตัวนี้ใส่สบาย ใส่แล้วดูเด่น ตอนนี้เหลือห้าสิบเก้าบาท รีบกดก่อนหมดโปรเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic male model turning from back to front showing number ten and green striped design, football stadium vibe, no text, no logo",
+      "tts_text": "เห็นเบอร์สิบด้านหลังแล้วใจมันมา เสื้อบอลใส่แล้วหล่อขึ้นทันที ตอนนี้ราคาแค่ห้าสิบเก้าบาท จะไม่ตำได้ยังไง รีบเลยนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic jersey hanging on locker room hook with football boots below, focus on green white stripes and back number ten, no text, no logo",
+      "tts_text": "สายบอลต้องมี เสื้อบอลเบอร์สิบ ใส่เตะก็ได้ ใส่เชียร์ก็ปัง ตอนนี้เหลือห้าสิบเก้าบาท ถูกกว่านี้ไม่มีแล้ว รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic front and back jersey side by side on grass field, camera slight push in, bright stadium lighting, no text, no logo",
+      "tts_text": "ดูด้านหน้าเขียวขาวลายชัด ด้านหลังเบอร์สิบเต็มๆ เสื้อบอลตัวนี้ตอนนี้เหลือห้าสิบเก้าบาท ช้าคือพลาดนะ รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up stretching jersey fabric slightly to show comfort, outdoor daylight, no text, no logo",
+      "tts_text": "ใส่สบายไม่อึดอัด เสื้อบอลเบอร์สิบตัวนี้คุ้มมาก ตอนนี้เหลือห้าสิบเก้าบาท โปรแรงแบบนี้จะรออะไร กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic young man wearing green white football jersey number ten walking on field, camera follow shot, no text, no logo",
+      "tts_text": "ใส่แล้วดูเป็นนักเตะเลย เสื้อบอลเบอร์สิบ ใครเห็นก็ทัก ตอนนี้แค่ห้าสิบเก้าบาท จะไม่กดได้ยังไง รีบด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic jersey placed on wooden table with football and shin guards beside, focus on design details, no text, no logo",
+      "tts_text": "กำลังหาเสื้อใส่เตะบอลใช่ไหม เสื้อบอลเบอร์สิบตัวนี้ตอบโจทย์ ตอนนี้เหลือห้าสิบเก้าบาท รีบกดก่อนของหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rotating shot around jersey on mannequin showing front stripes and back number ten clearly, stadium background blur, no text, no logo",
+      "tts_text": "หมุนดูรอบตัวแล้วคือเท่มาก เสื้อบอลเบอร์สิบ ใส่ได้ทุกโอกาส ตอนนี้ห้าสิบเก้าบาทเท่านั้น โปรแรงจริง รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up of number ten print on back with green trim collar detail, outdoor field, no text, no logo",
+      "tts_text": "เบอร์สิบชัดเต็มหลัง ใส่แล้วเด่นสุดในสนาม เสื้อบอลตอนนี้เหลือห้าสิบเก้าบาท ราคานี้ต้องรีบกดแล้วนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic locker room scene showing jersey hanging with light shining, focus on stripes and emblem area, no text, no logo",
+      "tts_text": "สายเชียร์ห้ามพลาด เสื้อบอลเบอร์สิบใส่แล้วดูโปร ตอนนี้แค่ห้าสิบเก้าบาท ถูกจนต้องรีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person folding jersey neatly showing front stripe pattern, indoor lighting, no text, no logo",
+      "tts_text": "ซื้อไปฝากเพื่อนก็ยังคุ้ม เสื้อบอลเบอร์สิบราคาตอนนี้ห้าสิบเก้าบาท รีบเลยเดี๋ยวหมดโปรนะทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic football field sunset background with jersey standing upright on grass, number ten visible, no text, no logo",
+      "tts_text": "ใส่เชียร์ให้สุดเสียง เสื้อบอลเบอร์สิบตอนนี้เหลือห้าสิบเก้าบาท จะไม่กดได้ยังไง รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up collar and sleeve detail of green white football jersey, natural daylight, no text, no logo",
+      "tts_text": "รายละเอียดคอเสื้อแขนเสื้อคือสวยมาก เสื้อบอลเบอร์สิบตอนนี้ห้าสิบเก้าบาท ถูกแบบนี้ต้องรีบตำแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic jersey laid flat on grass with football beside, focus on front green white stripes, no text, no logo",
+      "tts_text": "ลายเขียวขาวชัดๆแบบนี้ ใส่แล้วเด่นแน่นอน เสื้อบอลเบอร์สิบเหลือห้าสิบเก้าบาท รีบเลยก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic young man celebrating goal wearing number ten jersey, stadium background blur, no text, no logo",
+      "tts_text": "ใส่แล้วฟีลยิงประตูได้เลย เสื้อบอลเบอร์สิบตอนนี้ห้าสิบเก้าบาท โปรแรงแบบนี้ห้ามพลาด รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hanging jersey blowing slightly in outdoor breeze, focus on back number ten, no text, no logo",
+      "tts_text": "เห็นเบอร์สิบปลิวๆแล้วใจสั่น เสื้อบอลราคาห้าสิบเก้าบาทเท่านั้น จะรออะไร รีบกดก่อนหมดจริงๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic front and back jersey displayed against stadium lights at night, dramatic lighting, no text, no logo",
+      "tts_text": "กลางคืนก็ยังเด่น เสื้อบอลเบอร์สิบใส่แล้วปังมาก ตอนนี้เหลือห้าสิบเก้าบาท รีบเลยของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up stitching and print detail on jersey back number ten, handheld phone style, no text, no logo",
+      "tts_text": "งานพิมพ์เบอร์สิบชัดเต็มๆ เสื้อบอลราคาห้าสิบเก้าบาท คุ้มสุดแล้วตอนนี้ จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic full hero shot of green white football jersey front and back on grass field, clear number ten, stadium background, no text, no logo",
+      "tts_text": "สรุปเลยนะ เสื้อบอลเบอร์สิบตอนนี้เหลือห้าสิบเก้าบาท โปรแรงมาก รีบกดเลยก่อนราคาขยับขึ้นนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1733220216445044716": [
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ทรงหลวมขากว้าง มีกระเป๋าข้างหลายช่อง คนใส่ยืนในสตูดิโอพื้นเรียบ มุมเต็มตัว no text no logo",
+      "tts_text": "ดูนี้ก่อนทุกคน กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ทรงหลวมใส่สบาย มีกระเป๋าเยอะ ตอนนี้เหลือเจ็ดสิบสองบาท ถูกขนาดนี้จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ขากว้าง กระเป๋าข้างชัด คนเดินในสตูดิโอพื้นขาว no text no logo",
+      "tts_text": "ใครหากางเกงใส่แล้วดูเท่ฟังนะ กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ทรงหลวมพรางหุ่นดี ตอนนี้เจ็ดสิบสองบาท รีบเลยของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก มุมใกล้เห็นกระเป๋าด้านข้างชัด คนยืนหันข้าง no text no logo",
+      "tts_text": "เห็นทรงแล้วต้องจัด กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก กระเป๋าใหญ่จุของได้ ใส่เที่ยวก็เท่ ตอนนี้เหลือเจ็ดสิบสองบาท ถูกมากจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก คนยืนล้วงกระเป๋า มุมด้านหน้าเต็มตัว no text no logo",
+      "tts_text": "ใส่ตัวเดียวจบทั้งลุค กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ทรงตรงใส่สบาย ไม่อึดอัด ตอนนี้เจ็ดสิบสองบาท จะรออะไรอีก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก คนเดินช้าๆในสตูดิโอ โฟกัสช่วงขา no text no logo",
+      "tts_text": "ใครอยากได้กางเกงทรงเกาหลีฟังเลย กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ใส่แล้วดูแพง ตอนนี้เหลือเจ็ดสิบสองบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก มุมใกล้เอวเชือกรูด คนดึงเชือกให้ดู no text no logo",
+      "tts_text": "เอวปรับได้ไม่ต้องกลัวแน่น กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ใส่ได้หลายไซซ์ ตอนนี้แค่เจ็ดสิบสองบาท ถูกจนต้องรีบสั่ง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก มุมหันหลังเห็นทรงขากว้าง no text no logo",
+      "tts_text": "ทรงสวยใส่แล้วไม่ตัน กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ขากว้างกำลังดี ตอนนี้เหลือเจ็ดสิบสองบาท เห็นราคาแล้วต้องรีบ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก คนยืนคู่รองเท้าผ้าใบ มุมเต็มตัว no text no logo",
+      "tts_text": "จับคู่รองเท้าผ้าใบแล้วคือจบ กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ใส่เรียนใส่เที่ยวได้ ตอนนี้เจ็ดสิบสองบาท รีบเลยคุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก มุมโคลสอัพเนื้อผ้า no text no logo",
+      "tts_text": "ผ้าดีใส่แล้วอยู่ทรง กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ไม่บางไม่หนาเกิน ตอนนี้เหลือเจ็ดสิบสองบาท จะไม่รีบได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก คนยืนโพสท่าข้างๆ no text no logo",
+      "tts_text": "ใส่แล้วดูสูงขึ้นจริง กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ทรงตรงพรางขา ตอนนี้แค่เจ็ดสิบสองบาท รีบก่อนโปรหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก คนเดินผ่านกล้อง มุมต่ำโฟกัสขากางเกง no text no logo",
+      "tts_text": "เดินแล้วทรงสวยมาก กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก กระเป๋าใช้งานได้จริง ตอนนี้เหลือเจ็ดสิบสองบาท ถูกจนต้องกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก คนยืนล้วงกระเป๋าข้าง no text no logo",
+      "tts_text": "ของต้องมีติดตู้ กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ใส่สบายทั้งวัน ตอนนี้เจ็ดสิบสองบาท เห็นแล้วอย่าปล่อยผ่าน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก มุมด้านข้างเต็มตัว no text no logo",
+      "tts_text": "ทรงหลวมกำลังดีไม่รัด กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ใส่แล้วคล่องตัว ตอนนี้เหลือเจ็ดสิบสองบาท รีบจัดก่อนพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก คนหมุนตัวให้ดูทรง no text no logo",
+      "tts_text": "เห็นแล้วคือโดนใจ กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ใส่ได้ทุกวันไม่เอาท์ ตอนนี้เจ็ดสิบสองบาท ถูกแบบนี้ไม่มีบ่อย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก คนยืนพิงผนังเรียบ no text no logo",
+      "tts_text": "ใส่ไปเรียนก็รอด ไปเที่ยวก็เท่ กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ตอนนี้เหลือเจ็ดสิบสองบาท รีบเลยก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก มุมใกล้กระเป๋าและตะเข็บ no text no logo",
+      "tts_text": "รายละเอียดดีเกินราคา กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก เย็บแน่นกระเป๋าแน่น ตอนนี้เจ็ดสิบสองบาท จะไม่รีบได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก คนยืนคู่พื้นเรียบ แสงสตูดิโอ no text no logo",
+      "tts_text": "ใครอยากเปลี่ยนลุคต้องตัวนี้ กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ใส่แล้วดูดีขึ้นทันที ตอนนี้เหลือเจ็ดสิบสองบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก คนก้าวเดินหนึ่งก้าว มุมต่ำ no text no logo",
+      "tts_text": "เห็นโปรแล้วต้องจัด กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ทรงฮิตใส่ง่าย ตอนนี้แค่เจ็ดสิบสองบาท ถูกจนต้องรีบสั่ง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก มุมเต็มตัวโฟกัสช่วงขา no text no logo",
+      "tts_text": "ใส่แล้วดูเท่แบบไม่พยายาม กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก เอวเชือกปรับได้ ตอนนี้เหลือเจ็ดสิบสองบาท รีบก่อนหลุดโปร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก คนยืนล้วงกระเป๋าโพสท่าเท่ๆ no text no logo",
+      "tts_text": "ของมันต้องมีจริงๆ กางเกงคาร์โก้สไตล์เกาหลีเอวเชือก ใส่แล้วดูครบลุค ตอนนี้เจ็ดสิบสองบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732528101377607272": [
+    {
+      "visual_prompt": "9:16 photorealistic woman wearing full face sun hat with neck cover adjusting brim indoor plain background no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ออกแดดทีหน้าไหม้คอดำ หมวกกันแดดเต็มหน้าผู้หญิงตัวนี้ปิดมิด กันลมกันฝุ่น เหลือห้าสิบหนึ่งบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up woman wearing full face sun hat adjusting side angle natural light no text no logo",
+      "tts_text": "ใครขี่มอเตอร์ไซค์แล้วแสบหน้า หมวกกันแดดเต็มหน้าผู้หญิงช่วยปิดทั้งคอทั้งแก้ม ตอนนี้เหลือห้าสิบหนึ่งบาท ช้าหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor walking woman wearing full face sun hat windy day no text no logo",
+      "tts_text": "ไปตลาดทีไรฝุ่นเข้าปาก หมวกกันแดดเต็มหน้าผู้หญิงตัวนี้คลุมยาว กันลมได้ดี เหลือห้าสิบหนึ่งบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman turning left right showing full coverage sun hat no text no logo",
+      "tts_text": "หน้าโดนแดดทีไรแสบทุกที หมวกกันแดดเต็มหน้าผู้หญิงปิดถึงคอ ใส่สบายไม่อึดอัด ตอนนี้ห้าสิบหนึ่งบาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic medium shot woman adjusting chin area of full face sun hat no text no logo",
+      "tts_text": "ใครทำงานกลางแจ้งบ่อยต้องมี หมวกกันแดดเต็มหน้าผู้หญิงป้องกันแดดลมฝุ่นครบ เหลือห้าสิบหนึ่งบาท ถูกจนงง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic side profile woman wearing full face sun hat daylight no text no logo",
+      "tts_text": "แดดแรงแค่ไหนก็เอาอยู่ หมวกกันแดดเต็มหน้าผู้หญิงคลุมแน่นไม่หลุดง่าย ตอนนี้ห้าสิบหนึ่งบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up eyes focus woman wearing full face sun hat no text no logo",
+      "tts_text": "ขี่รถไกลแล้วผิวพังง่าย หมวกกันแดดเต็มหน้าผู้หญิงช่วยบังได้รอบด้าน เหลือห้าสิบหนึ่งบาท ถูกกว่านี้ไม่มีแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman lifting brim slightly showing coverage no text no logo",
+      "tts_text": "จะออกบ้านทั้งทีไม่อยากทาครีมหนา หมวกกันแดดเต็มหน้าผู้หญิงใส่จบในชิ้นเดียว ตอนนี้ห้าสิบหนึ่งบาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman standing balcony windy environment no text no logo",
+      "tts_text": "ลมแรงฝุ่นเยอะไม่ต้องกลัว หมวกกันแดดเต็มหน้าผู้หญิงคลุมยาวถึงคอ ตอนนี้เหลือห้าสิบหนึ่งบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman adjusting back neck cover of full face sun hat no text no logo",
+      "tts_text": "คอดำเพราะแดดทุกวันใช่ไหม หมวกกันแดดเต็มหน้าผู้หญิงปิดถึงท้ายทอย ตอนนี้ห้าสิบหนึ่งบาท คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic walking street woman wearing full face sun hat no text no logo",
+      "tts_text": "ใครต้องส่งลูกไปรับลูกทุกวัน หมวกกันแดดเต็มหน้าผู้หญิงช่วยบังแดดทันที เหลือห้าสิบหนึ่งบาท จะรออะไร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman turning around showing full coverage no text no logo",
+      "tts_text": "ทำงานส่งของกลางแดดต้องจัด หมวกกันแดดเต็มหน้าผู้หญิงคลุมครบทั้งหน้า ตอนนี้ห้าสิบหนึ่งบาท ถูกจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close shot fabric texture of full face sun hat no text no logo",
+      "tts_text": "ผ้านุ่มใส่สบายไม่บาดหน้า หมวกกันแดดเต็มหน้าผู้หญิงใส่แล้วกระชับดี เหลือห้าสิบหนึ่งบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman adjusting cap top of full face sun hat no text no logo",
+      "tts_text": "แดดเที่ยงวันแรงมากอย่าฝืน หมวกกันแดดเต็มหน้าผู้หญิงช่วยบังได้ทั้งศีรษะ ตอนนี้ห้าสิบหนึ่งบาทเท่านั้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman standing park sunny day wearing full face sun hat no text no logo",
+      "tts_text": "เดินสวนตอนบ่ายหน้าแสบทุกที หมวกกันแดดเต็มหน้าผู้หญิงตัวนี้เอาอยู่ เหลือห้าสิบหนึ่งบาท ถูกมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic medium close up woman adjusting mask area no text no logo",
+      "tts_text": "ไม่อยากให้แดดโดนผิวตรงๆ หมวกกันแดดเต็มหน้าผู้หญิงคลุมแน่นพอดี ตอนนี้ห้าสิบหนึ่งบาท รีบก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman in natural daylight turning face slightly no text no logo",
+      "tts_text": "ออกทริปต่างจังหวัดต้องมี หมวกกันแดดเต็มหน้าผู้หญิงกันแดดกันลมครบ เหลือห้าสิบหนึ่งบาท คุ้มสุด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman standing roadside wearing full face sun hat no text no logo",
+      "tts_text": "ใครกลัวผิวคล้ำจากแดดจัด หมวกกันแดดเต็มหน้าผู้หญิงช่วยบังได้รอบ ตอนนี้ห้าสิบหนึ่งบาท รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman adjusting side flap of full face sun hat no text no logo",
+      "tts_text": "ทั้งแก้มทั้งคอปิดครบ หมวกกันแดดเต็มหน้าผู้หญิงชิ้นเดียวจบ ตอนนี้เหลือห้าสิบหนึ่งบาท ถูกจนต้องกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic front view woman wearing full face sun hat neutral background no text no logo",
+      "tts_text": "ใครยังไม่มีรีบจัดเลย หมวกกันแดดเต็มหน้าผู้หญิงกันแดดลมฝุ่นครบ ตอนนี้ห้าสิบหนึ่งบาท จะพลาดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732105040426927885": [
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, close up รองเท้าแตะพื้นหนาเจ็ดเซนมีสายรัดหลังและดอกไม้ติดหน้า วางบนชั้นไม้ มุมกล้องไล่จากซ้ายไปขวา แสงธรรมชาติในห้อง",
+      "tts_text": "ดูนี้ก่อนทุกคน รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่สบาย เดินทั้งวัน ไม่เมื่อย มีสายรัดหลัง กระชับเท้า ดอกไม้หน้า รองเท้า น่ารักมาก ใส่เที่ยว ใส่ทำงาน ได้ ตอนนี้ เหลือ แปดสิบบาท โปรแรง รีบกด เลย เดี๋ยวหมด ของเข้าใหม่ คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, handheld phone shot รองเท้าแตะพื้นหนาเจ็ดเซน ดอกไม้หน้า รองเท้า สายรัดหลัง โชว์พื้นหนา เดินบนพื้นบ้าน",
+      "tts_text": "เหลือแปดสิบบาทจริง รองเท้าแตะ พื้นหนา เจ็ดเซน เสริมสูง ใส่แล้ว ดูดี มีสายรัดหลัง ไม่หลุดง่าย ดอกไม้หน้า รองเท้า เพิ่มความน่ารัก ใส่สบาย มาก โปรวันนี้ เท่านั้น รีบกด ด่วน ก่อนของหมด คุ้มสุด แล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, top angle รองเท้าแตะพื้นหนาเจ็ดเซนวางคู่กันบนโต๊ะไม้ เห็นสายรัดหลังและดอกไม้ชัด",
+      "tts_text": "ดูนี้ก่อน รองเท้าแตะ พื้นหนา เจ็ดเซน เดินนาน ไม่ปวดเท้า มีสายรัดหลัง ใส่แน่น ไม่หลุด ดอกไม้หน้า รองเท้า สวยมาก ใส่ได้ ทุกวัน ตอนนี้ เหลือ แปดสิบบาท โปรแรง รีบเลย ของมีจำกัด จริงๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, close shot ดอกไม้หน้า รองเท้าแตะพื้นหนาเจ็ดเซน ซูมพื้นหนาและสายรัดหลัง แสงอ่อนในห้อง",
+      "tts_text": "จะไม่กดได้ยังไง รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่สบาย มาก มีสายรัดหลัง กระชับเท้า ดอกไม้หน้า รองเท้า น่ารักสุด ใส่เดิน ตลาด เที่ยว ห้าง ได้ ตอนนี้ เหลือ แปดสิบบาท รีบเลย ก่อนพลาด โปรนี้ คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, side angle รองเท้าแตะพื้นหนาเจ็ดเซน เห็นความหนาชัด สายรัดหลังพาดอยู่ วางบนชั้นไม้",
+      "tts_text": "ฟังก่อนทุกคน รองเท้าแตะ พื้นหนา เจ็ดเซน เสริมลุค ให้ดูสูง ใส่แล้ว เดินง่าย มีสายรัดหลัง ไม่ต้องกลัวหลุด ดอกไม้หน้า รองเท้า เพิ่มความคิ้วท์ ตอนนี้ เหลือ แปดสิบบาท รีบกด เลย ของใกล้หมด แล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, woman wearing รองเท้าแตะพื้นหนาเจ็ดเซน เดินในบ้าน เห็นดอกไม้หน้า รองเท้า และสายรัดหลังชัด",
+      "tts_text": "ใครหา รองเท้าแตะ ใส่สบาย ต้องตัวนี้ พื้นหนา เจ็ดเซน เดินทั้งวัน ไหว มีสายรัดหลัง กระชับ ไม่หลุด ดอกไม้หน้า รองเท้า น่ารักมาก ตอนนี้ เหลือ แปดสิบบาท โปรแรง รีบกด เลย คุ้มสุด แล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, slow pan รองเท้าแตะพื้นหนาเจ็ดเซน วางคู่กัน เห็นรายละเอียดดอกไม้และพื้นรองเท้า",
+      "tts_text": "ดูให้ชัด รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่แล้ว ดูดี เดินง่าย ไม่เมื่อย มีสายรัดหลัง แน่นพอดี ดอกไม้หน้า รองเท้า เพิ่มความหวาน ตอนนี้ เหลือ แปดสิบบาท โปรวันนี้ รีบเลย เดี๋ยวไม่ทัน คุ้มมาก จริงๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, close detail ดอกไม้หน้า รองเท้าแตะพื้นหนาเจ็ดเซน หมุนรองเท้าให้เห็นรอบด้าน",
+      "tts_text": "ของมันต้องมี รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่สบาย มาก มีสายรัดหลัง กันหลุดง่าย ดอกไม้หน้า รองเท้า น่ารักสุด ใส่ได้ ทุกลุค ตอนนี้ เหลือ แปดสิบบาท รีบกด เลย โปรแรง มาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, natural window light รองเท้าแตะพื้นหนาเจ็ดเซน บนโต๊ะไม้ เห็นสายรัดหลังชัด",
+      "tts_text": "อย่ารอช้า รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่เดิน สบายมาก มีสายรัดหลัง ไม่ต้องกลัว หลุด ดอกไม้หน้า รองเท้า เพิ่มความน่ารัก ตอนนี้ เหลือ แปดสิบบาท โปรดี แบบนี้ รีบเลย คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, handheld close shot รองเท้าแตะพื้นหนาเจ็ดเซน จับยกโชว์พื้นหนาและดอกไม้",
+      "tts_text": "เหลือแค่ แปดสิบบาท รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่แล้ว ดูสูง เดินง่าย มีสายรัดหลัง แน่นกำลังดี ดอกไม้หน้า รองเท้า น่ารักมาก โปรแรง วันนี้ เท่านั้น รีบกด เลย ก่อนของหมด จริงๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, low angle รองเท้าแตะพื้นหนาเจ็ดเซน วางบนพื้นไม้ เห็นพื้นหนาเด่น",
+      "tts_text": "ดูนี้ก่อนทุกคน รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่สบาย เดินทั้งวัน ไหว มีสายรัดหลัง กระชับเท้า ดอกไม้หน้า รองเท้า สวยมาก ตอนนี้ เหลือ แปดสิบบาท โปรแรง รีบเลย เดี๋ยวหมด คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, side by side รองเท้าแตะพื้นหนาเจ็ดเซน ซูมดอกไม้หน้า รองเท้า",
+      "tts_text": "จะบอกว่า คุ้มมาก รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่แล้ว ไม่เมื่อย มีสายรัดหลัง ใส่แน่น ไม่หลุด ดอกไม้หน้า รองเท้า น่ารักสุด ตอนนี้ เหลือ แปดสิบบาท รีบกด เลย โปรนี้ ห้ามพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, walking shot รองเท้าแตะพื้นหนาเจ็ดเซน บนพื้นบ้าน เห็นสายรัดหลังชัด",
+      "tts_text": "รองเท้าเก่า ใส่แล้ว ลื่น ต้องเปลี่ยน รองเท้าแตะ พื้นหนา เจ็ดเซน ตัวนี้ ใส่สบาย มีสายรัดหลัง กระชับเท้า ดอกไม้หน้า รองเท้า เพิ่มความน่ารัก ตอนนี้ เหลือ แปดสิบบาท รีบเลย คุ้มสุด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, natural indoor light รองเท้าแตะพื้นหนาเจ็ดเซน วางคู่กัน ซูมพื้นรองเท้า",
+      "tts_text": "ฟังนะทุกคน รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่แล้ว เดินง่าย ไม่ปวด มีสายรัดหลัง กันหลุด ดอกไม้หน้า รองเท้า น่ารักมาก ตอนนี้ เหลือ แปดสิบบาท โปรแรง รีบกด เลย ก่อนพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, close detail สายรัดหลัง รองเท้าแตะพื้นหนาเจ็ดเซน โฟกัสดอกไม้",
+      "tts_text": "ดูนี้ก่อน รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่แล้ว ดูดี มาก มีสายรัดหลัง แน่นพอดี ดอกไม้หน้า รองเท้า เพิ่มความหวาน ใส่ได้ ทุกวัน ตอนนี้ เหลือ แปดสิบบาท รีบเลย โปรดี จริงๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, rotate view รองเท้าแตะพื้นหนาเจ็ดเซน เห็นครบทุกมุมบนโต๊ะไม้",
+      "tts_text": "เหลือแปดสิบบาท เท่านั้น รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่สบาย เดินนาน ไหว มีสายรัดหลัง ไม่หลุดง่าย ดอกไม้หน้า รองเท้า น่ารักสุด โปรวันนี้ รีบกด เลย คุ้มมาก อย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, phone style vlog รองเท้าแตะพื้นหนาเจ็ดเซน ใส่เดินในห้อง",
+      "tts_text": "ใครกำลังหา รองเท้าแตะ ดีๆ พื้นหนา เจ็ดเซน ใส่แล้ว ไม่เมื่อย มีสายรัดหลัง กระชับเท้า ดอกไม้หน้า รองเท้า เพิ่มความคิ้วท์ ตอนนี้ เหลือ แปดสิบบาท รีบเลย ก่อนหมด โปรแรง มาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, bright indoor light รองเท้าแตะพื้นหนาเจ็ดเซน วางเรียง เห็นดอกไม้เด่น",
+      "tts_text": "ดูให้ทัน รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่สบาย มาก มีสายรัดหลัง กันหลุดง่าย ดอกไม้หน้า รองเท้า น่ารักสุด ใส่เที่ยว ได้ ตอนนี้ เหลือ แปดสิบบาท โปรดี รีบกด เลย คุ้มจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, soft shadow shot รองเท้าแตะพื้นหนาเจ็ดเซน บนชั้นไม้ มุมเอียงเล็กน้อย",
+      "tts_text": "จะบอกว่า โปรแรง รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่แล้ว ดูสูง เดินง่าย มีสายรัดหลัง แน่นกำลังดี ดอกไม้หน้า รองเท้า สวยมาก ตอนนี้ เหลือ แปดสิบบาท รีบเลย เดี๋ยวหมด คุ้มสุด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, no text, no logo, close focus รองเท้าแตะพื้นหนาเจ็ดเซน ซูมพื้นและดอกไม้ หมุนช้าๆ",
+      "tts_text": "อย่าปล่อยผ่าน รองเท้าแตะ พื้นหนา เจ็ดเซน ใส่สบาย เดินทั้งวัน ไม่เมื่อย มีสายรัดหลัง กระชับเท้า ดอกไม้หน้า รองเท้า เพิ่มความน่ารัก ตอนนี้ เหลือ แปดสิบบาท รีบกด เลย คุ้มมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732059777846576909": [
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน วางบนพื้นไม้ มีคนสวมเดินในบ้าน มุมใกล้เท้า no text no logo",
+      "tts_text": "ดูนี้ก่อนทุกคน รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ใส่เดินห้องน้ำไม่ลื่น ไม่ปวดเท้า ตอนนี้เหลือแค่สามสิบบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน มีคนยืนบนพื้นกระเบื้องในห้องน้ำ แสงธรรมชาติ no text no logo",
+      "tts_text": "ใครเคยลื่นในห้องน้ำฟังนะ รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ช่วยยึดพื้นดี ใส่สบายทั้งวัน ตอนนี้สามสิบบาท รีบเลยของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน วางคู่กันบนพื้นไม้ มีคนหยิบขึ้นมาใส่ no text no logo",
+      "tts_text": "บ้านไหนพื้นลื่นต้องมี รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน เดินเงียบไม่ก๊อกแก๊ก พื้นหนารับน้ำหนักดี เหลือสามสิบบาท ถูกจนต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน คนใส่เดินออกจากห้องน้ำ มุมต่ำโฟกัสพื้นรองเท้า no text no logo",
+      "tts_text": "บอกเลยคุ้มมาก รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ใส่อาบน้ำแล้วไม่ไถล พื้นนุ่มแน่น ตอนนี้แค่สามสิบบาท ช้าหมดแน่นอน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน มีหยดน้ำบนพื้นกระเบื้อง คนยืนใส่ no text no logo",
+      "tts_text": "พื้นเปียกก็เอาอยู่ รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ยึดพื้นดี ใส่สบายไม่บีบเท้า โปรตอนนี้สามสิบบาท เห็นราคาแล้วต้องรีบ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน มุมใกล้ด้านข้างเห็นความหนาพื้น no text no logo",
+      "tts_text": "ใครชอบพื้นหนาๆต้องคู่นี้ รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน เดินทั้งวันไม่เมื่อย ราคาลดเหลือสามสิบบาท จะรออะไรอีก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน วางหน้าห้องน้ำ มีผ้าเช็ดเท้าใกล้ๆ no text no logo",
+      "tts_text": "ของใช้ในบ้านต้องเลือกดี รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ใส่แล้วมั่นใจทุกก้าว ตอนนี้สามสิบบาท ถูกแบบนี้ไม่มีบ่อยนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน คนสวมเดินในครัว พื้นกระเบื้องสะอาด no text no logo",
+      "tts_text": "ทำครัวพื้นลื่นใช่ไหม รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ช่วยให้เดินมั่นใจ ไม่ต้องกลัวไถล เหลือสามสิบบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน วางข้างเตียง มีคนสวมตอนตื่นนอน no text no logo",
+      "tts_text": "ตื่นเช้ามาเหยียบพื้นเย็นๆไม่ต้องทน รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน นุ่มสบายเท้า ราคาแค่สามสิบบาท ถูกจนต้องมีติดบ้าน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน มุมโคลสอัพพื้นรองเท้าสัมผัสพื้นเปียก no text no logo",
+      "tts_text": "เห็นพื้นแบบนี้ยังเอาอยู่ รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ดอกยางยึดดี ใส่แล้วมั่นใจ ตอนนี้สามสิบบาท กดเลยก่อนพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน คนเดินในบ้านไม้ มุมด้านข้าง no text no logo",
+      "tts_text": "บ้านไม้ก็ใส่ได้สบาย รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน เดินเงียบไม่เสียงดัง โปรแรงเหลือสามสิบบาท เห็นแล้วต้องรีบจัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน วางคู่หน้าประตูห้องน้ำ แสงอุ่น no text no logo",
+      "tts_text": "ห้องน้ำต้องมีคู่นี้ รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน กันลื่นดี ใส่แล้วไม่ปวดเท้า ตอนนี้สามสิบบาท ถูกจนต้องซื้อสำรอง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน คนยืนบนพื้นกระเบื้องเปียก มุมใกล้ no text no logo",
+      "tts_text": "พื้นเปียกแค่ไหนก็ไม่หวั่น รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ช่วยให้เดินมั่นใจทุกก้าว เหลือสามสิบบาท เห็นราคานี้ต้องรีบ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน วางบนพื้นไม้ มีมือหยิบขึ้นมา no text no logo",
+      "tts_text": "ใส่ในบ้านทุกวันต้องทนทาน รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน พื้นหนาแน่น เดินสบาย ราคาแค่สามสิบบาท ช้าหมดจริงๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน คนสวมเดินออกจากห้องน้ำ มุมต่ำ no text no logo",
+      "tts_text": "อาบน้ำเสร็จไม่ต้องกลัวลื่น รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ยึดพื้นดี ใส่แล้วสบายเท้า สามสิบบาทเท่านั้น รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน วางบนพื้นกระเบื้องแห้ง มุมใกล้ no text no logo",
+      "tts_text": "ของมันต้องมีจริงๆ รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ใช้ได้ทุกห้องในบ้าน ตอนนี้เหลือสามสิบบาท เห็นแล้วอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน คนสวมยืนบนพื้นไม้ มุมด้านหน้า no text no logo",
+      "tts_text": "เดินทั้งวันก็ยังสบาย รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน พื้นนุ่มรับแรงดี โปรเหลือสามสิบบาท ถูกแบบนี้ต้องรีบเก็บ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน วางคู่เรียบร้อยบนพื้นไม้ no text no logo",
+      "tts_text": "ของใช้ใกล้ตัวที่คุ้มมาก รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ใส่แล้วมั่นใจทุกก้าว ตอนนี้สามสิบบาท รีบก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน คนสวมเดินผ่านพื้นกระเบื้องเปียก no text no logo",
+      "tts_text": "ใครกลัวพื้นลื่นต้องจัด รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ช่วยให้เดินปลอดภัยขึ้น ตอนนี้แค่สามสิบบาท ถูกจนต้องรีบ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน มุมโคลสอัพพื้นหนาแน่น no text no logo",
+      "tts_text": "เห็นพื้นหนาแบบนี้คุ้มมาก รองเท้าแตะพื้นหนานุ่มกันลื่นในบ้าน ใส่สบายไม่บีบเท้า โปรแรงเหลือสามสิบบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1734002351497184258": [
     {
       "visual_prompt": "9:16 photorealistic woman wearing elastic waist short pants standing indoors like reference image, natural daylight, handheld phone angle, full body from waist to mid thigh, no text, no logo",
