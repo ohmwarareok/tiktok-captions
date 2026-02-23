@@ -1221,122 +1221,122 @@
   ],
   "1731488763680689148": [
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายวางเรียงสี่ใบตามภาพ สีแตกต่างกัน จัดวางบนพื้นหลังเรียบสะอาด มีปากกาวางด้านข้าง มุมกล้องดอลลี่เข้าใกล้ช้าๆ แสงธรรมชาติ soft shadow no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน กระเป๋าสตางค์ผู้ชายทรงบาง ใส่บัตรใส่เงินครบ พกง่ายไม่ตุงกระเป๋า ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ถูกมาก รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic slim men wallet leather texture close up multiple colors laid flat on table minimal background pen beside wallet detail stitching and metal clip no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรจี๊ด กูเพิ่งซื้อกระเป๋าสตางค์ผู้ชายสองร้อยบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท บางพกง่าย ใส่บัตรครบ รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงเฉียงตามภาพบนพื้นเรียบ กล้องแพนซ้ายไปขวาช้าๆ โฟกัสพื้นผิววัสดุชัดเจน no text no logo",
-      "tts_text": "ใครกระเป๋าหนาเกินฟังทางนี้ กระเป๋าสตางค์ผู้ชายใบนี้บางเฉียบ ใส่บัตรหลายช่อง ใช้งานทุกวันคุ้ม ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบเลย",
+      "visual_prompt": "9:16 photorealistic men slim wallet opened showing card slots and cash compartment modern desk scene no text no logo",
+      "tts_text": "เหี้ยชิบหาย กูซื้อกระเป๋าสตางค์ผู้ชายเต็มสองร้อยบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ไม่หนาไม่ตุง รีบสอยเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางตามภาพ มุมกล้องซูมเข้าให้เห็นขอบเย็บชัดๆ แสงเรียบหรู no text no logo",
-      "tts_text": "ดูงานเย็บก่อน กระเป๋าสตางค์ผู้ชายทรงเรียบ ใส่เงินใส่บัตรครบ พกไปทำงานได้เลย ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท จะไม่กดได้ยังไง",
+      "visual_prompt": "9:16 photorealistic leather wallet detail texture and metal clip minimal aesthetic background no text no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูจ่ายกระเป๋าสตางค์ผู้ชายสองร้อยบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ทรงเรียบเท่ รีบกดด่วน กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางเรียงครบตามภาพ มีมือหยิบเปิดดูด้านในหนึ่งใบ กล้องดอลลี่เข้า no text no logo",
-      "tts_text": "ใครกำลังหาของขวัญให้แฟนฟังนะ กระเป๋าสตางค์ผู้ชายทรงสุภาพ ใส่บัตรได้หลายช่อง ตอนนี้หนึ่งร้อยสิบเก้าบาท ถูกจนต้องรีบกด",
+      "visual_prompt": "9:16 photorealistic slim wallet placed beside notebook and pen flat lay style no text no logo",
+      "tts_text": "ไอ้สัสเอ๊ย กูเพิ่งซื้อกระเป๋าสตางค์ผู้ชายสองร้อยบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ใส่บัตรแน่น พกง่าย รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายวางสี่ใบตามภาพบนพื้นเรียบ มุมกล้องหมุนช้าๆรอบสินค้า โฟกัสชัดลึก no text no logo",
-      "tts_text": "บ้านไหนหากระเป๋าใหม่อยู่ กระเป๋าสตางค์ผู้ชายทรงบาง พกง่ายใส่กระเป๋ากางเกงสบาย ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบก่อนหมด",
+      "visual_prompt": "9:16 photorealistic wallet open showing multiple card slots and cash minimal desk background no text no logo",
+      "tts_text": "เหี้ยโคตรเจ็บใจ กูซื้อกระเป๋าสตางค์ผู้ชายเต็มสองร้อยบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ไม่ต้องพกใบหนา รีบสอยก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางเรียงตามภาพบนโต๊ะเรียบ มีแสงธรรมชาติส่องด้านข้าง กล้องซูมเข้า no text no logo",
-      "tts_text": "มึงฟังนะ ของใช้ทุกวันต้องดี กระเป๋าสตางค์ผู้ชายทรงเรียบ ใส่บัตรแน่นๆได้หลายใบ ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบจัดเลย",
+      "visual_prompt": "9:16 photorealistic men wallet multiple color options laid out clean background no text no logo",
+      "tts_text": "แม่งจี๊ดหนัก กูจ่ายกระเป๋าสตางค์ผู้ชายสองร้อยบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ทรงบางดูดี รีบกดเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพ โฟกัสด้านในช่องบัตรหนึ่งใบ กล้องแพนขวา no text no logo",
-      "tts_text": "ใครบัตรเยอะต้องดู กระเป๋าสตางค์ผู้ชายช่องจัดเต็ม หยิบใช้ง่ายไม่รก ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ถูกเกินจริง รีบเลย",
+      "visual_prompt": "9:16 photorealistic close up leather grain texture of slim wallet modern minimal scene no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรแรง กูซื้อกระเป๋าสตางค์ผู้ชายสองร้อยบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ใบเดียวจบทุกวัน รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางครบตามภาพ มุมกล้องดอลลี่ออกเล็กน้อยให้เห็นภาพรวมทั้งหมด no text no logo",
-      "tts_text": "ดูครบทั้งสี่ใบเลยนะ กระเป๋าสตางค์ผู้ชายทรงสุภาพ ใช้ทำงานหรือเที่ยวก็ได้ ตอนนี้หนึ่งร้อยสิบเก้าบาท จะรออะไรอีก",
+      "visual_prompt": "9:16 photorealistic wallet with cards inserted and cash folded neat minimal desk no text no logo",
+      "tts_text": "เหี้ยจริงว่ะ กูเพิ่งซื้อกระเป๋าสตางค์ผู้ชายเต็มสองร้อยบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ของกำลังจะเกลี้ยง รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายวางเรียงตามภาพ พื้นหลังเรียบสะอาด กล้องซูมเข้าเน้นความบางของตัวกระเป๋า no text no logo",
-      "tts_text": "ใครไม่ชอบกระเป๋าหนาฟังนะ กระเป๋าสตางค์ผู้ชายใบนี้บางมาก พกง่ายไม่เกะกะ ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic slim wallet side profile showing thin design on table no text no logo",
+      "tts_text": "แม่งปวดใจสัส กูจ่ายกระเป๋าสตางค์ผู้ชายสองร้อยบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ไม่หนาเทอะทะ รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางเรียงตามภาพ มีมือหยิบใส่บัตรลงช่อง กล้องดอลลี่เข้า no text no logo",
-      "tts_text": "ใส่บัตร ใส่เงินครบจบในใบเดียว กระเป๋าสตางค์ผู้ชายทรงเรียบ ใช้ทุกวันคุ้มมาก ตอนนี้หนึ่งร้อยสิบเก้าบาท ต้องรีบแล้ว",
+      "visual_prompt": "9:16 photorealistic wallet final wide flat lay shot multiple colors pen beside minimal aesthetic no text no logo",
+      "tts_text": "ไอ้เหี้ยเอ๊ยโคตรเสียดาย กูซื้อกระเป๋าสตางค์ผู้ชายสองร้อยบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบปิดดีลเดี๋ยวนี้ กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางครบตามภาพ แสงสะท้อนพื้นผิววัสดุชัด กล้องแพนซ้ายช้าๆ no text no logo",
-      "tts_text": "ดูผิวสัมผัสก่อนเลย กระเป๋าสตางค์ผู้ชายทรงสุภาพ ใส่กระเป๋ากางเกงสบายมาก ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบจัดเลยทุกคน",
+      "visual_prompt": "9:16 photorealistic wallet on desk with smartphone and keys minimal lifestyle shot no text no logo",
+      "tts_text": "สัสเอ๊ยโคตรจี๊ด กูซื้อกระเป๋าสตางค์ผู้ชายเต็มสองร้อยบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ใส่บัตรแน่นไม่ปริ รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพ มุมกล้องซูมเข้าให้เห็นขนาดกำลังดี no text no logo",
-      "tts_text": "ขนาดกำลังพอดีมือ กระเป๋าสตางค์ผู้ชายพกง่าย ใส่บัตรได้หลายช่อง ตอนนี้หนึ่งร้อยสิบเก้าบาท ถูกจนต้องรีบกด",
+      "visual_prompt": "9:16 photorealistic wallet opened showing thin profile and compartments indoor clean background no text no logo",
+      "tts_text": "เหี้ยชิบโคตรแรง กูเพิ่งซื้อกระเป๋าสตางค์ผู้ชายสองร้อยบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท บางจริงไม่อ้วนกระเป๋า รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางครบตามภาพ บนโต๊ะเรียบ มีปากกาวางข้างๆตามภาพ กล้องดอลลี่เข้า no text no logo",
-      "tts_text": "ดูดีๆนะ งานเรียบหรูมาก กระเป๋าสตางค์ผู้ชายทรงสุภาพ ใช้ทำงานได้เลย ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบก่อนหมด",
+      "visual_prompt": "9:16 photorealistic leather wallet stitching detail close up modern desk no text no logo",
+      "tts_text": "แม่งเสียดายว่ะ กูจ่ายกระเป๋าสตางค์ผู้ชายสองร้อยบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ทรงผู้ดีมาก รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพ กล้องหมุนช้าๆรอบสินค้า โฟกัสคมชัด no text no logo",
-      "tts_text": "ของใช้ผู้ชายต้องเรียบๆแบบนี้ กระเป๋าสตางค์ผู้ชายบางเฉียบ ใส่บัตรครบไม่อึดอัด ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบเลย",
+      "visual_prompt": "9:16 photorealistic slim wallet placed beside watch and pen minimal layout no text no logo",
+      "tts_text": "ไอ้สัสโคตรจี๊ด กูซื้อกระเป๋าสตางค์ผู้ชายเต็มสองร้อยบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ไม่กดตอนนี้คือพลาด รีบเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางเรียงครบตามภาพ มุมกล้องแพนขวาไปซ้ายช้าๆ no text no logo",
-      "tts_text": "ใครกำลังเปลี่ยนใบใหม่ต้องดู กระเป๋าสตางค์ผู้ชายทรงบาง ใส่เงินใส่บัตรครบ ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท จะไม่กดได้ยังไง",
+      "visual_prompt": "9:16 photorealistic wallet close up metal clip detail thin profile clean background no text no logo",
+      "tts_text": "เหี้ยโคตรเจ็บ กูเพิ่งซื้อกระเป๋าสตางค์ผู้ชายสองร้อยบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ใบเล็กแต่จุ รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพ พื้นหลังเรียบสะอาด โฟกัสเน้นขอบกระเป๋า no text no logo",
-      "tts_text": "งานเย็บเรียบร้อยมาก กระเป๋าสตางค์ผู้ชายใบนี้ใช้ได้นาน ใส่บัตรหลายช่อง ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic multiple color wallets arranged neatly on table lifestyle shot no text no logo",
+      "tts_text": "แม่งแรงเกิน กูซื้อกระเป๋าสตางค์ผู้ชายเต็มสองร้อยบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ของกำลังจะหมด รีบกดเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางครบตามภาพ กล้องซูมเข้าเน้นความเรียบหรู no text no logo",
-      "tts_text": "ของดีราคานี้หายากนะ กระเป๋าสตางค์ผู้ชายทรงสุภาพ พกไปไหนก็ได้ ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบเลยทุกคน",
+      "visual_prompt": "9:16 photorealistic wallet opened showing cash compartment and cards minimal style no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรสะใจ กูจ่ายกระเป๋าสตางค์ผู้ชายสองร้อยบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ใส่เงินไม่ยับ รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพ มีมือหยิบถือหนึ่งใบ กล้องดอลลี่เข้า no text no logo",
-      "tts_text": "ถือแล้วดูดีมาก กระเป๋าสตางค์ผู้ชายทรงบาง ใส่บัตรแน่นๆได้หลายใบ ตอนนี้หนึ่งร้อยสิบเก้าบาท ต้องรีบกดเลย",
+      "visual_prompt": "9:16 photorealistic wallet thin side angle comparison minimal background no text no logo",
+      "tts_text": "เหี้ยจริง กูเพิ่งซื้อกระเป๋าสตางค์ผู้ชายเต็มสองร้อยบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท บางเฉียบดูแพง รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบวางครบตามภาพ แสงธรรมชาติ soft shadow กล้องแพนช้าๆ no text no logo",
-      "tts_text": "ของใช้ประจำวันต้องคุ้ม กระเป๋าสตางค์ผู้ชายใบนี้ตอบโจทย์มาก ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท หมดแล้วหมดเลยนะ",
+      "visual_prompt": "9:16 photorealistic wallet beside notebook flat lay aesthetic no text no logo",
+      "tts_text": "แม่งจี๊ดจัด กูซื้อกระเป๋าสตางค์ผู้ชายสองร้อยบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบปิดดีลก่อนของหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic กระเป๋าสตางค์ผู้ชายสี่ใบเรียงตามภาพบนพื้นเรียบสะอาด มุมกล้องดอลลี่เข้าใกล้สุดท้าย no text no logo",
-      "tts_text": "รีบเลยทุกคน กระเป๋าสตางค์ผู้ชายทรงเรียบ ใส่บัตรใส่เงินครบจบในใบเดียว ตอนนี้หนึ่งร้อยสิบเก้าบาท จะรออะไรอีก",
+      "visual_prompt": "9:16 photorealistic final wide shot slim men wallet clean minimal desk scene no text no logo",
+      "tts_text": "ไอ้เหี้ยเอ๊ยโคตรเสียดาย กูซื้อกระเป๋าสตางค์ผู้ชายเต็มสองร้อยบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบเอาเดี๋ยวนี้ กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -1861,122 +1861,122 @@
   ],
   "1732096231994985173": [
     {
-      "visual_prompt": "9:16 photorealistic close up P47 wireless bluetooth headphones with built in microphone over ear foldable design, showing smartphone tablet and laptop connection icons on the left, multiple color variants placed in a row at bottom, realistic lighting indoor desk scene, no text, no logo",
-      "tts_text": "ดูนี้ก่อนทุกคน! หูฟังบลูทูธ พีสี่เจ็ด เสียงชัด เบสแน่น มีไมค์ในตัว ต่อมือถือ แท็บเล็ต โน้ตบุ๊กสบาย ตอนนี้เหลือเจ็ดสิบเอ็ดบาท รีบกดก่อนหมดเลย",
+      "visual_prompt": "9:16 photorealistic over ear bluetooth headphones clean white background product focus no text no logo",
+      "tts_text": "เหี้ยเอ๊ย โคตรเจ็บใจ กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท วันนี้ เหลือ เจ็ดสิบสองบาท ต่อมือถือได้ เสียงชัด รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic handheld shot P47 wireless bluetooth headphones being folded and worn, showing side earcup detail and connection to smartphone tablet laptop on table, multiple units arranged below frame, no text, no logo",
-      "tts_text": "เฮ้ย ของแบบนี้ต้องมีแล้วปะ! หูฟังบลูทูธ พีสี่เจ็ด ใส่สบาย พับเก็บได้ มีไมค์คุยชัด โปรเหลือเจ็ดสิบเอ็ดบาท ช้าคืออดนะบอกเลย",
+      "visual_prompt": "9:16 photorealistic wireless headphones side angle studio lighting no text no logo",
+      "tts_text": "ฉิบหาย เสียดายสัส กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท ตอนนี้ เหลือ เจ็ดสิบสองบาท มีไมค์คุยสายได้ รีบกดด่วน มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic medium shot P47 wireless bluetooth headphones rotating slowly on table, smartphone tablet laptop placed beside showing connection concept, row of different color headphones at bottom edge, no text, no logo",
-      "tts_text": "โอ๊ยย ราคานี้ไม่กดคือพลาดมากนะ! หูฟังบลูทูธ พีสี่เจ็ด ฟังเพลง ดูหนัง เล่นเกมได้หมด ตอนนี้แค่เจ็ดสิบเอ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic over ear wireless headphones close up no text no logo",
+      "tts_text": "แม่งโคตรพลาด กูจ่ายเต็ม หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท วันนี้ เหลือ เจ็ดสิบสองบาท ใส่นุ่มไม่เจ็บหู รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic over shoulder shot person using P47 wireless bluetooth headphones with laptop, smartphone and tablet on desk, product close detail ear cushion and mic hole, color variants lined up below, no text, no logo",
-      "tts_text": "ของกำลังจะเกลี้ยงแล้วแม่! หูฟังบลูทูธ พีสี่เจ็ด ต่อได้หลายเครื่อง มีไมค์คุยงานชัด เสียงแน่น ตอนนี้เจ็ดสิบเอ็ดบาท รีบกดหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic bluetooth headphones front view clean background no text no logo",
+      "tts_text": "โคตรเซ็งชิบ กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท ตอนนี้ เหลือ เจ็ดสิบสองบาท พับเก็บได้ พกง่าย รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic front close up P47 wireless bluetooth headphones earcup detail with music note motion concept, smartphone tablet laptop placed left side, multiple color versions displayed at bottom, indoor natural light, no text, no logo",
-      "tts_text": "ใครยังใช้หูฟังสายอยู่ฟังนะ! หูฟังบลูทูธ พีสี่เจ็ด ไร้สาย มีไมค์ เสียงชัดทุกสาย ตอนนี้เหลือเจ็ดสิบเอ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic wireless headset modern white backdrop no text no logo",
+      "tts_text": "เหี้ยจริง เสียดายหนัก กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท วันนี้ เหลือ เจ็ดสิบสองบาท ใช้กับแท็บเล็ตได้ รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic side angle P47 wireless bluetooth headphones being connected to smartphone via bluetooth, tablet and laptop on desk, row of color options placed neatly, no text, no logo",
-      "tts_text": "จะไม่กดได้ยังไง! หูฟังบลูทูธ พีสี่เจ็ด ฟังได้ทั้งมือถือ แท็บเล็ต โน้ตบุ๊ก มีไมค์ในตัว โปรแรงเจ็ดสิบเอ็ดบาท รีบกดก่อนหมดเลยแม่",
+      "visual_prompt": "9:16 photorealistic over ear bluetooth headset isolated no text no logo",
+      "tts_text": "ฉิบหายแล้ว กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท ตอนนี้ เหลือ เจ็ดสิบสองบาท ดูหนังฟังเพลงชิล รีบกดด่วน มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close focus on ear cushion of P47 wireless bluetooth headphones, person putting it on while smartphone tablet laptop visible, color lineup below frame, no text, no logo",
-      "tts_text": "ดูหนังบนมือถือเสียงไม่ดังพอใช่ไหม! หูฟังบลูทูธ พีสี่เจ็ด ช่วยได้ เสียงเต็มหู มีไมค์คุยชัด ตอนนี้เจ็ดสิบเอ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic bluetooth headphones close detail ear cup no text no logo",
+      "tts_text": "แม่งโคตรช้ำ กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท วันนี้ เหลือ เจ็ดสิบสองบาท เสียงแน่นฟังชัด รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic product on white desk P47 wireless bluetooth headphones folded and unfolded demo, smartphone tablet laptop arranged left to right, multiple colors aligned bottom, no text, no logo",
-      "tts_text": "ประชุมออนไลน์เสียงรบกวนเยอะไหม! หูฟังบลูทูธ พีสี่เจ็ด มีไมค์ในตัว คุยชัด ฟังชัด โปรเหลือเจ็ดสิบเอ็ดบาท หมดแล้วหมดเลยนะแม่",
+      "visual_prompt": "9:16 photorealistic wireless headphones angled product shot no text no logo",
+      "tts_text": "โคตรเฟลสัส กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท ตอนนี้ เหลือ เจ็ดสิบสองบาท ใส่เรียนออนไลน์ได้ รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic lifestyle shot person listening music with P47 wireless bluetooth headphones at desk, smartphone tablet laptop nearby, row of different colors displayed, no text, no logo",
-      "tts_text": "ฟังเพลงเบาๆไม่สะใจใช่ไหม! หูฟังบลูทูธ พีสี่เจ็ด เบสแน่น ใส่สบาย มีไมค์ครบ ตอนนี้เจ็ดสิบเอ็ดบาท รีบกดด่วนก่อนหมด",
+      "visual_prompt": "9:16 photorealistic over ear bluetooth headset clean white scene no text no logo",
+      "tts_text": "เหี้ยเอ๊ย พลาดจัด กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท วันนี้ เหลือ เจ็ดสิบสองบาท ใช้เล่นเกมได้ รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic rotating product shot P47 wireless bluetooth headphones close detail earcup logo area, smartphone tablet laptop icons concept on side, color variants bottom row, no text, no logo",
-      "tts_text": "ราคานี้หายากมากนะ! หูฟังบลูทูธ พีสี่เจ็ด ต่อได้หลายอุปกรณ์ พับเก็บง่าย มีไมค์คุยชัด เหลือเจ็ดสิบเอ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic bluetooth headphones studio soft light no text no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท ตอนนี้ เหลือ เจ็ดสิบสองบาท แบตใช้งานได้ยาว รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic unboxing style shot P47 wireless bluetooth headphones taken out and worn, smartphone tablet laptop placed clearly left to right, multiple colors at bottom, no text, no logo",
-      "tts_text": "ของมันต้องมีจริงๆนะ! หูฟังบลูทูธ พีสี่เจ็ด เสียงชัดทุกจังหวะ มีไมค์ในตัว โปรแรงเจ็ดสิบเอ็ดบาท รีบกดก่อนหายเลยแม่",
+      "visual_prompt": "9:16 photorealistic wireless headset isolated on white no text no logo",
+      "tts_text": "ฉิบหาย เสียดายโคตร กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท วันนี้ เหลือ เจ็ดสิบสองบาท ใส่ออกกำลังกายได้ รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic desk scene P47 wireless bluetooth headphones beside smartphone tablet laptop showing connection concept, color lineup displayed clearly, no text, no logo",
-      "tts_text": "ใครทำงานหน้าคอมทั้งวันฟังนะ! หูฟังบลูทูธ พีสี่เจ็ด ใส่สบาย มีไมค์ เสียงแน่น ตอนนี้เหลือเจ็ดสิบเอ็ดบาท ช้าคืออดนะ",
+      "visual_prompt": "9:16 photorealistic bluetooth headphones front clean background no text no logo",
+      "tts_text": "โคตรบ้าเลย กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท ตอนนี้ เหลือ เจ็ดสิบสองบาท เชื่อมต่อง่ายมาก รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close up earcup detail P47 wireless bluetooth headphones with soft light reflection, smartphone tablet laptop arranged left side, multi colors bottom row, no text, no logo",
-      "tts_text": "ดูนี้ก่อนทุกคน! หูฟังบลูทูธ พีสี่เจ็ด ไร้สาย ฟังเพลง ดูคลิป คุยงานครบ ตอนนี้แค่เจ็ดสิบเอ็ดบาท รีบกดก่อนหมดเลย",
+      "visual_prompt": "9:16 photorealistic over ear wireless headphones no text no logo",
+      "tts_text": "เหี้ยจริง เสียดายจัด กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท วันนี้ เหลือ เจ็ดสิบสองบาท เสียงชัดทุกจังหวะ รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic person switching from speaker to P47 wireless bluetooth headphones, smartphone tablet laptop visible, row of color variants below, no text, no logo",
-      "tts_text": "เปิดลำโพงแล้วคนข้างๆบ่นใช่ไหม! หูฟังบลูทูธ พีสี่เจ็ด ช่วยเลย เสียงส่วนตัว มีไมค์ โปรเจ็ดสิบเอ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic bluetooth headset angled on white no text no logo",
+      "tts_text": "แม่งโคตรพัง กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท ตอนนี้ เหลือ เจ็ดสิบสองบาท ฟังพอดแคสต์สบาย รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic top angle P47 wireless bluetooth headphones on desk with smartphone tablet laptop aligned from left to right, multiple colors placed bottom, no text, no logo",
-      "tts_text": "ของดีราคานี้ไม่ได้มาบ่อย! หูฟังบลูทูธ พีสี่เจ็ด ต่อไว เสียงชัด มีไมค์ครบ ตอนนี้เหลือเจ็ดสิบเอ็ดบาท หมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic wireless headphones product focus no text no logo",
+      "tts_text": "ฉิบหายแท้ กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท วันนี้ เหลือ เจ็ดสิบสองบาท ใช้คุยงานได้ รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic lifestyle indoor shot P47 wireless bluetooth headphones being worn while gaming on laptop, smartphone tablet beside, color lineup bottom, no text, no logo",
-      "tts_text": "เล่นเกมเสียงไม่ชัดพลาดนะ! หูฟังบลูทูธ พีสี่เจ็ด เสียงแน่น มีไมค์คุยทีมได้ ตอนนี้เจ็ดสิบเอ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic bluetooth headphones close up detail no text no logo",
+      "tts_text": "โคตรพังเลย กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท ตอนนี้ เหลือ เจ็ดสิบสองบาท เสียงไม่แตก รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic product focus P47 wireless bluetooth headphones side detail with smartphone tablet laptop in background, multiple units displayed bottom, no text, no logo",
-      "tts_text": "ฟังเพลงตอนเดินทางต้องมีแล้ว! หูฟังบลูทูธ พีสี่เจ็ด ไร้สาย พกง่าย มีไมค์ครบ เหลือเจ็ดสิบเอ็ดบาท รีบกดด่วนก่อนหมด",
+      "visual_prompt": "9:16 photorealistic over ear bluetooth headset isolated white background no text no logo",
+      "tts_text": "เหี้ยเอ๊ย โคตรช็อก กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท วันนี้ เหลือ เจ็ดสิบสองบาท ใช้ได้หลายอุปกรณ์ รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic person adjusting P47 wireless bluetooth headphones near smartphone tablet laptop setup, row of colors clearly shown, no text, no logo",
-      "tts_text": "ใครกำลังหาหูฟังใหม่ฟังนะ! หูฟังบลูทูธ พีสี่เจ็ด เสียงชัด ใส่สบาย มีไมค์ในตัว โปรแรงเจ็ดสิบเอ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic wireless headphones side profile no text no logo",
+      "tts_text": "แม่งโคตรเดือด กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท ตอนนี้ เหลือ เจ็ดสิบสองบาท ใส่นุ่มทั้งวัน รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close up P47 wireless bluetooth headphones earcup and headband detail, smartphone tablet laptop shown clearly from left to right, multiple colors bottom row, no text, no logo",
-      "tts_text": "ของกำลังหมดไวมากแม่! หูฟังบลูทูธ พีสี่เจ็ด ฟังได้ทุกอุปกรณ์ มีไมค์ครบ ตอนนี้เหลือเจ็ดสิบเอ็ดบาท รีบกดก่อนหมดเลย",
+      "visual_prompt": "9:16 photorealistic bluetooth headphones isolated white background no text no logo",
+      "tts_text": "ฉิบหาย เสียดายจัด กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท วันนี้ เหลือ เจ็ดสิบสองบาท ฟังเพลงเต็มอารมณ์ รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic rotating showcase P47 wireless bluetooth headphones with smartphone tablet laptop setup on desk, different color units aligned bottom, no text, no logo",
-      "tts_text": "เฮ้ยราคานี้คือคุ้มมาก! หูฟังบลูทูธ พีสี่เจ็ด เสียงแน่น มีไมค์ ต่อได้หลายเครื่อง ตอนนี้เจ็ดสิบเอ็ดบาท รีบกดหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic wireless over ear headphones clean studio no text no logo",
+      "tts_text": "โคตรแค้นสัส กูซื้อ หูฟังบลูทูธ ไร้สาย ร้อยสี่สิบเก้าบาท ตอนนี้ เหลือ เจ็ดสิบสองบาท ราคานี้ต้องรีบ รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -3319,456 +3319,360 @@
   ],
   "1733549417653831032": [
     {
-      "visual_prompt": "9:16 photorealistic casual men bomber jacket hanging on rack modern studio daylight cinematic depth of field random angle no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน แจ็กเก็ตผู้ชายทรงเท่ ใส่ได้ทุกวัน กันลมเบา ใส่เที่ยวใส่ทำงานได้ ตอนนี้โปรเหลือร้อยสิบเจ็ดบาท รีบกดด่วน",
+      "visual_prompt": "9:16 photorealistic men jacket olive casual outfit clean white background no text no logo",
+      "tts_text": "เหี้ยเอ๊ย โคตรเจ็บใจ กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท วันนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ใส่แล้วดูเท่ รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic male model wearing bomber jacket walking city street daylight lifestyle random footage no text no logo",
-      "tts_text": "ใครหาเสื้อคลุมคุ้มต้องจัด แจ็กเก็ตผู้ชายทรงเรียบ ใส่สบายแมตช์ง่าย ใช้ได้หลายโอกาส โปรแรงตอนนี้เหลือร้อยสิบเจ็ดบาท รีบซื้อ",
+      "visual_prompt": "9:16 photorealistic men jacket full body studio lighting no text no logo",
+      "tts_text": "ฉิบหาย เสียดายสัส กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท ตอนนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ผ้าใส่สบาย รีบกดด่วน มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic bomber jacket closeup fabric texture studio lighting random shot no text no logo",
-      "tts_text": "ของมันต้องมี แจ็กเก็ตผู้ชายทรงเท่ ใส่แล้วดูดีทันที กันลมสบายไม่ร้อน โปรวันนี้เหลือร้อยสิบเจ็ดบาท ถูกมาก รีบกด",
+      "visual_prompt": "9:16 photorealistic casual men jacket side angle no text no logo",
+      "tts_text": "แม่งโคตรพลาด กูจ่ายเต็ม เสื้อแจ็คเก็ต สามร้อยบาท วันนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ใส่แมตช์ง่าย รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic jacket laid on wooden table casual lifestyle daylight random angle no text no logo",
-      "tts_text": "รีบฟังเลย แจ็กเก็ตผู้ชายทรงเรียบ ใส่เที่ยวก็ได้ใส่ทำงานก็สุภาพ ผ้าใส่สบายมาก ตอนนี้ราคาเหลือร้อยสิบเจ็ดบาท รีบเลย",
+      "visual_prompt": "9:16 photorealistic olive jacket close up detail no text no logo",
+      "tts_text": "โคตรเซ็งชิบ กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท ตอนนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ทรงสวยไม่เชย รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic man adjusting bomber jacket outdoor park natural light random footage no text no logo",
-      "tts_text": "โปรแรงสุดตอนนี้ แจ็กเก็ตผู้ชายทรงฮิต ใส่แล้วดูดีทันที แมตช์กางเกงง่ายมาก ตอนนี้เหลือร้อยสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic men casual jacket modern studio no text no logo",
+      "tts_text": "เหี้ยจริง เสียดายหนัก กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท วันนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ใส่ได้ทุกวัน รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual bomber jacket hanging minimal background studio light random angle no text no logo",
-      "tts_text": "ใครยังไม่มีต้องรีบ แจ็กเก็ตผู้ชายทรงเท่ ใส่สบายทั้งวัน ไม่อึดอัดเลย โปรเหลือร้อยสิบเจ็ดบาท ราคานี้หายาก รีบซื้อ",
+      "visual_prompt": "9:16 photorealistic men jacket back view clean background no text no logo",
+      "tts_text": "ฉิบหายแล้ว กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท ตอนนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ผ้าดีไม่บาง รีบกดด่วน มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic model back view bomber jacket urban street cinematic light random shot no text no logo",
-      "tts_text": "เห็นโปรแล้วต้องจัด แจ็กเก็ตผู้ชายทรงคลาสสิก ใส่ได้ทุกฤดู กันลมเบา ใส่เที่ยวเท่มาก ตอนนี้เหลือร้อยสิบเจ็ดบาท รีบเลย",
+      "visual_prompt": "9:16 photorealistic men jacket standing pose no text no logo",
+      "tts_text": "แม่งโคตรช้ำ กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท วันนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ใส่แล้วดูดีขึ้น รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic bomber jacket on mannequin fashion studio soft lighting random angle no text no logo",
-      "tts_text": "ด่วนมาก แจ็กเก็ตผู้ชายทรงสวย ใส่แล้วดูแพงขึ้นทันที ผ้าดีใส่สบายมาก โปรแรงตอนนี้เหลือร้อยสิบเจ็ดบาท รีบกดทันที",
+      "visual_prompt": "9:16 photorealistic casual men outfit jacket no text no logo",
+      "tts_text": "โคตรเฟลสัส กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท ตอนนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ใส่แล้วไม่ร้อน รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual outfit flatlay bomber jacket jeans sneakers daylight random shot no text no logo",
-      "tts_text": "ใครชอบแต่งตัวเท่ต้องมี แจ็กเก็ตผู้ชายทรงเรียบ แมตช์ง่ายทุกชุด ใส่ได้ทุกวัน ตอนนี้โปรเหลือร้อยสิบเจ็ดบาท รีบซื้อ",
+      "visual_prompt": "9:16 photorealistic olive jacket studio minimal no text no logo",
+      "tts_text": "เหี้ยเอ๊ย พลาดจัด กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท วันนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ใส่เที่ยวก็รอด รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic man walking wearing bomber jacket golden hour city background random footage no text no logo",
-      "tts_text": "ของดีราคานี้หายาก แจ็กเก็ตผู้ชายทรงเท่ ใส่สบายไม่หนักตัว ใช้ได้ทุกโอกาส ตอนนี้ราคาเหลือร้อยสิบเจ็ดบาท รีบเลย",
+      "visual_prompt": "9:16 photorealistic men jacket clean white no text no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท ตอนนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ทรงเท่ไม่แก่ รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic bomber jacket sleeve zipper detail macro studio light random shot no text no logo",
-      "tts_text": "ต้องรีบจัด แจ็กเก็ตผู้ชายทรงฮิต ใส่แล้วดูดีขึ้นทันที ผ้าดีใส่สบายทั้งวัน โปรแรงเหลือร้อยสิบเจ็ดบาท รีบกดด่วน",
+      "visual_prompt": "9:16 photorealistic casual jacket close detail no text no logo",
+      "tts_text": "ฉิบหาย เสียดายโคตร กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท วันนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ใส่กับยีนส์หล่อเลย รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic jacket hanging in wardrobe lifestyle home lighting random angle no text no logo",
-      "tts_text": "ใครมองหาเสื้อคลุมคุ้มต้องนี่ แจ็กเก็ตผู้ชายทรงเท่ ใส่เที่ยวใส่ทำงานได้ ตอนนี้โปรเหลือร้อยสิบเจ็ดบาท รีบซื้อทันที",
+      "visual_prompt": "9:16 photorealistic men jacket lifestyle shot no text no logo",
+      "tts_text": "โคตรบ้าเลย กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท ตอนนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ใส่ทำงานได้ รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual male standing wearing bomber jacket studio neutral background random shot no text no logo",
-      "tts_text": "โปรแรงจริง แจ็กเก็ตผู้ชายทรงเรียบ ใส่แล้วดูดีทันที แมตช์ง่ายทุกลุค ตอนนี้ราคาเหลือร้อยสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic modern jacket white background no text no logo",
+      "tts_text": "เหี้ยจริง เสียดายจัด กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท วันนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ใส่แล้วดูแพง รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic bomber jacket displayed on chair indoor soft daylight random angle no text no logo",
-      "tts_text": "รีบเลยทุกคน แจ็กเก็ตผู้ชายทรงเท่ ใส่สบายกันลมเบา ใช้ได้ทุกวันแบบคุ้ม ตอนนี้โปรเหลือร้อยสิบเจ็ดบาท รีบซื้อ",
+      "visual_prompt": "9:16 photorealistic men jacket angled view no text no logo",
+      "tts_text": "แม่งโคตรพัง กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท ตอนนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท กันลมได้บางๆ รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic urban street fashion bomber jacket lifestyle cinematic light random footage no text no logo",
-      "tts_text": "อย่าพลาด แจ็กเก็ตผู้ชายทรงสวย ใส่แล้วดูเท่ทันที แมตช์ง่ายกับทุกชุด โปรแรงตอนนี้เหลือร้อยสิบเจ็ดบาท รีบกด",
+      "visual_prompt": "9:16 photorealistic stylish jacket studio shot no text no logo",
+      "tts_text": "ฉิบหายแท้ กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท วันนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ใส่แล้วดูสูงขึ้น รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic jacket detail stitching macro fashion studio light random shot no text no logo",
-      "tts_text": "ของมันต้องมี แจ็กเก็ตผู้ชายทรงฮิต ใส่ได้หลายโอกาส ผ้าใส่สบายมาก ตอนนี้โปรเหลือร้อยสิบเจ็ดบาท รีบซื้อทันที",
+      "visual_prompt": "9:16 photorealistic men casual jacket clean minimal no text no logo",
+      "tts_text": "โคตรพังเลย กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท ตอนนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ใส่ชิลได้ทุกวัน รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic casual bomber jacket outfit urban bench daylight random angle no text no logo",
-      "tts_text": "เห็นราคานี้ต้องรีบ แจ็กเก็ตผู้ชายทรงเท่ ใส่แล้วดูดีทุกลุค ใช้ง่ายมาก ตอนนี้เหลือร้อยสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic olive casual jacket back shot no text no logo",
+      "tts_text": "เหี้ยเอ๊ย โคตรช็อก กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท วันนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ไม่ร้อน ไม่อึดอัด รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic jacket hanging minimal wall shadow cinematic light random shot no text no logo",
-      "tts_text": "รีบจัดเลย แจ็กเก็ตผู้ชายทรงเรียบ ใส่สบายแมตช์ง่ายทุกวัน คุ้มสุดช่วงโปรเหลือร้อยสิบเจ็ดบาท รีบซื้อด่วน",
+      "visual_prompt": "9:16 photorealistic men jacket lifestyle modern no text no logo",
+      "tts_text": "แม่งโคตรเดือด กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท ตอนนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ทรงคลาสสิกใส่ได้ยาว รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic male walking wearing bomber jacket city crosswalk lifestyle random footage no text no logo",
-      "tts_text": "ใครอยากลุคเท่ต้องมี แจ็กเก็ตผู้ชายทรงฮิต ใส่แล้วดูดีขึ้นทันที โปรแรงตอนนี้เหลือร้อยสิบเจ็ดบาท รีบกดทันที",
+      "visual_prompt": "9:16 photorealistic jacket close up fabric detail no text no logo",
+      "tts_text": "ฉิบหาย เสียดายจัด กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท วันนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ผ้าดีเกินราคา รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic bomber jacket folded on table lifestyle indoor daylight random angle no text no logo",
-      "tts_text": "ด่วนมากตอนนี้ แจ็กเก็ตผู้ชายทรงเท่ ใส่ได้ทุกวันไม่ตกเทรนด์ ราคาพิเศษเหลือร้อยสิบเจ็ดบาท รีบซื้อก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic jacket zipper closing macro cinematic light random shot no text no logo",
-      "tts_text": "ของดีราคานี้ต้องรีบ แจ็กเก็ตผู้ชายทรงเรียบ ใส่แล้วดูดีทันที ผ้าสบายไม่ร้อน ตอนนี้เหลือร้อยสิบเจ็ดบาท รีบเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic bomber jacket lifestyle coffee shop chair daylight random footage no text no logo",
-      "tts_text": "ใครกำลังหาเสื้อคลุมคุ้ม แจ็กเก็ตผู้ชายทรงเท่ ใส่เที่ยวใส่ทำงานได้ ตอนนี้โปรเหลือร้อยสิบเจ็ดบาท รีบซื้อ",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic fashion studio bomber jacket mannequin spotlight random angle no text no logo",
-      "tts_text": "อย่าช้า แจ็กเก็ตผู้ชายทรงฮิต ใส่แล้วดูดีทุกลุค แมตช์ง่ายมาก คุ้มสุดตอนนี้เหลือร้อยสิบเจ็ดบาท รีบกด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic casual streetwear bomber jacket hanging outdoor rack daylight random shot no text no logo",
-      "tts_text": "เห็นโปรแล้วต้องจัด แจ็กเก็ตผู้ชายทรงเท่ ใส่สบายทั้งวัน ใช้ได้หลายโอกาส ตอนนี้ราคาเหลือร้อยสิบเจ็ดบาท รีบซื้อ",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic male outfit styling bomber jacket mirror reflection indoor random footage no text no logo",
-      "tts_text": "โปรแรงแบบนี้ต้องรีบ แจ็กเก็ตผู้ชายทรงเรียบ ใส่แล้วดูดีทันที ราคาพิเศษเหลือร้อยสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic men jacket studio clean white no text no logo",
+      "tts_text": "โคตรแค้นสัส กูซื้อ เสื้อแจ็คเก็ต สามร้อยบาท ตอนนี้ เหลือ หนึ่งร้อยสิบเจ็ดบาท ราคานี้ต้องรีบ รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
   ],
   "1732326294091172558": [
     {
-      "visual_prompt": "9:16 photorealistic elegant women handbag product exactly as original placed on table, lifestyle usage indoor daylight, natural camera movement, no text, no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน กระเป๋าถือผู้หญิงรุ่นใหม่ ดีไซน์เรียบหรู ใส่ของได้เยอะ ใช้ได้ทุกวัน ตอนนี้ลดเหลือสองร้อยสามสิบห้าบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic elegant women shoulder bag on white table soft studio light no text no logo",
+      "tts_text": "เหี้ยเอ๊ย โคตรเจ็บใจ กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท วันนี้ เหลือ สองร้อยสามสิบห้าบาท ทรงสวยดูแพง รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic woman picking handbag before leaving home, authentic product unchanged, no text, no logo",
-      "tts_text": "ใครหากระเป๋าใช้ทำงานต้องตัวนี้ ทรงสวย จุของครบ ใช้งานได้ทุกลุค วันนี้ราคาโปรสองร้อยสามสิบห้าบาท หมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic stylish women handbag minimal background no text no logo",
+      "tts_text": "ฉิบหาย เสียดายสัส กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท ตอนนี้ เหลือ สองร้อยสามสิบห้าบาท ใส่ของได้เยอะ รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cafe lifestyle scene handbag on table, natural lighting, no text, no logo",
-      "tts_text": "ไปคาเฟ่หรือทำงานก็เข้ากัน กระเป๋าถือผู้หญิงทรงเรียบหรู ใส่ของจำเป็นครบ ตอนนี้โปรแรงสองร้อยสามสิบห้าบาท รีบสั่งก่อนหมด",
+      "visual_prompt": "9:16 photorealistic modern women handbag close up no text no logo",
+      "tts_text": "แม่งโคตรพลาด กูจ่ายเต็ม กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท วันนี้ เหลือ สองร้อยสามสิบห้าบาท งานเรียบร้อยมาก รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic office desk handbag usage scene, authentic product unchanged, no text, no logo",
-      "tts_text": "กระเป๋าใบเดียวจบ ใช้ทำงาน เที่ยว หรือช้อปปิ้งก็ได้ ทรงสวยดูแพง วันนี้ลดเหลือเพียงสองร้อยสามสิบห้าบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic fashionable shoulder bag on white surface no text no logo",
+      "tts_text": "โคตรเซ็งชิบ กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท ตอนนี้ เหลือ สองร้อยสามสิบห้าบาท ถือทำงานได้สบาย รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic walking street fashion scene handbag in hand, no text, no logo",
-      "tts_text": "อยากลุคดูดีขึ้นทันทีต้องมี กระเป๋าถือผู้หญิงทรงเรียบหรู แมตช์ง่ายทุกชุด วันนี้โปรเหลือสองร้อยสามสิบห้าบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic elegant handbag studio lighting no text no logo",
+      "tts_text": "เหี้ยจริง เสียดายหนัก กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท วันนี้ เหลือ สองร้อยสามสิบห้าบาท แมตช์เสื้อผ้าง่าย รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic handbag placing cosmetics inside showing capacity, no text, no logo",
-      "tts_text": "ใบเดียวใส่ของได้ครบ มือถือ กระเป๋าสตางค์ เครื่องสำอางสบายมาก ตอนนี้ราคาพิเศษสองร้อยสามสิบห้าบาท รีบสั่งก่อนหมด",
+      "visual_prompt": "9:16 photorealistic women handbag placed on table minimal style no text no logo",
+      "tts_text": "ฉิบหายแล้ว กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท ตอนนี้ เหลือ สองร้อยสามสิบห้าบาท มีสายสะพายปรับได้ รีบกดด่วน มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic mirror dressing scene holding handbag, no text, no logo",
-      "tts_text": "แต่งตัวเสร็จถือใบนี้ดูแพงขึ้นทันที กระเป๋าผู้หญิงทรงคลาสสิก ใช้ได้ทุกโอกาส วันนี้ลดเหลือสองร้อยสามสิบห้าบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic classy women shoulder bag clean background no text no logo",
+      "tts_text": "แม่งโคตรช้ำ กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท วันนี้ เหลือ สองร้อยสามสิบห้าบาท ช่องเก็บของเยอะ รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic shopping mall lifestyle walking holding handbag, no text, no logo",
-      "tts_text": "สายช้อปต้องมี กระเป๋าถือผู้หญิงน้ำหนักเบา ถือสบาย ใช้ได้ทั้งวัน ตอนนี้ราคาโปรสองร้อยสามสิบห้าบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic modern women handbag side angle no text no logo",
+      "tts_text": "โคตรเฟลสัส กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท ตอนนี้ เหลือ สองร้อยสามสิบห้าบาท ใช้ได้ทุกวัน รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic handbag hanging on chair indoor lifestyle scene, no text, no logo",
-      "tts_text": "มองหากระเป๋าใช้ทุกวันอยู่ใช่ไหม ใบนี้ตอบโจทย์ทั้งความสวยและความจุ วันนี้เหลือสองร้อยสามสิบห้าบาท รีบสั่งก่อนหมด",
+      "visual_prompt": "9:16 photorealistic elegant handbag minimal white backdrop no text no logo",
+      "tts_text": "เหี้ยเอ๊ย พลาดจัด กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท วันนี้ เหลือ สองร้อยสามสิบห้าบาท ถือแล้วดูดี รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic woman commuting with handbag, authentic product unchanged, no text, no logo",
-      "tts_text": "เดินทางไปทำงานต้องมีกระเป๋าที่จุของได้ครบ ใบนี้ทรงสวยใช้งานง่าย ตอนนี้ลดเหลือสองร้อยสามสิบห้าบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic handbag close detail modern studio no text no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท ตอนนี้ เหลือ สองร้อยสามสิบห้าบาท ทรงเรียบร้อยมาก รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic handbag placed on bed styling scene, no text, no logo",
-      "tts_text": "กระเป๋าทรงเรียบหรู เหมาะกับทุกลุค ไม่ว่าจะทำงานหรือเที่ยว วันนี้จัดโปรเหลือสองร้อยสามสิบห้าบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic women handbag elegant soft lighting no text no logo",
+      "tts_text": "ฉิบหาย เสียดายโคตร กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท วันนี้ เหลือ สองร้อยสามสิบห้าบาท งานดูแพงเกินราคา รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic handbag opening zipper showing interior, no text, no logo",
-      "tts_text": "ช่องใส่ของจัดเป็นระเบียบ หยิบใช้ง่าย กระเป๋าถือผู้หญิงใบเดียวครบ ตอนนี้ราคาโปรสองร้อยสามสิบห้าบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic modern shoulder bag product focus no text no logo",
+      "tts_text": "โคตรบ้าเลย กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท ตอนนี้ เหลือ สองร้อยสามสิบห้าบาท สะพายแล้วไม่หนัก รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic fashion outfit styling with handbag mirror scene, no text, no logo",
-      "tts_text": "เพิ่มลุคให้ดูแพงขึ้นง่ายมาก แค่ถือกระเป๋าผู้หญิงใบนี้ แมตช์ง่ายทุกชุด วันนี้เหลือสองร้อยสามสิบห้าบาท รีบสั่งเลย",
+      "visual_prompt": "9:16 photorealistic handbag placed on white table no text no logo",
+      "tts_text": "เหี้ยจริง เสียดายจัด กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท วันนี้ เหลือ สองร้อยสามสิบห้าบาท ใช้ทำงานได้สบาย รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cafe friend meetup handbag on chair, no text, no logo",
-      "tts_text": "ออกไปเจอเพื่อนต้องมีใบนี้ กระเป๋าถือผู้หญิงทรงสวย ดูเรียบร้อยน่ารัก วันนี้ลดเหลือสองร้อยสามสิบห้าบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic stylish women handbag clean scene no text no logo",
+      "tts_text": "แม่งโคตรพัง กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท ตอนนี้ เหลือ สองร้อยสามสิบห้าบาท ทรงสวยดูเรียบหรู รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic daily commute bus scene holding handbag, no text, no logo",
-      "tts_text": "ใช้ทุกวันก็คุ้ม กระเป๋าถือผู้หญิงทนทาน ใส่ของได้ครบจบในใบเดียว ตอนนี้ราคาโปรสองร้อยสามสิบห้าบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic elegant handbag product shot no text no logo",
+      "tts_text": "ฉิบหายแท้ กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท วันนี้ เหลือ สองร้อยสามสิบห้าบาท ถือออกงานได้ รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic handbag placed next to laptop working scene, no text, no logo",
-      "tts_text": "ทำงานก็ใช้ เที่ยวก็สวย กระเป๋าผู้หญิงดีไซน์เรียบหรู ใส่ของจำเป็นครบ ตอนนี้ลดเหลือสองร้อยสามสิบห้าบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic modern handbag angled view no text no logo",
+      "tts_text": "โคตรพังเลย กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท ตอนนี้ เหลือ สองร้อยสามสิบห้าบาท ใช้ได้นานไม่ตกเทรนด์ รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic dressing table lifestyle handbag scene, no text, no logo",
-      "tts_text": "ใครอยากได้กระเป๋าทรงสุภาพดูดี ใบนี้ตอบโจทย์ ใช้งานง่ายมาก วันนี้เหลือสองร้อยสามสิบห้าบาท รีบสั่งก่อนหมด",
+      "visual_prompt": "9:16 photorealistic women shoulder bag close up detail no text no logo",
+      "tts_text": "เหี้ยเอ๊ย โคตรช็อก กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท วันนี้ เหลือ สองร้อยสามสิบห้าบาท ใส่ของจำเป็นครบ รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic shopping street holding handbag fashion shot, no text, no logo",
-      "tts_text": "ถือใบนี้เดินช้อปดูดีขึ้นทันที กระเป๋าผู้หญิงทรงคลาสสิก ใช้ได้ยาว วันนี้โปรเหลือสองร้อยสามสิบห้าบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic elegant handbag white background no text no logo",
+      "tts_text": "แม่งโคตรเดือด กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท ตอนนี้ เหลือ สองร้อยสามสิบห้าบาท ดีไซน์เรียบดูแพง รีบกด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic office elevator mirror holding handbag, no text, no logo",
-      "tts_text": "กำลังหากระเป๋าทำงานอยู่ใช่ไหม ใบนี้ทรงสวย จุของครบ ใช้งานสะดวก วันนี้ราคาโปรสองร้อยสามสิบห้าบาท รีบกดเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic handbag placed on dining table lifestyle scene, no text, no logo",
-      "tts_text": "ออกไปกินข้าวก็ต้องมี กระเป๋าถือผู้หญิงทรงเรียบหรู แมตช์ง่ายทุกชุด วันนี้เหลือสองร้อยสามสิบห้าบาท รีบสั่งเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic packing handbag before leaving home scene, no text, no logo",
-      "tts_text": "เตรียมออกจากบ้านแค่หยิบใบนี้ ใส่ของได้ครบ มือถือ เครื่องสำอาง วันนี้โปรแรงสองร้อยสามสิบห้าบาท รีบกดก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic handbag hanging fashion display indoor, no text, no logo",
-      "tts_text": "กระเป๋าผู้หญิงทรงสุภาพ ใช้ได้ทุกโอกาส ดีไซน์เรียบหรูดูแพง ตอนนี้ลดเหลือสองร้อยสามสิบห้าบาท เท่านั้น",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic cafe counter handbag lifestyle scene, no text, no logo",
-      "tts_text": "ไปคาเฟ่ถือใบนี้ดูดีขึ้นทันที กระเป๋าผู้หญิงใช้งานง่าย จุของครบ วันนี้เหลือสองร้อยสามสิบห้าบาท รีบกดเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic wardrobe styling outfit selection with handbag, no text, no logo",
-      "tts_text": "เลือกชุดไม่ยาก แค่มีใบนี้แมตช์ได้ทุกลุค กระเป๋าผู้หญิงทรงสวย วันนี้ราคาโปรสองร้อยสามสิบห้าบาท รีบสั่งก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic handbag placed near window daylight lifestyle shot, no text, no logo",
-      "tts_text": "ของดีราคาเบา กระเป๋าถือผู้หญิงทรงสวย ใส่ของได้ครบ ใช้ทุกวันคุ้มมาก วันนี้เหลือสองร้อยสามสิบห้าบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic stylish women handbag studio soft light no text no logo",
+      "tts_text": "ฉิบหาย เสียดายจัด กูซื้อ กระเป๋าสะพายข้างผู้หญิง สองร้อยเจ็ดสิบเจ็ดบาท วันนี้ เหลือ สองร้อยสามสิบห้าบาท ทรงคลาสสิกมาก รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
   ],
   "1729613277993273504": [
     {
-      "visual_prompt": "9:16 photorealistic men's perfume set displayed on clean dressing table cinematic lighting realistic reflections no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน เซ็ตน้ำหอมผู้ชายสี่กลิ่นใช้ได้ทุกวัน หอมติดทนหลายสไตล์ ตอนนี้โปรแรงเหลือเพียงสี่ร้อยสี่สิบหกบาท รีบกดด่วน",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดเรียงจากซ้ายไปขวา ขวดสี่เหลี่ยมฝาดำหนึ่งขวด ถัดมาเป็นขวดทรงกระบอกใสสามขวด และขวดทรงกระบอกสีส้มหนึ่งขวดวางด้านขวาสุด ครบตามภาพสินค้า no text no logo",
+      "tts_text": "โคตรเสียดายใจชิบ วันก่อนกูซื้อเซตน้ำหอมผู้ชายราคาเต็มห้าร้อยสองบาท วันนี้มึงดูเหลือสี่ร้อยสี่สิบหกบาท ได้ตั้งสี่ขวด กลิ่นใช้ได้ทุกวัน รีบกดก่อนหมด บอกกูทีว่ามึงจะพลาดจริงดิ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic man getting ready at mirror applying perfume elegant morning lighting no text no logo",
-      "tts_text": "หนุ่มๆต้องมี เซ็ตน้ำหอมผู้ชายสี่กลิ่นเปลี่ยนได้ทุกโอกาส กลิ่นหอมมั่นใจทั้งวัน วันนี้ราคาแค่สี่ร้อยสี่สิบหกบาท รีบสั่งเลย",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดจัดเรียงครบตามภาพจากซ้ายไปขวา ขวดเหลี่ยมหนึ่ง ขวดใสสาม และขวดสีส้มหนึ่ง no text no logo",
+      "tts_text": "แม่งเอ๊ย เจ็บใจแทน วันก่อนกูจ่ายห้าร้อยสองบาท วันนี้เซตน้ำหอมผู้ชายเหลือสี่ร้อยสี่สิบหกบาท ได้ครบสี่ขวด ฉีดทำงานก็ได้ ออกงานก็รอด รีบกดก่อนเกลี้ยง บอกกูทีว่ามึงเอากี่เซต",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic perfume bottles arranged on modern shelf soft spotlight luxury home background no text no logo",
-      "tts_text": "ใครอยากมีกลิ่นหอมหลายสไตล์ต้องจัด เซ็ตน้ำหอมผู้ชายสี่กลิ่นใช้ได้ทุกวัน ตอนนี้เหลือสี่ร้อยสี่สิบหกบาท ถูกมากต้องรีบกด",
+      "visual_prompt": "9:16 photorealistic จัดวางเซตน้ำหอมผู้ชายสี่ขวดเหมือนภาพต้นฉบับ เรียงจากซ้ายไปขวาครบทุกขวด no text no logo",
+      "tts_text": "โอ๊ยเสียดายแทนมึง วันก่อนกูซื้อห้าร้อยสองบาท ตอนนี้เซตน้ำหอมผู้ชายเหลือสี่ร้อยสี่สิบหกบาท ได้สี่ขวดครบ กลิ่นติดทนใช้ได้ทุกวัน ของกำลังจะเกลี้ยงแล้วแม่ กดแล้วบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close-up hand holding perfume bottle spraying elegant indoor background no text no logo",
-      "tts_text": "ฉีดครั้งเดียวหอมมั่นใจ เซ็ตน้ำหอมผู้ชายสี่กลิ่นเปลี่ยนลุคได้ทันที วันนี้โปรเหลือสี่ร้อยสี่สิบหกบาท รีบกดก่อนหมดสต็อก",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดเรียงครบตามภาพ ซ้ายสุดขวดเหลี่ยม ต่อด้วยขวดใสสาม และขวดสีส้มด้านขวา no text no logo",
+      "tts_text": "แม่งพลาดไปแล้วรอบก่อน กูจ่ายห้าร้อยสองบาท วันนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายได้สี่ขวด ฉีดแล้วมั่นใจขึ้นเยอะ รีบกดก่อนของหมด บอกกูทีว่ามึงกดทันไหม",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stylish male wardrobe shelf with perfume set neatly arranged natural daylight no text no logo",
-      "tts_text": "แต่งตัวแล้วต้องเสริมกลิ่น เซ็ตน้ำหอมผู้ชายสี่กลิ่นใช้ได้ทุกโอกาส ตอนนี้ลดแรงเหลือสี่ร้อยสี่สิบหกบาท คุ้มมากรีบสั่ง",
+      "visual_prompt": "9:16 photorealistic แสดงเซตน้ำหอมผู้ชายสี่ขวดครบทุกชิ้นตามภาพต้นฉบับ เรียงซ้ายไปขวาเหมือนเดิม no text no logo",
+      "tts_text": "โคตรเซ็งแทนกู วันก่อนซื้อห้าร้อยสองบาท วันนี้เซตน้ำหอมผู้ชายเหลือสี่ร้อยสี่สิบหกบาท ได้สี่ขวดครบ ใช้ได้ทั้งทำงานทั้งเที่ยว ของใกล้หมดแล้วแม่ กดแล้วทักบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic modern bathroom counter perfume set reflection mirror soft warm lighting no text no logo",
-      "tts_text": "หอมตั้งแต่เช้าถึงเย็น เซ็ตน้ำหอมผู้ชายสี่กลิ่นครบทุกสไตล์ วันนี้ราคาเพียงสี่ร้อยสี่สิบหกบาท เห็นโปรแล้วต้องกดทันที",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดจัดเรียงเหมือนภาพสินค้า ซ้ายหนึ่งขวดเหลี่ยม กลางสามใส ขวาสุดสีส้ม no text no logo",
+      "tts_text": "เสียดายแทบร้องไห้ กูซื้อเต็มห้าร้อยสองบาท วันนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายสี่ขวดครบ กลิ่นใช้ได้ทุกโอกาส รีบกดก่อนสต็อกหมด บอกกูทีว่ามึงเอาด้วยไหม",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic gift box with men's perfume set opened elegant celebration lighting no text no logo",
-      "tts_text": "ซื้อใช้เองก็ดีซื้อฝากก็ปัง เซ็ตน้ำหอมผู้ชายสี่กลิ่นครบชุด ตอนนี้โปรเหลือสี่ร้อยสี่สิบหกบาท รีบสั่งก่อนราคากลับ",
+      "visual_prompt": "9:16 photorealistic โชว์เซตน้ำหอมผู้ชายสี่ขวดเรียงตามภาพจากซ้ายไปขวาครบทุกขวด no text no logo",
+      "tts_text": "แม่งเอ๊ยพลาดไปแล้ว กูจ่ายห้าร้อยสองบาท ตอนนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายได้สี่ขวด กลิ่นแนวสุภาพทุกวัน รีบกดก่อนหมด บอกกูทีว่ามึงจัดกี่เซต",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic male office desk with perfume set beside laptop modern working environment no text no logo",
-      "tts_text": "ทำงานทั้งวันต้องหอมมั่นใจ เซ็ตน้ำหอมผู้ชายสี่กลิ่นเปลี่ยนใช้ได้ทุกวัน วันนี้เหลือสี่ร้อยสี่สิบหกบาท โปรแรงรีบกด",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดครบตามภาพต้นฉบับ เรียงซ้ายไปขวาเหมือนเดิม no text no logo",
+      "tts_text": "โคตรเสียดายเงิน วันก่อนกูซื้อห้าร้อยสองบาท วันนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายสี่ขวดครบ ใช้สลับได้ทั้งอาทิตย์ ของกำลังจะเกลี้ยงแล้วแม่ กดแล้วบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic evening date preparation scene perfume bottle in foreground warm romantic lighting no text no logo",
-      "tts_text": "ไปเดตต้องหอมโดนใจ เซ็ตน้ำหอมผู้ชายสี่กลิ่นเลือกใช้ตามอารมณ์ ตอนนี้ราคาเพียงสี่ร้อยสี่สิบหกบาท ต้องรีบซื้อ",
+      "visual_prompt": "9:16 photorealistic แสดงเซตน้ำหอมผู้ชายสี่ขวดครบทุกขวดเรียงตามภาพ no text no logo",
+      "tts_text": "โอ๊ยพลาดแรงมาก กูจ่ายห้าร้อยสองบาท วันนี้เซตน้ำหอมผู้ชายเหลือสี่ร้อยสี่สิบหกบาท ได้ตั้งสี่ขวด กลิ่นสุภาพใช้ได้ทุกวัน รีบกดก่อนของหมด บอกกูทีว่ามึงจะเอากี่กล่อง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic luxury marble table perfume set elegant reflections studio lighting no text no logo",
-      "tts_text": "กลิ่นเดียวไม่พอใช่ไหม เซ็ตน้ำหอมผู้ชายสี่กลิ่นครบทุกโอกาส วันนี้โปรเหลือสี่ร้อยสี่สิบหกบาท ถูกจริงรีบจัด",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดเรียงซ้ายไปขวาครบตามภาพสินค้า no text no logo",
+      "tts_text": "แม่งเจ็บใจแทนกู วันก่อนซื้อห้าร้อยสองบาท วันนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายสี่ขวดครบ ฉีดแล้วดูดีขึ้นเยอะ รีบกดก่อนเกลี้ยง บอกกูทีว่ามึงกดทันไหม",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic man spraying perfume before leaving house natural daylight doorway scene no text no logo",
-      "tts_text": "ก่อนออกจากบ้านต้องฉีด เซ็ตน้ำหอมผู้ชายสี่กลิ่นหอมติดทนหลายสไตล์ ตอนนี้เหลือสี่ร้อยสี่สิบหกบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic จัดวางเซตน้ำหอมผู้ชายสี่ขวดเหมือนภาพต้นฉบับครบทุกขวด no text no logo",
+      "tts_text": "โคตรพลาดรอบก่อน กูซื้อเต็มห้าร้อยสองบาท ตอนนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายได้สี่ขวด ใช้ได้ทุกวันไม่ต้องคิด รีบกดก่อนหมด บอกกูทีว่ามึงจัดยัง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic dresser top perfume arrangement minimal modern interior soft lighting no text no logo",
-      "tts_text": "หอมทุกวันไม่ซ้ำกลิ่น เซ็ตน้ำหอมผู้ชายสี่กลิ่นคุ้มมากชุดเดียวจบ วันนี้ราคาเพียงสี่ร้อยสี่สิบหกบาท รีบซื้อ",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดเรียงครบตามภาพ ซ้ายเหลี่ยม กลางใสสาม ขวาสีส้ม no text no logo",
+      "tts_text": "แม่งเอ๊ยเสียดายแทบกัดหมอน วันก่อนห้าร้อยสองบาท วันนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายสี่ขวดครบ กลิ่นสุภาพฉีดได้ทุกวัน ของใกล้หมดแล้วแม่ กดแล้วทักบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic male gym locker with perfume set lifestyle realistic lighting no text no logo",
-      "tts_text": "หลังออกกำลังกายต้องหอม เซ็ตน้ำหอมผู้ชายสี่กลิ่นช่วยเพิ่มความมั่นใจ ตอนนี้เหลือสี่ร้อยสี่สิบหกบาท รีบสั่งทันที",
+      "visual_prompt": "9:16 photorealistic แสดงเซตน้ำหอมผู้ชายสี่ขวดครบตามภาพเรียงซ้ายไปขวา no text no logo",
+      "tts_text": "โคตรเสียดายใจ วันก่อนกูจ่ายห้าร้อยสองบาท วันนี้เซตน้ำหอมผู้ชายเหลือสี่ร้อยสี่สิบหกบาท ได้สี่ขวดครบ ใช้ได้ทุกโอกาส รีบกดก่อนเกลี้ยง บอกกูทีว่ามึงเอากี่เซต",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic travel suitcase packing men's perfume set lifestyle airport preparation no text no logo",
-      "tts_text": "เดินทางก็พกง่าย เซ็ตน้ำหอมผู้ชายสี่กลิ่นใช้ได้ทุกทริป ตอนนี้โปรแรงเหลือสี่ร้อยสี่สิบหกบาท คุ้มมากต้องมี",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดครบทุกขวดจัดวางเหมือนภาพ no text no logo",
+      "tts_text": "แม่งพลาดหนักมาก กูซื้อเต็มห้าร้อยสองบาท วันนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายสี่ขวดครบ กลิ่นแนวสุภาพใช้ทุกวัน รีบกดก่อนหมด บอกกูทีว่ามึงจัดหรือยัง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic shelf display luxury grooming items perfume set in focus soft cinematic light no text no logo",
-      "tts_text": "โต๊ะเครื่องหอมต้องครบ เซ็ตน้ำหอมผู้ชายสี่กลิ่นเปลี่ยนกลิ่นได้ทุกวัน วันนี้ราคาแค่สี่ร้อยสี่สิบหกบาท รีบกด",
+      "visual_prompt": "9:16 photorealistic โชว์เซตน้ำหอมผู้ชายสี่ขวดเรียงตามภาพต้นฉบับครบทุกชิ้น no text no logo",
+      "tts_text": "โอ๊ยเสียดายแรงมาก วันก่อนกูซื้อห้าร้อยสองบาท ตอนนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายได้สี่ขวดครบ ฉีดแล้วมั่นใจขึ้น รีบกดก่อนเกลี้ยง บอกกูทีว่ามึงกดไหม",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic hand picking perfume bottle from set shallow depth of field no text no logo",
-      "tts_text": "เลือกใช้ได้ตามสไตล์ เซ็ตน้ำหอมผู้ชายสี่กลิ่นครบชุดเดียวจบ ตอนนี้เหลือสี่ร้อยสี่สิบหกบาท รีบซื้อด่วน",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดจัดเรียงครบเหมือนภาพสินค้า no text no logo",
+      "tts_text": "แม่งเจ็บใจชัดๆ วันก่อนกูจ่ายห้าร้อยสองบาท วันนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายสี่ขวดครบ ใช้ได้ทั้งทำงานเที่ยว รีบกดก่อนหมด บอกกูทีว่ามึงเอาด้วยไหม",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic modern bachelor apartment dressing area perfume set realistic indoor lighting no text no logo",
-      "tts_text": "หนุ่มๆต้องมีติดบ้าน เซ็ตน้ำหอมผู้ชายสี่กลิ่นหอมมั่นใจทุกวัน วันนี้ลดเหลือสี่ร้อยสี่สิบหกบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดเรียงจากซ้ายไปขวาครบทุกขวดตามภาพ no text no logo",
+      "tts_text": "โคตรเสียดายเงินกู วันก่อนซื้อห้าร้อยสองบาท วันนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายได้สี่ขวดครบ กลิ่นสุภาพทุกวัน ของกำลังจะหมดแล้วแม่ กดแล้วบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic clean white background product showcase perfume set cinematic studio light no text no logo",
-      "tts_text": "เซ็ตเดียวได้หลายกลิ่น เซ็ตน้ำหอมผู้ชายสี่กลิ่นคุ้มสุดตอนนี้ เหลือสี่ร้อยสี่สิบหกบาท เห็นโปรแล้วต้องรีบสั่ง",
+      "visual_prompt": "9:16 photorealistic แสดงเซตน้ำหอมผู้ชายสี่ขวดครบตามภาพต้นฉบับ no text no logo",
+      "tts_text": "แม่งพลาดจริงๆ กูจ่ายเต็มห้าร้อยสองบาท ตอนนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายสี่ขวดครบ ใช้ได้ทุกวันไม่ซ้ำ รีบกดก่อนเกลี้ยง บอกกูทีว่ามึงจัดกี่กล่อง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stylish male preparing for meeting applying perfume confident expression no text no logo",
-      "tts_text": "ก่อนเข้าประชุมต้องมั่นใจ เซ็ตน้ำหอมผู้ชายสี่กลิ่นช่วยเสริมลุค วันนี้ราคาเพียงสี่ร้อยสี่สิบหกบาท รีบกดด่วน",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดครบทุกขวดเรียงเหมือนภาพสินค้า no text no logo",
+      "tts_text": "โอ๊ยเจ็บใจแทนมึง วันก่อนกูซื้อห้าร้อยสองบาท วันนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายได้สี่ขวดครบ ฉีดแล้วดูดีขึ้น รีบกดก่อนของหมด บอกกูทีว่ามึงกดทันไหม",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic gift giving moment handing perfume set elegant warm lighting no text no logo",
-      "tts_text": "ซื้อเป็นของขวัญก็ปัง เซ็ตน้ำหอมผู้ชายสี่กลิ่นหอมครบชุด ตอนนี้โปรเหลือสี่ร้อยสี่สิบหกบาท รีบสั่งทันที",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic lifestyle morning routine applying perfume near window sunlight no text no logo",
-      "tts_text": "เริ่มวันใหม่ต้องหอมก่อน เซ็ตน้ำหอมผู้ชายสี่กลิ่นเลือกใช้ได้ทุกลุค วันนี้เหลือสี่ร้อยสี่สิบหกบาท รีบกด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic men's grooming table perfume set close-up elegant reflections no text no logo",
-      "tts_text": "โต๊ะเครื่องหอมต้องจัด เซ็ตน้ำหอมผู้ชายสี่กลิ่นครบทุกโอกาส ตอนนี้ราคาเพียงสี่ร้อยสี่สิบหกบาท รีบซื้อเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic man selecting perfume before night outing stylish indoor lighting no text no logo",
-      "tts_text": "ออกเที่ยวคืนนี้ต้องหอม เซ็ตน้ำหอมผู้ชายสี่กลิ่นเลือกใช้ได้ทันที ตอนนี้เหลือสี่ร้อยสี่สิบหกบาท รีบกดก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic shelf display modern bathroom grooming products perfume set focus no text no logo",
-      "tts_text": "ของมันต้องมีจริงๆ เซ็ตน้ำหอมผู้ชายสี่กลิ่นคุ้มสุดใช้ได้ยาว วันนี้ลดเหลือสี่ร้อยสี่สิบหกบาท รีบจัด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic close-up luxury perfume bottles shining reflections studio light no text no logo",
-      "tts_text": "หอมหลายสไตล์ในชุดเดียว เซ็ตน้ำหอมผู้ชายสี่กลิ่นขายดีมาก ตอนนี้ราคาเพียงสี่ร้อยสี่สิบหกบาท รีบกดทันที",
+      "visual_prompt": "9:16 photorealistic เซตน้ำหอมผู้ชายสี่ขวดเรียงซ้ายไปขวาครบตามภาพต้นฉบับ no text no logo",
+      "tts_text": "แม่งเสียดายหนักมาก วันก่อนกูจ่ายห้าร้อยสองบาท วันนี้เหลือสี่ร้อยสี่สิบหกบาท เซตน้ำหอมผู้ชายสี่ขวดครบ กลิ่นสุภาพใช้ได้ทุกวัน ของใกล้หมดแล้วแม่ กดแล้วบอกกูทีว่ามึงเอากี่เซต",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -4627,152 +4531,116 @@
   ],
   "1731470630171936871": [
     {
-      "visual_prompt": "9:16 photorealistic woman wearing modern patterned outfit standing in living room natural lighting fashion lifestyle pose, no text, no logo",
-      "tts_text": "ดูนี้ก่อนทุกคน! ชุดเซ็ตดีไซน์ลายสวย ใส่แล้วดูแพง ทรงพอดีตัว ใส่เที่ยว ใส่ออกงานก็เด่น ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic woman wearing stretch fabric shirt and pants set sitting on sofa indoor natural light no text no logo",
+      "tts_text": "เหี้ยเอ๊ย โคตรเจ็บใจ กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท วันนี้ เหลือ สองร้อยสามสิบหกบาท ใส่สบายไม่รัด รีบกดก่อนหมด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic woman posing confidently wearing patterned fashion set indoor natural window light, no text, no logo",
-      "tts_text": "ใครอยากได้ลุคสวยดูดีแบบง่ายๆ ต้องตัวนี้ ชุดเซ็ตลายแฟชั่นทรงสวย ใส่แล้วดูหุ่นดี ตอนนี้โปรเหลือสองร้อยสามสิบหกบาท รีบจัด",
+      "visual_prompt": "9:16 photorealistic woman standing posing in stretch shirt pants set indoor soft light no text no logo",
+      "tts_text": "ฉิบหาย เสียดายสัส กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท ตอนนี้ เหลือ สองร้อยสามสิบหกบาท ผ้ายืดนิ่ม ใส่ทั้งวัน รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic fashionable woman walking slowly wearing stylish printed outfit at home setting, no text, no logo",
-      "tts_text": "ใส่แล้วดูสวยสะดุดตาทันที ชุดเซ็ตลายแฟชั่นดีไซน์เก๋ เหมาะทั้งวัยทำงานและวัยรุ่น ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบซื้อ",
+      "visual_prompt": "9:16 photorealistic woman relaxing on couch wearing stretch lounge set no text no logo",
+      "tts_text": "แม่งโคตรพลาด กูจ่ายเต็ม เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท วันนี้ เหลือ สองร้อยสามสิบหกบาท ใส่อยู่บ้านก็รอด รีบกด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic elegant woman standing near sofa wearing modern fashion set smiling naturally, no text, no logo",
-      "tts_text": "ใครกำลังหาชุดใส่ง่ายแต่ดูแพง ตัวนี้ตอบโจทย์ ชุดเซ็ตดีไซน์สวย ใส่แล้วดูเรียบร้อยหรู ตอนนี้โปรเหลือสองร้อยสามสิบหกบาท",
+      "visual_prompt": "9:16 photorealistic woman smiling wearing casual stretch set indoor no text no logo",
+      "tts_text": "โคตรเซ็งชิบ กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท ตอนนี้ เหลือ สองร้อยสามสิบหกบาท ไม่อึดอัดเลย รีบกดก่อนหมด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic lifestyle shot woman relaxing on sofa wearing stylish printed clothing set, no text, no logo",
-      "tts_text": "ชุดเดียวจบได้ลุคสวยทันที ชุดเซ็ตลายแฟชั่นใส่แล้วดูดี เหมาะทั้งเที่ยวและถ่ายรูป ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบกด",
+      "visual_prompt": "9:16 photorealistic woman standing near sofa wearing stretch set no text no logo",
+      "tts_text": "เหี้ยจริง เสียดายหนัก กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท วันนี้ เหลือ สองร้อยสามสิบหกบาท ใส่เที่ยวใกล้บ้านได้ รีบกด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic confident woman posing indoor wearing patterned fashion outfit modern lighting, no text, no logo",
-      "tts_text": "อยากดูสวยแบบไม่ต้องแต่งเยอะ เลือกชุดเซ็ตลายแฟชั่นทรงสวย ใส่แล้วดูแพงทันที ตอนนี้ลดเหลือสองร้อยสามสิบหกบาท รีบสั่ง",
+      "visual_prompt": "9:16 photorealistic woman posing indoor modern living room stretch set no text no logo",
+      "tts_text": "ฉิบหายแล้ว กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท ตอนนี้ เหลือ สองร้อยสามสิบหกบาท ผ้ายืดยืดหยุ่นดี รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic woman standing near window wearing elegant patterned outfit soft sunlight, no text, no logo",
-      "tts_text": "ใครอยากได้ชุดใส่สบายแต่ดูดี ตัวนี้กำลังฮิต ชุดเซ็ตดีไซน์ลายสวย ใส่แล้วเด่นมาก ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบด่วน",
+      "visual_prompt": "9:16 photorealistic woman sitting relaxed wearing patterned stretch set no text no logo",
+      "tts_text": "แม่งโคตรช้ำ กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท วันนี้ เหลือ สองร้อยสามสิบหกบาท ใส่นอนก็สบาย รีบกดด่วน มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stylish woman smiling while wearing modern printed clothing set indoors, no text, no logo",
-      "tts_text": "ใส่แล้วดูหรูขึ้นทันที ชุดเซ็ตลายแฟชั่นทรงสวย ใส่ง่ายแมตช์ง่าย เหมาะทุกวัย ตอนนี้โปรเหลือสองร้อยสามสิบหกบาท รีบจัด",
+      "visual_prompt": "9:16 photorealistic woman standing confidently wearing stretch lounge set no text no logo",
+      "tts_text": "โคตรเฟลสัส กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท ตอนนี้ เหลือ สองร้อยสามสิบหกบาท ตัวหลวมใส่สบาย รีบกดก่อนหมด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic woman posing full body wearing fashionable matching outfit clean home background, no text, no logo",
-      "tts_text": "ใครอยากได้ชุดสวยใส่ได้หลายโอกาส ต้องตัวนี้ ชุดเซ็ตดีไซน์เก๋ ใส่แล้วดูดีมาก ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบซื้อ",
+      "visual_prompt": "9:16 photorealistic woman relaxing on sofa wearing stretch set no text no logo",
+      "tts_text": "เหี้ยเอ๊ย พลาดจัด กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท วันนี้ เหลือ สองร้อยสามสิบหกบาท ใส่แล้วคล่องตัว รีบกด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic elegant lifestyle portrait woman wearing patterned fashion set sitting on sofa, no text, no logo",
-      "tts_text": "ตัวเดียวได้ลุคครบทั้งสวยทั้งดูดี ชุดเซ็ตลายแฟชั่นใส่แล้วดูมีสไตล์ เหมาะหลายโอกาส ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบกด",
+      "visual_prompt": "9:16 photorealistic woman posing near couch wearing stretch fabric set no text no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท ตอนนี้ เหลือ สองร้อยสามสิบหกบาท ไม่รัดตัวเลย รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic fashion model style pose wearing patterned matching set indoor natural light, no text, no logo",
-      "tts_text": "กำลังมองหาชุดใส่ถ่ายรูปสวยๆ ต้องตัวนี้ ชุดเซ็ตดีไซน์ลายเด่น ใส่แล้วดูปังมาก ตอนนี้โปรเหลือสองร้อยสามสิบหกบาท รีบจัด",
+      "visual_prompt": "9:16 photorealistic woman smiling indoor wearing stretch set no text no logo",
+      "tts_text": "ฉิบหาย เสียดายโคตร กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท วันนี้ เหลือ สองร้อยสามสิบหกบาท ใส่ได้หลายโอกาส รีบกด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic woman standing confidently wearing modern stylish printed outfit lifestyle interior, no text, no logo",
-      "tts_text": "ใส่แล้วดูดีแบบไม่ต้องคิดเยอะ ชุดเซ็ตลายแฟชั่นทรงสวย เหมาะทั้งวัยรุ่นและวัยทำงาน ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบซื้อ",
+      "visual_prompt": "9:16 photorealistic woman sitting stylish wearing stretch lounge set no text no logo",
+      "tts_text": "โคตรบ้าเลย กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท ตอนนี้ เหลือ สองร้อยสามสิบหกบาท ใส่สบายทั้งวัน รีบกดก่อนหมด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic indoor fashion lifestyle woman walking wearing matching outfit stylish home setting, no text, no logo",
-      "tts_text": "ชุดเดียวใส่ได้หลายโอกาสจริงๆ ชุดเซ็ตดีไซน์สวย ใส่แล้วดูสุภาพแต่ยังทันสมัย ตอนนี้โปรเหลือสองร้อยสามสิบหกบาท รีบด่วน",
+      "visual_prompt": "9:16 photorealistic woman leaning on sofa wearing patterned stretch set no text no logo",
+      "tts_text": "เหี้ยจริง เสียดายจัด กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท วันนี้ เหลือ สองร้อยสามสิบหกบาท ผ้านิ่มยืดดี รีบกด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic fashionable woman posing elegantly wearing patterned clothing set near sofa, no text, no logo",
-      "tts_text": "อยากได้ชุดที่ใส่แล้วดูแพงแบบง่ายๆ เลือกตัวนี้ ชุดเซ็ตลายแฟชั่นทรงสวย ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic woman posing indoor minimal living room stretch outfit no text no logo",
+      "tts_text": "แม่งโคตรพัง กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท ตอนนี้ เหลือ สองร้อยสามสิบหกบาท ใส่แล้วไม่แน่น รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic stylish woman smiling confidently wearing modern matching outfit indoor lighting, no text, no logo",
-      "tts_text": "ใครอยากดูสวยดูดีขึ้นทันที ต้องมีชุดเซ็ตลายแฟชั่นตัวนี้ ใส่แล้วโดดเด่นมาก ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบซื้อ",
+      "visual_prompt": "9:16 photorealistic woman standing smiling wearing stretch set indoor no text no logo",
+      "tts_text": "ฉิบหายแท้ กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท วันนี้ เหลือ สองร้อยสามสิบหกบาท ใส่ชิลได้ทุกวัน รีบกด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic woman relaxing at home wearing elegant patterned fashion outfit natural lifestyle, no text, no logo",
-      "tts_text": "ชุดนี้ใส่แล้วดูเรียบร้อยแต่ยังทันสมัย ชุดเซ็ตดีไซน์สวย ใส่ได้หลายโอกาส ตอนนี้โปรเหลือสองร้อยสามสิบหกบาท รีบจัด",
+      "visual_prompt": "9:16 photorealistic woman relaxing on couch wearing stretch outfit no text no logo",
+      "tts_text": "โคตรพังเลย กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท ตอนนี้ เหลือ สองร้อยสามสิบหกบาท หอม เอ้ย สบาย ใส่ได้ทั้งวัน รีบกดก่อนหมด มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic lifestyle fashion portrait woman wearing matching outfit posing indoors, no text, no logo",
-      "tts_text": "ใครอยากได้ชุดที่ใส่แล้วมั่นใจขึ้นทันที ตัวนี้ต้องลอง ชุดเซ็ตลายแฟชั่นทรงสวย ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบด่วน",
+      "visual_prompt": "9:16 photorealistic woman posing near sofa wearing stretch lounge set no text no logo",
+      "tts_text": "เหี้ยเอ๊ย โคตรช็อก กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท วันนี้ เหลือ สองร้อยสามสิบหกบาท ไม่รัด ไม่อึดอัด รีบกด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic woman posing near window wearing fashionable printed outfit sunlight effect, no text, no logo",
-      "tts_text": "ใส่เที่ยว ใส่ออกงานก็สวยครบ ชุดเซ็ตดีไซน์ลายแฟชั่น ใส่แล้วดูดีมาก ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic woman standing indoor wearing stretch shirt pants set no text no logo",
+      "tts_text": "แม่งโคตรเดือด กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท ตอนนี้ เหลือ สองร้อยสามสิบหกบาท ใส่แล้วคล่องตัวมาก รีบกดก่อนเกลี้ยง มึงกดได้กี่บาทบอกกู",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic modern fashion lifestyle shot woman wearing stylish matching outfit smiling, no text, no logo",
-      "tts_text": "ตัวเดียวได้ลุคสวยครบจริงๆ ชุดเซ็ตลายแฟชั่นทรงสวย ใส่แล้วดูแพงทันที ตอนนี้โปรเหลือสองร้อยสามสิบหกบาท รีบสั่ง",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic confident woman standing elegantly wearing modern patterned outfit home interior, no text, no logo",
-      "tts_text": "อยากได้ชุดที่ใส่แล้วดูสุภาพแต่ยังมีสไตล์ ต้องตัวนี้ ชุดเซ็ตดีไซน์สวย ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบซื้อเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic stylish indoor fashion shoot woman wearing printed outfit natural pose, no text, no logo",
-      "tts_text": "ใส่แล้วดูเด่นตั้งแต่แรกเห็น ชุดเซ็ตลายแฟชั่นใส่สบาย ทรงสวย เหมาะหลายวัย ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบจัด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic elegant woman posing fashion style wearing patterned clothing set living room background, no text, no logo",
-      "tts_text": "ใครกำลังหาชุดสวยใส่ง่ายต้องตัวนี้ ชุดเซ็ตดีไซน์ลายเก๋ ใส่แล้วดูดีทันที ตอนนี้โปรเหลือสองร้อยสามสิบหกบาท รีบด่วน",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic lifestyle fashion pose woman sitting elegantly wearing stylish outfit indoor, no text, no logo",
-      "tts_text": "ใส่แล้วดูสวยมีสไตล์แบบไม่ต้องแต่งเพิ่ม ชุดเซ็ตลายแฟชั่นทรงสวย ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบกดก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic fashionable woman walking indoor wearing elegant printed outfit soft lighting, no text, no logo",
-      "tts_text": "ชุดนี้ใส่แล้วดูดีทั้งวัน ชุดเซ็ตดีไซน์สวย ใส่แล้วหุ่นดูสวยขึ้น เหมาะหลายโอกาส ตอนนี้เหลือสองร้อยสามสิบหกบาท รีบซื้อ",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic modern stylish woman smiling wearing matching fashion outfit elegant lifestyle setting, no text, no logo",
-      "tts_text": "ตัวนี้กำลังขายดีมากจริงๆ ชุดเซ็ตลายแฟชั่นทรงสวย ใส่แล้วดูแพงทันที ตอนนี้โปรเหลือสองร้อยสามสิบหกบาท รีบจัดเลย",
+      "visual_prompt": "9:16 photorealistic woman smiling relaxing indoor stretch set no text no logo",
+      "tts_text": "ฉิบหาย เสียดายจัด กูซื้อ เซตเสื้อกางเกงผ้ายืด ห้าร้อยหกสิบสามบาท วันนี้ เหลือ สองร้อยสามสิบหกบาท ใส่อยู่บ้านก็ชิล รีบกด มึงกดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -5571,122 +5439,122 @@
   ],
   "1730069270590621976": [
     {
-      "visual_prompt": "woman wearing retro shoulder bag crossbody style medium size flap closure indoor minimal setting product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี้ก่อนทุกคน! กระเป๋าสะพายไหล่ทรงเรโทร ใส่ของได้จุจากสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท รีบกดเลยของใกล้หมดแล้วแม่",
+      "visual_prompt": "9:16 photorealistic retro style shoulder bag worn by woman casual outfit indoor minimal background multiple angles close up texture and strap detail no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรจี๊ด กูเพิ่งซื้อกระเป๋าสะพายไหล่เรโทรสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท ใส่ของจุ ทรงสวย รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "close up retro style shoulder bag worn by female indoor modern minimal background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ย ราคานี้ไม่กดคือพลาด! กระเป๋าสะพายไหล่ทรงเกาหลี แมตช์ง่ายทุกลุค จากสองร้อยบาท เหลือหกสิบสี่บาท รีบเลยแม่",
+      "visual_prompt": "9:16 photorealistic woman carrying retro shoulder bag crossbody style indoor clean background focus on bag shape and stitching no text no logo",
+      "tts_text": "เหี้ยชิบหาย กูซื้อกระเป๋าสะพายไหล่เรโทรเต็มสองร้อยบาท วันนี้เหลือหกสิบสี่บาท แมทช์ง่าย ใส่ทุกวัน รีบสอยเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "female model holding retro flap shoulder bag medium size adjustable strap indoor setting product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยยย โปรแรงมาก! กระเป๋าสะพายไหล่ทรงเรโทร ใส่มือถือกระเป๋าตังได้สบาย จากสองร้อยบาท ตอนนี้หกสิบสี่บาท รีบก่อนหมด",
+      "visual_prompt": "9:16 photorealistic close up retro shoulder bag fabric texture flap opening interior space visible no text no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูจ่ายกระเป๋าสะพายไหล่เรโทรสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท ช่องเยอะ จุของได้จริง รีบกดด่วน กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "side angle woman wearing retro shoulder bag crossbody style indoor neutral background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ฟังนะทุกคน! กระเป๋าสะพายไหล่ทรงมินิมอล ใส่เที่ยวใส่ทำงานได้ จากสองร้อยบาท เหลือหกสิบสี่บาท จะไม่กดได้ยังไง",
+      "visual_prompt": "9:16 photorealistic model standing with retro shoulder bag side view strap detail minimal room background no text no logo",
+      "tts_text": "ไอ้สัสเอ๊ย กูเพิ่งซื้อกระเป๋าสะพายไหล่เรโทรสองร้อยบาท วันนี้เหลือหกสิบสี่บาท ทรงดีมาก รีบกดก่อนเกลี้ยง กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "close detail flap closure and strap of retro shoulder bag worn by female indoor product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี้ก่อน! กระเป๋าสะพายไหล่ทรงเรโทร ใส่แล้วดูแพงมาก จากสองร้อยบาท ตอนนี้หกสิบสี่บาท ช้าคืออดนะ",
+      "visual_prompt": "9:16 photorealistic retro shoulder bag worn crossbody walking indoors natural light clean scene no text no logo",
+      "tts_text": "เหี้ยโคตรเจ็บใจ กูซื้อกระเป๋าสะพายไหล่เรโทรเต็มสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท ใบเดียวจบทุกลุค รีบกดเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "female model styling retro shoulder bag medium size indoor modern background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ย ของมันต้องมี! กระเป๋าสะพายไหล่ทรงเกาหลี ใส่ของจุจริง จากสองร้อยบาท เหลือหกสิบสี่บาท รีบกดก่อนเกลี้ยง",
+      "visual_prompt": "9:16 photorealistic retro shoulder bag on table close up stitching and zipper detail minimal background no text no logo",
+      "tts_text": "แม่งจี๊ดหนัก กูจ่ายกระเป๋าสะพายไหล่เรโทรสองร้อยบาท วันนี้เหลือหกสิบสี่บาท ใส่มือถือ กระเป๋าสตางค์ได้ครบ รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "front view retro shoulder bag worn crossbody by woman indoor minimal setting product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ย ของดีราคานี้มีไม่นาน! กระเป๋าสะพายไหล่ทรงเรโทร ใส่ได้ทุกลุค จากสองร้อยบาท ตอนนี้หกสิบสี่บาท รีบเลยแม่",
+      "visual_prompt": "9:16 photorealistic woman adjusting strap of retro shoulder bag indoor soft lighting no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรแรง กูซื้อกระเป๋าสะพายไหล่เรโทรสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท ไม่กดตอนนี้คือพลาด รีบเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "close up strap and flap detail of retro shoulder bag indoor soft lighting product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ฟังดีๆนะทุกคน! กระเป๋าสะพายไหล่ทรงมินิมอล ใส่แล้วดูดีมาก จากสองร้อยบาท เหลือหกสิบสี่บาท ของใกล้หมดแล้วแม่",
+      "visual_prompt": "9:16 photorealistic retro shoulder bag front and side angle display indoor neutral background no text no logo",
+      "tts_text": "เหี้ยจริงว่ะ กูเพิ่งซื้อกระเป๋าสะพายไหล่เรโทรเต็มสองร้อยบาท วันนี้เหลือหกสิบสี่บาท ของกำลังจะหมด รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "woman standing indoor wearing retro shoulder bag crossbody casual outfit product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี้ก่อนทุกคน! กระเป๋าสะพายไหล่ทรงเรโทร แมตช์ง่ายสุดๆ จากสองร้อยบาท ตอนนี้หกสิบสี่บาท รีบเลยช้าคืออด",
+      "visual_prompt": "9:16 photorealistic retro shoulder bag crossbody outfit styling minimal fashion scene no text no logo",
+      "tts_text": "แม่งปวดใจสัส กูจ่ายกระเป๋าสะพายไหล่เรโทรสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท ทรงสวยเรียบ รีบสอยก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "angled view retro shoulder bag worn by female indoor modern minimal background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ย ราคานี้หาไม่ได้ง่ายๆนะ! กระเป๋าสะพายไหล่ทรงเกาหลี ใส่แล้วดูแพง จากสองร้อยบาท เหลือหกสิบสี่บาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic close up retro bag flap opening showing inside capacity indoor setting no text no logo",
+      "tts_text": "ไอ้เหี้ยเอ๊ย กูซื้อกระเป๋าสะพายไหล่เรโทรสองร้อยบาท วันนี้เหลือหกสิบสี่บาท ใช้ได้ทุกวัน รีบกดเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "close shot medium size retro shoulder bag flap closure worn by female indoor product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ย โปรนี้แรงจริง! กระเป๋าสะพายไหล่ทรงเรโทร ใส่ของได้ครบ จากสองร้อยบาท ตอนนี้หกสิบสี่บาท กดก่อนหมดนะ",
+      "visual_prompt": "9:16 photorealistic woman holding retro shoulder bag beside cabinet modern indoor no text no logo",
+      "tts_text": "สัสเอ๊ยโคตรจี๊ด กูเพิ่งซื้อกระเป๋าสะพายไหล่เรโทรสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท แมทช์ชุดง่ายมาก รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "female holding retro shoulder bag by strap indoor minimal scene product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ฟังนะทุกคน! กระเป๋าสะพายไหล่ทรงมินิมอล ใส่เที่ยวได้ทุกวัน จากสองร้อยบาท เหลือหกสิบสี่บาท รีบเลยแม่",
+      "visual_prompt": "9:16 photorealistic retro bag hanging on shoulder neutral outfit clean background no text no logo",
+      "tts_text": "เหี้ยชิบหาย กูซื้อกระเป๋าสะพายไหล่เรโทรเต็มสองร้อยบาท วันนี้เหลือหกสิบสี่บาท ใส่ของจุ รีบสอยเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "front close view retro shoulder bag worn crossbody indoor neutral background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี้ก่อน! กระเป๋าสะพายไหล่ทรงเรโทร ใส่แล้วดูเท่มาก จากสองร้อยบาท ตอนนี้หกสิบสี่บาท ไม่กดคือพลาดนะ",
+      "visual_prompt": "9:16 photorealistic retro shoulder bag detail strap and stitching indoor daylight no text no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูจ่ายกระเป๋าสะพายไหล่เรโทรสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท ทรงสวยไม่ตกยุค รีบกดด่วน กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "side angle woman wearing retro shoulder bag medium size indoor soft light product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ย ของดีต้องรีบ! กระเป๋าสะพายไหล่ทรงเกาหลี ใส่แล้วดูชิค จากสองร้อยบาท เหลือหกสิบสี่บาท รีบก่อนเกลี้ยง",
+      "visual_prompt": "9:16 photorealistic model walking indoor carrying retro shoulder bag focus on bag movement no text no logo",
+      "tts_text": "ไอ้สัสเอ๊ย กูเพิ่งซื้อกระเป๋าสะพายไหล่เรโทรสองร้อยบาท วันนี้เหลือหกสิบสี่บาท ของกำลังจะเกลี้ยง รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "close detail strap and body of retro shoulder bag worn by female indoor product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยยย ราคานี้ไม่กดคือเสียดาย! กระเป๋าสะพายไหล่ทรงเรโทร ใส่ของจุ จากสองร้อยบาท ตอนนี้หกสิบสี่บาท รีบเลยแม่",
+      "visual_prompt": "9:16 photorealistic retro shoulder bag placed on chair minimal room aesthetic no text no logo",
+      "tts_text": "เหี้ยโคตรเจ็บใจ กูซื้อกระเป๋าสะพายไหล่เรโทรเต็มสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท ใบเดียวเอาอยู่ รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "female model posing with retro shoulder bag crossbody indoor modern setting product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ฟังดีๆนะทุกคน! กระเป๋าสะพายไหล่ทรงมินิมอล ใส่แมตช์ง่าย จากสองร้อยบาท เหลือหกสิบสี่บาท ของใกล้หมดแล้วแม่",
+      "visual_prompt": "9:16 photorealistic close up zipper opening retro shoulder bag interior space visible no text no logo",
+      "tts_text": "แม่งจี๊ดหนัก กูจ่ายกระเป๋าสะพายไหล่เรโทรสองร้อยบาท วันนี้เหลือหกสิบสี่บาท ช่องเก็บของแน่น รีบกดเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "front view retro shoulder bag flap closure worn by woman indoor minimal background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี้ก่อนทุกคน! กระเป๋าสะพายไหล่ทรงเรโทร ใส่เที่ยวก็รอด จากสองร้อยบาท ตอนนี้หกสิบสี่บาท รีบกดเลยช้าคืออด",
+      "visual_prompt": "9:16 photorealistic retro shoulder bag side profile indoor neutral background no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรแรง กูซื้อกระเป๋าสะพายไหล่เรโทรสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท ไม่กดคือพลาดหนัก รีบเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "female adjusting strap of retro shoulder bag indoor neutral setting product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ย โปรนี้มาไวไปไว! กระเป๋าสะพายไหล่ทรงเกาหลี ใส่แล้วดูดีมาก จากสองร้อยบาท เหลือหกสิบสี่บาท รีบเลยแม่",
+      "visual_prompt": "9:16 photorealistic woman adjusting retro shoulder bag strap natural light scene no text no logo",
+      "tts_text": "เหี้ยจริงว่ะ กูเพิ่งซื้อกระเป๋าสะพายไหล่เรโทรเต็มสองร้อยบาท วันนี้เหลือหกสิบสี่บาท รีบปิดการขาย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "close up retro shoulder bag medium size worn by female indoor modern background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ย ของมันต้องมี! กระเป๋าสะพายไหล่ทรงเรโทร ใส่ของครบไม่เทอะทะ จากสองร้อยบาท ตอนนี้หกสิบสี่บาท รีบก่อนหมดนะ",
+      "visual_prompt": "9:16 photorealistic retro shoulder bag front view flap closed clean minimal background no text no logo",
+      "tts_text": "แม่งปวดใจสัส กูจ่ายกระเป๋าสะพายไหล่เรโทรสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท ของจะหมดแล้ว รีบกดเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "female standing indoor wearing retro shoulder bag crossbody casual outfit product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ฟังนะทุกคน! กระเป๋าสะพายไหล่ทรงมินิมอล จากสองร้อยบาท ตอนนี้เหลือหกสิบสี่บาท ของกำลังจะเกลี้ยงแล้วแม่ ช้าไม่ได้จริงๆ",
+      "visual_prompt": "9:16 photorealistic retro shoulder bag final wide shot indoor styling minimal aesthetic no text no logo",
+      "tts_text": "ไอ้เหี้ยเอ๊ยโคตรเสียดาย กูซื้อกระเป๋าสะพายไหล่เรโทรสองร้อยบาท วันนี้เหลือหกสิบสี่บาท รีบเอาเดี๋ยวนี้ กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -5815,122 +5683,122 @@
   ],
   "1732193237076182772": [
     {
-      "visual_prompt": "green sport jersey and matching shorts two piece set front view plain background product unchanged centered frame, 9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี้ก่อนทุกคน! ชุดกีฬาเสื้อกับกางเกงสองชิ้น ผ้าใส่สบายทรงสวย จากสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบกดเลยของใกล้หมดแล้วแม่",
+      "visual_prompt": "9:16 photorealistic football jersey set yellow white shirt and shorts laid flat sporty background fabric texture visible no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรจี๊ด กูเพิ่งซื้อเซตเสื้อบอลสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ใส่สบาย ผ้าเบา รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "green short sleeve sport top with matching elastic waist shorts flat lay plain studio background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ย ราคานี้ไม่กดคือพลาด! ชุดกีฬาเซตสองชิ้น ใส่เล่นกีฬาได้จริง จากสองร้อยห้าสิบบาท เหลือหนึ่งร้อยสิบเก้าบาท รีบเลยแม่",
+      "visual_prompt": "9:16 photorealistic soccer jersey set front and back view shorts included clear fabric detail no text no logo",
+      "tts_text": "เหี้ยชิบหาย กูซื้อเซตเสื้อบอลเต็มสองร้อยห้าสิบบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ใส่เตะได้เลย รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "close up detail green sport shirt fabric texture and matching shorts drawstring waist product unchanged plain background, 9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ย โปรแรงมาก! ชุดกีฬาเสื้อกางเกงเข้าชุด ใส่สบายไม่อึดอัด จากสองร้อยห้าสิบบาท ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบก่อนหมด",
+      "visual_prompt": "9:16 photorealistic football jersey and shorts close up breathable fabric texture sporty scene no text no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูจ่ายเซตเสื้อบอลสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ผ้าระบายดี ไม่ร้อน รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "front centered green sport set short sleeve shirt and shorts plain white background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ฟังนะทุกคน! ชุดกีฬาเซตสองชิ้น ผ้านุ่มใส่คล่องตัว จากสองร้อยห้าสิบบาท เหลือหนึ่งร้อยสิบเก้าบาท จะไม่กดได้ยังไง",
+      "visual_prompt": "9:16 photorealistic soccer kit laid on floor yellow white design clear detail no text no logo",
+      "tts_text": "ไอ้สัสเอ๊ย กูเพิ่งซื้อเซตเสื้อบอลสองร้อยห้าสิบบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ใส่ซ้อมทุกวัน รีบกดก่อนเกลี้ยง กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "green athletic two piece set short sleeve top and shorts elastic waist plain backdrop product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี้ก่อน! ชุดกีฬาเสื้อกับกางเกง ใส่แล้วดูสปอร์ตมาก จากสองร้อยห้าสิบบาท ตอนนี้หนึ่งร้อยสิบเก้าบาท ช้าคืออดนะ",
+      "visual_prompt": "9:16 photorealistic jersey set hanging sporty background stitching detail no text no logo",
+      "tts_text": "เหี้ยโคตรเจ็บใจ กูซื้อเซตเสื้อบอลเต็มสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ทรงสวย ใส่สบาย รีบสอยก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "close detail green shorts drawstring waist and matching shirt front view plain background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ย ของมันต้องมี! ชุดกีฬาเซตสองชิ้น ใส่เตะบอลใส่วิ่งได้ จากสองร้อยห้าสิบบาท เหลือหนึ่งร้อยสิบเก้าบาท รีบกดก่อนเกลี้ยง",
+      "visual_prompt": "9:16 photorealistic football jersey set close up collar and sleeve detail no text no logo",
+      "tts_text": "แม่งจี๊ดหนัก กูจ่ายเซตเสื้อบอลสองร้อยห้าสิบบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ผ้าเบาแห้งไว รีบกดเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "studio shot green sport jersey and shorts set centered minimal background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ย ของดีราคานี้มีไม่นาน! ชุดกีฬาเสื้อกางเกงเข้าชุด ใส่ได้ทุกกิจกรรม จากสองร้อยห้าสิบบาท ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบเลยแม่",
+      "visual_prompt": "9:16 photorealistic soccer kit laid on grass field style background no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรแรง กูซื้อเซตเสื้อบอลสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ของกำลังจะหมด รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "green athletic two piece outfit flat lay clean background drawstring detail visible product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ฟังดีๆนะทุกคน! ชุดกีฬาเซตสองชิ้น ผ้าเบาใส่สบาย จากสองร้อยห้าสิบบาท เหลือหนึ่งร้อยสิบเก้าบาท ของใกล้หมดแล้วแม่",
+      "visual_prompt": "9:16 photorealistic jersey set folded neatly fabric texture clear minimal background no text no logo",
+      "tts_text": "เหี้ยจริงว่ะ กูเพิ่งซื้อเซตเสื้อบอลเต็มสองร้อยห้าสิบบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ใส่เตะจริงได้ รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "front angle green short sleeve sport top with matching shorts plain studio background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี้ก่อนทุกคน! ชุดกีฬาเสื้อกางเกงสองชิ้น ใส่แล้วคล่องตัวสุดๆ จากสองร้อยห้าสิบบาท ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบเลยช้าคืออด",
+      "visual_prompt": "9:16 photorealistic football jersey set side angle sporty floor background no text no logo",
+      "tts_text": "แม่งปวดใจสัส กูจ่ายเซตเสื้อบอลสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ใส่ได้หลายไซซ์ รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "close up green sport shirt neckline and matching shorts waistband plain background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ย ราคานี้หาไม่ได้ง่ายๆนะ! ชุดกีฬาเซตสองชิ้น ใส่สบายจริง จากสองร้อยห้าสิบบาท เหลือหนึ่งร้อยสิบเก้าบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic final wide shot soccer jersey set sporty lighting no text no logo",
+      "tts_text": "ไอ้เหี้ยเอ๊ยโคตรเสียดาย กูซื้อเซตเสื้อบอลสองร้อยห้าสิบบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบจัดเดี๋ยวนี้ กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "green athletic set shirt and shorts centered minimal plain backdrop product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ย โปรนี้แรงจริง! ชุดกีฬาเสื้อกับกางเกง ใส่แล้วดูเท่ จากสองร้อยห้าสิบบาท ตอนนี้หนึ่งร้อยสิบเก้าบาท กดก่อนหมดนะ",
+      "visual_prompt": "9:16 photorealistic jersey set on hanger sporty indoor scene no text no logo",
+      "tts_text": "สัสเอ๊ยโคตรจี๊ด กูซื้อเซตเสื้อบอลเต็มสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ใส่สบายทั้งวัน รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "studio lighting green sport two piece set front view plain background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ฟังนะทุกคน! ชุดกีฬาเซตสองชิ้น ใส่วิ่งใส่เล่นได้ จากสองร้อยห้าสิบบาท เหลือหนึ่งร้อยสิบเก้าบาท รีบเลยแม่",
+      "visual_prompt": "9:16 photorealistic close up breathable mesh fabric jersey set no text no logo",
+      "tts_text": "เหี้ยชิบโคตรแรง กูเพิ่งซื้อเซตเสื้อบอลสองร้อยห้าสิบบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ผ้าไม่อับ รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "green short sleeve sport shirt and shorts elastic waist centered frame plain background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี้ก่อน! ชุดกีฬาเสื้อกางเกงเข้าชุด ใส่แล้วไม่อึดอัด จากสองร้อยห้าสิบบาท ตอนนี้หนึ่งร้อยสิบเก้าบาท ไม่กดคือพลาดนะ",
+      "visual_prompt": "9:16 photorealistic soccer kit neatly arranged on table sporty background no text no logo",
+      "tts_text": "แม่งเสียดายว่ะ กูจ่ายเซตเสื้อบอลสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ทรงเท่มาก รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "close detail fabric of green athletic set and drawstring waist shorts plain background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ย ของดีต้องรีบ! ชุดกีฬาเซตสองชิ้น ผ้าเบาใส่สบายมาก จากสองร้อยห้าสิบบาท เหลือหนึ่งร้อยสิบเก้าบาท รีบก่อนเกลี้ยง",
+      "visual_prompt": "9:16 photorealistic football jersey set folded showing texture detail no text no logo",
+      "tts_text": "ไอ้สัสโคตรจี๊ด กูซื้อเซตเสื้อบอลเต็มสองร้อยห้าสิบบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ไม่กดตอนนี้คือพลาด รีบเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "front centered green sport jersey and shorts minimal studio background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยยย ราคานี้ไม่กดคือเสียดาย! ชุดกีฬาเสื้อกับกางเกงสองชิ้น จากสองร้อยห้าสิบบาท ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบเลยแม่",
+      "visual_prompt": "9:16 photorealistic soccer jersey and shorts laid flat sporty minimal scene no text no logo",
+      "tts_text": "เหี้ยโคตรเจ็บ กูเพิ่งซื้อเซตเสื้อบอลสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ใส่ซ้อมได้จริง รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "green athletic two piece set laid flat clean white background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ฟังดีๆนะทุกคน! ชุดกีฬาเซตสองชิ้น ใส่ได้ทุกกิจกรรม จากสองร้อยห้าสิบบาท เหลือหนึ่งร้อยสิบเก้าบาท ของใกล้หมดแล้วแม่",
+      "visual_prompt": "9:16 photorealistic football kit side view bright lighting sporty floor no text no logo",
+      "tts_text": "แม่งแรงเกิน กูซื้อเซตเสื้อบอลเต็มสองร้อยห้าสิบบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท ของกำลังจะหมด รีบกดเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "front view green sport shirt and shorts set centered minimal background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี้ก่อนทุกคน! ชุดกีฬาเสื้อกางเกงเข้าชุด ใส่แล้วดูสปอร์ตสุดๆ จากสองร้อยห้าสิบบาท ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบกดเลยช้าคืออด",
+      "visual_prompt": "9:16 photorealistic jersey set close up stitching and collar detail no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรสะใจ กูจ่ายเซตเสื้อบอลสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ใส่แล้วดูเท่ รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "close up waistband and hem detail green sport shorts with matching shirt plain background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ย โปรนี้มาไวไปไว! ชุดกีฬาเซตสองชิ้น ใส่แล้วคล่องตัวมาก จากสองร้อยห้าสิบบาท เหลือหนึ่งร้อยสิบเก้าบาท รีบเลยแม่",
+      "visual_prompt": "9:16 photorealistic soccer kit laid on grass style background sporty vibe no text no logo",
+      "tts_text": "เหี้ยจริง กูเพิ่งซื้อเซตเสื้อบอลเต็มสองร้อยห้าสิบบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบปิดดีลก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "studio centered green short sleeve sport top and shorts minimal background product unchanged, 9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ย ของมันต้องมี! ชุดกีฬาเสื้อกับกางเกง ใส่แล้วดูดีจริง จากสองร้อยห้าสิบบาท ตอนนี้หนึ่งร้อยสิบเก้าบาท รีบก่อนหมดนะ",
+      "visual_prompt": "9:16 photorealistic jersey set folded on bench sporty environment no text no logo",
+      "tts_text": "แม่งจี๊ดจัด กูซื้อเซตเสื้อบอลสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบเอาเดี๋ยวนี้ กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "green athletic two piece set front centered plain studio background product unchanged",
-      "tts_text": "ฟังนะทุกคน! ชุดกีฬาเซตสองชิ้น จากสองร้อยห้าสิบบาท ตอนนี้เหลือหนึ่งร้อยสิบเก้าบาท ของกำลังจะเกลี้ยงแล้วแม่ ช้าไม่ได้จริงๆ",
+      "visual_prompt": "9:16 photorealistic final wide shot football jersey set sporty minimal background no text no logo",
+      "tts_text": "ไอ้เหี้ยเอ๊ยโคตรเสียดาย กูซื้อเซตเสื้อบอลเต็มสองร้อยห้าสิบบาท วันนี้เหลือหนึ่งร้อยสิบเก้าบาท รีบจัดตอนนี้เลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
