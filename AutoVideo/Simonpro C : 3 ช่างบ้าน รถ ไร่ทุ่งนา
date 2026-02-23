@@ -124,649 +124,580 @@
   ],
   "1731883236621518033": [
     {
-      "visual_prompt": "9:16 photorealistic ไฟโซลาเซลล์สปอร์ตไลท์ตามภาพ แผงโซลาร์ด้านหลัง ตัวไฟด้านหน้า กล่องสินค้าอยู่ซ้าย รีโมตอยู่ล่างซ้าย ฉากบ้านสนามหญ้า no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ สว่างแรงไม่ต้องง้อไฟบ้าน ติดครั้งเดียวจบ ตอนนี้สามร้อยยี่สิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "visual_prompt": "9:16 photorealistic black solar floodlight with large solar panel placed in front of modern house at night, remote control in hand, product exact, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูเจ็บใจ วันก่อนกูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยสิบเก้าบาท ชาร์จแดดกลางวันกลางคืนสว่างจัด กันน้ำไอพีหกสิบเก้า ของใกล้หมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ไฟโซลาเซลล์ตามภาพ ซ้ายกล่องสินค้า ขวาแผงโซลาร์ ตัวไฟเด่นกลางภาพ ฉากบ้านกลางคืน no text no logo",
-      "tts_text": "ใครบ้านมืดอยู่ฟังนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ เปิดเองอัตโนมัติ กันฝนได้ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท รีบเลยของมีจำกัด",
+      "visual_prompt": "9:16 photorealistic solar floodlight illuminating yard at night with solar panel beside, house background, no text, no logo",
+      "tts_text": "แม่งโคตรพลาด กูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท วันนี้เหลือสามร้อยสิบเก้าบาท ติดตั้งง่ายไม่ต้องเดินสาย เปิดด้วยรีโมตได้ ของจะหมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ตัวไฟและแผงโซลาร์เหมือนภาพ รีโมตถือในมือด้านหน้า สนามหญ้าหลังบ้าน no text no logo",
-      "tts_text": "มึงฟังดีๆ ค่าไฟแพงใช่ไหม ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ใช้แดดล้วนๆ ไม่ต้องเสียบปลั๊ก ตอนนี้สามร้อยยี่สิบเอ็ดบาท คุ้มมาก",
+      "visual_prompt": "9:16 photorealistic close up solar LED floodlight panel and large solar panel outdoor night setting, no text, no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพง ไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยสิบเก้าบาท กันน้ำฝนแรงได้สบาย ไม่ต้องเสียค่าไฟ ของใกล้เกลี้ยง รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ไฟสปอร์ตไลท์โซลาร์ตามภาพ แผงตั้งข้างบ้าน กล่องวางซ้าย รีโมตด้านล่าง no text no logo",
-      "tts_text": "จะหน้าฝนแล้วนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ กันน้ำแน่น เปิดสว่างทั้งคืน ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท รีบกดก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic ไฟโซลาเซลล์ติดผนังบ้าน แผงโซลาร์ตั้งข้างๆ กล่องสินค้าเห็นชัด no text no logo",
-      "tts_text": "ลานจอดรถมืดไหม ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ติดง่ายไม่ต้องเดินสาย ตอนนี้สามร้อยยี่สิบเอ็ดบาท ถูกกว่านี้ไม่มีแล้ว",
+      "visual_prompt": "9:16 photorealistic solar floodlight mounted on house wall lighting driveway, solar panel visible, no text, no logo",
+      "tts_text": "ไอสัสกูหัวร้อน วันก่อนกูจ่ายหนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ไฟสปอตไลท์โซล่าเซลล์ ตอนนี้เหลือสามร้อยสิบเก้าบาท สว่างแรงจัดทั้งลานบ้าน กันน้ำไอพีหกสิบเก้า ของกำลังหมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ตัวไฟเปิดสว่างกลางคืน แผงโซลาร์ตั้งพื้น รีโมตวางข้างกล่อง no text no logo",
-      "tts_text": "ของมันต้องมี ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ สว่างแรงทั้งสวน ไม่ง้อไฟบ้าน ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท กดเลย",
+      "visual_prompt": "9:16 photorealistic black solar floodlight and panel set on stand in garden at night, remote control nearby, no text, no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท วันนี้เหลือสามร้อยสิบเก้าบาท ชาร์จแดดล้วนไม่ง้อปลั๊ก เปิดปิดง่าย ของจะหมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ไฟและแผงจัดวางตามภาพต้นฉบับ ฉากหน้าบ้านตอนเย็น no text no logo",
-      "tts_text": "เตือนแล้วนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ เปิดอัตโนมัติ ปิดเองได้ ตอนนี้สามร้อยยี่สิบเอ็ดบาท รีบก่อนขึ้นราคา",
+      "visual_prompt": "9:16 photorealistic solar LED floodlight lighting backyard fence at night, large solar panel attached, no text, no logo",
+      "tts_text": "ไอเหี้ยกูช้ำใจ กูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยสิบเก้าบาท ติดตั้งง่ายไม่ต้องลากสายไฟ กันฝนได้ ของใกล้หมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ไฟติดกำแพงบ้าน แผงโซลาร์ข้างๆ รีโมตอยู่มือผู้ใช้ no text no logo",
-      "tts_text": "ใครขี้เกียจเดินสายไฟ ฟังนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ใช้แดดล้วนๆ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท หมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic solar floodlight on exterior wall shining bright light across yard, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูพลาดหนัก ไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท วันนี้เหลือสามร้อยสิบเก้าบาท กลางคืนสว่างจัดไม่ต้องเปิดไฟบ้าน ของกำลังเกลี้ยง รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic ตัวไฟและแผงเหมือนภาพ กล่องสินค้าวางซ้าย ฉากสนามหน้าบ้าน no text no logo",
-      "tts_text": "บ้านใครมืดอยู่นี่ทางออก ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ สว่างแรง เปิดทั้งคืน ตอนนี้สามร้อยยี่สิบเอ็ดบาท จะรออะไร",
+      "visual_prompt": "9:16 photorealistic black solar floodlight and solar panel set displayed outdoors at night, no text, no logo",
+      "tts_text": "ไอสัสกูโคตรเซ็ง วันก่อนกูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยสิบเก้าบาท ใช้พลังงานแสงแดดล้วนๆ ไม่เสียค่าไฟ ของจะหมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic ไฟโซลาเซลล์และแผงวางตามภาพ แสงแดดตอนกลางวัน no text no logo",
-      "tts_text": "กลางวันชาร์จ กลางคืนสว่าง ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ไม่ต้องเสียค่าไฟ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท รีบจัด",
+      "visual_prompt": "9:16 photorealistic solar LED floodlight and panel placed on lawn illuminating house front, no text, no logo",
+      "tts_text": "แม่งโคตรหัวเสีย กูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท วันนี้เหลือสามร้อยสิบเก้าบาท สว่างแรงทั้งหน้าบ้าน กันน้ำได้ไม่ต้องกลัวฝน ของใกล้หมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic ไฟเปิดสว่างในสวน แผงโซลาร์ตั้งพื้น กล่องอยู่ข้างๆ no text no logo",
-      "tts_text": "ส่องสว่างทั้งสวนไม่ต้องลากสาย ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ตอนนี้สามร้อยยี่สิบเอ็ดบาท ถูกจนต้องรีบกด",
+      "visual_prompt": "9:16 photorealistic close up solar floodlight LED panel glowing bright at night, solar panel beside, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูเสียดายเงิน กูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยสิบเก้าบาท เปิดปิดด้วยรีโมตสะดวกมาก ของกำลังหมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic ไฟติดผนังบ้านตอนกลางคืน แผงตั้งด้านข้าง รีโมตวางหน้า no text no logo",
-      "tts_text": "ไฟดับก็ไม่กลัว ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ใช้พลังแดดเต็มๆ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท คุ้มสุด",
+      "visual_prompt": "9:16 photorealistic solar floodlight mounted on fence lighting dark area, solar panel attached, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรพลาด วันก่อนกูจ่ายหนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ไฟสปอตไลท์โซล่าเซลล์ วันนี้เหลือสามร้อยสิบเก้าบาท กันน้ำกันฝนได้สบาย ไม่ต้องเสียค่าไฟ ของใกล้เกลี้ยง รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic ไฟและแผงจัดเรียงเหมือนภาพต้นฉบับ ฉากบ้านกลางคืน no text no logo",
-      "tts_text": "ของมันต้องรีบ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ติดครั้งเดียวจบ ตอนนี้สามร้อยยี่สิบเอ็ดบาท รีบก่อนหมด",
+      "visual_prompt": "9:16 photorealistic black solar floodlight and large solar panel leaning against house wall at night, no text, no logo",
+      "tts_text": "ไอสัสกูเจ็บใจหนัก กูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยสิบเก้าบาท ชาร์จแดดเต็มวัน กลางคืนสว่างจ้า ของจะหมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic ตัวไฟและแผงในสวน รีโมตถือในมือ no text no logo",
-      "tts_text": "ใครกำลังจะติดไฟหน้าบ้าน ฟังนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ไม่ต้องเดินสาย ตอนนี้สามร้อยยี่สิบเอ็ดบาท กดเลย",
+      "visual_prompt": "9:16 photorealistic solar floodlight lighting driveway and garage at night, panel visible, no text, no logo",
+      "tts_text": "แม่งโคตรพัง กูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท วันนี้เหลือสามร้อยสิบเก้าบาท ติดตั้งง่ายไม่ต้องจ้างช่าง ของกำลังหมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic ไฟสปอร์ตไลท์เปิดสว่าง แผงโซลาร์ตั้งข้างกำแพง no text no logo",
-      "tts_text": "ลานกว้างก็เอาอยู่ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ สว่างแรงทั้งคืน ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท รีบก่อนพลาด",
+      "visual_prompt": "9:16 photorealistic solar LED floodlight illuminating garden trees at night, separate solar panel visible, no text, no logo",
+      "tts_text": "ไอเหี้ยกูโคตรเสียดาย ไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยสิบเก้าบาท สว่างแรงทั้งสวนบ้าน ไม่ต้องเดินสายไฟ ของใกล้หมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic ไฟและแผงเหมือนภาพ กล่องสินค้าอยู่ซ้าย no text no logo",
-      "tts_text": "ราคานี้หาไม่ได้ง่ายๆ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ใช้แดดล้วน ตอนนี้สามร้อยยี่สิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "visual_prompt": "9:16 photorealistic solar floodlight on stand shining bright beam across yard, house in background, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูหัวร้อน วันก่อนกูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยสิบเก้าบาท ใช้พลังงานแดดล้วน เปิดปิดด้วยรีโมต ของกำลังเกลี้ยง รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic ไฟติดผนังบ้านตอนกลางคืน แผงข้างบ้าน no text no logo",
-      "tts_text": "ของดีไม่ต้องพูดเยอะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ประหยัดไฟบ้าน ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท รีบเลย",
+      "visual_prompt": "9:16 photorealistic solar floodlight and panel displayed in front yard at dusk, no text, no logo",
+      "tts_text": "ไอสัสกูพลาดเอง กูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท วันนี้เหลือสามร้อยสิบเก้าบาท กันน้ำได้ไม่ต้องกลัวฝนหนัก ของจะหมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic ตัวไฟสว่างเต็มเฟรม แผงโซลาร์ชัดด้านหลัง no text no logo",
-      "tts_text": "ใครยังลังเลอยู่ ฟังนะ ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ติดง่าย ใช้งานยาว ตอนนี้สามร้อยยี่สิบเอ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic solar floodlight mounted on exterior wall shining across backyard, panel attached above, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูช้ำใจ กูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยสิบเก้าบาท สว่างแรงทั้งลานบ้านไม่ต้องเสียค่าไฟ ของใกล้เกลี้ยง รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
-      "visual_prompt": "9:16 photorealistic ไฟโซลาเซลล์และแผงจัดวางตามภาพต้นฉบับ no text no logo",
-      "tts_text": "จะไม่กดได้ยังไง ไฟโซลาเซลล์สามแสนห้าหมื่นวัตต์ ใช้แดดเต็มๆ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท หมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic close up black solar LED floodlight panel glowing bright outdoors at night, no text, no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อไฟสปอตไลท์โซล่าเซลล์หนึ่งพันเก้าร้อยเก้าสิบเก้าบาท วันนี้เหลือสามร้อยสิบเก้าบาท ติดตั้งง่ายไม่ต้องต่อปลั๊ก ของกำลังหมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar floodlight lighting house front and driveway at night, large solar panel beside, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรเซ็ง วันก่อนกูจ่ายหนึ่งพันเก้าร้อยเก้าสิบเก้าบาท ไฟสปอตไลท์โซล่าเซลล์ ตอนนี้เหลือสามร้อยสิบเก้าบาท ชาร์จแดดเต็มวัน กลางคืนสว่างจัด ของใกล้หมด รีบกดเหลือสามร้อยสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
   ],
   "1731469410435173216": [
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นรถยนต์ขนาดสองกิโลกรัม แกลลอนตามภาพจริง วางคู่ซ้ายไปขวา เห็นฉลากครบชัด พื้นหลังเรียบ ไม่ดัดแปลงสินค้า no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน น้ำยาหล่อเย็นรถยนต์สองกิโลกรัม ช่วยระบายความร้อน ป้องกันสนิม ตอนนี้เหลือแค่แปดสิบเอ็ดบาท รีบกดก่อนหมดโปร หมดแล้วหมดเลยนะแม่",
+      "visual_prompt": "9:16 photorealistic two gray 2KG coolant bottles on workbench in garage, car engine background, product exact, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูโคตรเจ็บใจ วันก่อนกูซื้อน้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท ตอนนี้เหลือเจ็ดสิบเก้าบาท ป้องกันสนิมทนร้อนจัด รถวิ่งลื่นขึ้น ของใกล้หมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นรถยนต์สองแกลลอนวางบนพื้นโรงรถ เห็นตัวสินค้าเต็มเฟรมตามภาพจริง no text no logo",
-      "tts_text": "รถใครความร้อนขึ้นบ่อยฟังนะ น้ำยาหล่อเย็นรถยนต์สองกิโลกรัมช่วยดูแลหม้อน้ำ ตอนนี้ราคาแค่แปดสิบเอ็ดบาท รีบกดก่อนหมด ช้าคืออดนะ",
+      "visual_prompt": "9:16 photorealistic close up gray coolant bottle beside open car hood in workshop, no text, no logo",
+      "tts_text": "แม่งโคตรพลาด กูซื้อน้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท วันนี้เหลือเจ็ดสิบเก้าบาท ลดความร้อนป้องกันกัดกร่อน ใช้ได้หลายรุ่น ของจะหมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นรถยนต์วางหน้ารถเปิดฝากระโปรง เห็นแกลลอนคู่ตามภาพจริง no text no logo",
-      "tts_text": "อย่ารอให้รถฮีทก่อนนะ น้ำยาหล่อเย็นรถยนต์สองกิโลกรัมตัวนี้ช่วยได้ ตอนนี้เหลือแค่แปดสิบเอ็ดบาท รีบกดด่วนก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic two coolant containers placed on mechanic table with tools around, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพง น้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท ตอนนี้เหลือเจ็ดสิบเก้าบาท ทนความร้อนสูงไม่เป็นสนิม รถใช้งานได้ยาว ของใกล้เกลี้ยง รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ซูมแกลลอนน้ำยาหล่อเย็นตามภาพจริง เห็นฉลากชัด วางเรียงซ้ายไปขวาครบ no text no logo",
-      "tts_text": "รถใช้งานทุกวันต้องมี น้ำยาหล่อเย็นรถยนต์สองกิโลกรัมช่วยป้องกันการกัดกร่อน ตอนนี้เหลือแปดสิบเอ็ดบาท รีบกดก่อนหมดโปร หมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic coolant bottle 2KG near car radiator in garage setting, no text, no logo",
+      "tts_text": "ไอสัสกูหัวร้อน วันก่อนกูจ่ายหนึ่งร้อยเก้าสิบสี่บาท น้ำยาหม้อน้ำสองกิโลกรัม ตอนนี้เหลือเจ็ดสิบเก้าบาท ป้องกันสนิมต่อท่อหม้อน้ำ ใช้งานง่าย ของกำลังหมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นวางบนโต๊ะช่าง ใกล้เครื่องยนต์ เห็นสินค้าเต็มตามภาพจริง no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน หม้อน้ำต้องดูแล น้ำยาหล่อเย็นรถยนต์สองกิโลกรัมคุ้มมาก ตอนนี้ราคาแค่แปดสิบเอ็ดบาท รีบกดก่อนหมดนะ",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นสองแกลลอนตั้งคู่กันตามภาพจริง พื้นหลังเรียบ no text no logo",
-      "tts_text": "โปรรอบนี้มาไวไปไว น้ำยาหล่อเย็นรถยนต์สองกิโลกรัม เหลือแค่แปดสิบเอ็ดบาท รีบกดก่อนหมด ของกำลังจะเกลี้ยงแล้วแม่",
+      "visual_prompt": "9:16 photorealistic gray coolant container beside car engine bay, workshop background, product exact, no text, no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูซื้อน้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท วันนี้เหลือเจ็ดสิบเก้าบาท ช่วยระบายความร้อนได้ดี ไม่ต้องกังวลสนิม ของจะหมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นวางข้างล้อรถในโรงรถ เห็นแกลลอนครบตามภาพจริง no text no logo",
-      "tts_text": "รถใครจอดตากแดดบ่อยต้องมี น้ำยาหล่อเย็นรถยนต์สองกิโลกรัมช่วยดูแล ตอนนี้แค่แปดสิบเอ็ดบาท รีบกดก่อนหมดโปรนะแม่",
+      "visual_prompt": "9:16 photorealistic pair of gray coolant bottles on car hood in garage, no text, no logo",
+      "tts_text": "ไอเหี้ยกูช้ำใจ กูซื้อน้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท ตอนนี้เหลือเจ็ดสิบเก้าบาท ลดความร้อนเครื่องยนต์ได้ดี ใช้ได้ทุกวัน ของใกล้หมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ซูมฝาแกลลอนและฉลากน้ำยาหล่อเย็นตามภาพจริง no text no logo",
-      "tts_text": "ราคานี้หาไม่ได้ง่าย น้ำยาหล่อเย็นรถยนต์สองกิโลกรัมคุณภาพคุ้ม ตอนนี้เหลือแค่แปดสิบเอ็ดบาท รีบกดก่อนหมด ช้าคืออดนะ",
+      "visual_prompt": "9:16 photorealistic coolant bottle placed beside car tools and radiator hose, garage lighting, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูพลาดหนัก น้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท ตอนนี้เหลือเจ็ดสิบเก้าบาท ป้องกันการกัดกร่อนหม้อน้ำ ใช้ได้นาน ของกำลังเกลี้ยง รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นวางหน้ารถเปิดฝากระโปรง เห็นสองแกลลอนชัดตามภาพจริง no text no logo",
-      "tts_text": "หม้อน้ำแห้งไม่คุ้มเสี่ยง น้ำยาหล่อเย็นรถยนต์สองกิโลกรัมช่วยได้ ตอนนี้เหลือแค่แปดสิบเอ็ดบาท รีบกดด่วนก่อนหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic gray coolant bottle on workbench with car engine behind, no text, no logo",
+      "tts_text": "ไอสัสกูโคตรเซ็ง วันก่อนกูซื้อหนึ่งร้อยเก้าสิบสี่บาท น้ำยาหม้อน้ำสองกิโลกรัม วันนี้เหลือเจ็ดสิบเก้าบาท ทนร้อนจัดไม่เสื่อมง่าย ของจะหมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นวางพื้นคอนกรีตข้างรถ เห็นตัวสินค้าเต็มตามภาพจริง no text no logo",
-      "tts_text": "ขับรถทุกวันต้องเตรียมไว้ น้ำยาหล่อเย็นรถยนต์สองกิโลกรัมช่วยระบายความร้อน ตอนนี้ราคาแค่แปดสิบเอ็ดบาท รีบกดก่อนหมดโปร",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นตั้งคู่บนพื้นเรียบ เห็นฉลากชัดตามภาพจริง no text no logo",
-      "tts_text": "ของใช้จำเป็นประจำรถ น้ำยาหล่อเย็นรถยนต์สองกิโลกรัม ตอนนี้เหลือแค่แปดสิบเอ็ดบาท รีบกดก่อนหมด หมดแล้วหมดเลยนะแม่",
+      "visual_prompt": "9:16 photorealistic coolant container 2KG beside open hood car in garage, no text, no logo",
+      "tts_text": "แม่งโคตรหัวเสีย กูซื้อน้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท ตอนนี้เหลือเจ็ดสิบเก้าบาท ช่วยยืดอายุหม้อน้ำไม่เป็นสนิม ของใกล้หมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นวางข้างเครื่องยนต์ในอู่รถ เห็นแกลลอนครบตามภาพจริง no text no logo",
-      "tts_text": "อย่าปล่อยให้รถร้อนสะสม น้ำยาหล่อเย็นรถยนต์สองกิโลกรัมช่วยดูแล ตอนนี้แค่แปดสิบเอ็ดบาท รีบกดด่วนก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic two coolant bottles on garage table with engine parts around, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูเสียดายเงิน กูซื้อน้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท วันนี้เหลือเจ็ดสิบเก้าบาท ป้องกันสนิมต่อท่อน้ำได้ดี ของกำลังหมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ซูมตัวแกลลอนน้ำยาหล่อเย็นสองใบวางคู่กันตามภาพจริง no text no logo",
-      "tts_text": "ราคานี้แม่แทบไม่ได้กำไร น้ำยาหล่อเย็นรถยนต์สองกิโลกรัม เหลือแค่แปดสิบเอ็ดบาท รีบกดก่อนหมด ช้าคืออดนะบอกเลย",
+      "visual_prompt": "9:16 photorealistic gray coolant bottle near radiator grill of car, workshop scene, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรพลาด วันก่อนกูจ่ายหนึ่งร้อยเก้าสิบสี่บาท น้ำยาหม้อน้ำสองกิโลกรัม ตอนนี้เหลือเจ็ดสิบเก้าบาท ลดความร้อนเครื่องยนต์ได้สบาย ของใกล้เกลี้ยง รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นวางท้ายรถ เปิดไฟสว่าง เห็นสินค้าเต็มตามภาพจริง no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน รถร้อนบ่อยต้องจัด น้ำยาหล่อเย็นรถยนต์สองกิโลกรัม ตอนนี้ราคาแค่แปดสิบเอ็ดบาท รีบกดก่อนหมดโปรนะแม่",
+      "visual_prompt": "9:16 photorealistic coolant container placed on car hood with open engine bay background, no text, no logo",
+      "tts_text": "ไอสัสกูเจ็บใจหนัก กูซื้อน้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท วันนี้เหลือเจ็ดสิบเก้าบาท ป้องกันการเกิดสนิมระยะยาว ของจะหมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นตั้งคู่ในลานจอดรถกลางแจ้ง เห็นแกลลอนชัดตามภาพจริง no text no logo",
-      "tts_text": "ของกำลังจะเกลี้ยงแล้วแม่ น้ำยาหล่อเย็นรถยนต์สองกิโลกรัม เหลือแค่แปดสิบเอ็ดบาท รีบกดด่วนก่อนหมดแล้วหมดเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นวางข้างล้อรถกระบะ เห็นสินค้าเต็มเฟรมตามภาพจริง no text no logo",
-      "tts_text": "รถกระบะก็ใช้ได้ น้ำยาหล่อเย็นรถยนต์สองกิโลกรัมช่วยดูแลหม้อน้ำ ตอนนี้เหลือแค่แปดสิบเอ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic two gray coolant bottles on mechanic workbench, tools and car engine behind, no text, no logo",
+      "tts_text": "แม่งโคตรพัง กูซื้อน้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท ตอนนี้เหลือเจ็ดสิบเก้าบาท ใช้ได้ทั้งรถเก๋งรถกระบะ ของกำลังหมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ซูมฉลากน้ำยาหล่อเย็นตามภาพจริง วางคู่ซ้ายไปขวา no text no logo",
-      "tts_text": "ดูฉลากชัดๆเลย น้ำยาหล่อเย็นรถยนต์สองกิโลกรัม คุ้มมากตอนนี้แค่แปดสิบเอ็ดบาท รีบกดก่อนหมด ช้าคืออดนะ",
+      "visual_prompt": "9:16 photorealistic coolant bottle next to car radiator hose close up, garage lighting, no text, no logo",
+      "tts_text": "ไอเหี้ยกูโคตรเสียดาย น้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท วันนี้เหลือเจ็ดสิบเก้าบาท ทนความร้อนสูงได้ดี ไม่เป็นตะกรัน ของใกล้หมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นวางบนพื้นอู่รถ เห็นสองแกลลอนตามภาพจริง no text no logo",
-      "tts_text": "มีติดรถไว้สบายใจ น้ำยาหล่อเย็นรถยนต์สองกิโลกรัม ตอนนี้เหลือแค่แปดสิบเอ็ดบาท รีบกดก่อนหมดโปร หมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic gray coolant container on garage shelf with car in background, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูหัวร้อน วันก่อนกูซื้อหนึ่งร้อยเก้าสิบสี่บาท น้ำยาหม้อน้ำสองกิโลกรัม ตอนนี้เหลือเจ็ดสิบเก้าบาท ป้องกันหม้อน้ำผุกร่อนยาวๆ ของกำลังเกลี้ยง รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นตั้งคู่ใกล้เครื่องยนต์รถยนต์ตามภาพจริง no text no logo",
-      "tts_text": "อย่าปล่อยให้หม้อน้ำพังทีหลัง น้ำยาหล่อเย็นรถยนต์สองกิโลกรัมช่วยดูแล ตอนนี้ราคาแค่แปดสิบเอ็ดบาท รีบกดก่อนหมดนะแม่",
+      "visual_prompt": "9:16 photorealistic coolant bottle on car hood in bright garage, no text, no logo",
+      "tts_text": "ไอสัสกูพลาดเอง กูซื้อน้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท วันนี้เหลือเจ็ดสิบเก้าบาท ช่วยให้เครื่องยนต์ทำงานเสถียรขึ้น ของจะหมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic น้ำยาหล่อเย็นสองแกลลอนวางคู่พื้นเรียบ เห็นสินค้าเต็มตามภาพจริง no text no logo",
-      "tts_text": "โปรแรงมากรอบนี้ น้ำยาหล่อเย็นรถยนต์สองกิโลกรัม เหลือแค่แปดสิบเอ็ดบาท รีบกดด่วนก่อนหมด ช้าคืออดนะบอกเลย",
+      "visual_prompt": "9:16 photorealistic two coolant bottles beside open car hood in workshop, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูช้ำใจ กูซื้อน้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท ตอนนี้เหลือเจ็ดสิบเก้าบาท ระบายความร้อนได้ดีไม่ต้องห่วง ของใกล้เกลี้ยง รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic coolant container near car engine close up in garage, no text, no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อน้ำยาหม้อน้ำสองกิโลกรัมหนึ่งร้อยเก้าสิบสี่บาท วันนี้เหลือเจ็ดสิบเก้าบาท ใช้ได้ยาวไม่ต้องเปลี่ยนบ่อย ของกำลังหมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic gray coolant bottle with engine background in workshop, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรเซ็ง วันก่อนกูจ่ายหนึ่งร้อยเก้าสิบสี่บาท น้ำยาหม้อน้ำสองกิโลกรัม ตอนนี้เหลือเจ็ดสิบเก้าบาท ป้องกันสนิมในระบบหล่อเย็น ของใกล้หมด รีบกดเหลือเจ็ดสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
   ],
   "1731380438972533108": [
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยทุกคนดูนี่! เต็นท์กางอัตโนมัติกางแป๊บเดียว ไปปิกนิกไม่ต้องลำบาก ราคานี้แค่สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic automatic pop up camping tent pitched on green grass field, double layer fabric visible, front door open, daylight outdoor scene, product exact, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูโคตรเจ็บใจ วันก่อนกูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท ตอนนี้เหลือสองร้อยเก้าสิบห้าบาท ผ้าสองชั้นกันแดดยูวี กางเร็วไม่ต้องเสียเวลา ของใกล้หมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยยย ของต้องมี เต็นท์กางเองได้ ไม่มีงง ไปเที่ยวแบบชิลๆ เหลือสองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic automatic camping tent set up in park with trees background, double layer material, entrance open, no text, no logo",
+      "tts_text": "แม่งโคตรพลาด กูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท วันนี้เหลือสองร้อยเก้าสิบห้าบาท กางเองได้ในไม่กี่วินาที กันแดดกันลมดี ของจะหมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนแม่ เต็นท์กางอัตโนมัติ ไม่ต้องง้อคน ตั้งได้เร็ว ใช้จริงคุ้มมาก ตอนนี้สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic front view automatic pop up tent on lawn, mesh inner visible, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพง เต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท ตอนนี้เหลือสองร้อยเก้าสิบห้าบาท ผ้าหนาแยกรังสียูวี นอนได้หลายคน ของใกล้เกลี้ยง รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยยยย ถูกสุด เต็นท์กางไว ไม่หงุดหงิด เหมาะสายเที่ยว ตอนนี้แค่สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic spacious automatic camping tent pitched outdoors with grass and sky background, no text, no logo",
+      "tts_text": "ไอสัสกูหัวร้อน วันก่อนกูจ่ายห้าร้อยเก้าสิบบาท เต็นท์กางอัตโนมัติ ตอนนี้เหลือสองร้อยเก้าสิบห้าบาท กางง่ายไม่ต้องง้อคนช่วย ของกำลังหมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยย ใครเดินป่าฟังนะ เต็นท์กางเองในพริบตา เหลือสองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic automatic camping tent double layer structure on grassy campsite, door open, no text, no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท วันนี้เหลือสองร้อยเก้าสิบห้าบาท กางเร็วไม่เสียเวลา ผ้าสองชั้นกันแดด ของจะหมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โปรนี้แม่ยังงง เต็นท์กางอัตโนมัติ ใครๆ ก็ใช้ได้ ราคานี้สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic automatic pop up tent on open park lawn under daylight, mesh inner visible, no text, no logo",
+      "tts_text": "ไอเหี้ยกูช้ำใจ กูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท ตอนนี้เหลือสองร้อยเก้าสิบห้าบาท กันแดดยูวีได้ดี นอนสบายหลายคน ของใกล้หมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน เต็นท์กางเองได้ ไปทะเลก็สบายแคมป์กัน ยืนหนึ่งสองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic automatic camping tent pitched in field with trees background, outer fly and mesh inner visible, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูพลาดหนัก เต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท วันนี้เหลือสองร้อยเก้าสิบห้าบาท กางเองได้ในพริบตา ไม่ต้องเสียแรง ของกำลังเกลี้ยง รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยสินค้านี้เด็ด เต็นท์กางเร็วไม่ง้อคน เหมาะเที่ยวทั้งแก๊ง ตอนนี้สองร้อยเก้าสิบเจ็ดบาท รีบกดหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic large automatic camping tent on grassy campsite with blue sky, entrance open, no text, no logo",
+      "tts_text": "ไอสัสกูโคตรเซ็ง วันก่อนกูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท ตอนนี้เหลือสองร้อยเก้าสิบห้าบาท กางง่ายกันแดดแรงจัด ของจะหมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยแม่บอกเลย เต็นท์กางอัตโนมัติง่ายสุดๆ พกไปไหนก็ได้ ราคานี้สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic automatic pop up tent double layer fabric highlighted on lawn, no text, no logo",
+      "tts_text": "แม่งโคตรหัวเสีย กูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท วันนี้เหลือสองร้อยเก้าสิบห้าบาท ผ้าหนาไม่บาง กันยูวีได้จริง ของใกล้หมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยดูนี่ก่อน เต็นท์กางไวมาก ไม่ต้องงงตอนตั้ง เหลือสองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic automatic camping tent pitched in park with grass foreground, mesh door open, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูเสียดายเงิน กูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท ตอนนี้เหลือสองร้อยเก้าสิบห้าบาท กางเร็วไม่ต้องประกอบหลายขั้นตอน ของกำลังหมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โปรนี้แรง เต็นท์กางเองได้ตั้งไม่กี่วิ ไปเที่ยวไหนก็พร้อม ตอนนี้สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic automatic camping tent on open field with sky background, double layer clearly visible, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรพลาด วันก่อนกูจ่ายห้าร้อยเก้าสิบบาท เต็นท์กางอัตโนมัติ วันนี้เหลือสองร้อยเก้าสิบห้าบาท นอนได้หลายคนไม่แออัด ของใกล้เกลี้ยง รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ใครอยากเที่ยวชิลๆ เต็นท์กางอัตโนมัติช่วยได้ ราคานี้สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic automatic camping tent with mesh inner and outer fly open on grassy field, no text, no logo",
+      "tts_text": "ไอสัสกูเจ็บใจหนัก กูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท ตอนนี้เหลือสองร้อยเก้าสิบห้าบาท กางง่ายนอนสบายทั้งแก๊ง ของจะหมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยถูกกว่าเช่าอีก เต็นท์กางอัตโนมัติ ผ้าดี ใช้ได้นาน ตอนนี้แค่สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic automatic pop up tent pitched on campsite lawn with trees background, no text, no logo",
+      "tts_text": "แม่งโคตรพัง กูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท วันนี้เหลือสองร้อยเก้าสิบห้าบาท ผ้าสองชั้นกันแดดจัดได้ดี ของกำลังหมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนแม่ เต็นท์กาง сами เหมาะสายแคมป์ ไม่ต้องรอใครเหลือสองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic automatic camping tent front view on green lawn, mesh inner visible, no text, no logo",
+      "tts_text": "ไอเหี้ยกูโคตรเสียดาย เต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท ตอนนี้เหลือสองร้อยเก้าสิบห้าบาท กางเร็วไม่เสียเวลาเดินป่า ของใกล้หมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยสินค้านี้แม่ลำบากใจ ราคานี้สองร้อยเก้าสิบเจ็ดบาทเต็นท์กางอัตโนมัติ รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic automatic camping tent pitched on open field under clear sky, double layer fabric visible, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูหัวร้อน วันก่อนกูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท ตอนนี้เหลือสองร้อยเก้าสิบห้าบาท กันลมกันแดดได้ครบ ของกำลังเกลี้ยง รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โปรห้ามพลาด เต็นท์กางเองไว ไม่ง้อฝน ไม่ง้อลม ตอนนี้สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic automatic pop up tent on grassy campsite with blue sky, entrance open, no text, no logo",
+      "tts_text": "ไอสัสกูพลาดเอง กูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท วันนี้เหลือสองร้อยเก้าสิบห้าบาท กางง่ายเหมาะเที่ยวกับครอบครัว ของจะหมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยยยคุ้มสุด เต็นท์กางอัตโนมัติ ใครมีแล้วไม่ผิดหวัง ราคาแค่สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic automatic camping tent double layer structure clearly shown on lawn, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูช้ำใจ กูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท ตอนนี้เหลือสองร้อยเก้าสิบห้าบาท ผ้าหนาแยกรังสียูวีได้ดี ของใกล้เกลี้ยง รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยทุกคนดูนี่ เต็นท์กางไวเหมือนเสก ยืนหนึ่งเรื่องแคมป์ เหลือสองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic automatic camping tent pitched in park with trees and grass, mesh door open, no text, no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อเต็นท์กางอัตโนมัติห้าร้อยเก้าสิบบาท วันนี้เหลือสองร้อยเก้าสิบห้าบาท นอนได้หลายคนไม่อึดอัด ของกำลังหมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยยกดเลย เต็นท์กางอัตโนมัติ กันแดดกันฝนไปเที่ยวชิลๆ แค่สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหาย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนแม่ เต็นท์กางอัตโนมัติ นอนสบายไม่งง ตั้งง่ายมาก ราคานี้สองร้อยเก้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic automatic pop up tent on open grassy field with sky background, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรเซ็ง วันก่อนกูจ่ายห้าร้อยเก้าสิบบาท เต็นท์กางอัตโนมัติ ตอนนี้เหลือสองร้อยเก้าสิบห้าบาท กางเร็วไม่ต้องเสียแรงมาก ของใกล้หมด รีบกดเหลือสองร้อยเก้าสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
   ],
   "1731588993694074706": [
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน! พัดลมแปดนิ้วพัดลมใหญ่แรงสะใจ ปรับได้สามสิบองศา ใช้แบตสะดวก ตอนนี้เหลือสามร้อยสามสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic 8 inch rechargeable battery fan on table with charger adapter beside, adjustable head visible, indoor background, product exact, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูโคตรเจ็บใจ วันก่อนกูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท ตอนนี้เหลือสามร้อยสามสิบห้าบาท ลมแรงปรับได้หลายระดับ พกง่ายไม่ง้อปลั๊ก ของใกล้หมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยย ของต้องมี พัดลมแปดนิ้วแรงจริง ลมใหญ่จุกๆ พกไปทำงานได้ ตอนนี้สามร้อยสามสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic black 8 inch battery fan with detachable battery base and charger on desk, no text, no logo",
+      "tts_text": "แม่งโคตรพลาด กูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท วันนี้เหลือสามร้อยสามสิบห้าบาท ปรับแรงลมได้หลายสปีด ใช้ได้นานหลายชั่วโมง ของจะหมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยร้อนแบบนี้ต้องจัด พัดลมแปดนิ้วลมแรง ปรับมุมได้สามสิบองศา ใช้งานง่าย ตอนนี้เหลือสามร้อยสามสิบเจ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic close up rechargeable 8 inch fan with adjustable angle and battery pack attached, indoor room, no text, no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพง พัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท ตอนนี้เหลือสามร้อยสามสิบห้าบาท ก้มเงยได้ ลมแรงใช้ในบ้านนอกบ้านได้ ของใกล้เกลี้ยง รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนแม่ พัดลมแปดนิ้วตัวใหญ่ ลมแรงจริง ใช้ไฟบ้านก็ได้ แบตก็ได้ ตอนนี้สามร้อยสามสิบเจ็ดบาท รีบกดหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic portable 8 inch battery fan on camping table with charger nearby, product unchanged, no text, no logo",
+      "tts_text": "ไอสัสกูหัวร้อน วันก่อนกูจ่ายเจ็ดร้อยเก้าสิบบาท พัดลมแบตเตอรี่แปดนิ้ว ตอนนี้เหลือสามร้อยสามสิบห้าบาท พกไปแคมป์ได้ ลมแรงสบายมาก ของกำลังหมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด พัดลมแปดนิ้วลมแรงเย็นทันใจ ใช้ได้ทั้งในบ้านนอกบ้าน ตอนนี้เหลือสามร้อยสามสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic rechargeable fan 8 inch placed on wooden table with battery base attached, home interior background, no text, no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท วันนี้เหลือสามร้อยสามสิบห้าบาท ลมใหญ่แรงจัด ไม่ต้องลากสายไฟ ของจะหมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ใครทำงานกลางแจ้งฟังนะ พัดลมแปดนิ้วแรงสะใจ พกง่าย ปรับมุมได้ ตอนนี้สามร้อยสามสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic black 8 inch rechargeable fan with adjustable head shown tilted, charger cable visible, no text, no logo",
+      "tts_text": "ไอเหี้ยกูช้ำใจ กูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท ตอนนี้เหลือสามร้อยสามสิบห้าบาท ปรับมุมได้สามสิบองศา ลมแรงจริง ของใกล้หมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยของมันดีจริง พัดลมแปดนิ้วลมใหญ่ เปิดแล้วรู้เรื่อง ใช้ได้นาน ตอนนี้เหลือสามร้อยสามสิบเจ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic rechargeable 8 inch fan with battery pack and charger placed on desk in room, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูพลาดหนัก พัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท ตอนนี้เหลือสามร้อยสามสิบห้าบาท ใช้ได้นานทั้งวันไม่ต้องเสียบปลั๊ก ของกำลังเกลี้ยง รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน พัดลมแปดนิ้วตัวใหญ่แรงสะใจ ปรับมุมได้สามสิบองศา ตอนนี้สามร้อยสามสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic portable battery fan 8 inch on camping chair table, outdoor background, no text, no logo",
+      "tts_text": "ไอสัสกูโคตรเซ็ง วันก่อนกูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท ตอนนี้เหลือสามร้อยสามสิบห้าบาท ลมแรงเปิดได้หลายระดับ ของจะหมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยแม่ลมแรงมาก พัดลมแปดนิ้วใช้งานสะดวก ไม่ต้องติดตั้งยุ่งยาก ตอนนี้เหลือสามร้อยสามสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic rechargeable fan 8 inch placed near bed in bedroom, adjustable head visible, no text, no logo",
+      "tts_text": "แม่งโคตรหัวเสีย กูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท วันนี้เหลือสามร้อยสามสิบห้าบาท พกง่ายตั้งโต๊ะได้ ลมแรงไม่เบา ของใกล้หมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยร้อนขนาดนี้ต้องมี พัดลมแปดนิ้วลมแรงจริง ปรับมุมได้ตามใจ ตอนนี้สามร้อยสามสิบเจ็ดบาท รีบกดหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic black battery fan 8 inch with charger on wooden desk, indoor lighting, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูเสียดายเงิน กูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท ตอนนี้เหลือสามร้อยสามสิบห้าบาท ใช้ได้ทั้งในบ้านนอกบ้าน ของกำลังหมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โปรแรงมาก พัดลมแปดนิ้วตัวใหญ่ ใช้ไฟบ้านหรือแบตก็ได้ ตอนนี้เหลือสามร้อยสามสิบเจ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic rechargeable 8 inch fan with adjustable tilt shown clearly, charger beside, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรพลาด วันก่อนกูจ่ายเจ็ดร้อยเก้าสิบบาท พัดลมแบตเตอรี่แปดนิ้ว ตอนนี้เหลือสามร้อยสามสิบห้าบาท ลมแรงจัดไม่ต้องง้อปลั๊ก ของใกล้เกลี้ยง รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยคุ้มจัด พัดลมแปดนิ้วลมแรงสะใจ เปิดแล้วเย็นไว ตอนนี้สามร้อยสามสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic portable battery fan on table with battery pack visible, indoor home setting, no text, no logo",
+      "tts_text": "ไอสัสกูเจ็บใจหนัก กูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท วันนี้เหลือสามร้อยสามสิบห้าบาท ปรับแรงลมได้หลายสปีด ของจะหมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนแม่ พัดลมแปดนิ้วแรงจริง พกไปไซต์งานก็สบาย ตอนนี้เหลือสามร้อยสามสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic black rechargeable fan 8 inch on camping table outdoor scene, no text, no logo",
+      "tts_text": "แม่งโคตรพัง กูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท ตอนนี้เหลือสามร้อยสามสิบห้าบาท ลมใหญ่แรงจริงพกง่าย ของกำลังหมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยราคานี้หายาก พัดลมแปดนิ้วลมใหญ่ เปิดทีเดียวรู้เรื่อง ตอนนี้สามร้อยสามสิบเจ็ดบาท รีบกดหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic rechargeable 8 inch fan with battery base and charger on desk, home background, no text, no logo",
+      "tts_text": "ไอเหี้ยกูโคตรเสียดาย พัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท ตอนนี้เหลือสามร้อยสามสิบห้าบาท ใช้ได้นานไม่ต้องชาร์จบ่อย ของใกล้หมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยอย่ารอ พัดลมแปดนิ้วปรับมุมได้สามสิบองศา ใช้งานง่าย ตอนนี้เหลือสามร้อยสามสิบเจ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic portable rechargeable fan 8 inch placed near window with daylight, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูหัวร้อน วันก่อนกูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท ตอนนี้เหลือสามร้อยสามสิบห้าบาท ปรับก้มเงยได้ตามต้องการ ของกำลังเกลี้ยง รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ใครหาพัดลมแรงๆ ฟังนะ พัดลมแปดนิ้วลมใหญ่สะใจ ตอนนี้สามร้อยสามสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic 8 inch battery fan with charger shown clearly on desk, indoor lighting, no text, no logo",
+      "tts_text": "ไอสัสกูพลาดเอง กูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท วันนี้เหลือสามร้อยสามสิบห้าบาท ลมแรงจัดใช้ได้ทุกที่ ของจะหมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยตัวนี้แม่แนะนำ พัดลมแปดนิ้วแรงจริง ใช้ได้หลายที่ ตอนนี้เหลือสามร้อยสามสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic black rechargeable fan 8 inch with battery pack attached, room interior, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูช้ำใจ กูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท ตอนนี้เหลือสามร้อยสามสิบห้าบาท พกไปทำงานนอกบ้านได้ ของใกล้เกลี้ยง รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยของมันต้องมี พัดลมแปดนิ้วลมแรง พกพาสะดวก ตอนนี้สามร้อยสามสิบเจ็ดบาท รีบกดหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic rechargeable fan 8 inch on wooden table with charger beside, no text, no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อพัดลมแบตเตอรี่แปดนิ้วเจ็ดร้อยเก้าสิบบาท วันนี้เหลือสามร้อยสามสิบห้าบาท ใช้ได้ยาวหลายชั่วโมง ลมแรงสะใจ ของกำลังหมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน พัดลมแปดนิ้วตัวใหญ่ เปิดแล้วเย็นทันใจ ตอนนี้เหลือสามร้อยสามสิบเจ็ดบาท รีบกดก่อนหาย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โปรนี้คุ้มมาก พัดลมแปดนิ้วลมแรงสะใจ ใช้งานง่ายทุกที่ ตอนนี้สามร้อยสามสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic portable 8 inch rechargeable fan placed on camping gear table outdoors, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรเซ็ง วันก่อนกูจ่ายเจ็ดร้อยเก้าสิบบาท พัดลมแบตเตอรี่แปดนิ้ว ตอนนี้เหลือสามร้อยสามสิบห้าบาท ลมแรงไม่ต้องง้อไฟบ้าน ของใกล้หมด รีบกดเหลือสามร้อยสามสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
   ],
   "1730039854163396717": [
     {
-      "visual_prompt": "9:16 photorealistic motorcycle rear shock absorbers placed on workshop table mechanic hands installing suspension natural lighting cinematic angle no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน โช้คหลังมอเตอร์ไซค์รุ่นยอดนิยม เปลี่ยนแล้วนุ่มขึ้น ถนนขรุขระก็เอาอยู่ ตอนนี้โปรเหลือร้อยเจ็ดสิบสามบาท รีบกดเลย ของเข้าจำนวนจำกัด",
+      "visual_prompt": "9:16 photorealistic motorcycle rear shock absorbers pair on workshop table, colorful springs behind, product exact, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูโคตรเจ็บใจ วันก่อนกูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ใส่แทนของเดิมได้เลย ขี่นุ่มขึ้นทันที ของใกล้หมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close up motorcycle rear suspension being compressed showing smooth movement garage background no text no logo",
-      "tts_text": "ใครขี่แล้วกระแทกหลังเจ็บ ลองโช้คหลังมอเตอร์ไซค์ตัวนี้ นุ่มแน่นขึ้นทันที โปรแรงเหลือร้อยเจ็ดสิบสามบาท วันนี้เท่านั้น รีบสั่งก่อนของหมด",
+      "visual_prompt": "9:16 photorealistic rear motorcycle shocks placed beside bike in garage, no text, no logo",
+      "tts_text": "แม่งโคตรพลาด กูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท วันนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ซับแรงดีขึ้น ขี่ทางขรุขระไม่สะเทือน ของจะหมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic mechanic replacing old rear shocks with new pair motorcycle service shop cinematic lighting no text no logo",
-      "tts_text": "โช้คเดิมแข็งเกิน ขี่ไม่สบาย เปลี่ยนโช้คหลังมอเตอร์ไซค์คู่นี้เลย นั่งซ้อนก็ยังนิ่ง ช่วงโปรเหลือร้อยเจ็ดสิบสามบาท รีบกดด่วน ก่อนราคากลับ",
+      "visual_prompt": "9:16 photorealistic colorful motorcycle rear shock absorbers lined up on table, workshop background, no text, no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพง โช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท เปลี่ยนง่ายใส่ได้หลายรุ่น ขี่สบายขึ้นชัด ของใกล้เกลี้ยง รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic motorcycle riding slowly over speed bump showing smooth suspension action outdoor daylight no text no logo",
-      "tts_text": "ผ่านลูกระนาดไม่สะดุ้ง โช้คหลังมอเตอร์ไซค์ตัวนี้ช่วยได้ นุ่มขึ้นชัดเจน ตอนนี้จัดโปรเหลือร้อยเจ็ดสิบสามบาท กดสั่งตอนนี้ คุ้มมากจริง",
+      "visual_prompt": "9:16 photorealistic pair of rear shocks on mechanic bench with tools, product unchanged, no text, no logo",
+      "tts_text": "ไอสัสกูหัวร้อน วันก่อนกูจ่ายสามร้อยเก้าสิบบาท โช้คหลังมอเตอร์ไซค์ ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ซับแรงกระแทกดีขึ้นทันที ของกำลังหมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic comparison old worn shock and new installed shock on motorcycle garage setting no text no logo",
-      "tts_text": "โช้คเก่าเริ่มยุบ ขี่แล้วไม่นิ่ง เปลี่ยนโช้คหลังมอเตอร์ไซค์ใหม่ ขับมั่นใจขึ้นทันที โปรแรงเหลือร้อยเจ็ดสิบสามบาท รีบกดก่อนของหมดล็อตนี้",
+      "visual_prompt": "9:16 photorealistic motorcycle rear shock absorbers close up metal springs detail, no text, no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท วันนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ขี่แล้วนุ่มขึ้นไม่โยน ของจะหมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic rider sitting on motorcycle testing rear suspension bounce outdoor street background no text no logo",
-      "tts_text": "ลองนั่งแล้วเด้งนุ่มต่างชัด โช้คหลังมอเตอร์ไซค์รุ่นนี้ติดตั้งง่าย ใช้งานทน โปรลดเหลือร้อยเจ็ดสิบสามบาท รีบสั่งวันนี้ ราคานี้ไม่นาน",
+      "visual_prompt": "9:16 photorealistic rear motorcycle shocks beside bike wheel in garage, no text, no logo",
+      "tts_text": "ไอเหี้ยกูช้ำใจ กูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ใส่แทนของเดิมได้เลย ขี่นุ่มกว่าเดิม ของใกล้หมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic motorcycle parked roadside with new shiny rear shocks highlighted sunlight reflection no text no logo",
-      "tts_text": "ของดีไม่ต้องแพง โช้คหลังมอเตอร์ไซค์คู่นี้ช่วยซับแรงกระแทก ขี่ทางไกลสบายขึ้น โปรเหลือร้อยเจ็ดสิบสามบาท รีบกดก่อนหมดสต็อก",
+      "visual_prompt": "9:16 photorealistic pair of motorcycle rear shocks on black background, product exact, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูพลาดหนัก โช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ซับแรงกระแทกดีขึ้นชัด ของกำลังเกลี้ยง รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic mechanic tightening bolts installing rear shocks close up wrench action workshop scene no text no logo",
-      "tts_text": "ติดตั้งง่าย เปลี่ยนเองก็ได้ โช้คหลังมอเตอร์ไซค์ตัวนี้เพิ่มความนุ่มทันที โปรแรงเหลือร้อยเจ็ดสิบสามบาท เห็นราคาแล้วต้องรีบกดเลย",
+      "visual_prompt": "9:16 photorealistic colorful rear shocks displayed on table in workshop, no text, no logo",
+      "tts_text": "ไอสัสกูโคตรเซ็ง วันก่อนกูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท เปลี่ยนแล้วขี่สบายกว่าเดิม ของจะหมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic motorcycle riding on uneven road showing stable rear suspension performance cinematic tracking shot no text no logo",
-      "tts_text": "ถนนขรุขระก็ยังนิ่ง โช้คหลังมอเตอร์ไซค์ตัวนี้ช่วยซับแรงดีมาก โปรพิเศษเหลือร้อยเจ็ดสิบสามบาท รีบกดตอนนี้ ก่อนของหมดล็อต",
+      "visual_prompt": "9:16 photorealistic motorcycle rear shock absorbers on mechanic workbench close up, no text, no logo",
+      "tts_text": "แม่งโคตรหัวเสีย กูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท วันนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ใส่ได้หลายรุ่นไม่ต้องดัดแปลง ของใกล้หมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic display of multiple pairs of motorcycle rear shocks arranged neatly on table product showcase no text no logo",
-      "tts_text": "ใครอยากอัปเกรดรถให้ขี่สบายขึ้น จัดโช้คหลังมอเตอร์ไซค์คู่นี้เลย ตอนนี้ลดเหลือร้อยเจ็ดสิบสามบาท รีบสั่งก่อนราคาปรับขึ้น",
+      "visual_prompt": "9:16 photorealistic rear shocks beside motorcycle frame in garage, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูเสียดายเงิน กูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท เปลี่ยนแล้วรถไม่เด้งแรง ของกำลังหมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic rider carrying passenger motorcycle moving smoothly city road background no text no logo",
-      "tts_text": "ซ้อนสองก็ยังนุ่ม โช้คหลังมอเตอร์ไซค์ตัวนี้รับน้ำหนักดี ช่วงโปรเหลือร้อยเจ็ดสิบสามบาท ของมีจำกัด รีบกดก่อนหมดจริง",
+      "visual_prompt": "9:16 photorealistic pair of motorcycle shocks on wooden table with tools around, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรพลาด วันก่อนกูจ่ายสามร้อยเก้าสิบบาท โช้คหลังมอเตอร์ไซค์ ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ซับแรงดีขึ้นเห็นชัด ของใกล้เกลี้ยง รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic slow motion suspension compression test on motorcycle maintenance stand studio lighting no text no logo",
-      "tts_text": "ทดสอบเด้งแล้วนุ่มแน่นต่างชัด โช้คหลังมอเตอร์ไซค์รุ่นนี้คุ้มมาก ตอนนี้โปรเหลือร้อยเจ็ดสิบสามบาท กดสั่งตอนนี้ ได้ราคาพิเศษ",
+      "visual_prompt": "9:16 photorealistic rear motorcycle shock absorbers pair on table close up spring detail, no text, no logo",
+      "tts_text": "ไอสัสกูเจ็บใจหนัก กูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท วันนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ใส่แทนของเดิมได้เลย ขี่นุ่มขึ้น ของจะหมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic mechanic holding new rear shocks comparing to worn parts workshop table no text no logo",
-      "tts_text": "โช้คเก่าเสื่อมแล้วอย่าฝืน เปลี่ยนโช้คหลังมอเตอร์ไซค์ใหม่ ขี่สบายขึ้นทันที โปรแรงเหลือร้อยเจ็ดสิบสามบาท รีบกดก่อนหมดล็อต",
+      "visual_prompt": "9:16 photorealistic colorful motorcycle rear shocks arranged side by side, workshop background, no text, no logo",
+      "tts_text": "แม่งโคตรพัง กูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท เปลี่ยนแล้วรถเกาะถนนดีขึ้น ของกำลังหมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close up shiny metal spring suspension installed motorcycle reflective lighting no text no logo",
-      "tts_text": "สปริงแน่น งานประกอบดี โช้คหลังมอเตอร์ไซค์ตัวนี้ใช้งานทน ตอนนี้ลดเหลือร้อยเจ็ดสิบสามบาท ราคานี้มีช่วงโปรเท่านั้น รีบสั่งเลย",
+      "visual_prompt": "9:16 photorealistic pair of rear shocks near motorcycle wheel close up, no text, no logo",
+      "tts_text": "ไอเหี้ยกูโคตรเสียดาย โช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ขี่ทางหลุมบ่อไม่กระแทกแรง ของใกล้หมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic rider braking smoothly motorcycle stable rear suspension performance urban road no text no logo",
-      "tts_text": "เบรกแรงก็ยังนิ่ง โช้คหลังมอเตอร์ไซค์คู่นี้ช่วยคุมรถดีขึ้น โปรเหลือร้อยเจ็ดสิบสามบาท เห็นราคานี้แล้วต้องรีบกด",
+      "visual_prompt": "9:16 photorealistic motorcycle rear shock absorbers pair on dark background spotlight, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูหัวร้อน วันก่อนกูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ใส่แล้วขี่นิ่งขึ้นทันที ของกำลังเกลี้ยง รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic installation step by step replacing rear shocks motorcycle garage cinematic lighting no text no logo",
-      "tts_text": "เปลี่ยนแล้วรู้สึกต่างทันที โช้คหลังมอเตอร์ไซค์ช่วยซับแรงดีมาก ตอนนี้โปรเหลือร้อยเจ็ดสิบสามบาท รีบสั่งวันนี้ ก่อนของหมด",
+      "visual_prompt": "9:16 photorealistic rear shocks on garage table with wrench beside, no text, no logo",
+      "tts_text": "ไอสัสกูพลาดเอง กูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท วันนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท เปลี่ยนง่ายไม่ยุ่งยาก ของจะหมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic motorcycle traveling countryside road smooth ride suspension focus cinematic shot no text no logo",
-      "tts_text": "ขี่ไกลก็ไม่เมื่อย โช้คหลังมอเตอร์ไซค์ตัวนี้ช่วยให้นั่งสบายขึ้น โปรแรงเหลือร้อยเจ็ดสิบสามบาท ของมีจำนวนจำกัด รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic pair of motorcycle rear shock absorbers close up detail metal finish, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูช้ำใจ กูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ขี่แล้วนุ่มกว่าเดิมเยอะ ของใกล้เกลี้ยง รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic mechanic pressing suspension by hand demonstrating smooth rebound garage background no text no logo",
-      "tts_text": "ลองกดดูเด้งนุ่มทันที โช้คหลังมอเตอร์ไซค์คู่นี้ช่วยลดแรงสะเทือน ตอนนี้เหลือร้อยเจ็ดสิบสามบาท รีบสั่งก่อนราคากลับ",
+      "visual_prompt": "9:16 photorealistic colorful motorcycle rear shocks on workshop bench, product exact, no text, no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อโช้คหลังมอเตอร์ไซค์สามร้อยเก้าสิบบาท วันนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ซับแรงกระแทกดีขึ้นไม่เด้งแรง ของกำลังหมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic motorcycle parked city street focus on newly installed rear shocks depth of field no text no logo",
-      "tts_text": "ใครอยากให้รถขี่นิ่งขึ้น ลองโช้คหลังมอเตอร์ไซค์ตัวนี้ ตอนนี้จัดโปรเหลือร้อยเจ็ดสิบสามบาท กดเลย ของหมดไวมาก",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic suspension performance test on rough terrain motorcycle slow motion bounce no text no logo",
-      "tts_text": "ทางขรุขระก็ยังนั่งสบาย โช้คหลังมอเตอร์ไซค์ช่วยซับแรงดี โปรแรงเหลือร้อยเจ็ดสิบสามบาท ราคานี้มีช่วงโปร รีบกดตอนนี้",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic workshop table showing tools and new rear shock absorbers ready installation no text no logo",
-      "tts_text": "อยากอัปเกรดช่วงล่างให้ขี่นุ่มขึ้น เลือกโช้คหลังมอเตอร์ไซค์ตัวนี้ ตอนนี้เหลือร้อยเจ็ดสิบสามบาท รีบสั่งก่อนหมดล็อต",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic rider checking rear suspension movement by pressing motorcycle seat outdoor daylight no text no logo",
-      "tts_text": "กดเบาะแล้วรู้สึกนุ่มต่างชัด โช้คหลังมอเตอร์ไซค์คู่นี้ช่วยได้ โปรเหลือร้อยเจ็ดสิบสามบาท กดสั่งตอนนี้ คุ้มมากจริง",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic rear view motorcycle riding smoothly highway suspension stable cinematic shot no text no logo",
-      "tts_text": "ขี่เร็วก็ยังนิ่ง โช้คหลังมอเตอร์ไซค์ช่วยเพิ่มความมั่นใจ ตอนนี้โปรเหลือร้อยเจ็ดสิบสามบาท เห็นราคาแล้วต้องรีบกด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic mechanic finishing installation wiping new rear shocks clean workshop lighting no text no logo",
-      "tts_text": "ติดตั้งเสร็จขี่ลื่นขึ้นทันที โช้คหลังมอเตอร์ไซค์ตัวนี้คุ้มมาก โปรแรงเหลือร้อยเจ็ดสิบสามบาท รีบสั่งวันนี้ ก่อนของหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic product showcase motorcycle rear shock absorbers rotating display cinematic spotlight no text no logo",
-      "tts_text": "ตัวเดียวจบ ปรับช่วงล่างให้นุ่มขึ้นทันที โช้คหลังมอเตอร์ไซค์โปรเหลือร้อยเจ็ดสิบสามบาท ราคานี้มีจำกัด รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic rear shock absorbers beside motorcycle in garage, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรเซ็ง วันก่อนกูจ่ายสามร้อยเก้าสิบบาท โช้คหลังมอเตอร์ไซค์ ตอนนี้เหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท ใส่แล้วขี่สบายขึ้นทันที ของใกล้หมด รีบกดเหลือหนึ่งร้อยเจ็ดสิบเอ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -898,280 +829,238 @@
   ],
   "1733096402844615937": [
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน! โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ติดง่ายไม่ต้องเดินสาย ตอนนี้เหลือหกสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic solar clip light with motion sensor mounted on wall outdoors at night, LED panels visible, screws beside product, product exact, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูโคตรเจ็บใจ วันก่อนกูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบห้าบาท ชาร์จแดดกลางวันกลางคืนติดอัตโนมัติ ของใกล้หมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยของต้องมี โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ชาร์จแดดกลางวัน เปิดใช้กลางคืน ตอนนี้หกสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic solar clip light attached to fence illuminating yard at night, motion sensor visible, no text, no logo",
+      "tts_text": "แม่งโคตรพลาด กูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท วันนี้เหลือหกสิบห้าบาท ติดตั้งง่ายไม่ต้องเดินสาย กันฝนได้ ของจะหมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยราคานี้ไม่กดคือพลาด โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ติดระเบียงก็ได้ ตอนนี้เหลือหกสิบเจ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic close up solar clip light showing LED panels and motion sensor, outdoor night background, no text, no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพง โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบห้าบาท เซ็นเซอร์จับความเคลื่อนไหวได้ สว่างทันที ของใกล้เกลี้ยง รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนแม่ โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ไม่ง้อปลั๊ก ใช้แดดล้วน ตอนนี้หกสิบเจ็ดบาท รีบกดหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic solar clip light mounted on exterior wall lighting pathway at night, screws visible beside, product unchanged, no text, no logo",
+      "tts_text": "ไอสัสกูหัวร้อน วันก่อนกูจ่ายเก้าสิบเก้าบาท โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ตอนนี้เหลือหกสิบห้าบาท ชาร์จแดดไม่ง้อไฟบ้าน ของกำลังหมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยติดตั้งง่ายมาก โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ หนีบปุ๊บสว่างปั๊บ ตอนนี้เหลือหกสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic solar clip light installed on balcony railing at night, LED glow visible, no text, no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท วันนี้เหลือหกสิบห้าบาท เปิดเองอัตโนมัติเมื่อมืด ประหยัดไฟบ้าน ของจะหมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "บ้านมืดฟังนะ โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ชาร์จกลางวันใช้กลางคืน ตอนนี้หกสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic solar clip light on garden fence illuminating pathway, motion sensor visible, no text, no logo",
+      "tts_text": "ไอเหี้ยกูช้ำใจ กูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบห้าบาท ติดตั้งง่ายไม่ต้องเจาะมาก ของใกล้หมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยถูกมาก โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ไม่ต้องจ้างช่าง ตอนนี้เหลือหกสิบเจ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic close up solar clip light LED panel glowing bright at night, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูพลาดหนัก โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบห้าบาท แสงแรงสว่างชัด เซ็นเซอร์ทำงานไว ของกำลังเกลี้ยง รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ สว่างพอดีทางเดิน ตอนนี้หกสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic solar clip light mounted near house door illuminating entrance, no text, no logo",
+      "tts_text": "ไอสัสกูโคตรเซ็ง วันก่อนกูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบห้าบาท ชาร์จแดดเต็มวัน กลางคืนสว่างเอง ของจะหมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยของมันต้องมี โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ หนีบง่ายใช้สะดวก ตอนนี้เหลือหกสิบเจ็ดบาท รีบกดหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic solar clip light installed on wooden fence in backyard at night, no text, no logo",
+      "tts_text": "แม่งโคตรหัวเสีย กูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท วันนี้เหลือหกสิบห้าบาท ไม่ต้องลากสายไฟให้วุ่นวาย ของใกล้หมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยโปรแรง โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ใช้แดดประหยัดไฟ ตอนนี้หกสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic solar clip light fixed on garage wall lighting driveway, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูเสียดายเงิน กูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบห้าบาท กันฝนกันแดดได้ ใช้งานกลางแจ้งสบาย ของกำลังหมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนแม่ โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ เหมาะติดรั้วบ้าน ตอนนี้เหลือหกสิบเจ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic solar clip light on balcony wall at night with LED shining, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรพลาด วันก่อนกูจ่ายเก้าสิบเก้าบาท โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ตอนนี้เหลือหกสิบห้าบาท เซ็นเซอร์จับคนเดินผ่านได้ ของใกล้เกลี้ยง รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยคุ้มจัด โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ไม่ต้องต่อสายไฟ ตอนนี้หกสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic close up solar clip light with screws and bracket visible on table, no text, no logo",
+      "tts_text": "ไอสัสกูเจ็บใจหนัก กูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท วันนี้เหลือหกสิบห้าบาท ติดตั้งง่ายมีอุปกรณ์ครบ ของจะหมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยอย่ารอ โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ หนีบระเบียงก็จบ ตอนนี้เหลือหกสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic solar clip light mounted on garden gate illuminating entrance, no text, no logo",
+      "tts_text": "แม่งโคตรพัง กูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบห้าบาท เปิดปิดเองอัตโนมัติไม่ต้องกด ของกำลังหมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "บ้านไหนมืดต้องจัด โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ใช้ง่ายมาก ตอนนี้หกสิบเจ็ดบาท รีบกดหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic solar clip light attached to metal railing at night, LED panel glowing, no text, no logo",
+      "tts_text": "ไอเหี้ยกูโคตรเสียดาย โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบห้าบาท แสงแรงติดไวไม่ต้องต่อไฟบ้าน ของใกล้หมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยถูกกว่าเดิม โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ชาร์จแดดล้วน ตอนนี้เหลือหกสิบเจ็ดบาท รีบกดก่อนหาย",
+      "visual_prompt": "9:16 photorealistic solar clip light lighting small garden pathway at night, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูหัวร้อน วันก่อนกูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบห้าบาท ชาร์จแดดเต็มวันใช้ได้ทั้งคืน ของกำลังเกลี้ยง รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยแม่สว่างจริง โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ไม่ต้องเปิดสวิตช์บ่อย ตอนนี้หกสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic solar clip light mounted on exterior wall illuminating steps at night, no text, no logo",
+      "tts_text": "ไอสัสกูพลาดเอง กูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท วันนี้เหลือหกสิบห้าบาท ติดตั้งง่ายไม่ต้องเรียกช่าง ของจะหมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ติดตั้งง่ายสุดๆ ตอนนี้เหลือหกสิบเจ็ดบาท รีบกดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic solar clip light shining on house entrance at night, product exact, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูช้ำใจ กูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบห้าบาท สว่างแรงไม่ต้องเปลืองค่าไฟ ของใกล้เกลี้ยง รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "เฮ้ยของมันดี โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ใช้กลางแจ้งได้ ตอนนี้หกสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic solar clip light on wooden fence lighting yard at night, no text, no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อโคมไฟโซลาร์เซลล์แบบมีคลิปหนีบเก้าสิบเก้าบาท วันนี้เหลือหกสิบห้าบาท ใช้พลังงานแสงแดดล้วนๆ ของกำลังหมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โอ๊ยราคานี้หาไม่ได้แล้ว โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ประหยัดจริง ตอนนี้เหลือหกสิบเจ็ดบาท รีบกดก่อนหาย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo",
-      "tts_text": "โปรนี้แรงมาก โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ หนีบปุ๊บใช้งานได้เลย ตอนนี้หกสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic solar clip light close up mounted on wall with LED glowing, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรเซ็ง วันก่อนกูจ่ายเก้าสิบเก้าบาท โคมไฟโซลาร์เซลล์แบบมีคลิปหนีบ ตอนนี้เหลือหกสิบห้าบาท ติดแล้วสว่างทันทีเมื่อมืด ของใกล้หมด รีบกดเหลือหกสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
   ],
   "1729568170792291232": [
     {
-      "visual_prompt": "Photorealistic car battery charger connected to a car battery inside garage environment, realistic lighting, hands plugging charger clamp to battery, cinematic shallow depth of field, 9:16, no text, no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน รถสตาร์ตไม่ติดตอนเช้า เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ตัวนี้เสียบง่าย ชาร์จไว ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดเลยของมีจำกัด",
+      "visual_prompt": "9:16 photorealistic yellow car battery charger with clamps and cable on garage floor, red car background, product exact, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูโคตรเจ็บใจ วันก่อนกูซื้อเครื่องชาร์จแบตเตอรี่รถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท ชาร์จแบตสิบสองโวลต์ได้ ใช้งานง่าย ของใกล้หมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Mechanic hands attaching battery charger clamps to a parked car battery, indoor parking lot, natural lighting, photorealistic, 9:16, no text, no logo",
-      "tts_text": "ใครเคยรถดับกลางทางบ้าง เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยได้ เสียบปุ๊บใช้งานได้ทันที ตอนนี้ราคาเจ็ดสิบเจ็ดบาท ถูกมากรีบสั่งก่อนหมด",
+      "visual_prompt": "9:16 photorealistic yellow 12V battery charger with red black clamps on workbench, no text, no logo",
+      "tts_text": "แม่งโคตรพลาด กูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท วันนี้เหลือเจ็ดสิบห้าบาท ต่อสายหนีบง่าย ชาร์จได้ทันที ของจะหมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Close-up charging indicator lights glowing on car battery charger while connected to battery, garage background, photorealistic, 9:16, no text, no logo",
-      "tts_text": "แบตหมดทีไรเสียเวลาเยอะ เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ตัวนี้ชาร์จเร็ว ใช้ง่าย พกติดรถไว้สบายใจ ตอนนี้เหลือเจ็ดสิบเจ็ดบาท คุ้มสุดแล้ว",
+      "visual_prompt": "9:16 photorealistic close up yellow charger with LED indicators and clamps, garage background, no text, no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพง เครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท มีไฟบอกสถานะ ชาร์จสิบสองโวลต์ได้ ของใกล้เกลี้ยง รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Driver using portable car battery charger beside vehicle at roadside, natural daylight, photorealistic detail, 9:16, no text, no logo",
-      "tts_text": "อย่าปล่อยให้รถดับอีก เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยชาร์จฉุกเฉินได้ทันที ใช้ง่ายมาก ตอนนี้จัดโปรเหลือเจ็ดสิบเจ็ดบาท รีบกดก่อน",
+      "visual_prompt": "9:16 photorealistic charger placed near open car hood in garage, clamps visible, no text, no logo",
+      "tts_text": "ไอสัสกูหัวร้อน วันก่อนกูจ่ายหนึ่งร้อยสิบห้าบาท เครื่องชาร์จแบตรถยนต์ ตอนนี้เหลือเจ็ดสิบห้าบาท แบตหมดก็ชาร์จได้เลย ของกำลังหมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Portable charger placed near open car hood, clamps attached to battery, realistic outdoor driveway lighting, photorealistic, 9:16, no text, no logo",
-      "tts_text": "มีติดรถไว้ไม่พลาดแน่นอน เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์เสียบใช้งานได้ทันที ไม่ต้องง้อช่าง ตอนนี้ราคาแค่เจ็ดสิบเจ็ดบาท ของเข้าไม่เยอะ",
+      "visual_prompt": "9:16 photorealistic yellow battery charger and clamps on concrete floor, no text, no logo",
+      "tts_text": "ไอเหี้ยกูเสียดายเงิน กูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท พกไว้ติดรถอุ่นใจกว่า ของใกล้หมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Close-up portable charger cables resting beside vehicle tire while charging battery, cinematic lighting, photorealistic, 9:16, no text, no logo",
-      "tts_text": "ใครขับรถทุกวันต้องมี เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ชาร์จไว ปลอดภัย ใช้ง่าย ตอนนี้เหลือเจ็ดสิบเจ็ดบาท โปรนี้หมดแล้วหมดเลยนะ",
+      "visual_prompt": "9:16 photorealistic charger with cables neatly placed on garage table, no text, no logo",
+      "tts_text": "แม่งโคตรเซ็ง กูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท วันนี้เหลือเจ็ดสิบห้าบาท ใช้กับแบตสิบสองโวลต์ได้หมด ของจะหมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Person connecting charger plug to power outlet inside garage with car hood open, photorealistic style, 9:16, no text, no logo",
-      "tts_text": "รถสตาร์ตไม่ติดแก้ได้ทันที เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์เสียบปลั๊กแล้วชาร์จเลย สะดวกมาก ตอนนี้ราคาเจ็ดสิบเจ็ดบาท ถูกจนต้องรีบกด",
+      "visual_prompt": "9:16 photorealistic yellow car charger beside car wheel in garage, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูพลาดหนัก เครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท หนีบสายง่ายไม่ยุ่งยาก ของกำลังเกลี้ยง รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Portable charger placed on garage floor with cables extending to car battery, warm cinematic light, photorealistic, 9:16, no text, no logo",
-      "tts_text": "ของจำเป็นคนใช้รถ เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์พกติดท้ายรถได้ ชาร์จง่าย ช่วยได้จริง ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบสั่งก่อนหมด",
+      "visual_prompt": "9:16 photorealistic charger with red black clamps close up, garage lighting, no text, no logo",
+      "tts_text": "ไอสัสกูโคตรช้ำ วันก่อนกูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท ชาร์จเร็วใช้งานสะดวก ของใกล้หมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Mechanic smiling while checking battery charger indicator lights connected to car battery, realistic scene, 9:16, no text, no logo",
-      "tts_text": "เจอปัญหาแบตหมดบ่อยใช่ไหม เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ตัวนี้ช่วยชาร์จได้ทันที ใช้ง่ายมาก ตอนนี้จัดโปรเหลือเจ็ดสิบเจ็ดบาท รีบเลย",
+      "visual_prompt": "9:16 photorealistic yellow charger on mechanic bench with tools, no text, no logo",
+      "tts_text": "แม่งโคตรหัวเสีย กูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท วันนี้เหลือเจ็ดสิบห้าบาท มีไฟโชว์สถานะชัดเจน ของจะหมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Car hood open with battery charger operating beside engine bay, evening lighting, photorealistic detail, 9:16, no text, no logo",
-      "tts_text": "อย่าเสียเวลารอช่าง เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยชาร์จเองได้ง่ายๆ ใช้ได้ทุกบ้าน ตอนนี้ราคาเหลือเจ็ดสิบเจ็ดบาท ถูกมากต้องมี",
+      "visual_prompt": "9:16 photorealistic charger placed near car battery under hood, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูเจ็บใจ กูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท ต่อเข้ากับแบตได้เลยไม่ซับซ้อน ของใกล้หมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Close-up charger clamps firmly attached to battery terminals, dramatic lighting, photorealistic, 9:16, no text, no logo",
-      "tts_text": "ใครรถดับตอนรีบออกบ้าน เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยได้ทันที เสียบแล้วชาร์จเลย ตอนนี้โปรแรงเหลือเจ็ดสิบเจ็ดบาท รีบกดด่วน",
+      "visual_prompt": "9:16 photorealistic charger and clamps on dark garage background, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรเสียดาย วันก่อนกูจ่ายหนึ่งร้อยสิบห้าบาท เครื่องชาร์จแบตรถยนต์ ตอนนี้เหลือเจ็ดสิบห้าบาท ชาร์จแบตหมดไฟได้สบาย ของกำลังหมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Portable battery charger stored inside car trunk ready for emergency use, photorealistic lighting, 9:16, no text, no logo",
-      "tts_text": "พกไว้ในรถอุ่นใจ เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยชาร์จฉุกเฉินได้จริง ใช้ง่ายสุดๆ ตอนนี้ลดเหลือเจ็ดสิบเจ็ดบาท ถูกมากต้องมีติดรถ",
+      "visual_prompt": "9:16 photorealistic yellow charger cable spread on floor, car in background, no text, no logo",
+      "tts_text": "ไอสัสกูพลาดเอง กูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท วันนี้เหลือเจ็ดสิบห้าบาท มีสายหนีบแน่นใช้งานง่าย ของจะหมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Person lifting charger device and placing near battery under open hood, realistic outdoor parking scene, 9:16, no text, no logo",
-      "tts_text": "รถจอดนานแบตหมดง่าย เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ตัวนี้ช่วยชาร์จได้ไว ใช้ง่ายมาก ตอนนี้ราคาเจ็ดสิบเจ็ดบาท รีบสั่งก่อนของหมด",
+      "visual_prompt": "9:16 photorealistic charger close up with LED lights glowing, no text, no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท ไฟแสดงผลดูง่ายชัดเจน ของใกล้เกลี้ยง รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Battery charger connected and glowing indicator lights in dim garage, cinematic lighting, photorealistic, 9:16, no text, no logo",
-      "tts_text": "อย่าให้รถดับสร้างปัญหา เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยชาร์จเองได้ทันที ประหยัดเวลา ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดตอนโปรยังอยู่",
+      "visual_prompt": "9:16 photorealistic yellow charger beside toolbox in garage, no text, no logo",
+      "tts_text": "ไอเหี้ยกูโคตรเซ็ง เครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท พกติดรถไว้ไม่กลัวแบตหมด ของใกล้หมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Driver kneeling beside car attaching charger clamps at roadside emergency scene, photorealistic, 9:16, no text, no logo",
-      "tts_text": "รถดับกลางทางไม่ต้องตกใจ เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยชาร์จได้ทันที ใช้ง่ายมาก ตอนนี้ราคาแค่เจ็ดสิบเจ็ดบาท รีบสั่งก่อนหมด",
+      "visual_prompt": "9:16 photorealistic charger placed on wooden table garage scene, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูหัวร้อน วันก่อนกูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท ใช้กับรถสิบสองโวลต์ได้หมด ของกำลังเกลี้ยง รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Charger resting beside battery with power cable connected to wall socket, soft garage lighting, photorealistic, 9:16, no text, no logo",
-      "tts_text": "มีไว้ไม่เสียใจ เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ชาร์จง่าย พกสะดวก ใช้ได้ทุกคัน ตอนนี้ลดแรงเหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนราคาขึ้น",
+      "visual_prompt": "9:16 photorealistic charger and clamps near car tire, no text, no logo",
+      "tts_text": "ไอสัสกูช้ำใจ กูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท วันนี้เหลือเจ็ดสิบห้าบาท ชาร์จแบตอ่อนให้กลับมาได้ ของจะหมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Mechanic holding charger device while pointing to battery under car hood, photorealistic, 9:16, no text, no logo",
-      "tts_text": "แบตหมดตอนรีบไปทำงาน เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยได้ทันที เสียบแล้วชาร์จเลย ตอนนี้เหลือเจ็ดสิบเจ็ดบาท ของมีจำกัดรีบสั่ง",
+      "visual_prompt": "9:16 photorealistic yellow charger on clean garage floor with cables, no text, no logo",
+      "tts_text": "แม่งโคตรเสียดายเงิน กูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท ต่อใช้งานง่ายไม่ต้องง้อช่าง ของใกล้หมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Close-up of charger cables coiled neatly beside car engine bay, realistic lighting, photorealistic, 9:16, no text, no logo",
-      "tts_text": "ของจำเป็นคนใช้รถ เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยชาร์จฉุกเฉินได้ทุกเวลา ใช้ง่ายสุดๆ ตอนนี้ราคาเจ็ดสิบเจ็ดบาท รีบกดเลยคุ้มมาก",
+      "visual_prompt": "9:16 photorealistic charger near open hood night garage lighting, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูพลาดแรง เครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท แบตหมดก็ชาร์จได้เองสบาย ของกำลังหมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Portable charger device placed on concrete garage floor while battery charging, cinematic depth of field, 9:16, no text, no logo",
-      "tts_text": "ใครไม่อยากรถดับต้องมี เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ชาร์จง่าย พกสะดวก ใช้ได้จริง ตอนนี้โปรเหลือเจ็ดสิบเจ็ดบาท รีบสั่งตอนยังมี",
+      "visual_prompt": "9:16 photorealistic charger with cables coiled neatly on table, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรหัวเสีย วันก่อนกูจ่ายหนึ่งร้อยสิบห้าบาท เครื่องชาร์จแบตรถยนต์ ตอนนี้เหลือเจ็ดสิบห้าบาท มีระบบไฟบอกสถานะชัด ของใกล้เกลี้ยง รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "Driver opening hood and connecting charger clamps during daytime driveway scene, photorealistic, 9:16, no text, no logo",
-      "tts_text": "แบตหมดบ่อยเสียเวลา เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยแก้ปัญหาได้ทันที ใช้งานง่าย ตอนนี้ราคาเจ็ดสิบเจ็ดบาท รีบสั่งก่อนของหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "Charger device sitting next to car battery glowing with charging lights, dramatic lighting, photorealistic, 9:16, no text, no logo",
-      "tts_text": "ใครขับรถทุกวันควรมี เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยชาร์จฉุกเฉินได้ทันที ใช้ง่ายสุดๆ ตอนนี้เหลือเจ็ดสิบเจ็ดบาท รีบกดก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "Hand tightening battery clamp while charger operating, garage workshop environment, photorealistic, 9:16, no text, no logo",
-      "tts_text": "รถสตาร์ตไม่ติดอย่ารอช่าง เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยชาร์จได้ทันที เสียบใช้งานง่าย ตอนนี้ราคาเจ็ดสิบเจ็ดบาท รีบสั่งตอนโปร",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "Portable charger inside car trunk emergency kit setup, photorealistic cinematic lighting, 9:16, no text, no logo",
-      "tts_text": "มีติดรถไว้สบายใจ เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยชาร์จฉุกเฉินได้จริง ใช้ง่ายมาก ตอนนี้เหลือเจ็ดสิบเจ็ดบาท ถูกมากต้องรีบสั่ง",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "Close-up battery charger connected with car hood open during evening lighting, photorealistic, 9:16, no text, no logo",
-      "tts_text": "อย่าปล่อยให้รถดับเสียเวลา เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยชาร์จได้ทันที ใช้งานง่ายมาก ตอนนี้ราคาเจ็ดสิบเจ็ดบาท รีบกดก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "Mechanic checking battery charger lights confirming charging process, garage environment, photorealistic, 9:16, no text, no logo",
-      "tts_text": "แบตหมดตอนรีบไปไหนลำบาก เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์ช่วยได้ทันที ใช้ง่ายสุดๆ ตอนนี้เหลือเจ็ดสิบเจ็ดบาท โปรแรงรีบกดเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "Driver smiling while battery charger connected successfully under open hood, bright realistic lighting, 9:16, no text, no logo",
-      "tts_text": "มีตัวนี้จบปัญหาแบตหมด เครื่องชาร์จแบตเตอรี่รถยนต์สิบสองโวลต์เสียบใช้งานได้ทันที ใช้ง่ายมาก ตอนนี้ราคาเจ็ดสิบเจ็ดบาท รีบสั่งก่อนของหมด",
+      "visual_prompt": "9:16 photorealistic yellow car battery charger product centered garage backdrop, no text, no logo",
+      "tts_text": "ไอสัสกูโคตรเจ็บใจ กูซื้อเครื่องชาร์จแบตรถยนต์หนึ่งร้อยสิบห้าบาท ตอนนี้เหลือเจ็ดสิบห้าบาท ใช้งานง่ายเสียบปลั๊กแล้วหนีบสายได้เลย ของใกล้หมด รีบกดเหลือเจ็ดสิบห้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -1298,306 +1187,118 @@
       "duration": "แปดวินาที"
     }
   ],
-  "1734290285250381724": [
-    {
-      "visual_prompt": "9:16 photorealistic close-up men's formal slip-on leather shoes placed on clean studio table natural lighting cinematic depth of field no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน รองเท้าหนังสวมผู้ชายทรงสุภาพ ใส่ทำงาน ใส่ออกงานก็เท่ ตอนนี้โปรแรง เหลือแค่เก้าสิบสองบาท รีบกดก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic man wearing formal slip-on shoes walking office corridor elegant movement soft cinematic lighting no text no logo",
-      "tts_text": "ใครหารองเท้าใส่ทำงานอยู่ ลองตัวนี้เลย ใส่สบาย ไม่ต้องผูกเชือก เดินทั้งวันไม่ล้า โปรตอนนี้เก้าสิบสองบาท ถูกมากจริง",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic office desk scene shoes beside laptop coffee cup soft daylight minimal composition no text no logo",
-      "tts_text": "รองเท้าหนังสวมทรงสุภาพ ใส่ประชุม ใส่สัมภาษณ์งานดูดีทันที งานเนี๊ยบทุกมุม ตอนนี้ลดเหลือเก้าสิบสองบาท รีบสั่งด่วนเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic close-up leather texture stitching detail macro cinematic lighting no text no logo",
-      "tts_text": "หนังนุ่ม ทรงสวย งานเย็บแน่น ใส่แล้วดูแพงเกินราคา ใครเห็นก็ทัก ตอนนี้จัดโปรเหลือเก้าสิบสองบาท กดไว้ก่อนของหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic man stepping out of car showing shoes stylish lifestyle shot no text no logo",
-      "tts_text": "ออกงานก็ได้ ทำงานก็หล่อ รองเท้าหนังสวมตัวนี้ช่วยให้ลุคดูสุภาพขึ้นทันที โปรแรงเหลือเก้าสิบสองบาท รีบกดตอนยังมี",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic man walking shopping mall corridor stylish outfit focus on shoes no text no logo",
-      "tts_text": "เดินห้าง เดินทำงาน ใส่สบายไม่กัดเท้า รุ่นนี้ฮิตมาก ลูกค้าสั่งซ้ำเพียบ ตอนนี้เหลือเก้าสิบสองบาท ถูกสุดช่วงนี้แล้ว",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic shoes rotating on display stand studio light dramatic highlight no text no logo",
-      "tts_text": "ทรงเรียบแต่ดูแพง ใส่กับกางเกงสแลคหรือยีนส์ก็เข้าหมด โปรพิเศษวันนี้เหลือเก้าสิบสองบาท รีบกดก่อนราคากลับปกติ",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic close-up man sliding feet into slip-on shoes easy wear action no text no logo",
-      "tts_text": "ไม่ต้องผูกเชือก สวมปุ๊บออกจากบ้านได้เลย เหมาะคนรีบทำงาน ตอนนี้โปรแรง เหลือเก้าสิบสองบาท ถูกแบบต้องมีติดบ้าน",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic office elevator mirror reflection showing stylish shoes no text no logo",
-      "tts_text": "อยากได้ลุคดูดีขึ้นแบบง่ายๆ เปลี่ยนรองเท้าคู่เดียวจบ รุ่นนี้ใส่แล้วดูสุภาพทันที ตอนนี้เหลือเก้าสิบสองบาท รีบเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic shoes placed beside business suit preparation scene no text no logo",
-      "tts_text": "สายทำงานต้องมี รองเท้าหนังสวมทรงสุภาพ ใส่ได้ทุกโอกาส โปรช่วงนี้เหลือเก้าสิบสองบาท รีบกดก่อนสินค้าหมดล็อต",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic walking on marble floor cinematic reflections highlighting shoes no text no logo",
-      "tts_text": "พื้นรองเท้าแข็งแรง เดินมั่นใจ ไม่ลื่นง่าย ใส่แล้วดูภูมิฐานขึ้นทันที ตอนนี้ราคาโปรเหลือเก้าสิบสองบาท รีบสั่งด่วน",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic shoe pair arranged elegantly on minimal background soft spotlight no text no logo",
-      "tts_text": "ใครอยากได้รองเท้าใส่ทำงานราคาเบาๆ ตัวนี้คุ้มมาก งานสวยเกินราคา ตอนนี้เหลือเก้าสิบสองบาท รีบกดก่อนหมดจริง",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic man sitting cafe crossing legs showing shoes stylish casual business look no text no logo",
-      "tts_text": "ใส่เที่ยวก็ได้ ใส่ทำงานก็สุภาพ คู่เดียวจบทุกสถานการณ์ ตอนนี้โปรเหลือเก้าสิบสองบาท ราคานี้หาไม่ได้แล้ว",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic packaging unboxing shoes clean lifestyle shot no text no logo",
-      "tts_text": "เปิดกล่องมาก็ว้าว งานหนังเงาสวย ทรงดูแพงมาก โปรแรงวันนี้เหลือเก้าสิบสองบาท ใครเห็นก็รีบกดกันหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic office meeting table feet view highlighting shoes formal atmosphere no text no logo",
-      "tts_text": "ใส่ประชุมแล้วดูน่าเชื่อถือขึ้นทันที รองเท้าหนังสวมทรงสุภาพ รุ่นนี้กำลังฮิต ตอนนี้เหลือเก้าสิบสองบาท รีบสั่งเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic side profile shoe close-up glossy leather finish spotlight no text no logo",
-      "tts_text": "ผิวหนังเงาสวย ดูแลทำความสะอาดง่าย ใส่แล้วดูใหม่ตลอด โปรตอนนี้เหลือเก้าสิบสองบาท ราคานี้ต้องมีสักคู่",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic man walking city street business casual outfit focus shoes no text no logo",
-      "tts_text": "เดินทำงานทั้งวันก็ยังสบาย เพราะทรงสวมใส่ง่ายไม่บีบเท้า ตอนนี้โปรแรงเหลือเก้าสิบสองบาท รีบกดก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic shoes on wooden floor morning sunlight cozy minimal composition no text no logo",
-      "tts_text": "คู่เดียวจบ ใส่ได้ทุกวันไม่ต้องคิดเยอะ รุ่นนี้กำลังขายดีมาก ตอนนี้เหลือเก้าสิบสองบาท กดตอนยังมีโปร",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic man tying belt preparing outfit with shoes nearby cinematic shot no text no logo",
-      "tts_text": "แต่งตัวให้ดูสุภาพง่ายๆ แค่เปลี่ยนรองเท้าคู่นี้ ลุคดูแพงขึ้นทันที ตอนนี้เหลือเก้าสิบสองบาท รีบสั่งด่วน",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic rotating shoe pair showroom display elegant lighting no text no logo",
-      "tts_text": "ทรงคลาสสิก ใส่ได้หลายปีไม่ตกเทรนด์ ราคาปกติสูงกว่านี้ ตอนนี้โปรเหลือเก้าสิบสองบาท รีบกดก่อนปรับราคา",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic office hallway walking shot focusing shoes rhythmic movement no text no logo",
-      "tts_text": "อยากดูสุภาพขึ้นแบบไม่ต้องลงทุนเยอะ รองเท้าหนังสวมตัวนี้ช่วยได้ ตอนนี้เหลือเก้าสิบสองบาท ถูกมากจริง",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic macro shot sole texture durability highlight studio lighting no text no logo",
-      "tts_text": "พื้นรองเท้าแน่น เดินมั่นคง ใส่ได้ทุกวัน รุ่นนี้ขายดีมาก ตอนนี้โปรเหลือเก้าสิบสองบาท รีบสั่งก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic stylish man standing window light reflection highlighting shoes no text no logo",
-      "tts_text": "ใส่แล้วดูภูมิฐานขึ้นทันที เหมาะทั้งทำงานและออกงานสำคัญ ตอนนี้เหลือเก้าสิบสองบาท ราคานี้ต้องรีบกด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic pair of shoes placed on office chair stylish minimal scene no text no logo",
-      "tts_text": "รองเท้าหนังสวมใส่ง่าย ไม่ต้องเสียเวลาผูกเชือก รุ่นนี้ลูกค้าชอบมาก ตอนนี้เหลือเก้าสิบสองบาท รีบเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic final hero shot shoes centered spotlight dramatic clean background no text no logo",
-      "tts_text": "โปรแรงรอบนี้ลดหนัก รองเท้าหนังสวมผู้ชายทรงสุภาพ ใส่สบาย ดูดีทุกโอกาส ตอนนี้เหลือเก้าสิบสองบาท รีบกดด่วน",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    }
-  ],
   "1732407883156194513": [
     {
-      "visual_prompt": "9:16 photorealistic close-up real camping usage, night outdoor hiking scene, authentic headlamp product exactly as original, natural lighting, handheld movement, no text, no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน ไฟฉายคาดหัวตัวนี้สว่างมาก ใช้เดินป่า ซ่อมรถ หรือไฟดับก็เอาอยู่ ตอนนี้เหลือเพียงเจ็ดสิบเอ็ดบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic LED headlamp with adjustable strap placed on camping table at night, beam shining forward, product exact, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูโคตรเจ็บใจ วันก่อนกูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท ส่องไกลสองร้อยเมตร ชาร์จยูเอสบีได้ ของใกล้หมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic rainy outdoor campsite usage, authentic product unchanged, cinematic handheld footage, no text, no logo",
-      "tts_text": "ใครเคยหาของตอนกลางคืนไม่เจอบ้าง ไฟฉายคาดหัวช่วยส่องชัด มือว่างทำงานสะดวก ตอนนี้โปรแรงเหลือแค่เจ็ดสิบเอ็ดบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic black LED headlamp on wooden surface with forest night background, no text, no logo",
+      "tts_text": "แม่งโคตรพลาด กูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท วันนี้เหลือหกสิบเก้าบาท แสงแรงชัดกลางคืน ชาร์จผ่านยูเอสบี ของจะหมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic mechanic fixing car at night wearing the same headlamp, realistic lighting, no text, no logo",
-      "tts_text": "ช่างใช้จริงบอกเลย ไฟฉายคาดหัวสว่างพุ่งไกล ทำงานกลางคืนง่ายขึ้นเยอะ ตอนนี้จัดโปรพิเศษเหลือเจ็ดสิบเอ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic LED headlamp lighting dark outdoor path, adjustable angle visible, no text, no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพง ไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท ปรับมุมส่องได้ กันน้ำไอพีเอ็กซ์สี่ ของใกล้เกลี้ยง รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic home blackout situation using the headlamp indoors, natural lighting, no text, no logo",
-      "tts_text": "ไฟดับบ่อยต้องมีติดบ้าน ไฟฉายคาดหัวเปิดใช้งานง่าย แบตอึดใช้ได้นาน ตอนนี้ราคาเหลือเพียงเจ็ดสิบเอ็ดบาท ของมีจำนวนจำกัด",
+      "visual_prompt": "9:16 photorealistic LED headlamp with USB cable beside on camping gear table, night scene, no text, no logo",
+      "tts_text": "ไอสัสกูหัวร้อน วันก่อนกูจ่ายสองร้อยเก้าสิบเก้าบาท ไฟฉายคาดหัวแอลอีดี ตอนนี้เหลือหกสิบเก้าบาท แบตสามพันมิลลิแอมป์ ชาร์จง่าย ของกำลังหมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic hiking trail early morning usage, authentic product unchanged, no text, no logo",
-      "tts_text": "เดินป่าหรือวิ่งเช้ามืดต้องมี ไฟฉายคาดหัวช่วยมองทางชัด ปลอดภัยขึ้นมาก วันนี้ลดแรงเหลือเจ็ดสิบเอ็ดบาท รีบสั่งก่อนหมด",
+      "visual_prompt": "9:16 photorealistic LED headlamp shining on camping tent at night, no text, no logo",
+      "tts_text": "ไอเหี้ยกูเสียดายเงิน กูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท ส่องสว่างแรงใช้แคมป์ปิ้งได้ ของใกล้หมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic fisherman using the headlamp at riverside night scene, no text, no logo",
-      "tts_text": "สายตกปลากลางคืนห้ามพลาด ไฟฉายคาดหัวส่องสว่างต่อเนื่อง ใช้ง่ายมาก ตอนนี้โปรเด็ดเหลือเพียงเจ็ดสิบเอ็ดบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic LED headlamp on hiking backpack at night forest, no text, no logo",
+      "tts_text": "แม่งโคตรเซ็ง กูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท วันนี้เหลือหกสิบเก้าบาท ใส่เดินป่าได้สบาย ส่องไกลชัด ของจะหมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic household repair under sink using headlamp, realistic lighting, no text, no logo",
-      "tts_text": "ซ่อมของในบ้านแสงไม่พอใช่ไหม ไฟฉายคาดหัวช่วยให้เห็นชัด มือทำงานคล่องขึ้น วันนี้ราคาแค่เจ็ดสิบเอ็ดบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic LED headlamp close up red lens detail glowing, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูพลาดหนัก ไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท เปิดปิดง่าย สว่างแรงจัด ของกำลังเกลี้ยง รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic camping cooking scene at dusk using the headlamp, no text, no logo",
-      "tts_text": "ตั้งแคมป์ทำอาหารตอนเย็นต้องมี ไฟฉายคาดหัวสว่างคมชัด ใช้งานสะดวก ตอนนี้โปรแรงเหลือเจ็ดสิบเอ็ดบาท รีบสั่งเลย",
+      "visual_prompt": "9:16 photorealistic LED headlamp placed on wooden log in dark outdoor scene, no text, no logo",
+      "tts_text": "ไอสัสกูโคตรช้ำ วันก่อนกูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท ใช้งานกลางคืนสบายไม่มืด ของใกล้หมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic warehouse worker picking items wearing the headlamp, no text, no logo",
-      "tts_text": "ทำงานโกดังแสงน้อยต้องใช้ ไฟฉายคาดหัวช่วยมองเห็นชัด ทำงานไวขึ้น ตอนนี้ราคาพิเศษเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic LED headlamp beside camping tools on table night background, no text, no logo",
+      "tts_text": "แม่งโคตรหัวเสีย กูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท วันนี้เหลือหกสิบเก้าบาท ชาร์จยูเอสบีสะดวกมาก ของจะหมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cyclist preparing night ride using the headlamp, no text, no logo",
-      "tts_text": "ปั่นจักรยานกลางคืนต้องมีตัวช่วย ไฟฉายคาดหัวส่องทางชัด ปลอดภัยกว่าเดิม วันนี้ลดเหลือเจ็ดสิบเอ็ดบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic LED headlamp lighting path beside tent at night, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูเจ็บใจ กูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท กันน้ำไอพีเอ็กซ์สี่ ใช้ลุยฝนได้ ของใกล้หมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic farmer working early dawn with headlamp, natural lighting, no text, no logo",
-      "tts_text": "ตื่นเช้าทำสวนแสงยังไม่พอ ไฟฉายคาดหัวช่วยส่องชัด ใช้งานง่ายมาก ตอนนี้โปรเหลือเจ็ดสิบเอ็ดบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic LED headlamp on dark rock surface glowing bright, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรเสียดาย วันก่อนกูจ่ายสองร้อยเก้าสิบเก้าบาท ไฟฉายคาดหัวแอลอีดี ตอนนี้เหลือหกสิบเก้าบาท แบตอึดใช้งานได้นาน ของกำลังหมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic security guard night patrol wearing the headlamp, no text, no logo",
-      "tts_text": "ยามกลางคืนต้องสว่างชัด ไฟฉายคาดหัวช่วยให้เดินตรวจง่าย มือว่างทำงานสะดวก ตอนนี้ราคาเหลือเจ็ดสิบเอ็ดบาท รีบกด",
+      "visual_prompt": "9:16 photorealistic LED headlamp with strap stretched on table night camp scene, no text, no logo",
+      "tts_text": "ไอสัสกูพลาดเอง กูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท วันนี้เหลือหกสิบเก้าบาท ปรับสายคาดหัวได้กระชับ ของจะหมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic car trunk emergency search using headlamp, no text, no logo",
-      "tts_text": "หาของท้ายรถตอนมืดลำบากใช่ไหม ไฟฉายคาดหัวช่วยส่องชัดทันที วันนี้โปรแรงเหลือเพียงเจ็ดสิบเอ็ดบาท ของมีจำกัด",
+      "visual_prompt": "9:16 photorealistic LED headlamp glowing in dark forest background, no text, no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท ส่องทางชัดไม่ต้องถือไฟ ของใกล้เกลี้ยง รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic electrician repairing power box wearing headlamp, no text, no logo",
-      "tts_text": "ช่างไฟต้องมีติดตัว ไฟฉายคาดหัวส่องตรงจุด ทำงานง่ายขึ้นเยอะ ตอนนี้ลดเหลือเจ็ดสิบเอ็ดบาท รีบสั่งเลย",
+      "visual_prompt": "9:16 photorealistic LED headlamp beside hiking boots at night, no text, no logo",
+      "tts_text": "ไอเหี้ยกูโคตรเซ็ง ไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท ใช้เดินป่าได้สบาย ของใกล้หมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic mountain trail evening walk using headlamp, no text, no logo",
-      "tts_text": "เดินเขาช่วงเย็นแสงเริ่มน้อย ไฟฉายคาดหัวช่วยให้เห็นทางชัด วันนี้ราคาพิเศษเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic LED headlamp on wooden camping table glowing bright, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูหัวร้อน วันก่อนกูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท สว่างแรงสองร้อยเมตร ของกำลังเกลี้ยง รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic fisherman preparing gear at night wearing the headlamp, no text, no logo",
-      "tts_text": "เตรียมอุปกรณ์ตกปลาตอนกลางคืนต้องใช้ ไฟฉายคาดหัวสว่างพุ่งไกล ตอนนี้โปรแรงเหลือเจ็ดสิบเอ็ดบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic LED headlamp with USB cable connected on table night background, no text, no logo",
+      "tts_text": "ไอสัสกูช้ำใจ กูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท วันนี้เหลือหกสิบเก้าบาท ชาร์จง่ายไม่ต้องซื้อถ่าน ของจะหมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic backyard night cleaning using headlamp, no text, no logo",
-      "tts_text": "เก็บของหลังบ้านตอนค่ำมืด ไฟฉายคาดหัวช่วยส่องชัด มือว่างทำงานสะดวก วันนี้ลดเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic LED headlamp illuminating campsite at night, no text, no logo",
+      "tts_text": "แม่งโคตรเสียดายเงิน กูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท ใส่ทำงานกลางคืนได้ ของใกล้หมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic night jogging preparation wearing the headlamp, no text, no logo",
-      "tts_text": "สายวิ่งกลางคืนต้องมี ไฟฉายคาดหัวช่วยมองทางชัด ปลอดภัยขึ้นมาก ตอนนี้โปรเหลือเจ็ดสิบเอ็ดบาท รีบสั่งก่อนหมด",
+      "visual_prompt": "9:16 photorealistic LED headlamp placed on camping gear bag glowing, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรหัวเสีย วันก่อนกูจ่ายสองร้อยเก้าสิบเก้าบาท ไฟฉายคาดหัวแอลอีดี ตอนนี้เหลือหกสิบเก้าบาท ใช้ได้ทั้งแคมป์ทั้งซ่อมรถ ของใกล้เกลี้ยง รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic camping tent setup at dusk using the headlamp, no text, no logo",
-      "tts_text": "กางเต็นท์ตอนฟ้ามืดลำบากไหม ไฟฉายคาดหัวช่วยส่องมือสองข้างว่าง วันนี้ราคาโปรเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic warehouse shelf picking with headlamp, no text, no logo",
-      "tts_text": "หยิบของในชั้นมืดมองไม่เห็น ไฟฉายคาดหัวช่วยส่องชัดทันที ตอนนี้ลดแรงเหลือเจ็ดสิบเอ็ดบาท รีบกดเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic roadside tire change at night using headlamp, no text, no logo",
-      "tts_text": "รถยางแตกตอนกลางคืนต้องมี ไฟฉายคาดหัวช่วยให้ซ่อมได้ง่าย วันนี้ราคาเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic fishing dock evening scene using the headlamp, no text, no logo",
-      "tts_text": "ตกปลาช่วงเย็นต้องแสงสว่างชัด ไฟฉายคาดหัวส่องพุ่งไกล ใช้งานสะดวก วันนี้โปรเหลือเจ็ดสิบเอ็ดบาท รีบสั่งเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic night garden watering using the headlamp, no text, no logo",
-      "tts_text": "รดน้ำต้นไม้ตอนค่ำต้องเห็นชัด ไฟฉายคาดหัวช่วยส่องตรงจุด ตอนนี้ราคาพิเศษเหลือเพียงเจ็ดสิบเอ็ดบาท เท่านั้น",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic home attic searching using the headlamp, no text, no logo",
-      "tts_text": "ค้นของบนห้องเก็บของมืดมาก ไฟฉายคาดหัวช่วยให้เห็นชัดทันที วันนี้โปรแรงเหลือเจ็ดสิบเอ็ดบาท รีบกดก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic early morning campsite packing using the headlamp, no text, no logo",
-      "tts_text": "เก็บของตอนเช้ามืดต้องมีตัวช่วย ไฟฉายคาดหัวสว่างชัด ใช้งานง่ายมาก ตอนนี้ลดเหลือเจ็ดสิบเอ็ดบาท รีบสั่งเลย",
+      "visual_prompt": "9:16 photorealistic LED headlamp shining on dark pathway outdoor scene, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูโคตรพลาด กูซื้อไฟฉายคาดหัวแอลอีดีสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท แสงแรงชัดใช้งานง่าย ของกำลังหมด รีบกดเหลือหกสิบเก้าบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
