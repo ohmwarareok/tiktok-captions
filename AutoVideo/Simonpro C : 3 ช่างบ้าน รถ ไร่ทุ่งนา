@@ -1,122 +1,123 @@
 {
   "1734014059729815456": [
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมรถยนต์แบบพกพาตามภาพจริง วางพื้นข้างล้อรถยนต์ เห็นสายไฟที่จุดบุหรี่ สายลม เกจวัดแรงดัน และหัวเปลี่ยนสามชิ้นเรียงซ้ายไปขวาครบตามภาพ no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน ยางอ่อนกลางทางไม่ต้องเข็นแล้ว เครื่องปั๊มลมรถยนต์พกพาเติมเองได้เลย ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมดโปร หมดแล้วหมดเลยนะแม่",
+      "visual_prompt": "9:16 photorealistic portable electric air pump beside car tire inflating hose connected driveway scene no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรจี๊ด กูเพิ่งซื้อปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท เติมลมไวมาก รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมรถยนต์แบบพกพาตามภาพจริง กำลังต่อสายลมเข้าล้อรถ เห็นตัวเครื่องชัด สายไฟเสียบในรถ อุปกรณ์ครบซ้ายไปขวา no text no logo",
-      "tts_text": "ลมยางตกบ่อยต้องมีติดรถ เครื่องปั๊มลมรถยนต์พกพาเสียบใช้งานง่ายมาก ตอนนี้หนึ่งร้อยหกสิบเจ็ดบาท รีบกดด่วนก่อนหาย ช้าคืออดนะบอกเลย",
+      "visual_prompt": "9:16 photorealistic electric air compressor inflating car tire close up pressure gauge visible no text no logo",
+      "tts_text": "เหี้ยชิบหาย กูซื้อปั้มลมไฟฟ้าพกพาเต็มสองร้อยยี่สิบสามบาท วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท พกติดรถได้เลย รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมรถยนต์วางท้ายรถเปิดฝากระโปรงหลัง เห็นสายลม เกจวัด และหัวต่อสามแบบครบตามภาพจริง no text no logo",
-      "tts_text": "เดินทางไกลแล้วลมยางอ่อนฟังนะ เครื่องปั๊มลมรถยนต์พกพาช่วยได้ทันที ตอนนี้เหลือแค่หนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมด ของกำลังจะเกลี้ยงแล้วแม่",
+      "visual_prompt": "9:16 photorealistic portable air pump on car seat cable and hose organized no text no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูจ่ายปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท ลมแรงจริง รีบกดด่วน กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ซูมเกจวัดแรงดันขณะเติมลม เห็นตัวเครื่องและสายไฟครบ อุปกรณ์วางเรียงซ้ายไปขวาตามภาพ no text no logo",
-      "tts_text": "ไม่ต้องง้อปั๊มอีกแล้ว เครื่องปั๊มลมรถยนต์พกพาเติมลมได้เองทุกที่ ตอนนี้ราคาแค่หนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมดโปร หมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic air compressor inflating motorcycle tire outdoor scene no text no logo",
+      "tts_text": "ไอ้สัสเอ๊ย กูเพิ่งซื้อปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท เติมมอไซค์ได้ รีบกดก่อนเกลี้ยง กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมวางบนพื้นโรงจอดรถ ข้างล้อรถ เห็นสายลมต่อแน่น หัวเปลี่ยนสามชิ้นวางครบตามภาพ no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน รถเล็กใหญ่ก็ใช้ได้ เครื่องปั๊มลมรถยนต์พกพาเติมไวมาก ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมด ช้าคืออดนะ",
+      "visual_prompt": "9:16 photorealistic portable compressor with multiple nozzle heads laid out on floor no text no logo",
+      "tts_text": "เหี้ยโคตรเจ็บใจ กูซื้อปั้มลมไฟฟ้าพกพาเต็มสองร้อยยี่สิบสามบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท หัวเปลี่ยนได้หลายแบบ รีบสอยก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมเสียบช่องจุดบุหรี่ในรถ เห็นสายไฟชัด กำลังเติมล้อรถยนต์ อุปกรณ์ครบซ้ายไปขวา no text no logo",
-      "tts_text": "เสียบรถก็ใช้งานได้เลย เครื่องปั๊มลมรถยนต์พกพาไม่ต้องต่อไฟบ้าน ตอนนี้หนึ่งร้อยหกสิบเจ็ดบาท รีบกดด่วนก่อนหมดโปร หมดแล้วหมดเลยนะแม่",
+      "visual_prompt": "9:16 photorealistic air pump connected to car lighter socket inflating tire driveway no text no logo",
+      "tts_text": "แม่งจี๊ดหนัก กูจ่ายปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท เสียบแล้วใช้ได้เลย รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมวางข้างรถมอเตอร์ไซค์ กำลังเติมลม เห็นสายลม เกจ และหัวต่อครบตามภาพจริง no text no logo",
-      "tts_text": "มอเตอร์ไซค์ก็เติมได้ เครื่องปั๊มลมรถยนต์พกพาตัวเดียวจบ ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมด ของกำลังจะเกลี้ยงแล้วแม่",
+      "visual_prompt": "9:16 photorealistic electric air compressor close up metal body motor detail no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรแรง กูซื้อปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท ตัวเล็กแรงดี รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมวางบนโต๊ะช่าง ใกล้ล้อรถ เห็นอุปกรณ์หัวต่อสามแบบเรียงครบตามภาพ no text no logo",
-      "tts_text": "หัวต่อให้ครบไม่ต้องซื้อเพิ่ม เครื่องปั๊มลมรถยนต์พกพาคุ้มมาก ตอนนี้ราคาแค่หนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหาย ช้าคืออดนะบอกเลย",
+      "visual_prompt": "9:16 photorealistic portable air pump inflating bicycle tire outdoor daylight no text no logo",
+      "tts_text": "เหี้ยจริงว่ะ กูเพิ่งซื้อปั้มลมไฟฟ้าพกพาเต็มสองร้อยยี่สิบสามบาท วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท เติมจักรยานได้ รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมวางข้างล้อรถกระบะกลางแจ้ง เห็นสายไฟและสายลมครบตามภาพซ้ายไปขวา no text no logo",
-      "tts_text": "รถกระบะก็เอาอยู่ เครื่องปั๊มลมรถยนต์พกพาเติมลมแรงทันใจ ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกดด่วนก่อนหมดโปร หมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic air compressor pumping tire gauge needle moving close up no text no logo",
+      "tts_text": "แม่งปวดใจสัส กูจ่ายปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท ลมขึ้นไว รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ซูมตัวเครื่องปั๊มลมเห็นโครงแน่น สายไฟยาว และหัวต่อสามชิ้นเรียงครบตามภาพจริง no text no logo",
-      "tts_text": "ตัวเดียวติดรถสบายใจ เครื่องปั๊มลมรถยนต์พกพาเติมได้ทุกสถานการณ์ ตอนนี้หนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมด ของกำลังจะเกลี้ยงแล้วแม่",
+      "visual_prompt": "9:16 photorealistic final wide shot portable electric air pump beside car wheel no text no logo",
+      "tts_text": "ไอ้เหี้ยเอ๊ยโคตรเสียดาย กูซื้อปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบจัดเดี๋ยวนี้ กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic electric air pump on car trunk ready for emergency use no text no logo",
+      "tts_text": "สัสเอ๊ยโคตรจี๊ด กูซื้อปั้มลมไฟฟ้าพกพาเต็มสองร้อยยี่สิบสามบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท พกไว้สบายใจ รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมวางบนพื้นข้างรถ เปิดไฟหน้ารถสว่าง เห็นอุปกรณ์ครบตามภาพ no text no logo",
-      "tts_text": "กลางคืนยางอ่อนก็ไม่กลัว เครื่องปั๊มลมรถยนต์พกพาช่วยได้ทันที ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมดโปร ช้าคืออดนะ",
+      "visual_prompt": "9:16 photorealistic air compressor inflating SUV tire driveway scene no text no logo",
+      "tts_text": "เหี้ยชิบโคตรแรง กูเพิ่งซื้อปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท เติมลมรถใหญ่ได้ รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมกำลังหมุนวาล์วต่อสายลมเข้าล้อรถ เห็นเกจวัดและหัวต่อครบตามภาพ no text no logo",
-      "tts_text": "ลมยางอ่อนแล้วไม่รู้ตัวต้องมี เครื่องปั๊มลมรถยนต์พกพาติดรถไว้เลย ตอนนี้หนึ่งร้อยหกสิบเจ็ดบาท รีบกดด่วนก่อนหมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic portable air pump and hose coiled neatly indoor no text no logo",
+      "tts_text": "แม่งเสียดายว่ะ กูจ่ายปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท เก็บง่ายไม่เกะกะ รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมวางท้ายรถพร้อมอุปกรณ์ครบตามภาพ ซ้ายไปขวาหัวต่อสามแบบชัดเจน no text no logo",
-      "tts_text": "เดินทางบ่อยต้องจัด เครื่องปั๊มลมรถยนต์พกพาเติมง่ายมาก ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมด ช้าคืออดนะบอกเลย",
+      "visual_prompt": "9:16 photorealistic air compressor inflating flat tire roadside scene no text no logo",
+      "tts_text": "ไอ้สัสโคตรจี๊ด กูซื้อปั้มลมไฟฟ้าพกพาเต็มสองร้อยยี่สิบสามบาท วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท ฉุกเฉินก็เอาอยู่ รีบกด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ซูมเกจวัดแรงดันขณะทำงาน ตัวเครื่องและสายไฟครบตามภาพจริง no text no logo",
-      "tts_text": "ดูแรงดันได้ชัด เครื่องปั๊มลมรถยนต์พกพาใช้งานสะดวกมาก ตอนนี้ราคาแค่หนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมดโปร หมดแล้วหมดเลยนะแม่",
+      "visual_prompt": "9:16 photorealistic close up pressure gauge reading while inflating tire no text no logo",
+      "tts_text": "เหี้ยโคตรเจ็บ กูเพิ่งซื้อปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท เกจ์วัดชัด รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมวางใกล้ล้อรถยนต์ในลานจอดกลางแจ้ง เห็นสายไฟเสียบใช้งาน หัวต่อครบตามภาพ no text no logo",
-      "tts_text": "ยางแฟบไม่ต้องรอช่าง เครื่องปั๊มลมรถยนต์พกพาช่วยได้ทันที ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมด ของกำลังจะเกลี้ยงแล้วแม่",
+      "visual_prompt": "9:16 photorealistic electric air pump inflating football on driveway no text no logo",
+      "tts_text": "แม่งแรงเกิน กูซื้อปั้มลมไฟฟ้าพกพาเต็มสองร้อยยี่สิบสามบาท วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท เติมลูกบอลได้ รีบกดเลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมวางบนพื้นคอนกรีต เห็นตัวเครื่องชัด สายลมและหัวต่อสามชิ้นเรียงครบซ้ายไปขวา no text no logo",
-      "tts_text": "โปรรอบนี้มาไวไปไว เครื่องปั๊มลมรถยนต์พกพาคุ้มจริง ตอนนี้หนึ่งร้อยหกสิบเจ็ดบาท รีบกดด่วนก่อนหมดโปร ช้าคืออดนะบอกเลย",
+      "visual_prompt": "9:16 photorealistic portable air compressor placed beside car wheel night scene emergency no text no logo",
+      "tts_text": "เชี่ยเอ๊ยโคตรสะใจ กูจ่ายปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท มีติดรถอุ่นใจ รีบสอย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมกำลังเติมลมล้อรถใกล้ชิด เห็นเกจวัด สายไฟ และหัวต่อครบตามภาพจริง no text no logo",
-      "tts_text": "ลมตกบ่อยต้องจัดเลย เครื่องปั๊มลมรถยนต์พกพาเติมเองสบายใจ ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมด หมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic air compressor inflating tire fast motion gauge needle rising no text no logo",
+      "tts_text": "เหี้ยจริง กูเพิ่งซื้อปั้มลมไฟฟ้าพกพาเต็มสองร้อยยี่สิบสามบาท วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท ลมขึ้นเร็ว รีบปิดดีล กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมวางข้างรถ เปิดฝากระโปรงหลัง เห็นอุปกรณ์ครบซ้ายไปขวาตามภาพ no text no logo",
-      "tts_text": "มีไว้ติดรถคืออุ่นใจ เครื่องปั๊มลมรถยนต์พกพาใช้งานง่ายมาก ตอนนี้หนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหาย ช้าคืออดนะบอกเลย",
+      "visual_prompt": "9:16 photorealistic portable air pump with nozzle attached to tire clean driveway no text no logo",
+      "tts_text": "แม่งจี๊ดจัด กูซื้อปั้มลมไฟฟ้าพกพาสองร้อยยี่สิบสามบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบเอาเดี๋ยวนี้ กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เครื่องปั๊มลมวางข้างล้อรถ เห็นสายไฟและสายลมครบ อุปกรณ์หัวต่อสามแบบเรียงตามภาพ no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน เครื่องปั๊มลมรถยนต์พกพาจำเป็นมาก ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบกดด่วนก่อนหมดโปร หมดแล้วหมดเลยนะแม่",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic ซูมตัวเครื่องและเกจวัดแรงดัน เห็นสายไฟจุดบุหรี่และหัวต่อครบตามภาพจริง no text no logo",
-      "tts_text": "ราคานี้หายากแล้ว เครื่องปั๊มลมรถยนต์พกพาคุ้มมากจริงๆ ตอนนี้หนึ่งร้อยหกสิบเจ็ดบาท รีบกดก่อนหมด ของกำลังจะเกลี้ยงแล้วแม่",
+      "visual_prompt": "9:16 photorealistic final wide shot electric air compressor beside car ready to use no text no logo",
+      "tts_text": "ไอ้เหี้ยเอ๊ยโคตรเสียดาย กูซื้อปั้มลมไฟฟ้าพกพาเต็มสองร้อยยี่สิบสามบาท วันนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท รีบจัดตอนนี้เลย กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -772,152 +773,125 @@
   ],
   "1732256305080992950": [
     {
-      "visual_prompt": "9:16 photorealistic construction worker using handheld nail gun to fasten wood board indoors realistic lighting no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน เครื่องยิงตะปูพกพาตัวนี้ยิงแรง ประหยัดเวลา ตอกไว งานไม้ งานช่างสบาย ตอนนี้โปรเหลือเก้าสิบเก้าบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic orange black powder actuated nail gun on workbench with steel plate and nails beside, toolbox open background, product exact, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูเจ็บใจ วันก่อนกูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงเหล็กแน่นมือเดียวเอาอยู่ ของใกล้หมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic carpenter fixing wooden shelf with compact nail gun realistic workshop background no text no logo",
-      "tts_text": "ใครทำงานช่างเองบ่อย เครื่องยิงตะปูพกพาช่วยให้ตอกแน่น รวดเร็ว ไม่ต้องเสียแรง โปรวันนี้เหลือเก้าสิบเก้าบาท ของเข้าไม่เยอะ",
+      "visual_prompt": "9:16 photorealistic nail gun pressing against metal sheet, nails and safety glasses on table, workshop scene, product unchanged, no text, no logo",
+      "tts_text": "แม่งโคตรพลาด กูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท วันนี้เหลือเก้าสิบเจ็ดบาท ยิงทะลุเหล็กไว ไม่ต้องลากสาย ของจะหมดแล้ว รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close-up nail gun pressing nail into plywood clean lighting no text no logo",
-      "tts_text": "งานซ่อมบ้านต้องมี เครื่องยิงตะปูพกพายิงแม่น ใช้ง่าย มือใหม่ก็ใช้ได้ ตอนนี้จัดโปรเหลือเก้าสิบเก้าบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic orange nail gun on steel beam close up, box of nails beside, industrial background, no text, no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพง เครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงแรงติดแน่น ใช้งานง่ายมาก ของใกล้เกลี้ยง รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic DIY home repair using nail gun attaching wooden plank realistic indoor scene no text no logo",
-      "tts_text": "ใครยังใช้ค้อนอยู่ลองตัวนี้ เครื่องยิงตะปูพกพายิงเร็ว ประหยัดแรง งานเสร็จไว ตอนนี้ราคาเหลือเก้าสิบเก้าบาท คุ้มมากจริง",
+      "visual_prompt": "9:16 photorealistic close up hand holding nail gun aiming at metal plate, workshop lighting, product exact, no text, no logo",
+      "tts_text": "ไอสัสกูหัวร้อน วันก่อนกูจ่ายสามร้อยสามสิบสามบาท เครื่องยิงตะปูแรงดันสูง ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงเร็วแรงไม่สะดุด ของกำลังหมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic handyman assembling wooden furniture with nail gun realistic home environment no text no logo",
-      "tts_text": "ประกอบเฟอร์นิเจอร์เองง่ายขึ้น เครื่องยิงตะปูพกพายิงแน่น ใช้มือเดียวสะดวก โปรแรงเหลือเก้าสิบเก้าบาท รีบกดก่อนของหมด",
+      "visual_prompt": "9:16 photorealistic nail gun and nails set arranged on wooden table with metal sheet, toolbox background, no text, no logo",
+      "tts_text": "แม่งโคตรเสียดาย กูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงเหล็กยิงปูนแน่นมือเดียว ของจะหมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic orange black nail gun beside steel plate and nail set, workshop scene, product unchanged, no text, no logo",
+      "tts_text": "ไอเหี้ยกูช้ำใจ กูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงแรงทะลุเหล็ก ใช้งานโคตรง่าย ของใกล้หมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic carpenter securing frame using portable nail gun realistic workshop lighting no text no logo",
-      "tts_text": "ช่างมือโปรยังใช้ เครื่องยิงตะปูพกพาตอกเร็ว งานออกเรียบร้อย ประหยัดเวลา วันนี้จัดโปรเหลือเก้าสิบเก้าบาท กดเลยคุ้มแน่นอน",
+      "visual_prompt": "9:16 photorealistic nail gun pressing into concrete surface, nails nearby, industrial lighting, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูพลาดหนัก เครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท วันนี้เหลือเก้าสิบเจ็ดบาท ยิงปูนยิงเหล็กแน่นไม่หลุด ของกำลังเกลี้ยง รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic nail gun fastening wooden board close-up industrial environment no text no logo",
-      "tts_text": "ใครทำงานไม้ต้องมี เครื่องยิงตะปูพกพาช่วยให้ยิงตะปูตรง รวดเร็ว ไม่ต้องออกแรงเยอะ ตอนนี้เหลือเก้าสิบเก้าบาท เท่านั้น",
+      "visual_prompt": "9:16 photorealistic handheld nail gun on metal beam with toolbox open behind, product exact, no text, no logo",
+      "tts_text": "ไอสัสกูโคตรเซ็ง กูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงไวติดแน่นไม่ต้องง้อช่าง ของจะหมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic worker fixing wall panel with handheld nail gun indoor renovation scene no text no logo",
-      "tts_text": "ซ่อมบ้านเองง่ายขึ้น เครื่องยิงตะปูพกพายิงแม่น งานจบไว ไม่ต้องง้อช่าง โปรพิเศษเหลือเก้าสิบเก้าบาท รีบกดก่อนพลาด",
+      "visual_prompt": "9:16 photorealistic close up nail gun tip against steel sheet with sparks effect implied safe, workshop background, no text, no logo",
+      "tts_text": "แม่งโคตรหัวเสีย กูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท วันนี้เหลือเก้าสิบเจ็ดบาท ยิงแรงทะลุแผ่นเหล็ก มือเดียวจบ ของใกล้หมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic DIY enthusiast assembling wood crate using nail gun realistic table setup no text no logo",
-      "tts_text": "ทำงานช่างสบายขึ้น เครื่องยิงตะปูพกพายิงแรง ตอกแน่น ไม่ต้องตอกซ้ำ ตอนนี้ราคาโปรเหลือเก้าสิบเก้าบาท รีบซื้อเลย",
+      "visual_prompt": "9:16 photorealistic nail gun and accessories kit displayed on table, metal plate beside, product unchanged, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูเสียดายเงิน เครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงแน่นติดไว ประหยัดแรงมาก ของกำลังหมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic orange nail gun on construction site metal frame, nails scattered, no text, no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพง กูจ่ายสามร้อยสามสิบสามบาท เครื่องยิงตะปูแรงดันสูง ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงเหล็กติดแน่นโคตรไว ของใกล้เกลี้ยง รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic carpenter building wooden frame using compact nail gun workshop scene no text no logo",
-      "tts_text": "ตัวช่วยช่างบ้าน เครื่องยิงตะปูพกพาใช้ง่าย ยิงเร็ว ประหยัดเวลา งานเสร็จไว ตอนนี้เหลือเก้าสิบเก้าบาท กดก่อนหมดโปร",
+      "visual_prompt": "9:16 photorealistic nail gun pressing into steel beam close up, workshop environment, no text, no logo",
+      "tts_text": "ไอสัสกูเจ็บใจหนัก วันก่อนซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท วันนี้เหลือเก้าสิบเจ็ดบาท ยิงแรงไม่สะดุด มือเดียวสบาย ของจะหมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic nail gun fastening wooden beam close-up realistic lighting no text no logo",
-      "tts_text": "อยากให้งานไม้เสร็จเร็ว เครื่องยิงตะปูพกพาตัวนี้ตอบโจทย์ ยิงแม่น ใช้ง่าย โปรตอนนี้เหลือเก้าสิบเก้าบาท รีบกดด่วน",
+      "visual_prompt": "9:16 photorealistic nail gun and steel plate on wooden bench, toolbox open behind, product exact, no text, no logo",
+      "tts_text": "แม่งโคตรพัง กูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงทะลุเหล็กง่ายไม่ต้องออกแรงเยอะ ของกำลังหมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic worker repairing cabinet using nail gun indoor workshop no text no logo",
-      "tts_text": "ใครซ่อมตู้ โต๊ะ เตียงบ่อย เครื่องยิงตะปูพกพาช่วยยิงแน่น ประหยัดแรง โปรลดเหลือเก้าสิบเก้าบาท คุ้มมากต้องรีบกด",
+      "visual_prompt": "9:16 photorealistic close up orange nail gun tip on concrete surface, nails box nearby, no text, no logo",
+      "tts_text": "ไอเหี้ยกูโคตรเสียดาย เครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท วันนี้เหลือเก้าสิบเจ็ดบาท ยิงปูนยิงเหล็กแน่นไม่โยก ของใกล้หมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic assembling wooden pallet with handheld nail gun realistic construction background no text no logo",
-      "tts_text": "งานช่างต้องเร็ว เครื่องยิงตะปูพกพายิงไว ตอกแน่น ไม่ต้องเสียเวลา โปรแรงเหลือเก้าสิบเก้าบาท ของเข้าไม่เยอะ",
+      "visual_prompt": "9:16 photorealistic nail gun resting on metal frame structure, workshop lighting, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกูหัวร้อน วันก่อนกูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงแรงแน่นจบในทีเดียว ของกำลังเกลี้ยง รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic carpenter installing wooden trim using nail gun realistic indoor lighting no text no logo",
-      "tts_text": "ใครทำงานติดบัวไม้ เครื่องยิงตะปูพกพาช่วยให้ยิงเรียบ งานเนียน โปรวันนี้เหลือเก้าสิบเก้าบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic orange black nail gun with nails set on steel sheet, toolbox background, no text, no logo",
+      "tts_text": "ไอสัสกูพลาดเอง เครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงเหล็กแน่นไม่ต้องง้อช่าง ของจะหมดแล้ว รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic nail gun pressing into steel plate, close up action shot, workshop setting, no text, no logo",
+      "tts_text": "ไอเหี้ยเอ้ยกูช้ำใจ กูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท วันนี้เหลือเก้าสิบเจ็ดบาท ยิงแรงทะลุเหล็กสบาย ของใกล้เกลี้ยง รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close-up fastening wood joint with nail gun workshop table no text no logo",
-      "tts_text": "ทำงานไม้สะดวกขึ้น เครื่องยิงตะปูพกพาใช้ง่าย ยิงแรง งานเสร็จไว ตอนนี้ราคาเหลือเก้าสิบเก้าบาท รีบสั่งเลย",
+      "visual_prompt": "9:16 photorealistic nail gun and accessory kit displayed neatly on table, metal sheet beside, no text, no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงติดแน่นไว มือเดียวเอาอยู่ ของกำลังหมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic home DIY fixing wooden frame with nail gun realistic house interior no text no logo",
-      "tts_text": "ช่างสมัครเล่นก็ใช้ได้ เครื่องยิงตะปูพกพายิงแม่น ตอกแน่น ใช้ง่าย โปรพิเศษเหลือเก้าสิบเก้าบาท กดเลยคุ้มจริง",
+      "visual_prompt": "9:16 photorealistic orange nail gun on steel beam construction site, nails box beside, no text, no logo",
+      "tts_text": "เหี้ยจริงกูโคตรเซ็ง วันก่อนกูจ่ายสามร้อยสามสิบสามบาท เครื่องยิงตะปูแรงดันสูง วันนี้เหลือเก้าสิบเจ็ดบาท ยิงเหล็กแน่นไม่โยก ของจะหมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic builder attaching plywood sheet using nail gun construction environment no text no logo",
-      "tts_text": "งานประกอบไม้ไม่ต้องเสียแรง เครื่องยิงตะปูพกพายิงไว งานจบเร็ว ตอนนี้โปรเหลือเก้าสิบเก้าบาท รีบกดทันที",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic workshop worker securing wooden crate using nail gun realistic lighting no text no logo",
-      "tts_text": "ตัวช่วยช่างจริง เครื่องยิงตะปูพกพายิงแรง ประหยัดเวลา งานเสร็จไว โปรลดเหลือเก้าสิบเก้าบาท รีบซื้อก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic DIY enthusiast installing wooden panel with compact nail gun realistic room no text no logo",
-      "tts_text": "อยากให้งานบ้านเสร็จเร็ว เครื่องยิงตะปูพกพาตัวนี้ยิงแม่น ใช้ง่าย โปรวันนี้เหลือเก้าสิบเก้าบาท ต้องรีบกดแล้ว",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic carpenter building furniture using handheld nail gun clean workshop no text no logo",
-      "tts_text": "ประกอบเฟอร์นิเจอร์เองสะดวก เครื่องยิงตะปูพกพายิงแน่น ไม่ต้องใช้แรงเยอะ โปรตอนนี้เหลือเก้าสิบเก้าบาท รีบกดเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic fastening wooden shelf using nail gun indoor home setting no text no logo",
-      "tts_text": "ใครติดชั้นไม้เอง เครื่องยิงตะปูพกพาช่วยให้ยิงตรง งานเรียบร้อย ตอนนี้ราคาเหลือเก้าสิบเก้าบาท กดก่อนหมดโปร",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic construction worker fixing wood beam using nail gun realistic scene no text no logo",
-      "tts_text": "ช่างบ้านต้องมี เครื่องยิงตะปูพกพายิงเร็ว งานเสร็จไว ไม่ต้องตอกซ้ำ โปรแรงเหลือเก้าสิบเก้าบาท รีบสั่งด่วน",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic assembling wooden board furniture using nail gun close-up no text no logo",
-      "tts_text": "ทำงานไม้สะดวกมาก เครื่องยิงตะปูพกพายิงแรง ใช้ง่าย มือใหม่ก็ใช้ได้ โปรวันนี้เหลือเก้าสิบเก้าบาท ต้องรีบ",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic carpenter fixing wooden door frame using nail gun indoor renovation no text no logo",
-      "tts_text": "ติดตั้งวงกบไม้เร็วขึ้น เครื่องยิงตะปูพกพาช่วยยิงแน่น งานจบไว โปรพิเศษเหลือเก้าสิบเก้าบาท กดก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic DIY home improvement using compact nail gun fastening wood indoors no text no logo",
-      "tts_text": "ตัวช่วยงานซ่อมบ้าน เครื่องยิงตะปูพกพายิงไว ตอกแน่น ประหยัดเวลา โปรเหลือเก้าสิบเก้าบาท คุ้มมากรีบกดเลย",
+      "visual_prompt": "9:16 photorealistic close up nail gun tip against metal surface, workshop environment, product exact, no text, no logo",
+      "tts_text": "ไอสัสกูเสียดายชิบหาย กูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงแรงจบไวไม่ต้องออกแรงเยอะ ของใกล้หมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -1204,152 +1178,122 @@
   ],
   "1729779125029866112": [
     {
-      "visual_prompt": "9:16 photorealistic waterproof tarp being spread outdoors during rain droplets hitting surface cinematic lighting no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน ผ้าใบกันแดดกันฝนผืนใหญ่ ใช้คลุมของได้ทันที กันน้ำดีมาก ตอนนี้โปรเหลือสี่สิบหกบาท รีบกดด่วน",
+      "visual_prompt": "9:16 photorealistic heavy rain falling on blue and silver waterproof tarp sheet layered texture water droplets rolling off surface close up then wide shot covering motorcycle and outdoor floor multiple sizes displayed from left to right as in reference image no text no logo",
+      "tts_text": "แม่งโคตรจี๊ดใจ กูเพิ่งซื้อผ้าใบกันแดดกันฝน ราคาเต็มหนึ่งร้อยสามสิบแปดบาท วันนี้เหลือสี่สิบหกบาท มึงจะรออะไรอีกวะ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp covering outdoor equipment in rainy environment dramatic rain splash focus no text no logo",
-      "tts_text": "ฝนตกของเปียกบ่อยใช่ไหม ผ้าใบกันฝนตัวนี้ช่วยได้ คลุมแล้วน้ำไม่ซึม โปรแรงตอนนี้เหลือสี่สิบหกบาท ต้องมีติดบ้าน",
+      "visual_prompt": "9:16 photorealistic close up water splashing on waterproof tarp blue top silver underside droplets sliding off then covering parked bike and stacked boxes showing thickness as reference no text no logo",
+      "tts_text": "โคตรเซ็งสัส กูซื้อผ้าใบกันแดดกันฝนเต็มหนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือสี่สิบหกบาท กันแดดกันฝนจริง รีบกดด่วน",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic blue waterproof tarp tied over motorcycle outdoors rainy weather cinematic focus no text no logo",
-      "tts_text": "ใครจอดรถกลางแจ้งบ่อย แนะนำผ้าใบกันแดดกันฝนผืนนี้ คลุมง่าย กันน้ำดี ตอนนี้เหลือสี่สิบหกบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic tarp sheet spread on ground under storm rain beads of water rolling off shiny silver backing camera pan from left to right showing sizes like reference image no text no logo",
+      "tts_text": "แม่งเอ๊ย เจ็บจัด กูซื้อผ้าใบกันแดดกันฝนหนึ่งร้อยสามสิบแปดบาท วันนี้เหลือสี่สิบหกบาท ปูคลุมรถคลุมของได้หมด กดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp stretched above camping area creating shade sunny day no text no logo",
-      "tts_text": "แดดแรงก็เอาอยู่ ผ้าใบกันแดดกันฝนใช้ทำร่มเงาได้ทันที โปรช่วงนี้เหลือสี่สิบหกบาท ถูกมากจริง รีบสั่งเลย",
+      "visual_prompt": "9:16 photorealistic outdoor yard heavy rain tarp covering pickup truck and garden tools blue top silver layer visible water resistance as shown left to right in reference no text no logo",
+      "tts_text": "โคตรปวดใจ กูจ่ายหนึ่งร้อยสามสิบแปดบาท ผ้าใบกันแดดกันฝน ตอนนี้เหลือสี่สิบหกบาท มึงไม่กดคือพลาดแล้วนะ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp covering stacked goods at warehouse entrance rainy day no text no logo",
-      "tts_text": "ของหน้าร้านเปียกบ่อยใช่ไหม คลุมผ้าใบกันฝนผืนนี้จบ น้ำไม่เข้า ตอนนี้ลดเหลือสี่สิบหกบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic close up tarp fabric texture waterproof test pouring water rolling off then wide shot covering motorcycle and outdoor furniture like reference no text no logo",
+      "tts_text": "แม่งขัดใจ กูซื้อผ้าใบกันแดดกันฝนเต็มหนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือสี่สิบหกบาท ของกำลังจะเกลี้ยง รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close-up water droplets rolling off waterproof tarp surface macro shot no text no logo",
-      "tts_text": "กันน้ำจริงไม่โม้ หยดน้ำไหลออกทันที ผ้าใบกันฝนผืนนี้คุ้มมาก ตอนนี้โปรเหลือสี่สิบหกบาท รีบกดตอนยังมี",
+      "visual_prompt": "9:16 photorealistic tarp layered blue and silver sheet rain test droplets bouncing off surface camera tilt showing thickness and durability as reference no text no logo",
+      "tts_text": "โคตรหัวร้อน กูซื้อผ้าใบกันแดดกันฝนราคาเต็มหนึ่งร้อยสามสิบแปดบาท วันนี้เหลือสี่สิบหกบาท จะไม่กดได้ยังไงวะ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp used as temporary roof shelter during rain outdoor scene no text no logo",
-      "tts_text": "ฝนลงกะทันหันก็ไม่กลัว เอาผ้าใบกันฝนคลุมทำหลังคาชั่วคราวได้เลย โปรเหลือสี่สิบหกบาท ราคานี้ต้องมี",
+      "visual_prompt": "9:16 photorealistic stormy background tarp tightly covering stacked goods water sliding off silver underside close detail then wide frame like reference no text no logo",
+      "tts_text": "แม่งเสียดายสัส กูเพิ่งซื้อผ้าใบกันแดดกันฝนหนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือสี่สิบหกบาท มึงกดได้เท่าไรกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic person folding blue tarp neatly after outdoor use clean daylight no text no logo",
-      "tts_text": "ใช้งานเสร็จพับเก็บง่าย ผ้าใบกันแดดกันฝนพกสะดวกมาก ตอนนี้โปรแรงเหลือสี่สิบหกบาท รีบกดก่อนหมดล็อต",
+      "visual_prompt": "9:16 photorealistic tarp covering outdoor motorbike during rain droplets glistening on blue surface silver backing visible camera pan left to right like reference no text no logo",
+      "tts_text": "โคตรจี๊ด กูซื้อผ้าใบกันแดดกันฝนเต็มหนึ่งร้อยสามสิบแปดบาท วันนี้เหลือสี่สิบหกบาท รีบเอาไว้กันแดดกันฝนด่วน",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp protecting garden furniture during heavy rain cinematic scene no text no logo",
-      "tts_text": "เฟอร์นิเจอร์นอกบ้านเปียกง่าย คลุมผ้าใบกันฝนผืนนี้จบ กันแดดกันฝน ตอนนี้เหลือสี่สิบหกบาท ถูกสุดแล้ว",
+      "visual_prompt": "9:16 photorealistic heavy rain test tarp sheet water beading and rolling off then covering pickup bed and boxes like reference image no text no logo",
+      "tts_text": "แม่งโคตรเจ็บ กูจ่ายหนึ่งร้อยสามสิบแปดบาท ผ้าใบกันแดดกันฝน ตอนนี้เหลือสี่สิบหกบาท กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp tied securely over pickup truck cargo rainy environment no text no logo",
-      "tts_text": "ขนของกลัวฝนใช่ไหม ใช้ผ้าใบกันฝนคลุมแน่น น้ำไม่ซึม โปรตอนนี้เหลือสี่สิบหกบาท รีบสั่งด่วนเลย",
+      "visual_prompt": "9:16 photorealistic tarp fabric close up texture waterproof test water poured and sliding off silver underside then wide frame like reference no text no logo",
+      "tts_text": "โคตรเฟล กูซื้อผ้าใบกันแดดกันฝนหนึ่งร้อยสามสิบแปดบาท วันนี้เหลือสี่สิบหกบาท ของจะหมดแล้ว รีบกดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp stretched between trees creating shade picnic setting no text no logo",
-      "tts_text": "ไปเที่ยวตั้งแคมป์ต้องมี ผ้าใบกันแดดกันฝนช่วยทำร่มเงาได้ทันที ตอนนี้เหลือสี่สิบหกบาท รีบกดก่อนราคาเปลี่ยน",
+      "visual_prompt": "9:16 photorealistic tarp stretched across yard under rain droplets sparkling camera slide left to right showing sizes as reference no text no logo",
+      "tts_text": "แม่งโคตรขัดใจ กูซื้อผ้าใบกันแดดกันฝนเต็มหนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือสี่สิบหกบาท มึงจะรอช้าไปทำไม",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp covering construction materials outdoor site rainy day no text no logo",
-      "tts_text": "ของก่อสร้างเปียกเสียหายบ่อย ใช้ผ้าใบกันฝนผืนนี้คลุมจบ โปรแรงตอนนี้เหลือสี่สิบหกบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic blue silver tarp covering bike and outdoor tools rain splashing off surface close and wide shot like reference no text no logo",
+      "tts_text": "โคตรจุก กูเพิ่งซื้อผ้าใบกันแดดกันฝนหนึ่งร้อยสามสิบแปดบาท วันนี้เหลือสี่สิบหกบาท รีบกดก่อนหมดนะมึง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close-up reinforced corner eyelets of tarp tied with rope no text no logo",
-      "tts_text": "ขอบผ้าแข็งแรง ผูกเชือกแน่นไม่ขาดง่าย ใช้งานคุ้มมาก ตอนนี้โปรเหลือสี่สิบหกบาท ต้องรีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic tarp waterproof test water droplets rolling off shiny silver backing then covering goods like reference no text no logo",
+      "tts_text": "แม่งปวดใจสัส กูซื้อผ้าใบกันแดดกันฝนราคาเต็มหนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือสี่สิบหกบาท กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp protecting motorbike parked roadside under rain no text no logo",
-      "tts_text": "ไม่มีหลังคาจอดรถก็ไม่เป็นไร คลุมผ้าใบกันฝนผืนนี้ได้เลย ตอนนี้เหลือสี่สิบหกบาท ถูกแบบต้องมี",
+      "visual_prompt": "9:16 photorealistic rain pouring over tarp sheet water beads forming and sliding off camera tilt like reference no text no logo",
+      "tts_text": "โคตรหงุดหงิด กูจ่ายหนึ่งร้อยสามสิบแปดบาท ผ้าใบกันแดดกันฝน วันนี้เหลือสี่สิบหกบาท ของกำลังจะเกลี้ยงแล้ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp rolled and carried easily by hand outdoor daylight no text no logo",
-      "tts_text": "น้ำหนักเบา พกง่าย ใช้ได้หลายงาน ผ้าใบกันแดดกันฝนผืนเดียวจบ ตอนนี้เหลือสี่สิบหกบาท รีบกดตอนยังมี",
+      "visual_prompt": "9:16 photorealistic tarp covering pickup truck bed and stacked items in rain blue top silver underside visible like reference no text no logo",
+      "tts_text": "แม่งจี๊ดจัด กูซื้อผ้าใบกันแดดกันฝนเต็มหนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือสี่สิบหกบาท จะไม่กดจริงดิ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp used as ground sheet under camping tent rainy campsite no text no logo",
-      "tts_text": "รองพื้นเต็นท์ก็ได้ คลุมของก็ได้ ผ้าใบกันฝนผืนนี้คุ้มมาก ตอนนี้โปรเหลือสี่สิบหกบาท รีบสั่งด่วน",
+      "visual_prompt": "9:16 photorealistic close detail tarp texture rain test droplets rolling then wide outdoor shot like reference no text no logo",
+      "tts_text": "โคตรเสียดาย กูซื้อผ้าใบกันแดดกันฝนหนึ่งร้อยสามสิบแปดบาท วันนี้เหลือสี่สิบหกบาท รีบกดก่อนหมดล็อตนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp covering outdoor market stall protecting goods from rain no text no logo",
-      "tts_text": "แม่ค้าพ่อค้าต้องมี คลุมร้านกันฝนกันแดดได้ทันที โปรช่วงนี้เหลือสี่สิบหกบาท ราคานี้ต้องรีบกด",
+      "visual_prompt": "9:16 photorealistic tarp spread on floor rain splashing water rolling off silver layer camera pan left right like reference no text no logo",
+      "tts_text": "แม่งหัวเสีย กูเพิ่งซื้อผ้าใบกันแดดกันฝนเต็มหนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือสี่สิบหกบาท กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp spread over backyard items during heavy rain cinematic scene no text no logo",
-      "tts_text": "ของหลังบ้านเปียกเสียหายบ่อย ใช้ผ้าใบกันฝนผืนนี้คลุมจบ ตอนนี้เหลือสี่สิบหกบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic tarp tightly wrapped over motorcycle in storm rain droplets glistening like reference no text no logo",
+      "tts_text": "โคตรจี๊ดใจ กูซื้อผ้าใบกันแดดกันฝนหนึ่งร้อยสามสิบแปดบาท วันนี้เหลือสี่สิบหกบาท รีบเอาไว้กันแดดกันฝนด่วน",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp tied between poles creating shade over parked bicycles no text no logo",
-      "tts_text": "กันแดดจักรยานหรือของใช้กลางแจ้งได้ดี ผ้าใบกันแดดกันฝนคุ้มสุด ตอนนี้เหลือสี่สิบหกบาท รีบสั่งเลย",
+      "visual_prompt": "9:16 photorealistic blue silver tarp waterproof test close up water pouring sliding off then wide shot like reference no text no logo",
+      "tts_text": "แม่งโคตรคาใจ กูจ่ายหนึ่งร้อยสามสิบแปดบาท ผ้าใบกันแดดกันฝน ตอนนี้เหลือสี่สิบหกบาท มึงกดได้เท่าไรกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic tarp covering garden tools stacked outdoors rainy day no text no logo",
-      "tts_text": "อุปกรณ์สวนไม่ต้องกลัวเปียก คลุมผ้าใบกันฝนผืนนี้จบ โปรตอนนี้เหลือสี่สิบหกบาท ถูกมากจริง",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic tarp stretched tightly across outdoor frame forming temporary shelter no text no logo",
-      "tts_text": "ทำที่พักชั่วคราวก็ได้ ผ้าใบกันแดดกันฝนผืนนี้ใช้งานง่าย ตอนนี้เหลือสี่สิบหกบาท รีบกดก่อนของหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic tarp protecting firewood stack from rain outdoor scene no text no logo",
-      "tts_text": "ฟืนหรือของเก็บนอกบ้านไม่ต้องกลัวฝน คลุมผ้าใบกันฝนได้ทันที ตอนนี้เหลือสี่สิบหกบาท รีบกดด่วน",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic tarp covering stacked cardboard boxes outside warehouse rainy environment no text no logo",
-      "tts_text": "กล่องสินค้าไม่ต้องกลัวเปียก ใช้ผ้าใบกันฝนผืนนี้ช่วยได้ ตอนนี้เหลือสี่สิบหกบาท ราคานี้ต้องรีบสั่ง",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic tarp forming shade above parked car sunny outdoor scene no text no logo",
-      "tts_text": "แดดแรงก็เอาอยู่ คลุมรถกันแดดได้ทันที ผ้าใบกันแดดกันฝนคุ้มมาก ตอนนี้เหลือสี่สิบหกบาท รีบกดเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic final hero shot blue waterproof tarp neatly spread studio lighting dramatic clean background no text no logo",
-      "tts_text": "ผ้าใบกันแดดกันฝนผืนใหญ่ ใช้ได้สารพัดงาน กันน้ำกันแดดจริง ตอนนี้โปรแรงเหลือสี่สิบหกบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic tarp covering outdoor equipment heavy rain water beads rolling off surface camera pan like reference no text no logo",
+      "tts_text": "โคตรเจ็บใจ กูซื้อผ้าใบกันแดดกันฝนเต็มหนึ่งร้อยสามสิบแปดบาท วันนี้เหลือสี่สิบหกบาท ของจะหมดแล้ว กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -3369,122 +3313,122 @@
   ],
   "1730822223469185983": [
     {
-      "visual_prompt": "9:16 photorealistic multi socket power strip with six universal outlets three USB ports one type c port three meter cable retail box placed left to right on wooden table realistic indoor lighting no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน ปลั๊กพ่วงหกช่องมีสามยูเอสบีหนึ่งไทป์ซี สายยาวสามเมตร ตอนนี้เหลือเก้าสิบเอ็ดบาท ไม่กดคือพลาดนะ",
+      "visual_prompt": "9:16 photorealistic white power strip with six universal outlets three USB one type c port three meter cable on desk devices charging close up then wide shot no text no logo",
+      "tts_text": "แม่งโคตรเจ็บใจ กูเพิ่งซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีหนึ่งร้อยห้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเอ็ดบาท รีบกดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close up power strip six outlets three USB one type c cable coiled beside box arranged left to right no text no logo",
-      "tts_text": "เฮ้ยบ้านใครปลั๊กไม่พอฟัง ปลั๊กพ่วงหกช่องเสียบได้จุกๆ มีสามยูเอสบีหนึ่งไทป์ซี ตอนนี้เก้าสิบเอ็ดบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic power strip charging phone tablet laptop simultaneously green switch on desk scene no text no logo",
+      "tts_text": "เหี้ยเอ๊ย กูซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีเต็มหนึ่งร้อยห้าสิบเก้าบาท วันนี้เหลือเก้าสิบเอ็ดบาท ไม่กดคือโง่แล้ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic desk setup charging phone tablet and laptop with power strip six outlets three USB one type c no text no logo",
-      "tts_text": "โอ๊ยราคานี้ไม่กดคือเสียดาย ปลั๊กพ่วงหกช่องชาร์จได้หลายเครื่อง สายยาวสามเมตร ตอนนี้เก้าสิบเอ็ดบาท ของใกล้หมดแล้ว",
+      "visual_prompt": "9:16 photorealistic close up universal socket power strip usb and type c ports in use three meter cable visible no text no logo",
+      "tts_text": "แม่งจี๊ดสัส กูจ่ายหนึ่งร้อยห้าสิบเก้าบาท ปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซี ตอนนี้เหลือเก้าสิบเอ็ดบาท กดแม่งเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic top view power strip six outlets three USB one type c neatly arranged cable and box left to right no text no logo",
-      "tts_text": "ฟังนะทุกคน ปัญหาปลั๊กไม่พอแก้ได้เลย ปลั๊กพ่วงหกช่องมีสามยูเอสบี ตอนนี้เก้าสิบเอ็ดบาท ไม่กดจะรออะไร",
+      "visual_prompt": "9:16 photorealistic white extension power strip on office desk multiple chargers plugged in no text no logo",
+      "tts_text": "โคตรหัวร้อน กูซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีหนึ่งร้อยห้าสิบเก้าบาท วันนี้เหลือเก้าสิบเอ็ดบาท รีบจัดด่วน",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic living room charging multiple devices with six outlet power strip cable extended on floor no text no logo",
-      "tts_text": "จะไม่กดได้ยังไง ปลั๊กพ่วงหกช่องเสียบได้ครบ มีหนึ่งไทป์ซีด้วย ตอนนี้เก้าสิบเอ็ดบาท ราคานี้ต้องรีบ",
+      "visual_prompt": "9:16 photorealistic power strip beside bed charging devices cable stretched three meters no text no logo",
+      "tts_text": "แม่งเสียดายฉิบหาย กูเพิ่งซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีเต็มหนึ่งร้อยห้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเอ็ดบาท ช้าคืออด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close detail universal outlet sockets three USB and one type c ports cable three meter visible no text no logo",
-      "tts_text": "ของมันต้องมีจริงๆ ปลั๊กพ่วงหกช่องสามยูเอสบีหนึ่งไทป์ซี สายยาวสามเมตร ตอนนี้เก้าสิบเอ็ดบาท รีบเลยนะ",
+      "visual_prompt": "9:16 photorealistic universal power strip charging smartphone and laptop usb type c ports visible no text no logo",
+      "tts_text": "เหี้ยจริง กูซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีหนึ่งร้อยห้าสิบเก้าบาท วันนี้เหลือเก้าสิบเอ็ดบาท รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic office desk with computer monitor phone charger connected to six outlet power strip no text no logo",
-      "tts_text": "ดูนี่ก่อน ใครสายชาร์จหลายเครื่อง ปลั๊กพ่วงหกช่องช่วยได้ ตอนนี้เหลือเก้าสิบเอ็ดบาท ไม่กดคือพลาดมาก",
+      "visual_prompt": "9:16 photorealistic power strip close up showing six outlets and usb ports active charging lights on no text no logo",
+      "tts_text": "แม่งปวดตับ กูจ่ายหนึ่งร้อยห้าสิบเก้าบาท ปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซี ตอนนี้เหลือเก้าสิบเอ็ดบาท กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic bedroom setup charging devices power strip six outlets three USB one type c cable laid out no text no logo",
-      "tts_text": "โอ๊ยแม่คุ้มสุด ปลั๊กพ่วงหกช่องพร้อมสามยูเอสบี สายยาวสามเมตร ตอนนี้เก้าสิบเอ็ดบาท ช้าอดนะพูดเลย",
+      "visual_prompt": "9:16 photorealistic modern workspace power strip plugged with multiple devices three meter cable coiled no text no logo",
+      "tts_text": "โคตรช้ำใจสัส กูซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีเต็มหนึ่งร้อยห้าสิบเก้าบาท วันนี้เหลือเก้าสิบเอ็ดบาท รีบสอยเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic flat lay power strip six outlets three USB one type c with packaging box left to right no text no logo",
-      "tts_text": "เฮ้ยจะไม่กดได้ไง ปลั๊กพ่วงหกช่องเสียบแน่นๆ มีหนึ่งไทป์ซีด้วย ตอนนี้เก้าสิบเอ็ดบาท รีบด่วนก่อนหมด",
+      "visual_prompt": "9:16 photorealistic white power strip on wooden table usb and type c charging phone tablet no text no logo",
+      "tts_text": "แม่งโคตรคาใจ กูเพิ่งซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีหนึ่งร้อยห้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเอ็ดบาท ไม่กดตอนนี้จะกดตอนไหน",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close up hand plugging charger into six outlet power strip three USB and one type c visible no text no logo",
-      "tts_text": "ปัญหาปลั๊กเต็มโต๊ะแก้ได้เลย ปลั๊กพ่วงหกช่องสามยูเอสบี ตอนนี้เก้าสิบเอ็ดบาท ราคานี้ไม่มีบ่อยนะ",
+      "visual_prompt": "9:16 photorealistic power strip placed on floor near sofa devices plugged in usb and outlets no text no logo",
+      "tts_text": "เหี้ยโคตรๆ กูซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีเต็มหนึ่งร้อยห้าสิบเก้าบาท วันนี้เหลือเก้าสิบเอ็ดบาท รีบกดแม่งเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic home workspace multiple chargers connected to six outlet strip cable extended three meter no text no logo",
-      "tts_text": "ดูนี่เลยทุกคน ปลั๊กพ่วงหกช่องชาร์จได้ครบเครื่อง มีหนึ่งไทป์ซี ตอนนี้เก้าสิบเอ็ดบาท รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic power strip charging gaming console and phone simultaneously close up no text no logo",
+      "tts_text": "แม่งโคตรเดือด กูซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีหนึ่งร้อยห้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเอ็ดบาท ช้าคือหมดนะมึง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic modern apartment charging station with six outlet power strip three USB one type c no text no logo",
-      "tts_text": "โอ๊ยราคาดีขนาดนี้ ปลั๊กพ่วงหกช่องสายยาวสามเมตร เสียบได้จุกๆ ตอนนี้เก้าสิบเอ็ดบาท ไม่กดเสียดายนะ",
+      "visual_prompt": "9:16 photorealistic universal socket extension board usb type c active charging home scene no text no logo",
+      "tts_text": "เหี้ยเอ๊ย เสียดายชิบ กูเพิ่งซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีเต็มหนึ่งร้อยห้าสิบเก้าบาท วันนี้เหลือเก้าสิบเอ็ดบาท รีบจัด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic table scene power strip six outlets three USB one type c cable coiled neatly no text no logo",
-      "tts_text": "ของกำลังจะหมดแล้ว ปลั๊กพ่วงหกช่องมีสามยูเอสบีหนึ่งไทป์ซี ตอนนี้เก้าสิบเอ็ดบาท ช้าไม่ได้แล้ว",
+      "visual_prompt": "9:16 photorealistic close up switch and usb ports glowing on power strip devices charging no text no logo",
+      "tts_text": "แม่งคันใจสัส กูจ่ายหนึ่งร้อยห้าสิบเก้าบาท ปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซี ตอนนี้เหลือเก้าสิบเอ็ดบาท กดด่วน",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic family room charging multiple devices using six outlet power strip realistic lighting no text no logo",
-      "tts_text": "เฮ้ยบ้านไหนสายชาร์จเยอะฟัง ปลั๊กพ่วงหกช่องช่วยจบ ตอนนี้เก้าสิบเอ็ดบาท กดตอนนี้คุ้มสุด",
+      "visual_prompt": "9:16 photorealistic power strip charging tablet laptop phone simultaneously desk environment no text no logo",
+      "tts_text": "โคตรบ้าเลย กูซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีหนึ่งร้อยห้าสิบเก้าบาท วันนี้เหลือเก้าสิบเอ็ดบาท รีบกดก่อนหลุดโปร",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close shot universal sockets three USB and one type c ports cable three meter visible no text no logo",
-      "tts_text": "จะไม่กดได้ยังไง ปลั๊กพ่วงหกช่องมีสามยูเอสบี สายยาวสามเมตร ตอนนี้เก้าสิบเอ็ดบาท รีบเลยนะ",
+      "visual_prompt": "9:16 photorealistic white extension cord three meter cable stretched charging multiple gadgets no text no logo",
+      "tts_text": "แม่งจี๊ดหนัก กูซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีเต็มหนึ่งร้อยห้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเอ็ดบาท ของกำลังจะหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic office floor setup power strip six outlets charging laptop and phone no text no logo",
-      "tts_text": "โอ๊ยแม่ราคานี้แรงมาก ปลั๊กพ่วงหกช่องเสียบครบไม่ต้องแย่ง ตอนนี้เก้าสิบเอ็ดบาท รีบด่วนก่อนเกลี้ยง",
+      "visual_prompt": "9:16 photorealistic power strip beside workspace devices plugged usb type c visible no text no logo",
+      "tts_text": "เหี้ยโคตรเจ็บใจ กูเพิ่งซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีหนึ่งร้อยห้าสิบเก้าบาท วันนี้เหลือเก้าสิบเอ็ดบาท รีบสอยก่อนโดนแย่ง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic desk corner power strip six outlets three USB one type c connected to devices no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน ปลั๊กพ่วงหกช่องพร้อมหนึ่งไทป์ซี ชาร์จได้หลายเครื่อง ตอนนี้เก้าสิบเอ็ดบาท ต้องรีบกดแล้ว",
+      "visual_prompt": "9:16 photorealistic power strip on bedside table charging phone and earbuds no text no logo",
+      "tts_text": "แม่งโคตรสะอึก กูจ่ายหนึ่งร้อยห้าสิบเก้าบาท ปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซี ตอนนี้เหลือเก้าสิบเอ็ดบาท กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close up cable three meter length stretched beside six outlet power strip no text no logo",
-      "tts_text": "เฮ้ยสายสั้นไม่ต้องทน ปลั๊กพ่วงหกช่องสายยาวสามเมตร ตอนนี้เก้าสิบเอ็ดบาท ไม่กดตอนนี้จะเสียดาย",
+      "visual_prompt": "9:16 photorealistic extension board charging home appliances usb and sockets active no text no logo",
+      "tts_text": "โคตรหัวเสีย กูซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีเต็มหนึ่งร้อยห้าสิบเก้าบาท วันนี้เหลือเก้าสิบเอ็ดบาท ช้าแล้วจะเสียใจ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic flat lay six outlet power strip three USB one type c with packaging box arranged left to right no text no logo",
-      "tts_text": "โอ๊ยของมันต้องมี ปลั๊กพ่วงหกช่องสามยูเอสบีหนึ่งไทป์ซี ตอนนี้เก้าสิบเอ็ดบาท รีบเลยของใกล้หมด",
+      "visual_prompt": "9:16 photorealistic close up universal sockets with plugs inserted and usb charging cable visible no text no logo",
+      "tts_text": "แม่งแรงเกิน กูซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีหนึ่งร้อยห้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเอ็ดบาท รีบกดแม่งเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic modern living space charging station with six outlet power strip realistic indoor light no text no logo",
-      "tts_text": "รีบกดด่วนเลยจ้า ปลั๊กพ่วงหกช่องเสียบได้จุกๆ ตอนนี้เก้าสิบเอ็ดบาท หมดแล้วหมดเลยนะ",
+      "visual_prompt": "9:16 photorealistic power strip final wide shot multiple devices charging three meter cable visible no text no logo",
+      "tts_text": "เหี้ยเอ๊ย โคตรคาใจ กูซื้อปลั๊กไฟหกช่องสามยูเอสบีหนึ่งไทป์ซีเต็มหนึ่งร้อยห้าสิบเก้าบาท วันนี้เหลือเก้าสิบเอ็ดบาท กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -3979,122 +3923,122 @@
   ],
   "1729671167294082002": [
     {
-      "visual_prompt": "9:16 photorealistic cordless drill kit with carrying case two batteries charger drill bits and accessories arranged left to right on table realistic lighting no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน สว่านไร้สายพร้อมชุดดอกครบกล่อง แบตสองก้อน ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท ไม่กดคือพลาดมาก",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo",
+      "tts_text": "โคตรปวดใจชิบหาย กูเพิ่งซื้อสว่านไร้สายชุดครบมาเต็มสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท มึงจะให้กูรู้สึกยังไง กดเลยก่อนหาย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close up cordless drill with two batteries charger and drill bit set displayed neatly no text no logo",
-      "tts_text": "เฮ้ยบ้านไหนชอบทำเองฟัง สว่านไร้สายแบตสองก้อนพร้อมดอกครบ ตอนนี้สามร้อยหกสิบเจ็ดบาท รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo random angle",
+      "tts_text": "แม่งเอ๊ย กูซื้อสว่านไร้สายชุดครบตอนสามร้อยเก้าสิบเก้าบาท วันนี้เหลือสามร้อยหกสิบเจ็ดบาท มีแบตสองก้อนดอกครบ มึงยังไม่รีบกดอีกเหรอ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic man using cordless drill to assemble furniture kit case and accessories visible beside no text no logo",
-      "tts_text": "โอ๊ยราคานี้ไม่กดคือเสียดาย สว่านไร้สายแรงดีใช้งานง่าย ตอนนี้สามร้อยหกสิบเจ็ดบาท คุ้มเกินราคา",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo close up",
+      "tts_text": "โคตรเซ็งฉิบหาย กูจ่ายเต็มสามร้อยเก้าสิบเก้าบาท สว่านไร้สายชุดครบสามสิบสองชิ้น ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท มึงจะปล่อยผ่านจริงดิ กดเดี๋ยวนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic top view drill kit case open showing bits sockets batteries charger arranged left to right no text no logo",
-      "tts_text": "ฟังนะทุกคน งานซ่อมเล็กใหญ่จบด้วยสว่านไร้สายชุดนี้ ตอนนี้โปรสามร้อยหกสิบเจ็ดบาท รีบกดด่วน",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo handheld shot",
+      "tts_text": "หัวจะปวดชิบหาย กูซื้อสว่านไร้สายสามระบบไปสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท งานช่างในบ้านจบเลย มึงรีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cordless drill drilling into wood battery attached accessories laid out no text no logo",
-      "tts_text": "จะไม่กดได้ยังไง สว่านไร้สายแบตสองก้อนใช้งานต่อเนื่อง ตอนนี้สามร้อยหกสิบเจ็ดบาท ราคานี้ต้องรีบ",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo random footage",
+      "tts_text": "ฉิบหายแล้ว กูเพิ่งจัดสว่านไร้สายชุดใหญ่มาสามร้อยเก้าสิบเก้าบาท วันนี้เหลือสามร้อยหกสิบเจ็ดบาท ทั้งเจาะทั้งขันครบ มึงกดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic garage workspace cordless drill kit on workbench bits and charger visible no text no logo",
-      "tts_text": "ของมันต้องมีจริงๆ สว่านไร้สายพร้อมดอกหลากหลาย ตอนนี้สามร้อยหกสิบเจ็ดบาท รีบเลยใกล้หมดแล้ว",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo indoor lighting",
+      "tts_text": "โคตรจี๊ดใจ กูซื้อสว่านไร้สายพร้อมกล่องสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท แบตสองก้อนใช้งานยาว มึงจะรออะไร กดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close detail drill chuck and bit set batteries placed beside carrying case no text no logo",
-      "tts_text": "ดูนี่ก่อน ทำชั้นวางเองได้เลย สว่านไร้สายครบชุด ตอนนี้แค่สามร้อยหกสิบเจ็ดบาท กดตอนนี้คุ้มสุด",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo wide angle",
+      "tts_text": "แม่งโคตรเสียดาย กูซื้อสว่านไร้สายไปสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท ได้ดอกครบทั้งชุด มึงกดก่อนของเกลี้ยง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic man drilling wall to install shelf cordless drill kit visible on floor no text no logo",
-      "tts_text": "โอ๊ยแม่ราคานี้แรงมาก สว่านไร้สายแรงดีจับถนัดมือ ตอนนี้สามร้อยหกสิบเจ็ดบาท ช้าอดนะพูดเลย",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo detail shot",
+      "tts_text": "โคตรพลาดเลยกู ซื้อสว่านไร้สายชุดนี้สามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท เจาะปูนไม้เหล็กได้ มึงรีบกดด่วน",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic flat lay cordless drill two batteries charger bits sockets arranged left to right no text no logo",
-      "tts_text": "เฮ้ยจะไม่กดได้ไง สว่านไร้สายแบตสองก้อนพร้อมอุปกรณ์ครบ ตอนนี้สามร้อยหกสิบเจ็ดบาท รีบด่วนก่อนหมด",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo workshop scene",
+      "tts_text": "บอกเลยโคตรแสบใจ กูซื้อสว่านไร้สายเต็มสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท งานซ่อมบ้านสบาย มึงกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic assembling wooden furniture using cordless drill accessories and case beside no text no logo",
-      "tts_text": "ปัญหาน็อตแน่นแก้ได้เลย สว่านไร้สายช่วยจบ ตอนนี้สามร้อยหกสิบเจ็ดบาท ราคานี้ไม่มีบ่อยนะ",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo realistic home",
+      "tts_text": "โอ๊ยยย แม่งเจ็บใจ กูเพิ่งซื้อสว่านไร้สายสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท ของครบทั้งกล่อง มึงจะไม่กดได้ยังไง กดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close up cordless drill battery slot two batteries and charger visible no text no logo",
-      "tts_text": "ดูนี่เลยทุกคน สว่านไร้สายแบตสองก้อนใช้งานได้นาน ตอนนี้สามร้อยหกสิบเจ็ดบาท ของดีต้องรีบ",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo random angle",
+      "tts_text": "แม่งโคตรช้ำ กูจัดสว่านไร้สายไปสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท ได้แบตสองก้อน มึงรีบกดก่อนหาย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic workshop table cordless drill kit open case showing thirty two pieces accessories no text no logo",
-      "tts_text": "โอ๊ยราคาดีขนาดนี้ สว่านไร้สายพร้อมอุปกรณ์ครบกล่อง ตอนนี้สามร้อยหกสิบเจ็ดบาท ไม่กดเสียดายนะ",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo close perspective",
+      "tts_text": "ฉิบหายล่ะ กูซื้อสว่านไร้สายชุดครบสามร้อยเก้าสิบเก้าบาท วันนี้เหลือสามร้อยหกสิบเจ็ดบาท ซ่อมบ้านจบในกล่องเดียว มึงกดด่วนก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic drilling into metal surface cordless drill accessories laid out nearby no text no logo",
-      "tts_text": "ของกำลังจะหมดแล้ว สว่านไร้สายแรงดีใช้ได้หลายงาน ตอนนี้สามร้อยหกสิบเจ็ดบาท ช้าไม่ได้แล้ว",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo realistic lighting",
+      "tts_text": "โคตรสะเทือนใจ กูซื้อสว่านไร้สายไปสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท โปรแบบนี้ไม่รอนะ มึงกดเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic home repair scene cordless drill kit on floor bits scattered neatly no text no logo",
-      "tts_text": "เฮ้ยใครชอบซ่อมเองฟัง สว่านไร้สายชุดนี้ช่วยได้ ตอนนี้สามร้อยหกสิบเจ็ดบาท กดตอนนี้คุ้มสุด",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo random shot",
+      "tts_text": "แม่งเจ็บจี๊ด กูจ่ายสว่านไร้สายเต็มสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท ของครบสามสิบสองชิ้น มึงกดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic close angle drill body and grip detail batteries and charger placed beside no text no logo",
-      "tts_text": "จะไม่กดได้ยังไง สว่านไร้สายจับถนัดมือ แบตสองก้อน ตอนนี้สามร้อยหกสิบเจ็ดบาท รีบเลยก่อนเกลี้ยง",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo home repair scene",
+      "tts_text": "โคตรเสียดายเงิน กูซื้อสว่านไร้สายสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท เจาะขันจบครบ มึงรีบกดก่อนของเกลี้ยง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic garage shelf installation using cordless drill kit visible in background no text no logo",
-      "tts_text": "โอ๊ยแม่คุ้มมาก สว่านไร้สายครบชุดทำงานได้จริง ตอนนี้สามร้อยหกสิบเจ็ดบาท รีบกดก่อนของหมด",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo dynamic angle",
+      "tts_text": "แม่งโคตรเฟล กูเพิ่งซื้อสว่านไร้สายสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท ใช้ได้ทุกงานในบ้าน มึงกดเลยก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic open carrying case showing drill bits sockets charger batteries arranged left to right no text no logo",
-      "tts_text": "ดูนี่ก่อนทุกคน สว่านไร้สายพร้อมดอกสามสิบสองชิ้น ตอนนี้สามร้อยหกสิบเจ็ดบาท ต้องรีบกดแล้ว",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo clean setup",
+      "tts_text": "โคตรขัดใจ กูซื้อสว่านไร้สายชุดนี้สามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท แถมอุปกรณ์ครบ มึงกดด่วนอย่าช้า",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cordless drill tightening screw on wooden board kit accessories beside no text no logo",
-      "tts_text": "เฮ้ยน็อตแน่นแค่ไหนก็เอาอยู่ สว่านไร้สายแรงดี ตอนนี้สามร้อยหกสิบเจ็ดบาท ไม่กดตอนนี้จะเสียดาย",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo realistic room",
+      "tts_text": "โอ๊ยโคตรปวดใจ กูซื้อสว่านไร้สายเต็มสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท โปรแรงขนาดนี้ มึงรีบกดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic flat lay cordless drill two batteries charger and accessory kit arranged neatly no text no logo",
-      "tts_text": "โอ๊ยของมันต้องมี สว่านไร้สายแบตสองก้อนพร้อมกล่อง ตอนนี้สามร้อยหกสิบเจ็ดบาท รีบเลยของใกล้หมด",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo random perspective",
+      "tts_text": "แม่งโคตรจี๊ด กูซื้อสว่านไร้สายไปสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท งานช่างจบในกล่องเดียว มึงกดก่อนของหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic home improvement scene cordless drill kit on workbench realistic lighting no text no logo",
-      "tts_text": "รีบกดด่วนเลยจ้า สว่านไร้สายครบชุดใช้งานได้จริง ตอนนี้สามร้อยหกสิบเจ็ดบาท หมดแล้วหมดเลย",
+      "visual_prompt": "9:16 photorealistic cordless drill set complete kit as in reference image from left to right hard case opened drill body battery two packs charger drill bits socket set flexible extension no text no logo lifestyle shot",
+      "tts_text": "โคตรเซ็งใจ กูเพิ่งซื้อสว่านไร้สายสามร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเจ็ดบาท ของกำลังจะเกลี้ยงแล้วแม่ มึงกดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
