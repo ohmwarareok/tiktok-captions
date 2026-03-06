@@ -366,6 +366,839 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1733976039790249169": [
+    {
+      "visual_prompt": "9:16 photorealistic solar flood light with solar panel placed outdoors on wall, hand pointing at LED panel then solar panel, camera orbit showing front side back panel and remote, realistic daylight footage, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยใครไม่อยากได้ของถูกก็เลื่อนผ่าน คนที่เคยจ่ายสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีจุก ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์สว่างด้วยพลังแสงอาทิตย์ เปิดปิดง่าย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar floodlight mounted on house wall at night glowing LED panel, solar panel placed above receiving light, camera pan showing product and remote, no text, no logo",
+      "tts_text": "สัสกูพลาดเองที่เคยซื้อแพง คนเคยจ่ายสองพันห้าร้อยเก้าสิบเก้าบาทแม่งมีเคือง ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์เปิดติดอัตโนมัติ กลางคืนสว่าง กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar LED floodlight and solar panel set placed in garden at dusk lighting area, camera slow orbit showing front panel and solar panel connection, no text, no logo",
+      "tts_text": "เหี้ยราคานี้ยังไม่กดคือพลาด คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีสะอึก ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์ชาร์จพลังแดด เปิดตอนมืด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar light and solar panel mounted on exterior wall lighting driveway at night, hand using remote control pointing at light, realistic scene, no text, no logo",
+      "tts_text": "แม่งใครยังซื้อราคาเต็มนี่พลาดหนัก คนเคยจ่ายสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีจุก ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์สว่างด้วยพลังแดด ไม่ต้องเดินสายไฟ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar LED floodlight placed beside solar panel on outdoor wall during daytime, camera close up LED chips and panel surface, realistic lighting, no text, no logo",
+      "tts_text": "สัสของถูกขนาดนี้ยังไม่กดอีกเหรอ คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีเคือง ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์รับแดดกลางวัน กลางคืนสว่าง กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar light lighting backyard at night with solar panel visible above, camera slide showing wide illumination area, realistic night footage, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ยใครไม่กดตอนนี้คือพลาด คนเคยจ่ายสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีเสียดาย ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์เปิดอัตโนมัติ ตอนมืดสว่าง กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand installing solar LED floodlight on exterior wall with solar panel mounted above, close shot screws and bracket, realistic scene, no text, no logo",
+      "tts_text": "โคตรพลาดถ้าเลื่อนผ่าน คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์ติดผนังง่าย รับแดดกลางวัน กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar floodlight lighting house entrance at night solar panel visible on wall camera orbit product detail LED panel glowing, no text, no logo",
+      "tts_text": "เหี้ยราคานี้ไม่กดคือเสียโอกาส คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีสะอึก ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์สว่างลานบ้านตอนกลางคืน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar LED light placed on wall lighting garden path at night camera pan across illuminated ground solar panel visible, no text, no logo",
+      "tts_text": "สัสใครยังซื้อแพงอยู่เสียดาย คนเคยจ่ายสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีจุก ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์เปิดติดตอนมืด สว่างทั่วพื้นที่ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar floodlight and solar panel displayed on outdoor wall during daytime close up LED panel texture and solar cells, no text, no logo",
+      "tts_text": "เหี้ยของแบบนี้ต้องรีบกด คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีเคือง ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์รับแดดกลางวัน กลางคืนเปิด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar floodlight lighting driveway at night camera wide shot showing illuminated area solar panel mounted nearby, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์เปิดอัตโนมัติ ตอนมืดสว่าง กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand holding remote control pointing to solar floodlight mounted on wall LED panel lighting up realistic night scene, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยของถูกขนาดนี้ยังไม่กด คนเคยจ่ายสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีเสียดาย ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์เปิดปิดด้วยรีโมท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar floodlight and solar panel set lying on outdoor table camera orbit product showing cable connection LED chips, no text, no logo",
+      "tts_text": "แม่งใครยังซื้อราคาเต็มนี่พลาด คนเคยจ่ายสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีจุก ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์รับแดดกลางวัน เปิดตอนมืด กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar floodlight lighting garden at night wide shot solar panel visible on roof edge realistic night environment, no text, no logo",
+      "tts_text": "สัสราคานี้ยังไม่กดอีกเหรอ คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีเคือง ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์สว่างลานบ้านตอนกลางคืน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar LED floodlight close up LED panel shining at night camera slide showing brightness area solar panel nearby, no text, no logo",
+      "tts_text": "เหี้ยของแบบนี้ต้องมี คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีสะอึก ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์สว่างตอนมืด ไม่ต้องเสียบไฟ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar floodlight mounted on wall during sunset solar panel receiving sunlight camera orbit product realistic lighting, no text, no logo",
+      "tts_text": "โคตรพลาดถ้าเลื่อนผ่าน คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์รับแดดกลางวัน กลางคืนเปิด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar floodlight lighting backyard fence at night camera wide view showing illumination and solar panel detail, no text, no logo",
+      "tts_text": "เหี้ยราคานี้ไม่กดคือเสียใจ คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีเคือง ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์เปิดอัตโนมัติ ตอนมืดสว่าง กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar LED floodlight and solar panel set on outdoor wall camera close up showing cable and LED panel realistic lighting, no text, no logo",
+      "tts_text": "สัสใครยังไม่กดนี่พลาดจริง คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีเสียดาย ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์รับแดดกลางวัน กลางคืนสว่าง กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar floodlight shining on house wall at night with solar panel above camera pan across bright area realistic footage, no text, no logo",
+      "tts_text": "เหี้ยของถูกแบบนี้ต้องรีบกด คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีจุก ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์เปิดตอนมืด สว่างลานบ้าน กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar floodlight placed on outdoor wall lighting driveway solar panel visible camera orbit product LED panel detail, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาดหนัก คนเคยซื้อสองพันห้าร้อยเก้าสิบเก้าบาทนี่มีสะอึก ตอนนี้เหลือสามร้อยหนึ่งบาท โคมไฟโซล่าเซลล์รับแดดกลางวัน กลางคืนเปิด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732002323327779949": [
+    {
+      "visual_prompt": "9:16 photorealistic fast charging cable 3in1 with wall charger placed on table, hand plugging cable into phone then into charger, rotating product front side connectors detail chip screen, realistic product footage, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยใครไม่อยากได้ของถูกก็เลื่อนผ่าน คนที่เคยจ่ายร้อยเจ็ดสิบเก้าบาทนี่มีจุก ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ชาร์จหลายเครื่องสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic braided 3in1 fast charging cable with charger adapter, hand connecting micro type c lightning to phone and tablet, product rotating detail chip display, studio lighting, no text, no logo",
+      "tts_text": "สัสกูโง่เองที่ซื้อแพง คนเคยจ่ายร้อยเจ็ดสิบเก้าบาทแม่งมีเคือง ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ เสียบทีเดียวหลายเครื่อง กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cable charging multiple phones on desk with charger adapter plugged into wall, braided cable detail chip display glowing, camera pan connectors, no text, no logo",
+      "tts_text": "เหี้ยราคานี้ยังไม่กดคือพลาด คนที่เคยซื้อร้อยเจ็ดสิบเก้าบาทนี่มีสะอึก ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ชาร์จหลายเครื่องพร้อมกัน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fast charging cable 3 connectors lying beside charger adapter and smartphone on desk, hand plugging cable, realistic lighting, no text, no logo",
+      "tts_text": "แม่งใครยังซื้อราคาเต็มนี่พลาดหนัก คนเคยจ่ายร้อยเจ็ดสิบเก้าบาทนี่มีจุก ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ พกชุดเดียวจบ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic charger adapter plugged into wall socket with braided 3in1 cable charging phone on table, close shot connectors detail, no text, no logo",
+      "tts_text": "สัสของถูกขนาดนี้ยังไม่กดอีกเหรอ คนเคยซื้อร้อยเจ็ดสิบเก้าบาทนี่มีเคือง ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ เสียบหลายเครื่องได้ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic braided cable 3in1 rotating on table beside charger adapter, camera orbit connectors micro type c lightning detail chip display, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ยใครไม่กดตอนนี้คือพลาด คนเคยจ่ายร้อยเจ็ดสิบเก้าบาทนี่มีเสียดาย ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ใช้หลายรุ่น กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand holding charger adapter and 3in1 cable plugging into phone and power bank, realistic lighting product showcase, no text, no logo",
+      "tts_text": "โคตรพลาดถ้าเลื่อนผ่าน คนเคยซื้อร้อยเจ็ดสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ชาร์จง่ายหลายเครื่อง กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cable charging phone beside laptop with charger adapter visible braided cable texture close up connectors, no text, no logo",
+      "tts_text": "เหี้ยราคานี้ไม่กดคือเสียโอกาส คนเคยจ่ายร้อยเจ็ดสิบเก้าบาทนี่มีสะอึก ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ชาร์จได้หลายรุ่น กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cable plugged into phone and charger adapter on desk braided detail chip display glowing, realistic product footage, no text, no logo",
+      "tts_text": "สัสใครยังซื้อแพงอยู่เสียดาย คนเคยจ่ายร้อยเจ็ดสิบเก้าบาทนี่มีจุก ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ เสียบทีเดียวหลายเครื่อง กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic braided cable charging smartphone with charger adapter on wall socket connectors visible close shot realistic lighting, no text, no logo",
+      "tts_text": "เหี้ยของแบบนี้ต้องรีบกด คนเคยซื้อร้อยเจ็ดสิบเก้าบาทนี่มีเคือง ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ พกชุดเดียวจบ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic charging cable 3in1 lying beside charger adapter and smartphone rotating product shot connectors detail chip display, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด คนเคยซื้อร้อยเจ็ดสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ใช้หลายเครื่อง กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand plugging cable into phone while charger adapter connected to wall braided cable close up connectors, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยของถูกขนาดนี้ยังไม่กด คนเคยจ่ายร้อยเจ็ดสิบเก้าบาทนี่มีเสียดาย ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ชาร์จหลายเครื่อง กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic charger adapter and braided cable charging phone on desk connectors visible chip display glowing realistic lighting, no text, no logo",
+      "tts_text": "แม่งใครยังซื้อราคาเต็มนี่พลาด คนเคยจ่ายร้อยเจ็ดสิบเก้าบาทนี่มีจุก ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ พกเส้นเดียวจบ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic braided 3in1 cable plugged into phone tablet and power bank beside charger adapter realistic desk environment, no text, no logo",
+      "tts_text": "สัสราคานี้ยังไม่กดอีกเหรอ คนเคยซื้อร้อยเจ็ดสิบเก้าบาทนี่มีเคือง ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ชาร์จหลายเครื่องสบาย กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cable charging smartphone beside laptop charger adapter plugged into wall connectors detail close shot, no text, no logo",
+      "tts_text": "เหี้ยของแบบนี้ต้องมี คนเคยซื้อร้อยเจ็ดสิบเก้าบาทนี่มีสะอึก ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ใช้ได้หลายเครื่อง กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand coiling braided cable then plugging into charger adapter and phone realistic lighting connectors visible, no text, no logo",
+      "tts_text": "โคตรพลาดถ้าเลื่อนผ่าน คนเคยจ่ายร้อยเจ็ดสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ชาร์จง่ายหลายเครื่อง กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cable charging phone beside power bank and charger adapter braided cable detail chip display close shot, no text, no logo",
+      "tts_text": "เหี้ยราคานี้ไม่กดคือเสียใจ คนเคยซื้อร้อยเจ็ดสิบเก้าบาทนี่มีเคือง ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ พกชุดเดียวจบ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cable rotating on desk beside charger adapter connectors micro type c lightning detail chip display realistic lighting, no text, no logo",
+      "tts_text": "สัสใครยังไม่กดนี่พลาดจริง คนเคยซื้อร้อยเจ็ดสิบเก้าบาทนี่มีเสียดาย ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ชาร์จหลายเครื่อง กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic charger adapter plugged into wall with braided cable charging smartphone connectors detail close up realistic lighting, no text, no logo",
+      "tts_text": "เหี้ยของถูกแบบนี้ต้องรีบกด คนเคยซื้อร้อยเจ็ดสิบเก้าบาทนี่มีจุก ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ใช้หลายเครื่อง กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cable plugged into smartphone while charger adapter lies beside braided texture connectors visible studio lighting, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาดหนัก คนเคยซื้อร้อยเจ็ดสิบเก้าบาทนี่มีสะอึก ตอนนี้เหลือเจ็ดสิบเอ็ดบาท สายชาร์จไวสามอินวันพร้อมหัวชาร์จ ชาร์จหลายเครื่องสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731507797024474293": [
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone footage, portable handheld fan with LED display model N607 standing on table exactly like product photo showing two units side by side, indoor natural light, casual ecommerce filming, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังทนร้อนอยู่ก็ทนต่อไปนะ พัดลมมือถือหน้าจอดิจิตอล จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท ปรับแรงลมได้หลายระดับ มีแบตในตัว พกง่าย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone vertical video showing handheld fan N607 with LED screen placed on desk like product display, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยสมน้ำหน้าคนที่ซื้อสี่ร้อยเก้าสิบเก้าบาท ตอนนี้พัดลมมือถือหน้าจอดิจิตอลเหลือเก้าสิบแปดบาท ปรับแรงลมได้หลายระดับ มีแบตในตัว พกไปข้างนอกสบาย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone clip showing portable fan with LED display placed on table like ecommerce filming setup, natural light, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยซื้อสี่ร้อยเก้าสิบเก้าบาทนี่มีร้อง ตอนนี้พัดลมมือถือหน้าจอดิจิตอลเหลือเก้าสิบแปดบาท ปรับแรงลมหลายระดับ แบตในตัว ใช้ง่าย พกสะดวก กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone video showing handheld fan with LED display upright on table like ecommerce video, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "เห้ยดูนี่ก่อนทุกคน พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ แบตในตัว ใช้ได้ยาว จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone footage of portable fan N607 on desk exactly like product image layout, indoor daylight, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้ใครไม่กดคือพลาด พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมได้หลายระดับ มีแบตในตัว จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic phone handheld shot showing portable fan with LED screen on tabletop like product ecommerce scene, indoor light, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครยังไม่มีพัดลมมือถือดูนี่ก่อน พัดลมหน้าจอดิจิตอล ปรับแรงลมหลายระดับ แบตในตัว พกง่าย จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic smartphone clip of portable handheld fan standing on simple desk like ecommerce filming, natural indoor light, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยจริง ใครกำลังหาพัดลมพกพาดูนี่ พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ มีแบตในตัว จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone video showing portable fan N607 on desk exactly like product image, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือเสียดาย พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ มีแบตในตัว ใช้ได้นาน จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic smartphone footage of handheld fan with LED display on tabletop like ecommerce listing video, natural light, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย คนที่ซื้อสี่ร้อยเก้าสิบเก้าบาทนี่มีร้อง ตอนนี้พัดลมมือถือหน้าจอดิจิตอลเหลือเก้าสิบแปดบาท ปรับแรงลมได้หลายระดับ พกง่าย รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic casual smartphone shot showing portable fan standing on desk like ecommerce filming scene, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยกูเห็นราคานี้ยังตกใจ พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ แบตในตัว ใช้ได้นาน จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone video showing portable handheld fan with LED display placed on simple table like ecommerce filming setup, natural indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ถ้าไม่อยากมีพัดลมพกพาก็ไม่ต้องกดนะ พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic vertical smartphone video showing portable fan N607 standing upright on desk like ecommerce video scene, indoor light, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครกำลังหาอะไรเป่าลมแรงๆดูนี่ก่อน พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมได้หลายระดับ แบตในตัว จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone footage of portable fan with LED display on table like ecommerce filming scene, natural lighting, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยราคานี้ใครไม่กดคือโง่ละ พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ มีแบตในตัว ใช้ได้นาน จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone footage of handheld fan with LED screen placed on tabletop like ecommerce filming setup, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยของแบบนี้ต้องมีแล้วปะ พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมได้หลายระดับ แบตในตัว พกง่าย จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic phone handheld shot showing portable handheld fan standing on desk like ecommerce listing scene, indoor light, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยจริง ราคานี้ไม่กดคือพลาด พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ แบตในตัว จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731935212760500823": [
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone footage showing cordless high pressure washer gun kit with hose and battery on table exactly like product set layout, human hand holding spray gun testing water spray outdoors, realistic ecommerce footage, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังล้างรถถูจนแขนหลุดอยู่ โง่จริง ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ต่อสายดูดน้ำได้ ล้างรถล้างพื้นสะอาดไว กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone camera showing cordless pressure washer gun spraying water on dirty floor outside house, battery pack visible beside tool, natural daylight, no text, no logo",
+      "tts_text": "โอ๊ยใครยังเอาถังน้ำสาดล้างรถอยู่ แม่งพลาด ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย กดปุ๊บฉีดแรง ล้างรถล้างพื้นไว รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld unboxing showing cordless high pressure washer gun kit with hose, battery and nozzles placed on floor exactly like product kit, natural lighting, no text, no logo",
+      "tts_text": "ด่าตัวเองเลย กูเคยซื้อที่แพงตั้งสี่ร้อยยี่สิบ ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย เสียบแบตแล้วฉีดได้ทันที ล้างรถสบาย กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual phone footage showing cordless pressure washer spraying car wheel and dirt coming off, battery tool in hand, outdoor driveway setting, no text, no logo",
+      "tts_text": "เหี้ยจริง ใครยังถูพื้นจนเมื่อยอยู่ ฟังนี่ ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ฉีดแรง ล้างคราบโคลนไว ล้างรถล้างพื้นจบ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone footage showing person holding cordless pressure washer gun spraying water onto concrete floor removing dirt, natural daylight, no text, no logo",
+      "tts_text": "โถใครยังล้างรถแบบถูมืออยู่ โง่เลย ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ต่อสายดูดน้ำได้ ฉีดแรง ล้างคราบสบาย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone video showing cordless washer gun kit on ground with hose connected to bucket water source, user spraying patio floor, no text, no logo",
+      "tts_text": "เห้ยราคานี้ยังไม่กดอีกเหรอ เมื่อก่อนสี่ร้อยยี่สิบบาท ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ดูดน้ำจากถังได้ ล้างบ้านล้างรถไว กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual phone footage showing cordless pressure washer gun spraying muddy bicycle clean, battery tool visible, outdoor scene, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังเอาสายยางฉีดเบาๆอยู่ พลาดแล้ว ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ฉีดแรง คราบหลุดไว ล้างรถง่าย กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone footage showing cordless pressure washer gun spraying dirt from tile floor, battery pack attached, natural daylight outdoor cleaning scene, no text, no logo",
+      "tts_text": "โอ๊ยของแบบนี้ต้องมีแล้วปะ ใครยังถูพื้นจนเหนื่อยอยู่ ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ฉีดแรง ล้างคราบไว รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld shot showing cordless washer gun spraying car door removing dust and dirt, outdoor driveway setting, realistic phone footage, no text, no logo",
+      "tts_text": "ด่าตัวเองเลย ทำไมไม่ซื้อก่อน ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ฉีดแรง ล้างรถล้างพื้นสะอาดไว กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone camera recording cordless washer gun spraying muddy motorcycle wheel clean, outdoor daylight environment, no text, no logo",
+      "tts_text": "เหี้ยจริง ใครยังล้างรถแบบถูมืออยู่ ฟังนี่ ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย กดปุ๊บฉีดแรง ล้างคราบโคลนง่าย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual phone video showing cordless pressure washer spraying dirty outdoor tiles clean, hose dipping into bucket water, no text, no logo",
+      "tts_text": "โอ๊ยใครยังใช้สายยางฉีดน้ำเบาๆอยู่ โง่เลย ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ดูดน้ำจากถังได้ ฉีดแรง ล้างบ้านไว กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld unboxing of cordless washer gun kit with hose, battery and spray tips on floor exactly like product layout, natural lighting, no text, no logo",
+      "tts_text": "เห้ยราคานี้ไม่กดคือพลาดจริง แต่ก่อนสี่ร้อยยี่สิบบาท ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย เสียบแบตแล้วฉีดได้ทันที กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone footage showing cordless pressure washer gun spraying muddy shoes clean outdoors, battery powered washer in hand, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ของแบบนี้ต้องมี ใครยังล้างรองเท้าถูเองอยู่ ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ฉีดแรง ล้างคราบโคลนไว กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone video showing cordless washer gun spraying dirt from outdoor wall surface, natural daylight cleaning scene, no text, no logo",
+      "tts_text": "โอ๊ยใครยังล้างพื้นบ้านจนเมื่อยอยู่ พลาดแล้ว ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ฉีดแรง ล้างคราบง่าย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone footage showing cordless washer gun spraying car tire removing mud, battery attached tool visible, outdoor driveway environment, no text, no logo",
+      "tts_text": "ด่าตัวเองแรงๆเลย กูเคยซื้อแพงกว่านี้ ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ฉีดแรง ล้างรถสะอาดไว กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual phone video showing cordless pressure washer spraying muddy floor near house entrance clean, hose drawing water from bucket, no text, no logo",
+      "tts_text": "เหี้ยจริง ใครยังเอาถังน้ำสาดล้างพื้นอยู่ โง่เลย ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ดูดน้ำจากถังได้ ฉีดแรง กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone footage showing cordless washer gun spraying garden dirt from patio stones, realistic outdoor environment, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ยังไม่กดอีกเหรอ เมื่อก่อนสี่ร้อยยี่สิบบาท ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ฉีดแรง ล้างคราบไว รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone camera showing cordless pressure washer gun spraying muddy bicycle clean outdoors, battery tool visible, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังล้างจักรยานแบบถูมืออยู่ พลาดแล้ว ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ฉีดแรง ล้างคราบโคลนไว กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld video showing cordless washer gun spraying dirty car door clean with strong water stream, natural daylight driveway scene, no text, no logo",
+      "tts_text": "โถใครยังล้างรถถูมืออยู่ โง่เลย ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย ฉีดแรง ล้างคราบไว มือถือยังซื้อได้ ทำไมไม่กด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual phone footage showing cordless washer gun spraying dirty outdoor tiles clean, hose in water bucket, battery tool visible, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ของถูกขนาดนี้ยังไม่กดอีกเหรอ ตอนนี้เหลือสองร้อยหนึ่งบาท เครื่องฉีดน้ำแรงดันสูงไร้สาย กดปุ๊บฉีดแรง ล้างบ้านล้างรถไว รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730123749688117327": [
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone footage, usb c fast charge cable and wall charger placed on desk beside smartphone, human hand plugging cable into phone, natural indoor lighting, realistic ecommerce footage, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังซื้อสายชาร์จร้อยสิบอยู่ โง่จริง ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ ชาร์จไว มือถือไม่รอนาน รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone camera showing charger adapter and usb c cable charging smartphone on table, casual home lighting, realistic handheld video, no text, no logo",
+      "tts_text": "ด่าตัวเองแรงๆเลย กูซื้อสายชาร์จร้อยสิบทำไม ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ เสียบปุ๊บไฟเข้าไว มือถือพร้อมใช้ กดตะกร้าด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual phone footage of usb c cable and wall charger on wooden desk with smartphone charging icon visible, natural lighting, no text, no logo",
+      "tts_text": "สมน้ำหน้าใครซื้อไปตอนร้อยสิบบาท ตอนนี้เหลือห้าสิบแปดบาทเอง สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ ชาร์จไวทันใจ ใช้กับมือถือได้หลายรุ่น รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld unboxing shot showing usb c cable and charger adapter taken from box and connected to smartphone, indoor room lighting, no text, no logo",
+      "tts_text": "โอ๊ยใครยังจ่ายสายชาร์จร้อยสิบอยู่ โง่ชัดๆ ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ เสียบแล้วไฟเข้าไว มือถือไม่รอชาร์จ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 close handheld shot showing usb c cable plugging into smartphone while charger adapter connected to wall socket, realistic home scene, no text, no logo",
+      "tts_text": "เห้ยบอกเลยนะ ใครยังใช้สายเก่าชาร์จช้าอยู่แม่งพลาด ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ เสียบปุ๊บไฟเข้าไว กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone footage showing charger adapter and usb c cable beside smartphone battery charging on desk, casual room lighting, no text, no logo",
+      "tts_text": "เหี้ยจริง กูซื้อสายชาร์จร้อยสิบไปก่อน ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ ชาร์จไวทันใจ มือถือพร้อมใช้ รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 smartphone charging with usb c cable connected to wall charger on bedside table, warm indoor lighting, realistic phone video feel, no text, no logo",
+      "tts_text": "ใครยังซื้อสายชาร์จแพงอยู่ โง่เลย ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ เสียบง่าย ชาร์จไว มือถือไม่ดับ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld video showing usb c fast charge cable coiled beside charger adapter and smartphone charging, natural indoor light, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ยังไม่กดอีกเหรอ แต่ก่อนร้อยสิบบาท ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ ชาร์จไว ใช้ทุกวันสบาย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone camera recording person plugging usb c cable into smartphone and charger adapter on desk, realistic daily life scene, no text, no logo",
+      "tts_text": "เห้ยอย่าพลาดนะ ใครซื้อสายชาร์จร้อยสิบก่อนหน้านี้ เจ็บใจแน่ ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ ชาร์จไว กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual home phone video showing charger adapter and usb c cable beside smartphone charging on wooden table, no text, no logo",
+      "tts_text": "เฮ้ยของแบบนี้ต้องมีแล้วปะ ใครยังใช้สายเก่าชาร์จช้าอยู่แม่งพลาด ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 close phone footage showing usb c cable connecting smartphone to wall charger adapter with battery charging icon, natural lighting, no text, no logo",
+      "tts_text": "โอ๊ยใครยังไม่มีสายชาร์จแบบนี้ ฟังให้ดี ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ เสียบแล้วไฟเข้าไว มือถือพร้อมใช้ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone video showing usb c fast charging cable and charger adapter next to smartphone on sofa table, realistic environment, no text, no logo",
+      "tts_text": "ด่าตัวเองเลย กูซื้อสายชาร์จร้อยสิบไปทำไม ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ ชาร์จไว มือถือไม่รอ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual phone footage showing charger adapter plugged into wall with usb c cable charging smartphone on desk, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ของถูกขนาดนี้ยังไม่กดอีกเหรอ ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ เสียบปุ๊บชาร์จไว รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone camera showing usb c cable and charger adapter unboxed and connected to smartphone on wooden desk, indoor lighting, no text, no logo",
+      "tts_text": "ใครยังซื้อสายชาร์จร้อยสิบอยู่ กูบอกเลยพลาด ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ ชาร์จไว มือถือพร้อมใช้ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone footage showing smartphone battery increasing while connected to usb c cable and charger adapter on bedside table, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาดจริง แต่ก่อนร้อยสิบบาท ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ เสียบง่าย ชาร์จไว กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone footage showing usb c cable plugged into smartphone while charger adapter sits beside it on desk, realistic room light, no text, no logo",
+      "tts_text": "เห้ยใครยังไม่มีสายชาร์จแบบนี้ แม่งพลาดแล้ว ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ ชาร์จไว มือถือไม่รอนาน กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual handheld shot showing charger adapter plugged into wall socket with usb c cable charging smartphone on table, no text, no logo",
+      "tts_text": "ด่าตัวเองเลย ทำไมซื้อสายชาร์จร้อยสิบก่อน ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ เสียบปุ๊บไฟเข้าไว รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone camera video showing usb c cable and charger adapter next to smartphone charging on wooden desk, realistic lifestyle footage, no text, no logo",
+      "tts_text": "โถใครซื้อสายชาร์จร้อยสิบไปก่อนนี่เจ็บใจแน่ ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ ชาร์จไว ใช้ทุกวันสบาย กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 close handheld shot showing usb c cable being plugged into smartphone while charger adapter connected to wall, realistic indoor lighting, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยราคานี้ยังไม่กดอีกเหรอ ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ เสียบแล้วชาร์จไว มือถือพร้อมใช้ รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone footage showing usb c cable and charger adapter charging smartphone on bedside table at night, realistic home lighting, no text, no logo",
+      "tts_text": "ใครยังใช้สายเก่าชาร์จช้าอยู่ ด่าตัวเองได้เลย ตอนนี้เหลือห้าสิบแปดบาท สายชาร์จยูเอสบีซีพร้อมหัวชาร์จยี่สิบวัตต์ ชาร์จไวทันใจ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729945641711733086": [
+    {
+      "visual_prompt": "9:16 photorealistic smartphone playing music on mobile phone speaker stand audio bracket glowing sound wave base product box behind on desk camera slow push product unchanged no text no logo",
+      "tts_text": "เหี้ย ดูนี่ก่อนทุกคน ขาตั้งมือถือพร้อมลำโพง เมื่อก่อนห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือดูคลิปเสียงเด้ง โต๊ะโล่ง ไม่ต้องต่อลำโพงเพิ่ม กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close shot smartphone playing video on mobile phone speaker stand audio bracket glowing wave base desk setup product box background no text no logo",
+      "tts_text": "เชี่ยเอ้ย สมน้ำหน้าคนที่เคยกดห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท ขาตั้งมือถือพร้อมลำโพง วางปุ๊บเสียงดังขึ้น ดูซีรีส์สบาย กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic side angle smartphone on mobile phone speaker stand amplifier base glowing sound wave product packaging behind clean desk no text no logo",
+      "tts_text": "เหี้ย ของแบบนี้ต้องมีแล้วปะ ขาตั้งมือถือพร้อมลำโพง จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือเสียงเด้ง ดูหนังเพลิน โต๊ะไม่รก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic top angle smartphone standing on mobile phone speaker stand audio bracket glowing sound wave base product box behind desk lighting no text no logo",
+      "tts_text": "เชี่ย ดูก่อนทุกคน ใครเคยซื้อห้าร้อยเก้าสิบเก้าบาทนี่เจ็บใจ ตอนนี้เหลือเจ็ดสิบเอ็ดบาท ขาตั้งมือถือพร้อมลำโพง วางมือถือดูคลิปเสียงดังขึ้น กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cinematic desk setup smartphone on mobile phone speaker stand amplifier base glowing wave effect packaging background no text no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้ไม่กดคือพลาด ขาตั้งมือถือพร้อมลำโพง ปกติห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือเสียงก้อง ดูคลิปชัด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic angled camera smartphone on mobile phone speaker stand sound amplifier base glowing wave effect desk environment product box no text no logo",
+      "tts_text": "เชี่ยเอ้ย คนที่ซื้อราคาเต็มห้าร้อยเก้าสิบเก้าบาทนี่โคตรพลาด ตอนนี้เหลือเจ็ดสิบเอ็ดบาท ขาตั้งมือถือพร้อมลำโพง วางมือถือเสียงดังขึ้น ดูหนังสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone vertical on mobile phone speaker stand amplifier base glowing sound wave studio desk product box behind no text no logo",
+      "tts_text": "เหี้ย ดูนี่ก่อน ขาตั้งมือถือพร้อมลำโพง จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือดูหนังเสียงดังขึ้น โต๊ะโล่ง รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close cinematic product shot mobile phone speaker stand audio bracket glowing wave base packaging background desk no text no logo",
+      "tts_text": "เชี่ยย ใครที่เคยจ่ายห้าร้อยเก้าสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือเจ็ดสิบเอ็ดบาท ขาตั้งมือถือพร้อมลำโพง วางมือถือเสียงเด้ง ดูคลิปเพลิน กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic phone playing music on mobile phone speaker stand amplifier base glowing sound wave minimal desk product packaging behind no text no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้จะไม่กดได้ยังไง ขาตั้งมือถือพร้อมลำโพง จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือเสียงดังขึ้น ดูหนังเพลิน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone standing on mobile phone speaker stand amplifier base glowing sound wave product box background desk no text no logo",
+      "tts_text": "เชี่ย ดูก่อนทุกคน ของแบบนี้ต้องมี ขาตั้งมือถือพร้อมลำโพง จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือเสียงเด้ง ดูคลิปสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic desk product showcase smartphone on mobile phone speaker stand glowing sound wave base packaging behind minimal setup no text no logo",
+      "tts_text": "เหี้ยเอ้ย สมน้ำหน้าคนที่ซื้อเต็มห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท ขาตั้งมือถือพร้อมลำโพง วางมือถือดูคลิปเสียงก้อง โต๊ะโล่ง กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cinematic close product shot smartphone on mobile phone speaker stand amplifier base glowing wave effect product box background no text no logo",
+      "tts_text": "เชี่ย ของแบบนี้ไม่กดคือโง่แล้ว ขาตั้งมือถือพร้อมลำโพง จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือเสียงดัง ดูหนังสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic angled view smartphone on mobile phone speaker stand amplifier base glowing sound waves desk environment packaging behind no text no logo",
+      "tts_text": "เหี้ย ดูก่อน ราคาแม่งลงแรง ขาตั้งมือถือพร้อมลำโพง จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือเสียงเด้ง ดูคลิปเพลิน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic studio product shot smartphone on mobile phone speaker stand amplifier base glowing wave effect box background no text no logo",
+      "tts_text": "เชี่ยเอ้ย คนที่ซื้อห้าร้อยเก้าสิบเก้าบาทนี่มีน้ำตา ตอนนี้เหลือเจ็ดสิบเอ็ดบาท ขาตั้งมือถือพร้อมลำโพง วางมือถือเสียงดังขึ้น กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone playing video on mobile phone speaker stand amplifier base glowing sound wave desk scene product box behind no text no logo",
+      "tts_text": "เหี้ย ดูนี่ก่อนทุกคน ขาตั้งมือถือพร้อมลำโพง จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือดูคลิปเสียงเด้ง โต๊ะไม่รก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close angle mobile phone speaker stand amplifier base glowing sound wave minimal desk packaging behind no text no logo",
+      "tts_text": "เชี่ย ราคานี้ยังไม่กดอีกเหรอ ขาตั้งมือถือพร้อมลำโพง จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือเสียงดังขึ้น กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic desk showcase smartphone on mobile phone speaker stand glowing sound wave base packaging background no text no logo",
+      "tts_text": "เหี้ยเอ้ย ร้านข้างนอกไม่ค่อยมีนะ ขาตั้งมือถือพร้อมลำโพง จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือเสียงก้อง ดูคลิปเพลิน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone standing on mobile phone speaker stand amplifier base glowing sound wave desk setup packaging background no text no logo",
+      "tts_text": "เชี่ย สมน้ำหน้าคนที่ซื้อแพงห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท ขาตั้งมือถือพร้อมลำโพง วางมือถือเสียงดังขึ้น ดูหนังสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cinematic product close up smartphone on mobile phone speaker stand amplifier base glowing wave effect product box behind no text no logo",
+      "tts_text": "เหี้ย ดูก่อนทุกคน ราคานี้โคตรแรง ขาตั้งมือถือพร้อมลำโพง จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือเสียงเด้ง รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic angled desk scene smartphone on mobile phone speaker stand amplifier base glowing sound wave packaging behind no text no logo",
+      "tts_text": "เชี่ยเอ้ย ของถูกแบบนี้จะไม่กดได้ยังไง ขาตั้งมือถือพร้อมลำโพง จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท วางมือถือเสียงดังขึ้น กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730866655319001951": [
+    {
+      "visual_prompt": "9:16 photorealistic close-up smartphone handheld footage person plugging devices into multi socket power strip with power button four USB ports universal sockets showing high power capacity home desk environment natural light no text no logo",
+      "tts_text": "ถ้าไม่อยากใช้ของสะดวกก็เลื่อนผ่านไป ปลั๊กพ่วงหลายช่องเสียบ ยูเอสบีสี่ช่อง เปิดปิดแยกได้ รองรับกำลังไฟสูง ตอนนี้เหลือหนึ่งร้อยสามสิบบาท ร้านนอกหาแบบนี้ยาก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic casual home table shot plugging laptop phone charger into multi socket extension power strip USB ports visible handheld camera realistic lighting no text no logo",
+      "tts_text": "สมน้ำหน้าใครที่เคยซื้อปลั๊กพ่วงราคา สองร้อยสามสิบเก้าบาท ตอนนี้เหลือหนึ่งร้อยสามสิบบาท เสียบได้หลายเครื่อง ยูเอสบีสี่ช่อง กำลังไฟแรง บ้านไม่รกสายไฟ กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic desk workspace plugging phone tablet laptop into power strip multiple sockets USB ports visible natural home lighting handheld footage no text no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีแล้วปะ ปลั๊กพ่วงหลายช่องเสียบ ยูเอสบีสี่ช่อง กำลังไฟสูง เปิดปิดแยกได้ ตอนนี้เหลือหนึ่งร้อยสามสิบบาท ร้านข้างนอกแทบไม่เจอ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic living room floor shot person plugging multiple chargers into universal power strip USB charging ports visible handheld natural lighting no text no logo",
+      "tts_text": "ถ้าไม่อยากมีปลั๊กเสียบหลายเครื่องก็ผ่านไป ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง ชาร์จมือถือแท็บเล็ตพร้อมกันได้ ตอนนี้เหลือหนึ่งร้อยสามสิบบาท จะไม่กดได้ยังไง กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld shot plugging gaming console laptop phone chargers into extension power strip multiple sockets USB visible indoor night lighting no text no logo",
+      "tts_text": "โอ๊ยย ราคานี้ไม่กดคือพลาดมากนะ ปลั๊กพ่วงหลายช่อง กำลังไฟสูง ยูเอสบีสี่ช่อง ชาร์จพร้อมกันสบาย จากสองร้อยสามสิบเก้าบาท เหลือหนึ่งร้อยสามสิบบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home desk plugging chargers laptop and phone into universal extension socket USB ports visible realistic lighting handheld phone footage no text no logo",
+      "tts_text": "ถ้าไม่อยากจัดโต๊ะให้เป็นระเบียบก็ไม่ต้องใช้ ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง เปิดปิดได้ กำลังไฟแรง ตอนนี้เหลือหนึ่งร้อยสามสิบบาท แบบนี้ต้องรีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close handheld video plugging chargers into extension socket strip USB ports lighting from desk lamp home workspace no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อเต็มราคา สองร้อยสามสิบเก้าบาท วันนี้เหลือหนึ่งร้อยสามสิบบาท ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง เสียบหลายเครื่องได้ โต๊ะไม่รก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen counter shot plugging blender phone charger into multi socket power strip USB ports visible handheld natural daylight no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ปลั๊กพ่วงหลายช่อง กำลังไฟสูง ยูเอสบีสี่ช่อง ชาร์จหลายเครื่องพร้อมกันได้ ตอนนี้เหลือหนึ่งร้อยสามสิบบาท ร้านนอกไม่ค่อยมี กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom night table plugging phone charger into power strip USB ports glowing bedside lamp lighting handheld camera no text no logo",
+      "tts_text": "ถ้าไม่อยากเสียบปลั๊กหลายอันก็เลื่อนผ่าน ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง ชาร์จมือถือแท็บเล็ตพร้อมกันได้ ตอนนี้เหลือหนึ่งร้อยสามสิบบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic student desk plugging laptop charger and phone cable into universal power strip USB ports visible daylight handheld phone footage no text no logo",
+      "tts_text": "เฮ้ย ของแบบนี้บ้านต้องมี ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง เสียบหลายเครื่องพร้อมกันได้ จากสองร้อยสามสิบเก้าบาท เหลือหนึ่งร้อยสามสิบบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic gaming desk plugging monitor console charger into power strip USB ports visible neon desk lighting handheld shot no text no logo",
+      "tts_text": "โอ๊ยย เหลือแค่หนึ่งร้อยสามสิบบาท ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง กำลังไฟสูง เสียบหลายเครื่องพร้อมกันได้ ใครยังไม่มีรีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic living room floor charging phone tablet power bank via extension strip USB ports handheld natural lighting no text no logo",
+      "tts_text": "ถ้าไม่อยากชาร์จทีละเครื่องก็อย่าใช้ ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง ชาร์จพร้อมกันสบาย ตอนนี้เหลือหนึ่งร้อยสามสิบบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic office desk scene plugging laptop phone charger into extension socket strip USB ports visible overhead handheld camera no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อราคาเต็ม สองร้อยสามสิบเก้าบาท ตอนนี้เหลือหนึ่งร้อยสามสิบบาท ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง เสียบพร้อมกันได้ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedside table plugging phone charger power bank into power strip USB ports visible warm lamp lighting handheld footage no text no logo",
+      "tts_text": "ดูนี่ก่อน ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง กำลังไฟสูง เสียบหลายเครื่องพร้อมกันได้ ตอนนี้เหลือหนึ่งร้อยสามสิบบาท แบบนี้ต้องรีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic casual home desk charging phone tablet via USB ports extension power strip sockets visible natural window light handheld shot no text no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมี ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง ชาร์จหลายเครื่องพร้อมกันได้ ตอนนี้เหลือหนึ่งร้อยสามสิบบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic top down handheld shot plugging multiple chargers into extension socket strip USB ports visible desk environment no text no logo",
+      "tts_text": "โอ๊ยย ราคานี้ไม่กดคือพลาด ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง กำลังไฟสูง เสียบหลายเครื่องสบาย จากสองร้อยสามสิบเก้าบาท เหลือหนึ่งร้อยสามสิบบาท",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic sofa side table plugging phone charger extension power strip USB ports visible home living room handheld camera no text no logo",
+      "tts_text": "ถ้าไม่อยากเสียบปลั๊กหลายตัวก็ผ่าน ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง ชาร์จมือถือแท็บเล็ตพร้อมกันได้ ตอนนี้เหลือหนึ่งร้อยสามสิบบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld shot plugging laptop charger and phone into universal socket extension strip USB ports visible natural indoor light no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพง สองร้อยสามสิบเก้าบาท วันนี้เหลือหนึ่งร้อยสามสิบบาท ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง เสียบหลายเครื่องพร้อมกันได้ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone video charging multiple devices power strip USB ports visible desk workspace environment no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง กำลังไฟสูง เสียบพร้อมกันหลายเครื่องได้ ตอนนี้เหลือหนึ่งร้อยสามสิบบาท รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld footage plugging chargers phone tablet laptop into extension power strip USB ports visible natural lighting no text no logo",
+      "tts_text": "เฮ้ย เหลือหนึ่งร้อยสามสิบบาทเอง ปลั๊กพ่วงหลายช่อง ยูเอสบีสี่ช่อง ชาร์จหลายเครื่องพร้อมกันได้ โต๊ะไม่รกสายไฟ แบบนี้ต้องกดตะกร้าแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1730068878661093678": [
     {
       "visual_prompt": "9:16 photorealistic no text no logo",
