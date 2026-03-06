@@ -115,6 +115,936 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1734434512553674069": [
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone footage of two purple Pathum Thani rice bags standing upright on wooden table exactly like product image, natural indoor light, casual ecommerce filming, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังซื้อข้าวแพงก็ซื้อไปนะ ข้าวหอมปทุมธานีถุงใหญ่ เม็ดนุ่ม หุงง่าย จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone vertical video showing two purple rice bags placed on wooden table like product photo display, indoor natural light, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยสมน้ำหน้าคนที่เคยซื้อเจ็ดร้อยบาท ตอนนี้ข้าวหอมปทุมธานีเหลือสามร้อยหกสิบสี่บาท เม็ดข้าวนุ่ม หุงง่าย กินอร่อยทั้งบ้าน รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone clip of purple rice bags standing upright on wooden table exactly like product image, natural light, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยซื้อเจ็ดร้อยบาทนี่มีร้อง ตอนนี้ข้าวหอมปทุมธานีถุงใหญ่เหลือสามร้อยหกสิบสี่บาท เม็ดข้าวนุ่ม หุงง่าย กินอร่อย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone footage showing rice bags on wooden table like ecommerce filming scene, natural indoor light, product unchanged, no text, no logo",
+      "tts_text": "เห้ยดูนี่ก่อนทุกคน ข้าวหอมปทุมธานีถุงใหญ่ เม็ดนุ่ม หุงง่าย กินหอม จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone footage of rice bags placed on wooden table exactly like product image, indoor daylight, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้ไม่กดคือพลาด ข้าวหอมปทุมธานี เม็ดข้าวนุ่ม หุงง่าย กินอร่อย จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic smartphone vertical video showing rice bags on wooden table like product listing video, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครกำลังหาข้าวกินทุกวันดูนี่ ข้าวหอมปทุมธานีถุงใหญ่ เม็ดนุ่ม หุงง่าย จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone clip of two rice bags standing on wooden table like product image display, natural light, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยจริง ใครยังซื้อข้าวแพงอยู่กูงงนะ ข้าวหอมปทุมธานี เม็ดนุ่ม หุงง่าย จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone video showing purple rice bags on table like ecommerce filming scene, indoor natural light, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือเสียดาย ข้าวหอมปทุมธานีถุงใหญ่ เม็ดข้าวนุ่ม หุงง่าย จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone clip showing rice bags standing upright on table exactly like product image, natural daylight, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย คนที่ซื้อแพงเจ็ดร้อยบาทนี่มีร้อง ตอนนี้ข้าวหอมปทุมธานีเหลือสามร้อยหกสิบสี่บาท เม็ดข้าวนุ่ม หุงง่าย รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone vertical footage of rice bags placed on wooden table like ecommerce filming setup, natural light, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยกูเห็นราคานี้ยังตกใจ ข้าวหอมปทุมธานี เม็ดนุ่ม หุงง่าย จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone video of rice bags on wooden table exactly like product image display, natural indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ถ้าไม่อยากกินข้าวนุ่มก็อย่ากดนะ ข้าวหอมปทุมธานี เม็ดนุ่ม หุงง่าย จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic smartphone vertical clip showing purple rice bags on wooden table like ecommerce product display, natural light, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครกำลังหาข้าวกินทุกวันต้องดู ข้าวหอมปทุมธานี เม็ดนุ่ม หุงง่าย จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone footage showing rice bags exactly like product image on wooden table, natural indoor light, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยราคานี้ใครไม่กดคือโง่ละ ข้าวหอมปทุมธานีถุงใหญ่ เม็ดนุ่ม หุงง่าย จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic smartphone footage showing rice bags placed upright on wooden table like ecommerce filming scene, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยของแบบนี้ต้องมีติดบ้าน ข้าวหอมปทุมธานี เม็ดข้าวนุ่ม หุงง่าย จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone video showing purple rice bags exactly like product image on wooden table, natural lighting, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยจริง ราคานี้ไม่กดคือพลาด ข้าวหอมปทุมธานี เม็ดนุ่ม หุงง่าย จากเจ็ดร้อยบาท ตอนนี้เหลือสามร้อยหกสิบสี่บาท รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732116486797952016": [
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone footage showing blue garden water hose roll exactly like product, human hand connecting hose to faucet and spraying water in garden, natural outdoor lighting, realistic ecommerce footage, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังแบกถังรดน้ำต้นไม้อยู่ โง่จริง ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ใช้ล้างรถรดต้นไม้ได้สบาย น้ำแรงไม่สะดุด รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone camera showing blue garden hose connected to outdoor faucet watering plants, natural daylight backyard scene, no text, no logo",
+      "tts_text": "โอ๊ยใครยังตักน้ำรดต้นไม้อยู่ แม่งพลาด ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ใช้ล้างรถล้างพื้นได้ น้ำไหลแรง รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld unboxing showing blue water hose roll placed on ground exactly like product with hand pulling hose out, natural daylight outdoor setting, no text, no logo",
+      "tts_text": "ด่าตัวเองเลย กูเคยซื้อสายยางแพงกว่านี้ ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ต่อก๊อกใช้ง่าย รดต้นไม้ล้างรถสบาย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual phone footage showing blue garden hose spraying water onto car surface washing dust away, outdoor driveway scene, no text, no logo",
+      "tts_text": "เหี้ยจริง ใครยังเอาถังน้ำสาดล้างรถอยู่ โง่เลย ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว น้ำไหลแรง ล้างรถล้างพื้นง่าย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone video showing blue hose watering plants in garden bed, natural sunlight outdoor environment, no text, no logo",
+      "tts_text": "โถใครยังเดินถือถังรดต้นไม้อยู่ พลาดแล้ว ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ต่อก๊อกใช้ง่าย น้ำไหลแรง รดต้นไม้สบาย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone camera showing person connecting blue garden hose to faucet and spraying patio floor clean, natural daylight scene, no text, no logo",
+      "tts_text": "เห้ยราคานี้ยังไม่กดอีกเหรอ เมื่อก่อนร้อยสิบเอ็ดบาท ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ใช้ล้างพื้นล้างรถได้ น้ำแรง กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld video showing blue hose spraying muddy bicycle clean outdoors, natural daylight environment, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังเอาขันตักน้ำล้างของอยู่ โง่จริง ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ต่อก๊อกใช้ง่าย ฉีดน้ำแรง รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual phone footage showing blue hose watering grass lawn in garden, realistic outdoor backyard scene, no text, no logo",
+      "tts_text": "โอ๊ยของแบบนี้ต้องมีแล้วปะ ใครยังรดน้ำต้นไม้ทีละขันอยู่ ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว น้ำไหลแรง รดสวนง่าย กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone video showing blue hose spraying dirt off outdoor tiles, natural daylight cleaning scene, no text, no logo",
+      "tts_text": "ด่าตัวเองเลย ทำไมไม่ซื้อก่อน ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ใช้ล้างพื้นล้างรถได้ น้ำแรงไม่สะดุด รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone footage showing blue garden hose spraying water onto car tire cleaning mud away, driveway environment, no text, no logo",
+      "tts_text": "เหี้ยจริง ใครยังล้างรถแบบตักน้ำอยู่ พลาดแล้ว ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ต่อก๊อกปุ๊บใช้งานได้ ล้างรถง่าย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone video showing blue hose watering potted plants on balcony, natural sunlight, no text, no logo",
+      "tts_text": "โอ๊ยใครยังถือถังรดต้นไม้จนเมื่อยอยู่ โง่เลย ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ต่อก๊อกใช้ง่าย น้ำแรง รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 close handheld shot showing blue hose water stream spraying garden soil while watering plants, outdoor daylight scene, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้ยังไม่กดอีกเหรอ ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว น้ำไหลแรง ใช้ล้างรถรดสวนได้ รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual phone camera showing blue hose spraying water onto driveway floor removing dust, outdoor daylight scene, no text, no logo",
+      "tts_text": "โถใครยังเอาขันตักน้ำล้างพื้นอยู่ พลาดจริง ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ต่อก๊อกใช้ง่าย ฉีดน้ำแรง กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld video showing blue hose spraying water onto muddy motorcycle wheel cleaning dirt, outdoor driveway environment, no text, no logo",
+      "tts_text": "เหี้ยจริง ใครยังล้างมอเตอร์ไซค์แบบถูมืออยู่ โง่เลย ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ฉีดน้ำแรง ล้างคราบโคลนง่าย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone camera showing blue garden hose watering vegetable garden beds outdoors, natural daylight farming scene, no text, no logo",
+      "tts_text": "โอ๊ยของถูกขนาดนี้ยังไม่กดอีกเหรอ ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ต่อก๊อกปุ๊บใช้งานได้ รดสวนสบาย กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone footage showing blue hose spraying water onto outdoor wall removing dirt stains, natural daylight scene, no text, no logo",
+      "tts_text": "ด่าตัวเองแรงๆเลย กูเคยซื้อแพงกว่านี้ ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว น้ำไหลแรง ล้างบ้านล้างพื้นง่าย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 casual phone video showing blue hose watering lawn grass evenly outdoors, backyard environment, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังรดน้ำสนามหญ้าทีละขันอยู่ โง่จริง ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ต่อก๊อกใช้ง่าย รดสวนสบาย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld shot showing blue hose spraying dirt off outdoor steps, realistic outdoor cleaning scene, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาดจริง ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ฉีดน้ำแรง ใช้ล้างพื้นล้างรถได้ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 phone footage showing blue hose watering flower pots lined on patio floor outdoors, natural daylight environment, no text, no logo",
+      "tts_text": "โถใครยังถือถังเดินรดต้นไม้อยู่ พลาดแล้ว ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว ต่อก๊อกใช้ง่าย น้ำไหลแรง รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "photorealistic 9:16 handheld phone video showing blue hose spraying water across driveway cleaning dust away, natural outdoor daylight scene, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ของถูกแบบนี้ยังไม่กดอีกเหรอ ตอนนี้เหลือแปดสิบเอ็ดบาท สายยางรดน้ำยาว น้ำไหลแรง ใช้ล้างรถล้างพื้นสบาย รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731757997999294882": [
+    {
+      "visual_prompt": "9:16 photorealistic laundry room camera close-up pouring liquid detergent into washing machine drawer clean bright home environment no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ถ้าไม่อยากให้ผ้าหอมก็อย่าใช้ น้ำยาซักผ้าไฮยีนสองถุง คนที่เคยจ่ายสองร้อยสามสิบบาทนี่มีร้อง ตอนนี้เหลือสองร้อยสองบาท ซักสะอาด กลิ่นหอม กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic laundry basket scene camera top view detergent pouring on clothes before wash natural home lighting no text no logo",
+      "tts_text": "เชี่ยเอ๊ย ใครยังไม่ตุนไฮยีนน้ำยาซักผ้าสองถุงนี่พลาด คนที่เคยซื้อสองร้อยสามสิบบาทมีจุก ตอนนี้เหลือสองร้อยสองบาท ซักสะอาด กลิ่นติดผ้า กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic washing machine loading clothes camera side angle detergent bottle beside machine realistic home scene no text no logo",
+      "tts_text": "แม่งเอ๊ย คนที่เคยซื้อสองร้อยสามสิบบาทนี่หน้าชา ตอนนี้เหลือสองร้อยสองบาท น้ำยาซักผ้าไฮยีนสองถุง ซักสะอาด ผ้านุ่ม กลิ่นหอม กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic detergent pouring into washing machine drawer camera close-up bright laundry room no text no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยจ่ายสองร้อยสามสิบบาทนี่มีเสียดาย ตอนนี้เหลือสองร้อยสองบาท ไฮยีนน้ำยาซักผ้าสองถุง กลิ่นหอม ซักสะอาด รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic laundry basket with colorful clothes camera medium shot detergent bottle nearby natural light no text no logo",
+      "tts_text": "เชี่ยเอ๊ย ใครยังไม่กดน้ำยาซักผ้าไฮยีนสองถุงนี่พลาด คนที่เคยซื้อสองร้อยสามสิบบาทมีร้อง ตอนนี้เหลือสองร้อยสองบาท ซักสะอาด กลิ่นหอม กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic washing machine door open clothes inside camera close angle detergent bottle visible no text no logo",
+      "tts_text": "แม่งเอ๊ย คนที่เคยซื้อสองร้อยสามสิบบาทนี่มีหน้าซีด ตอนนี้เหลือสองร้อยสองบาท น้ำยาซักผ้าไฮยีนสองถุง ซักสะอาด กลิ่นติดผ้า กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic laundry room shelf detergent bottle next to folded clothes camera side angle no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ถ้าไม่อยากให้ผ้าหอมก็อย่ากด น้ำยาซักผ้าไฮยีนสองถุง คนที่เคยซื้อสองร้อยสามสิบบาทนี่มีจุก ตอนนี้เหลือสองร้อยสองบาท ซักสะอาด ผ้านุ่ม กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic washing machine detergent drawer pouring liquid camera macro realistic laundry room no text no logo",
+      "tts_text": "เชี่ยเอ๊ย คนที่เคยซื้อสองร้อยสามสิบบาทนี่มีแค้น ตอนนี้เหลือสองร้อยสองบาท ไฮยีนน้ำยาซักผ้าสองถุง กลิ่นหอม ซักสะอาด รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic laundry basket camera top angle detergent pouring onto clothes before washing natural lighting no text no logo",
+      "tts_text": "แม่งเอ๊ย ใครยังไม่ตุนไฮยีนสองถุงนี่พลาด คนที่เคยจ่ายสองร้อยสามสิบบาทนี่มีสะดุ้ง ตอนนี้เหลือสองร้อยสองบาท ซักสะอาด กลิ่นหอม กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic laundry room washing machine camera front view detergent bottle beside machine no text no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยซื้อสองร้อยสามสิบบาทนี่มีร้อง ตอนนี้เหลือสองร้อยสองบาท น้ำยาซักผ้าไฮยีนสองถุง ซักสะอาด ผ้านุ่ม กลิ่นหอม กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic folded clothes stack with detergent bottle camera close-up laundry room lighting no text no logo",
+      "tts_text": "เชี่ยเอ๊ย คนที่เคยซื้อสองร้อยสามสิบบาทนี่หน้าชา ตอนนี้เหลือสองร้อยสองบาท ไฮยีนน้ำยาซักผ้าสองถุง ซักสะอาด กลิ่นหอมติดผ้า กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic pouring detergent into cap camera macro clean laundry background no text no logo",
+      "tts_text": "แม่งเอ๊ย คนที่เคยจ่ายสองร้อยสามสิบบาทนี่มีจุก ตอนนี้เหลือสองร้อยสองบาท น้ำยาซักผ้าไฮยีนสองถุง ซักสะอาด กลิ่นหอม รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic washing machine spinning clothes camera front close-up detergent bottle nearby no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครยังไม่กดไฮยีนน้ำยาซักผ้าสองถุงนี่พลาด คนที่เคยซื้อสองร้อยสามสิบบาทนี่มีร้อง ตอนนี้เหลือสองร้อยสองบาท ซักสะอาด ผ้านุ่ม กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic laundry basket camera side shot detergent bottle next to clothes pile natural light no text no logo",
+      "tts_text": "เชี่ยเอ๊ย คนที่เคยซื้อสองร้อยสามสิบบาทนี่มีเสียดาย ตอนนี้เหลือสองร้อยสองบาท น้ำยาซักผ้าไฮยีนสองถุง กลิ่นหอม ซักสะอาด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic detergent pouring onto clothes camera macro shot washing preparation scene no text no logo",
+      "tts_text": "แม่งเอ๊ย คนที่เคยซื้อสองร้อยสามสิบบาทนี่มีหน้าซีด ตอนนี้เหลือสองร้อยสองบาท ไฮยีนน้ำยาซักผ้าสองถุง ซักสะอาด กลิ่นหอมติดผ้า กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic washing machine open door clothes inside camera medium shot detergent bottle visible no text no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยจ่ายสองร้อยสามสิบบาทนี่มีแค้น ตอนนี้เหลือสองร้อยสองบาท น้ำยาซักผ้าไฮยีนสองถุง ซักสะอาด ผ้านุ่ม กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic detergent bottle next to folded laundry camera clean minimal laundry room no text no logo",
+      "tts_text": "เชี่ยเอ๊ย คนที่เคยซื้อสองร้อยสามสิบบาทนี่มีจุก ตอนนี้เหลือสองร้อยสองบาท ไฮยีนน้ำยาซักผ้าสองถุง ซักสะอาด กลิ่นหอม รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic pouring detergent into washing machine drawer camera close-up bright environment no text no logo",
+      "tts_text": "แม่งเอ๊ย ใครยังไม่กดน้ำยาซักผ้าไฮยีนสองถุงนี่พลาด คนที่เคยซื้อสองร้อยสามสิบบาทนี่มีร้อง ตอนนี้เหลือสองร้อยสองบาท ซักสะอาด กลิ่นหอม กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic laundry basket with colorful clothes camera top view detergent nearby no text no logo",
+      "tts_text": "เหี้ยเอ๊ย คนที่เคยซื้อสองร้อยสามสิบบาทนี่หน้าชา ตอนนี้เหลือสองร้อยสองบาท ไฮยีนน้ำยาซักผ้าสองถุง ซักสะอาด ผ้านุ่ม กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic washing machine running clothes camera front view detergent bottle visible no text no logo",
+      "tts_text": "เชี่ยเอ๊ย คนที่เคยซื้อสองร้อยสามสิบบาทนี่มีร้อง ตอนนี้เหลือสองร้อยสองบาท น้ำยาซักผ้าไฮยีนสองถุง กลิ่นหอม ซักสะอาด รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731459716394617573": [
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle half helmet with clear visor product showcase front view then side and back, hand picking up helmet and lowering visor, studio lighting, realistic product footage, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยใครไม่อยากได้ของถูกก็เลื่อนผ่าน คนที่เคยกดสี่ร้อยห้าสิบเก้าบาทนี่มีจุก ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม ใส่ขี่รถสบาย กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up motorcycle helmet visor opening and closing, rotating product showing front side back, clean studio display, realistic lighting, no text, no logo",
+      "tts_text": "โคตรโง่เลยกูที่เคยซื้อแพง คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทแม่งมีเจ็บใจ ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันฝุ่น ขี่มอเตอร์ไซค์ทุกวันต้องมี รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rider hand putting helmet on head then lowering visor, rotating showcase front side back, neutral background, realistic footage, no text, no logo",
+      "tts_text": "แม่งใครยังซื้อราคาเต็มนี่พลาดหนัก คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทมีเคือง ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม ล็อกสายแน่น ขี่รถทุกวันสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet placed on motorbike seat camera orbit showing front side back visor reflection, outdoor daylight realistic shot, no text, no logo",
+      "tts_text": "สัสใครยังไม่กดนี่งงมาก คนที่เคยจ่ายสี่ร้อยห้าสิบเก้าบาทนี่มีเสียดาย ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลมกันฝุ่น ใส่ขี่รถสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet rotating on display stand showing front side back strap detail, product commercial lighting, clean background, no text, no logo",
+      "tts_text": "เหี้ยราคานี้ยังไม่กดนี่คือพลาด คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์เปิดปิดง่าย ใส่ขี่มอเตอร์ไซค์ทุกวัน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand demonstrating helmet visor sliding down locking strap under chin, rotating product front side back, studio product scene, no text, no logo",
+      "tts_text": "ด่าตัวเองแรงมากที่เคยซื้อแพง คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทนี่โคตรเสียดาย ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม ขี่รถทุกวันต้องมี กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorbike rider adjusting helmet strap visor reflection shot, rotating product front side back angle, natural outdoor scene, no text, no logo",
+      "tts_text": "โอ๊ยกูโง่เองที่เคยซื้อแพง คนเคยกดสี่ร้อยห้าสิบเก้าบาทนี่มีจุก ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลมกันฝุ่น ใส่ขี่รถสบาย กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet on wooden table rotating slowly showing visor mechanism and strap, studio lighting realistic product footage, no text, no logo",
+      "tts_text": "เหี้ยใครไม่กดตอนนี้คือพลาด คนที่เคยซื้อสี่ร้อยห้าสิบเก้าบาทนี่มีสะอึก ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม ล็อกสายแน่น ขี่รถทุกวัน กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet close up visor reflection rotating front side back showcase, studio product display, realistic light, no text, no logo",
+      "tts_text": "แม่งโคตรเสียดายถ้าไม่กด คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันฝุ่น กันลม ขี่มอเตอร์ไซค์สบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rider lifting helmet visor while sitting on motorbike, rotating product view front side back, realistic street background blur, no text, no logo",
+      "tts_text": "สัสราคานี้ยังไม่กดคือพลาด คนเคยซื้อสี่ร้อยห้าสิบเก้าบาทนี่มีแค้น ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม ขี่รถทุกวันสบาย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet rotating on product stand showing visor hinge and strap close up, clean studio product scene, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ยของแบบนี้ต้องมี คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทนี่มีจุก ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม กันฝุ่น ขี่มอเตอร์ไซค์ทุกวัน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand holding helmet showing visor opening closing rotating front side back product showcase, neutral background, no text, no logo",
+      "tts_text": "โคตรพลาดถ้าเลื่อนผ่าน คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทนี่มีเสียดาย ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม ใส่ขี่รถทุกวันสบาย กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet placed beside motorbike mirror visor reflecting light rotating product view, outdoor realistic footage, no text, no logo",
+      "tts_text": "แม่งราคานี้ยังไม่กดนี่แปลก คนเคยซื้อสี่ร้อยห้าสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันฝุ่น กันลม ขี่รถทุกวันต้องมี กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rider holding helmet and lowering visor before riding motorbike, product showcase front side back, realistic street scene, no text, no logo",
+      "tts_text": "เหี้ยใครยังไม่กดตอนนี้คือพลาด คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทนี่มีจุก ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม ใส่ขี่มอเตอร์ไซค์สบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet rotating slowly on clean table visor detail strap detail product showcase realistic lighting, no text, no logo",
+      "tts_text": "ด่าตัวเองเลยที่เคยซื้อแพง คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทนี่มีเคือง ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม กันฝุ่น ขี่รถทุกวันต้องมี กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet visor reflection close shot rotating front side back product showcase, studio commercial lighting, no text, no logo",
+      "tts_text": "สัสใครยังซื้อราคาเต็มนี่โคตรพลาด คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม ล็อกสายแน่น ขี่รถสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorbike rider putting helmet on adjusting strap visor sliding down product showcase angle change front side back, no text, no logo",
+      "tts_text": "เหี้ยของถูกขนาดนี้ยังไม่กดอีกเหรอ คนเคยซื้อสี่ร้อยห้าสิบเก้าบาทนี่มีสะอึก ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันฝุ่น กันลม ขี่รถทุกวัน กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet rotating product display showing visor hinge strap lock detail clean background studio lighting, no text, no logo",
+      "tts_text": "แม่งราคานี้ไม่กดคือเสียโอกาส คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทนี่มีจุก ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม ขี่มอเตอร์ไซค์สบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet placed beside motorbike handlebar rotating product view visor detail outdoor daylight realistic footage, no text, no logo",
+      "tts_text": "เหี้ยของแบบนี้ต้องรีบกด คนเคยซื้อสี่ร้อยห้าสิบเก้าบาทนี่มีเคือง ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันฝุ่น กันลม ใส่ขี่รถทุกวันสบาย กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand picking helmet up from table visor opening closing rotating product showcase front side back realistic lighting, no text, no logo",
+      "tts_text": "สัสใครยังไม่กดนี่พลาดจริง คนเคยจ่ายสี่ร้อยห้าสิบเก้าบาทนี่มีร้อง ตอนนี้เหลือหนึ่งร้อยแปดสิบสอง หมวกกันน็อคมีชิลด์กันลม ล็อกสายแน่น ขี่รถทุกวัน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730882380010915987": [
+    {
+      "visual_prompt": "9:16 photorealistic kitchen counter camera close-up opening sardine can pouring tomato sauce sardines onto white plate beside rice natural daylight food scene no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ถ้าไม่อยากมีของกินติดบ้านก็อย่าใช้ ปลากระป๋องสองแพ็คยี่สิบกระป๋อง คนที่เคยจ่ายสามร้อยบาทนี่โคตรซวย ตอนนี้เหลือสองร้อยสองบาท เนื้อปลาแน่น ซอสฉ่ำ กินกับข้าวโคตรเพลิน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen table camera top view sardines tomato sauce over rice steam rising realistic home meal no text no logo",
+      "tts_text": "เชี่ยเอ๊ย ใครไม่ตุนปลากระป๋องสองแพ็คยี่สิบกระป๋องนี่พลาด คนที่เคยซื้อสามร้อยบาทมีร้อง ตอนนี้เหลือสองร้อยสองบาท เนื้อปลาแน่น ซอสมะเขือเทศเข้มข้น ตุนไว้กินสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cooking pan camera side angle sardines tomato sauce cooking eggs steam natural kitchen lighting no text no logo",
+      "tts_text": "แม่งเอ๊ย ไม่อยากมีของกินสำรองก็อย่ากด ปลากระป๋องสองแพ็คยี่สิบกระป๋อง คนที่เคยจ่ายสามร้อยบาทนี่มีสะดุ้ง ตอนนี้เหลือสองร้อยสองบาท ซอสเข้มข้น ทำกับข้าวง่าย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pantry shelf camera close-up hand grabbing sardine cans stacked realistic home storage scene no text no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยกดสามร้อยบาทนี่มีหน้าชา ตอนนี้เหลือสองร้อยสองบาท ปลากระป๋องสองแพ็คยี่สิบกระป๋อง เนื้อปลาแน่น ซอสฉ่ำ กินกับข้าวร้อนโคตรฟิน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rustic kitchen table camera medium shot sardines tomato sauce plate bread beside natural light no text no logo",
+      "tts_text": "เชี่ยเอ๊ย ใครยังไม่กดปลากระป๋องสองแพ็คยี่สิบกระป๋องนี่โง่เลย คนที่เคยซื้อสามร้อยบาทนี่มีจุก ตอนนี้เหลือสองร้อยสองบาท เนื้อปลาแน่น ซอสเข้มข้น ตุนไว้กินง่าย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic kitchen counter camera close-up sardine cans stack hand opening lid tomato sauce visible natural daylight no text no logo",
+      "tts_text": "เหี้ยเอ๊ย คนที่เคยซื้อสามร้อยบาทนี่มีแค้น ตอนนี้เหลือสองร้อยสองบาท ปลากระป๋องสองแพ็คยี่สิบกระป๋อง เนื้อปลาแน่น ซอสฉ่ำ เอาไปผัดไข่ก็อร่อย รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic dining table camera close angle sardines tomato sauce poured over rice steam rising realistic food scene no text no logo",
+      "tts_text": "แม่งเอ๊ย ใครยังไม่ตุนปลากระป๋องสองแพ็คยี่สิบกระป๋องนี่พลาดหนัก คนที่เคยจ่ายสามร้อยบาทนี่มีสะอึก ตอนนี้เหลือสองร้อยสองบาท เนื้อปลาแน่น ซอสเข้มข้น กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cooking scene camera side shot sardines tomato sauce simmering eggs added rustic kitchen no text no logo",
+      "tts_text": "เชี่ยเอ๊ย คนที่เคยกดสามร้อยบาทนี่มีเสียดาย ตอนนี้เหลือสองร้อยสองบาท ปลากระป๋องสองแพ็คยี่สิบกระป๋อง ซอสฉ่ำ เนื้อปลาแน่น ทำกับข้าวง่ายมาก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen prep table camera top view sardine can opened tomato sauce pouring plate rice beside no text no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยซื้อสามร้อยบาทนี่หน้าซีด ตอนนี้เหลือสองร้อยสองบาท ปลากระป๋องสองแพ็คยี่สิบกระป๋อง เนื้อปลาแน่น ซอสเข้มข้น กินกับข้าวโคตรเพลิน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pantry shelf camera medium shot sardine cans stacked kitchen lighting realistic home storage no text no logo",
+      "tts_text": "แม่งเอ๊ย คนที่เคยกดสามร้อยบาทนี่มีร้อง ตอนนี้เหลือสองร้อยสองบาท ปลากระป๋องสองแพ็คยี่สิบกระป๋อง เนื้อปลาแน่น ซอสฉ่ำ ตุนไว้กินยาว กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic kitchen scene camera close-up sardine can opening tomato sauce dripping onto plate natural daylight no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครไม่ตุนปลากระป๋องสองแพ็คยี่สิบกระป๋องนี่พลาด คนที่เคยซื้อสามร้อยบาทมีสะดุ้ง ตอนนี้เหลือสองร้อยสองบาท ซอสเข้มข้น เนื้อปลาแน่น กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home meal table camera side angle sardines tomato sauce rice bowl steam natural lighting no text no logo",
+      "tts_text": "เชี่ยเอ๊ย คนที่เคยซื้อสามร้อยบาทนี่มีจุก ตอนนี้เหลือสองร้อยสองบาท ปลากระป๋องสองแพ็คยี่สิบกระป๋อง เนื้อปลาแน่น ซอสฉ่ำ กินกับข้าวร้อนอร่อยมาก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic frying pan cooking sardines camera close-up tomato sauce bubbling realistic kitchen scene no text no logo",
+      "tts_text": "แม่งเอ๊ย ใครยังไม่กดปลากระป๋องสองแพ็คยี่สิบกระป๋องนี่โง่ คนที่เคยซื้อสามร้อยบาทมีร้อง ตอนนี้เหลือสองร้อยสองบาท ซอสเข้มข้น ทำกับข้าวง่าย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen counter camera medium shot sardine cans stacked beside plate natural daylight realistic scene no text no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยจ่ายสามร้อยบาทนี่มีแค้น ตอนนี้เหลือสองร้อยสองบาท ปลากระป๋องสองแพ็คยี่สิบกระป๋อง เนื้อปลาแน่น ซอสฉ่ำ ตุนไว้กินสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen prep camera close-up opening sardine can tomato sauce visible realistic lighting no text no logo",
+      "tts_text": "เชี่ยเอ๊ย คนที่เคยซื้อสามร้อยบาทนี่มีหน้าชา ตอนนี้เหลือสองร้อยสองบาท ปลากระป๋องสองแพ็คยี่สิบกระป๋อง ซอสเข้มข้น เนื้อปลาแน่น รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730242130643749469": [
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone footage, large tumbler cup 1300 ml with straw and filter on simple table exactly like product display arrangement left to right, natural indoor lighting, ecommerce filming style, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังไม่ใช้แก้วน้ำใหญ่หนึ่งพันสามร้อยมิลนี่พลาดหนัก แต่ก่อนสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท มีหลอดมีกรอง จุเยอะ พกง่าย รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic casual phone footage showing big tumbler cup 1300 ml with straw filter on table like ecommerce product photo, natural light, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยย สมน้ำหน้าคนที่ซื้อสามร้อยเจ็ดสิบเก้าบาท ตอนนี้แก้วน้ำใหญ่หนึ่งพันสามร้อยมิลเหลือสี่สิบแปดบาท มีหลอดดูดมีกรอง ใส่น้ำโคตรเยอะ พกไปไหนก็ง่าย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone video of large 1300 ml tumbler cup with straw filter placed on tabletop like product photo layout, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยจริง ใครยังไม่มีแก้วน้ำใหญ่หนึ่งพันสามร้อยมิลนี่พลาด จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท มีหลอดมีกรอง จุน้ำเยอะ ถือสบาย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic phone camera clip showing large tumbler cup 1300 ml with straw filter placed on desk like ecommerce filming scene, natural lighting, product unchanged, no text, no logo",
+      "tts_text": "เห้ยดูนี่ก่อนทุกคน แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล มีหลอดดูดมีกรอง ใส่น้ำได้เยอะ จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท รีบกดในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone vertical shot of big tumbler cup 1300 ml with straw filter on table exactly like product listing display, indoor natural light, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้ไม่กดคือพลาด แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล มีหลอดกรอง ดูดง่าย จุน้ำเยอะ จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone video of 1300 ml tumbler cup with straw filter placed on simple table like product display, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครยังใช้แก้วเล็กอยู่กูงงนะ แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล จุน้ำโคตรเยอะ มีหลอดมีกรอง จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone footage showing large tumbler cup 1300 ml with straw filter placed on tabletop like ecommerce video, natural light, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ของแบบนี้ต้องมีแล้วปะ แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล มีหลอดมีตัวกรอง จุเยอะมาก จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic vertical smartphone video of big tumbler cup 1300 ml with straw filter on table like product photo scene, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือเสียดาย แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล มีหลอดมีกรอง ใส่น้ำชาใส่กาแฟได้ จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone footage showing tumbler cup 1300 ml with straw filter placed on desk like ecommerce filming, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยจริง คนที่ซื้อสามร้อยเจ็ดสิบเก้าบาทนี่มีร้อง ตอนนี้แก้วน้ำใหญ่หนึ่งพันสามร้อยมิลเหลือสี่สิบแปดบาท มีหลอดกรอง จุเยอะมาก พกง่าย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic casual smartphone video of large tumbler cup 1300 ml with straw filter on table like product listing style, natural lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยกูเห็นราคานี้ยังตกใจ แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล จุน้ำโคตรเยอะ มีหลอดมีกรอง จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic phone handheld shot of 1300 ml tumbler cup with straw filter on tabletop like ecommerce filming scene, indoor light, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ถ้าไม่อยากมีแก้วจุเยอะก็อย่ากดนะ แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล มีหลอดกรอง จุน้ำเยอะ จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic vertical smartphone footage of large tumbler cup 1300 ml with straw filter placed on desk like product display scene, natural light, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครกำลังหาแก้วใหญ่ๆดูนี่ก่อน แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล มีหลอดดูดมีกรอง จุน้ำโคตรเยอะ จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone video showing tumbler cup 1300 ml with straw filter on simple table exactly like ecommerce product filming, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยราคานี้ใครไม่กดคือโง่ละ แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล มีหลอดมีกรอง ใส่น้ำได้เยอะ จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic smartphone footage showing large tumbler cup 1300 ml with straw filter placed on table like ecommerce listing video, indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยของแบบนี้ต้องมีแล้วปะ แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล จุเยอะมาก มีหลอดกรอง ดูดง่าย จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic casual handheld phone clip of big tumbler cup 1300 ml with straw filter on tabletop like ecommerce product video, natural lighting, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยจริง ราคานี้ไม่กดคือพลาด แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล มีหลอดมีกรอง จุน้ำโคตรเยอะ จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic smartphone vertical shot of tumbler cup 1300 ml with straw filter placed on table like ecommerce filming scene, indoor light, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยเห็นราคานี้แล้วตกใจ แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล มีหลอดกรอง จุน้ำเยอะ จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+
+    {
+      "visual_prompt": "9:16 photorealistic handheld smartphone footage of big tumbler cup 1300 ml with straw filter on desk like product video filming style, natural light, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังไม่กดนี่พลาดหนัก แก้วน้ำใหญ่หนึ่งพันสามร้อยมิล มีหลอดดูดมีกรอง จุน้ำเยอะ จากสามร้อยเจ็ดสิบเก้าบาท ตอนนี้เหลือสี่สิบแปดบาท กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731046302008051977": [
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone footage person spreading cute cartoon patterned mattress topper on bed soft fabric texture bedroom natural daylight close-up fabric detail no text no logo",
+      "tts_text": "ถ้าไม่อยากนอนสบายก็เลื่อนผ่านเลย ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูปูเตียงปุ๊บหลับสบาย จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld footage person fluffing cartoon mattress topper on bed cozy bedroom environment soft bedding close shot texture detail no text no logo",
+      "tts_text": "สมน้ำหน้าใครที่ซื้อที่นอนแพงไปก่อน ท็อปเปอร์ที่นอนลายการ์ตูนนุ่มๆ จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท ปูนอนสบาย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom shot person laying down on cartoon mattress topper pressing soft padding with hand cozy home lighting no text no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีแล้วปะ ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูรองหลังดี จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท รีบกดในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone footage person smoothing cartoon mattress topper on bed soft cotton surface bedroom morning light no text no logo",
+      "tts_text": "โอ๊ยย ราคานี้ไม่กดคือพลาดนะ ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มสบายปูง่าย จากสี่ร้อยเก้าสิบเก้าบาท เหลือสามร้อยหนึ่งบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up person pressing soft cartoon mattress topper fabric on bed texture detail cozy bedroom daylight no text no logo",
+      "tts_text": "ถ้าไม่อยากนอนนุ่มก็ไม่ต้องใช้ ท็อปเปอร์ที่นอนลายการ์ตูน ปูนอนสบายมาก จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom handheld video person unfolding cartoon topper onto mattress soft fluffy padding cozy environment no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูปูแล้วสบาย จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท ร้านข้างนอกแทบไม่มี กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld footage person spreading topper across bed adjusting corners cozy bedroom natural window light no text no logo",
+      "tts_text": "ถ้าไม่อยากนอนสบายก็เลื่อนผ่าน ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูรองหลัง จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up shot person smoothing cartoon topper fabric texture on bed cozy bedroom environment no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพงไปก่อน ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มสบาย จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท รีบกดในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld footage person lying down on topper testing softness bedroom environment natural light no text no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมี ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูปูนอนสบาย จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom scene person fluffing topper padding on mattress cozy soft bedding handheld footage no text no logo",
+      "tts_text": "โอ๊ยย ราคานี้ไม่กดคือพลาด ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มสบายปูง่าย จากสี่ร้อยเก้าสิบเก้าบาท เหลือสามร้อยหนึ่งบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone video person adjusting topper edges on bed soft cartoon bedding cozy bedroom lighting no text no logo",
+      "tts_text": "ถ้าไม่อยากนอนนุ่มก็ผ่านเลย ท็อปเปอร์ที่นอนลายการ์ตูน ปูเตียงสบายมาก จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom handheld shot person smoothing topper surface soft cotton bedding detail cozy home lighting no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูรองหลังดี จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld footage person pressing topper padding showing thickness on bed cozy bedroom daylight no text no logo",
+      "tts_text": "สมน้ำหน้าใครที่ซื้อแพงไปก่อน ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูปูเตียง จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld bedroom footage person laying blanket over topper soft bedding cozy home environment no text no logo",
+      "tts_text": "เฮ้ย ของแบบนี้บ้านต้องมี ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มสบายมาก จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท รีบกดในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close shot person smoothing topper fabric detail cartoon pattern cozy bedroom lighting no text no logo",
+      "tts_text": "โอ๊ยย เหลือสามร้อยหนึ่งบาทเอง ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูปูนอนสบาย จากสี่ร้อยเก้าสิบเก้าบาท รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld phone footage person unfolding topper over mattress cozy bedroom natural light no text no logo",
+      "tts_text": "ถ้าไม่อยากนอนสบายก็ผ่านไป ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูรองหลังดี จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom scene person pressing topper softness with hand cozy bedding texture detail no text no logo",
+      "tts_text": "ดูนี่ก่อน ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูปูเตียงหลับสบาย จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld footage person smoothing topper corners across bed cozy bedroom morning lighting no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อราคาเต็ม ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มสบายปูง่าย จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom handheld video person laying on topper testing softness cozy bedding environment no text no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมี ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูรองหลัง จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหนึ่งบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld footage person fluffing topper padding on mattress cozy bedroom daylight environment no text no logo",
+      "tts_text": "โอ๊ยย ราคานี้ไม่กดคือพลาด ท็อปเปอร์ที่นอนลายการ์ตูน นุ่มฟูปูเตียงสบาย จากสี่ร้อยเก้าสิบเก้าบาท เหลือสามร้อยหนึ่งบาท รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729900628618611402": [
+    {
+      "visual_prompt": "9:16 photorealistic home kitchen table camera close-up hands opening blue mesh fish drying rack placing sliced fish trays natural daylight realistic lifestyle no text no logo",
+      "tts_text": "เหี้ยเอ้ย ถ้าไม่อยากมีชีวิตง่ายขึ้นก็อย่าใช้ คอนโดตากปลา คนที่เคยจ่ายสองร้อยยี่สิบเก้าบาทนี่ซวยจริง ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลง ลมผ่านดี ตากปลาแห้งสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic balcony drying setup camera side angle blue mesh fish drying rack hanging fish trays breeze sunlight natural home environment no text no logo",
+      "tts_text": "เชี่ยเอ๊ย ไม่อยากใช้ชีวิตสะดวกก็อย่าแตะ คอนโดตากปลา คนที่เคยกดสองร้อยยี่สิบเก้าบาทนี่โดนหนัก ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลงดี ลมผ่านทุกชั้น ตากอาหารแห้งสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rural house balcony camera medium shot blue mesh fish drying rack trays with fish sunlight wind realistic daily life no text no logo",
+      "tts_text": "แม่งเอ๊ย ไม่อยากมีของช่วยชีวิตก็อย่าใช้ คอนโดตากปลา คนที่เคยซื้อสองร้อยยี่สิบเก้าบาทนี่น้ำตาจะไหล ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลง ลมผ่านดี ตากปลาแห้งง่าย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic backyard drying fish camera low angle blue mesh fish drying rack trays sunlight natural breeze lifestyle scene no text no logo",
+      "tts_text": "โคตรพลาดเลยถ้าไม่ใช้ คอนโดตากปลา คนที่เคยจ่ายสองร้อยยี่สิบเก้าบาทนี่มีสะดุ้ง ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลงดี ลมผ่านทั่ว ตากปลาแห้งสะอาด ร้านอื่นไม่มี กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen prep table camera top angle blue mesh fish drying rack trays fish slices sunlight realistic home scene no text no logo",
+      "tts_text": "โอ๊ยกูจะบ้า ใครยังไม่ใช้คอนโดตากปลานี่พลาด คนที่เคยซื้อสองร้อยยี่สิบเก้าบาทมีจุก ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลง ลมผ่านดี ตากปลาแห้งง่าย รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic balcony railing camera close shot blue mesh fish drying rack fish trays sunlight breeze realistic environment no text no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยกดสองร้อยยี่สิบเก้าบาทนี่เจ็บใจ ตอนนี้เหลือเจ็ดสิบสี่บาท คอนโดตากปลา กันแมลง ลมผ่านดี ตากปลาแห้งสบาย ร้านอื่นหาไม่ได้แล้ว กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor countryside yard camera wide shot blue mesh fish drying rack hanging trays sunlight wind realistic life no text no logo",
+      "tts_text": "เชี่ยเอ๊ย ใครยังไม่รู้จักคอนโดตากปลานี่โง่เลย คนที่เคยซื้อสองร้อยยี่สิบเก้าบาทคงหน้าซีด ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลงดี ลมผ่านทุกชั้น กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic balcony kitchen drying food camera side medium shot blue mesh fish drying rack sunlight breeze natural lifestyle no text no logo",
+      "tts_text": "แม่งโคตรขำ คนที่เคยซื้อสองร้อยยี่สิบเก้าบาทนี่มีแค้น ตอนนี้เหลือเจ็ดสิบสี่บาท คอนโดตากปลา กันแมลง ลมผ่านดี ตากอาหารแห้งง่าย ร้านอื่นไม่มี กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic backyard fish drying rack camera low angle sunlight wind natural scene blue mesh rack trays realistic lifestyle no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครยังไม่ใช้คอนโดตากปลานี่พลาดหนัก คนที่เคยจ่ายสองร้อยยี่สิบเก้าบาทนี่มีจุก ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลง ลมผ่านดี ตากปลาแห้งสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen counter camera close-up hands placing fish trays into blue mesh fish drying rack daylight realistic home scene no text no logo",
+      "tts_text": "โธ่เอ๊ย ใครยังไม่ใช้คอนโดตากปลานี่โคตรพลาด คนที่เคยซื้อสองร้อยยี่สิบเก้าบาทนี่มีสะดุ้ง ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลงดี ลมผ่านทั่ว รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic balcony drying fish camera wide shot blue mesh fish drying rack trays sunlight wind realistic environment no text no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยซื้อสองร้อยยี่สิบเก้าบาทนี่คงอยากร้อง ตอนนี้เหลือเจ็ดสิบสี่บาท คอนโดตากปลา กันแมลง ลมผ่านดี ตากปลาแห้งง่าย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rural balcony drying setup camera side angle blue mesh fish drying rack trays sunlight breeze lifestyle realism no text no logo",
+      "tts_text": "เชี่ยเอ๊ย ถ้ายังไม่มีคอนโดตากปลานี่คือพลาด คนที่เคยจ่ายสองร้อยยี่สิบเก้าบาทนี่หน้าซีด ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลงดี ลมผ่านทั่ว กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home backyard drying fish camera close shot blue mesh fish drying rack trays sunlight breeze realistic scene no text no logo",
+      "tts_text": "แม่งเอ๊ย คนที่เคยซื้อสองร้อยยี่สิบเก้าบาทนี่ซวยจริง ตอนนี้เหลือเจ็ดสิบสี่บาท คอนโดตากปลา กันแมลง ลมผ่านดี ตากปลาแห้งสะอาด ร้านอื่นหาไม่ได้ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen prep scene camera top view blue mesh fish drying rack trays fish slices sunlight natural environment no text no logo",
+      "tts_text": "โอ๊ยยย ใครยังไม่ใช้คอนโดตากปลานี่เสียโอกาส คนที่เคยจ่ายสองร้อยยี่สิบเก้าบาทนี่มีเจ็บใจ ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลงดี ลมผ่านทั่ว รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic balcony drying fish trays camera medium shot blue mesh fish drying rack sunlight wind natural lifestyle no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ของแบบนี้ยังไม่มีได้ไง คอนโดตากปลา คนที่เคยซื้อสองร้อยยี่สิบเก้าบาทนี่มีร้อง ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลง ลมผ่านดี ตากปลาแห้งสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic countryside balcony camera wide shot blue mesh fish drying rack trays sunlight breeze realistic home life no text no logo",
+      "tts_text": "เชี่ยเอ๊ย คนที่เคยกดสองร้อยยี่สิบเก้าบาทนี่คงอยากด่าตัวเอง ตอนนี้เหลือเจ็ดสิบสี่บาท คอนโดตากปลา กันแมลงดี ลมผ่านทุกชั้น รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor yard drying food camera low angle blue mesh fish drying rack sunlight wind natural scene no text no logo",
+      "tts_text": "แม่งเอ๊ย ถ้าไม่ใช้คอนโดตากปลานี่พลาดหนัก คนที่เคยซื้อสองร้อยยี่สิบเก้าบาทนี่หน้าชา ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลง ลมผ่านดี ตากปลาแห้งง่าย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen drying fish scene camera close-up blue mesh fish drying rack trays sunlight natural environment no text no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยจ่ายสองร้อยยี่สิบเก้าบาทนี่มีอึ้ง ตอนนี้เหลือเจ็ดสิบสี่บาท คอนโดตากปลา กันแมลง ลมผ่านดี ตากอาหารแห้งสะดวก ร้านอื่นไม่มี กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic balcony kitchen drying rack camera side angle blue mesh fish drying rack sunlight breeze realistic lifestyle no text no logo",
+      "tts_text": "เชี่ยเอ๊ย ใครยังไม่กดคอนโดตากปลานี่พลาดจริง คนที่เคยซื้อสองร้อยยี่สิบเก้าบาทนี่มีสะดุ้ง ตอนนี้เหลือเจ็ดสิบสี่บาท กันแมลง ลมผ่านทั่ว รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic backyard drying fish camera wide shot blue mesh fish drying rack trays sunlight wind natural environment no text no logo",
+      "tts_text": "แม่งเอ๊ย คนที่เคยซื้อสองร้อยยี่สิบเก้าบาทนี่คงอยากทุบโต๊ะ ตอนนี้เหลือเจ็ดสิบสี่บาท คอนโดตากปลา กันแมลงดี ลมผ่านทุกชั้น ตากปลาแห้งง่าย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1734422841105941927": [
     {
       "visual_prompt": "9:16 photorealistic no text no logo",
