@@ -122,6 +122,738 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1732912127989744912": [
+    {
+      "visual_prompt": "9:16 photorealistic black rubber rain boots standing on wet ground outdoor rainy environment realistic lighting puddles around boots no text no logo",
+      "tts_text": "เหี้ยเอ้ย ใครเคยซื้อเกือบร้อยไปก่อนนี่มีเจ็บ ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ใส่ลุยฝน ลุยโคลนสบาย พื้นหนึบเดินง่าย ร้านข้างนอกหาไม่ง่าย กดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person wearing black rubber rain boots walking through puddle rainy street realistic scene no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพงไปก่อน ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ใส่ลุยฝน ลุยน้ำไม่เปียก พื้นหนึบเดินง่าย ใส่ทำงานสบาย รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black rain boots standing in muddy field farming environment realistic lighting no text no logo",
+      "tts_text": "โอ๊ยโง่เองที่เคยซื้อแพง ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยโคลน ลุยฝนได้สบาย พื้นหนึบไม่ลื่น ใส่ทำสวนได้ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black rubber rain boots placed on wet concrete floor rainy background realistic lighting no text no logo",
+      "tts_text": "เฮ้ยราคานี้ไม่กดคือพลาด จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ใส่ลุยฝนได้สบาย พื้นหนึบเดินง่าย ใช้งานดี รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person wearing rain boots stepping in puddle water splash realistic rainy scene no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังลังเลอยู่นี่พลาด จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยฝน ลุยน้ำไม่เปียก พื้นหนึบเดินง่าย รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black rain boots standing on muddy ground countryside environment realistic lighting no text no logo",
+      "tts_text": "ด่าตัวเองได้เลยถ้ายังไม่กด จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ใส่ลุยโคลน ลุยฝนได้ พื้นหนึบเดินสบาย รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black rubber rain boots on wet floor with rain drops realistic outdoor scene no text no logo",
+      "tts_text": "โอ๊ยของแบบนี้ต้องมีแล้วปะ จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยฝน ลุยน้ำสบาย พื้นหนึบไม่ลื่น รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rain boots close up standing in water puddle realistic rainy street lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ยราคานี้ยังไม่กดอีก จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ใส่ลุยฝนได้สบาย พื้นหนึบเดินง่าย รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person wearing black rain boots walking through muddy path realistic countryside scene no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่คิดช้า จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยโคลน ลุยฝนได้สบาย พื้นหนึบเดินดี รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black rain boots on wet wooden floor outdoor rainy environment realistic lighting no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือเสียดาย จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยฝน ลุยน้ำได้ พื้นหนึบไม่ลื่น รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rain boots stepping in puddle splash slow motion realistic rainy scene no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังไม่กดนี่พลาด จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยฝนไม่เปียก พื้นหนึบเดินสบาย รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black rubber rain boots placed on muddy ground farming environment realistic lighting no text no logo",
+      "tts_text": "เฮ้ยดูนี่ก่อนทุกคน จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ใส่ลุยโคลน ลุยฝนได้ พื้นหนึบเดินดี รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rain boots standing beside puddle outdoor rainy background realistic scene no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาดจริง จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยฝน ลุยน้ำได้สบาย รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person cleaning muddy boots after rain realistic outdoor scene no text no logo",
+      "tts_text": "เหี้ยเอ้ยราคานี้ยังลังเลอีก จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยฝน ลุยโคลนได้ พื้นหนึบเดินง่าย รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black rain boots standing in garden soil after rain realistic natural lighting no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ยังไม่รีบ จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยฝน ลุยโคลนได้สบาย รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rain boots walking through shallow water puddle realistic rainy scene no text no logo",
+      "tts_text": "โอ๊ยของแบบนี้ไม่กดคือเสียดาย จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยฝนไม่เปียก พื้นหนึบเดินดี รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rain boots close up muddy ground countryside realistic lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังคิดเยอะอยู่นี่พลาด จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยโคลน ลุยฝนได้ พื้นหนึบเดินง่าย รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rain boots standing in puddle reflecting light realistic rainy street scene no text no logo",
+      "tts_text": "เฮ้ยราคานี้ต้องรีบแล้ว จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ใส่ลุยฝน ลุยน้ำได้สบาย รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black rain boots placed beside puddle on rainy pavement realistic lighting no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือใจแข็ง จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยฝน ลุยโคลนได้ พื้นหนึบไม่ลื่น รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person wearing black rain boots walking on wet road rainy background realistic scene no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังไม่กดนี่พลาดจริง จากเกือบร้อย ตอนนี้เหลือเก้าสิบห้าบาท รองเท้าบูทยางกันน้ำ ลุยฝน ลุยน้ำได้สบาย รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732097343869585867": [
+    {
+      "visual_prompt": "9:16 photorealistic portable retro radio speaker on wooden table playing music outdoor camping atmosphere realistic lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ย ใครเคยจ่ายสี่ร้อยสิบสามมาก่อนนี่มีร้อง ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ เสียบยูเอสบีได้ ใช้ได้หลายแบบ ร้านข้างนอกหาไม่ง่าย กดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable bluetooth radio speaker playing music on desk indoor cozy room realistic scene no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อสี่ร้อยสิบสามไปก่อน ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ เสียบยูเอสบีได้ เสียงดังฟังชัด รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic retro style portable radio speaker on table with smartphone connecting bluetooth realistic lifestyle no text no logo",
+      "tts_text": "โอ๊ยโง่เองที่เคยซื้อสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลงจากมือถือ ฟังวิทยุได้ ใช้ง่าย เสียงดัง รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable radio speaker playing music on wooden desk with warm lighting realistic scene no text no logo",
+      "tts_text": "เฮ้ยราคานี้ไม่กดคือพลาด จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ ฟังเพลง ฟังวิทยุ เสียบการ์ดเพลงได้ ใช้ได้หลายแบบ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bluetooth radio speaker on camping table outdoor evening scene realistic lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังลังเลอยู่นี่พลาด จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลงได้ ฟังวิทยุได้ เสียงดังใช้เพลิน รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic retro portable radio speaker with usb flash drive playing music realistic indoor scene no text no logo",
+      "tts_text": "ด่าตัวเองได้เลยถ้ายังไม่กด จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เสียบยูเอสบีเปิดเพลงได้ ฟังวิทยุได้ เสียงชัด รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable radio speaker playing music in living room cozy lighting realistic lifestyle scene no text no logo",
+      "tts_text": "โอ๊ยของแบบนี้ต้องมีแล้วปะ จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ เสียงดังฟังชัด รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable bluetooth radio speaker on desk with smartphone nearby realistic lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ยราคานี้ยังไม่กดอีก จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ ฟังเพลงจากมือถือได้ ฟังวิทยุได้ ใช้ง่าย รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic retro radio speaker close up on table with warm lighting realistic product scene no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่คิดช้า จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ เสียงดังใช้สบาย รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable radio speaker playing music outdoors on picnic table realistic natural lighting no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือเสียดาย จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ เสียงดังชัด รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bluetooth radio speaker playing music next to smartphone realistic lifestyle scene no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังไม่กดนี่พลาด จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ ได้หลายแบบ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable radio speaker on wooden desk music playing realistic cozy indoor scene no text no logo",
+      "tts_text": "เฮ้ยดูนี่ก่อนทุกคน จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ ฟังเพลง ฟังวิทยุ เสียบการ์ดเพลงได้ รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic retro portable radio speaker on table with usb drive realistic lighting no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาดจริง จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เสียบยูเอสบี ฟังเพลงได้ เสียงดัง รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bluetooth radio speaker on bedside table playing music realistic warm lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ยราคานี้ยังลังเลอีก จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ เสียงชัด ใช้เพลิน รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable radio speaker playing music on desk modern room realistic scene no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ยังไม่รีบ จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ เสียงดังใช้ดี รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable radio speaker outdoors camping scene playing music realistic lighting no text no logo",
+      "tts_text": "โอ๊ยของแบบนี้ไม่กดคือเสียดาย จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ ฟังเพลง ฟังวิทยุ ใช้ง่าย รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic retro radio speaker close up playing music indoor lighting realistic scene no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังคิดเยอะอยู่นี่พลาด จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ เสียงดัง รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bluetooth radio speaker next to smartphone on desk realistic lighting no text no logo",
+      "tts_text": "เฮ้ยราคานี้ต้องรีบแล้ว จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ ได้สบาย รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable radio speaker on table playing music realistic daylight scene no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือใจแข็ง จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ เสียงชัด รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable bluetooth radio speaker on desk playing music realistic lifestyle scene no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังไม่กดนี่พลาดจริง จากสี่ร้อยสิบสาม ตอนนี้เหลือสองร้อยสามสิบสาม วิทยุพกพาบลูทูธ เปิดเพลง ฟังวิทยุ ได้หลายแบบ รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731965961513239666": [
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle chain and sprocket set placed on workshop table mechanic hands installing chain on motorbike rear wheel garage background realistic lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ย ใครเคยจ่ายสองร้อยห้าสิบกว่านี่มีเซ็ง ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนทีเดียวจบ ขี่ลื่น เสียงเงียบ ร้านข้างนอกหายาก กดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle chain and sprocket kit on workbench with mechanic tools garage setting realistic scene no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่เคยซื้อสองร้อยห้าสิบไปก่อน ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น เครื่องเดินนิ่ง ใช้ได้ยาว รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic installing motorcycle chain and sprocket on rear wheel garage background realistic lighting no text no logo",
+      "tts_text": "โอ๊ยโง่เองที่เคยซื้อแพง ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น ไม่กระตุก เครื่องเงียบ ใช้งานดี รีบกดในตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle chain and sprocket set close up on workshop table metal shine realistic lighting no text no logo",
+      "tts_text": "เฮ้ยราคานี้ไม่กดคือพลาด จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนทีเดียวจบ ขี่ลื่น เสียงเงียบ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle chain being installed on motorbike wheel mechanic hands realistic garage scene no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังลังเลอยู่นี่พลาด จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น ใช้ได้ยาว รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle sprocket and chain set on mechanic bench tools around realistic workshop lighting no text no logo",
+      "tts_text": "ด่าตัวเองได้เลยถ้ายังไม่กด จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น เครื่องเงียบ รีบกดในตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle rear wheel with new chain and sprocket installed garage background realistic no text no logo",
+      "tts_text": "โอ๊ยของแบบนี้ต้องมีแล้วปะ จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น เครื่องเดินนิ่ง รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle chain close up metal links shiny workshop lighting realistic scene no text no logo",
+      "tts_text": "เหี้ยเอ้ยราคานี้ยังไม่กดอีก จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น ไม่กระตุก รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic adjusting motorcycle chain tension rear wheel garage realistic lighting no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่คิดช้า จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น ใช้ได้ยาว รีบกดในตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle chain and sprocket kit on workshop table dramatic lighting realistic product scene no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือเสียดาย จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น เครื่องเงียบ รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle chain installation on sport bike rear wheel garage background realistic scene no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังไม่กดนี่พลาด จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น ขี่สนุก รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle sprocket gear close up metal teeth shiny workshop lighting realistic no text no logo",
+      "tts_text": "เฮ้ยดูนี่ก่อนทุกคน จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น เครื่องนิ่ง รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic holding motorcycle chain and sprocket kit workshop background realistic no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาดจริง จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น ใช้ยาว รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle rear wheel chain rotating mechanic adjusting realistic garage scene no text no logo",
+      "tts_text": "เหี้ยเอ้ยราคานี้ยังลังเลอีก จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น เครื่องเงียบ รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle chain and sprocket kit on mechanic table tools around realistic lighting no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ยังไม่รีบ จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น ใช้งานดี รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle chain close up installed on rear wheel outdoor daylight realistic scene no text no logo",
+      "tts_text": "โอ๊ยของแบบนี้ไม่กดคือเสียดาย จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น เครื่องเดินนิ่ง รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic adjusting motorcycle sprocket bolts garage background realistic lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังคิดเยอะอยู่นี่พลาด จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น ไม่กระตุก รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle chain moving on rear wheel slow motion garage scene realistic lighting no text no logo",
+      "tts_text": "เฮ้ยราคานี้ต้องรีบแล้ว จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น ใช้ยาว รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle sprocket gear installed on rear wheel shiny metal realistic garage lighting no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือใจแข็ง จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น เครื่องเงียบ รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic installing chain on motorcycle rear wheel realistic workshop lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังไม่กดนี่พลาดจริง จากสองร้อยห้าสิบ ตอนนี้เหลือสองร้อยยี่สิบหก โซ่มอเตอร์ไซค์พร้อมสเตอร์ เปลี่ยนแล้วขี่ลื่น ขี่สนุก รีบกด กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731872457821161197": [
+    {
+      "visual_prompt": "9:16 photorealistic car tire standing upright on garage floor mechanic hand touching tire car wheel beside workshop lighting phone camera style no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อสามพันเก้านี่มีร้อง ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งเกาะถนนดี ขับนุ่ม ใช้งานทุกวันสบาย รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up new car tire on wheel rim mechanic workshop floor lighting phone camera angle no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยจ่ายสามพันเก้า ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งดอกยางแน่น เกาะถนนดี ขับนุ่ม รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tire mounted on car wheel inside garage mechanic checking tread phone camera footage no text no logo",
+      "tts_text": "เหี้ยจริง ใครยังซื้อราคาเต็มสามพันเก้าอยู่ ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งเกาะถนนดี วิ่งนุ่ม เงียบ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic rolling new car tire across garage floor natural lighting phone camera no text no logo",
+      "tts_text": "โอ๊ย คนที่เคยจ่ายสามพันเก้านี่เจ็บใจ ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งดอกยางลึก วิ่งนิ่ง ขับสบาย รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic stack of new car tires in workshop mechanic environment phone camera shot no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ยังไม่กดคือพลาด จากสามพันเก้า ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งเกาะถนนดี วิ่งทางไกลสบาย รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up tire tread pattern under workshop light mechanic hand checking tire phone footage no text no logo",
+      "tts_text": "โถ่เอ๊ย คนที่เคยซื้อสามพันเก้านี่มีสะดุ้ง ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งดอกยางแน่น เกาะถนนดี รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic new car tire beside parked sedan inside garage natural light phone camera video no text no logo",
+      "tts_text": "เหี้ยจริง ใครยังไม่เปลี่ยนยางนี่พลาด จากสามพันเก้า ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งขับนุ่ม เงียบ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic installing new tire onto car wheel inside garage phone camera recording no text no logo",
+      "tts_text": "โอ๊ยย ราคานี้ไม่กดนี่โง่จริง จากสามพันเก้า ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งเกาะถนนดี วิ่งนุ่ม รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tire standing upright next to car wheel in garage lighting phone camera no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อสามพันเก้านี่เจ็บใจ ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งดอกยางลึก วิ่งมั่นใจ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car tire close up tread pattern on workshop floor dramatic lighting phone video no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยจ่ายสามพันเก้า ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งเกาะถนนดี ขับนิ่ง รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic holding new tire near car inside workshop phone camera footage no text no logo",
+      "tts_text": "เหี้ยจริง ราคานี้ยังไม่กดนี่พลาด จากสามพันเก้า ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งขับนุ่ม เงียบ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tire leaning against car wheel in garage natural lighting phone camera style no text no logo",
+      "tts_text": "โถ่ คนที่เคยซื้อสามพันเก้านี่มีร้อง ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งเกาะถนนดี วิ่งสบาย รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic stack of new tires in mechanic shop interior phone camera footage no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครซื้อราคาเต็มสามพันเก้านี่มีร้อง ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งดอกยางแน่น วิ่งนุ่ม รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up tire tread pattern with mechanic hand touching rubber texture phone camera shot no text no logo",
+      "tts_text": "โอ๊ย ราคานี้ยังไม่กดคือพลาด จากสามพันเก้า ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งเกาะถนนดี ขับมั่นใจ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tire mounted on car wheel outdoors driveway natural light phone camera recording no text no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยซื้อสามพันเก้านี่เจ็บใจ ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งวิ่งนุ่ม เงียบ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic rolling tire toward car in workshop phone camera footage no text no logo",
+      "tts_text": "โถ่เอ๊ย ใครยังซื้อราคาเต็มสามพันเก้านี่พลาด ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งเกาะถนนดี ขับนิ่ง รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic new tire next to parked car inside garage lighting phone camera no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ไม่กดคือโง่จริง จากสามพันเก้า ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งวิ่งนุ่ม เกาะถนนดี รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic inspecting tire tread inside workshop dramatic lighting phone video no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยซื้อสามพันเก้า ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งดอกยางแน่น วิ่งมั่นใจ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tire close up tread pattern against dark workshop background phone camera style no text no logo",
+      "tts_text": "โอ๊ย ใครยังไม่เปลี่ยนยางนี่พลาด จากสามพันเก้า ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งขับนุ่ม เงียบ รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic new tire standing upright next to car wheel in garage phone camera footage no text no logo",
+      "tts_text": "เหี้ยจริง ราคานี้ยังไม่กดคือเสียดาย จากสามพันเก้า ตอนนี้เหลือสองพันห้าร้อยสี่สิบเอ็ดบาท ยางรถเก๋งเกาะถนนดี วิ่งสบาย รีบกดตะกร้า กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731627766732064684": [
+    {
+      "visual_prompt": "9:16 photorealistic black pvc knee high rain boots standing in muddy rice field farmer wearing boots walking through water thick sole outdoor farm environment no text no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังซื้อเต็มเก้าสิบสี่นี่ซวยเลย รองเท้าบูทกันน้ำสิบสองนิ้ว ตอนนี้เหลือเก้าสิบหกบาท ลุยโคลน ลุยน้ำ กันลื่น พื้นหนา ใส่ทำสวนทำไร่ได้ รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic farmer putting on black pvc rain boots in rice field muddy ground waterproof boots walking outdoor agriculture scene no text no logo",
+      "tts_text": "โอ๊ยโง่จริง คนที่เคยซื้อเต็มเก้าสิบสี่ รองเท้าบูทกันน้ำสิบสองนิ้ว ตอนนี้เหลือเก้าสิบหกบาท ลุยโคลน ลุยน้ำ พื้นหนา ใส่ทำสวนได้ พับขากางเกงแล้วเดินลุยเลย กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black rubber boots stepping in wet muddy field water splash agricultural work environment no text no logo",
+      "tts_text": "เหี้ยจริง ราคานี้ยังไม่กด รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยโคลน พื้นหนา ใส่เดินทำไร่สบาย รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person walking through shallow water wearing pvc knee high rain boots outdoor farming scene no text no logo",
+      "tts_text": "โอ๊ยแม่งพลาด ใครยังไม่กด รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยฝน ลุยโคลน พื้นหนา เดินสบาย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up pvc rain boots stepping on muddy ground farm work outdoor field natural light no text no logo",
+      "tts_text": "ไอ้ห่า ราคานี้ยังคิดอีก รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท ลุยโคลน ลุยน้ำ กันลื่น พื้นหนา ใส่ทำสวนได้ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic farmer standing in wet grass wearing black pvc rain boots outdoor rural environment no text no logo",
+      "tts_text": "โอ๊ยโง่จริง ใครซื้อเต็มเก้าสิบสี่ รองเท้าบูทกันน้ำสิบสองนิ้ว ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยฝน ลุยโคลน พื้นหนา ใส่ทำสวนทำไร่สบาย รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black rubber rain boots walking through puddle water splash outdoor rainy environment no text no logo",
+      "tts_text": "เหี้ยเอ้ย ของแบบนี้ยังไม่กด รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท ลุยน้ำ ลุยโคลน พื้นหนา กันลื่น ใส่ทำงานสบาย กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pvc rain boots stepping on wet soil agricultural field muddy texture close up no text no logo",
+      "tts_text": "โอ๊ยราคานี้แม่งถูกจัด รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยโคลน พื้นหนา ใส่ทำสวน เดินลุยได้ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person wearing black pvc boots standing in rice field water agriculture scene no text no logo",
+      "tts_text": "เหี้ยจริง คนที่เคยซื้อเต็มเก้าสิบสี่นี่พลาด รองเท้าบูทกันน้ำสิบสองนิ้ว ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยโคลน พื้นหนา ใส่เดินทำไร่ได้ รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rain boots stepping through grass and mud outdoor farm lifestyle scene no text no logo",
+      "tts_text": "โอ๊ยใครไม่กดนี่งง รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยฝน ลุยโคลน พื้นหนา เดินสบาย รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pvc knee boots walking through wet ground puddle outdoor rural setting no text no logo",
+      "tts_text": "ไอ้บ้า ราคานี้ไม่กดคือพลาด รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยโคลน พื้นหนา ใส่ทำสวนได้ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black pvc rain boots standing on muddy farm path outdoor agriculture scene no text no logo",
+      "tts_text": "โอ๊ยแม่งพลาดแรง ใครยังไม่กด รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท ลุยน้ำ ลุยโคลน พื้นหนา ใส่ทำไร่ได้ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic farmer walking across flooded rice field wearing rubber boots muddy water splash no text no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้ยังลังเลอีก รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยโคลน พื้นหนา ใส่เดินลุยนาได้ รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close shot pvc rain boots stepping in mud agricultural work scene natural daylight no text no logo",
+      "tts_text": "โอ๊ยโง่จริง ใครซื้อเต็มเก้าสิบสี่ รองเท้าบูทกันน้ำสิบสองนิ้ว ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยฝน ลุยโคลน พื้นหนา ใส่ทำสวนได้ รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rubber rain boots walking through puddle splash rainy outdoor field no text no logo",
+      "tts_text": "เหี้ยจริง ราคานี้ยังไม่กดอีก รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยโคลน พื้นหนา ใส่ทำงานสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person putting on pvc rain boots outdoor farm grass ground no text no logo",
+      "tts_text": "โอ๊ยของแบบนี้ต้องมี รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยฝน ลุยโคลน พื้นหนา ใส่ทำสวนทำไร่ได้ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic black pvc boots standing in wet grass morning farm scene no text no logo",
+      "tts_text": "ไอ้ห่า คนไม่กดนี่พลาดหนัก รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยโคลน พื้นหนา เดินทำไร่ได้ รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pvc rain boots stepping on muddy path countryside farm environment no text no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้แม่งถูกจัด รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท ลุยโคลน ลุยน้ำ พื้นหนา ใส่เดินทำสวนสบาย กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic boots walking through puddle water splash farm field scene no text no logo",
+      "tts_text": "โอ๊ยแม่งพลาดจริง ใครยังไม่กด รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยฝน ลุยโคลน พื้นหนา รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic farmer boots stepping in muddy rice field agriculture lifestyle close up no text no logo",
+      "tts_text": "เหี้ยจริง ของแบบนี้ยังคิดอีก รองเท้าบูทกันน้ำสิบสองนิ้ว จากเก้าสิบสี่ ตอนนี้เหลือเก้าสิบหกบาท กันน้ำ ลุยโคลน พื้นหนา ใส่ทำไร่ได้ รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729571525547953145": [
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip multiple outlets individual switches long cable household desk usage handheld shot natural lighting no text no logo",
+      "tts_text": "โง่ชิบหาย ใครเคยซื้อปลั๊กพ่วง หนึ่งร้อยสามสิบแปดบาท มาก่อน ตอนนี้เหลือแค่ สี่สิบแปดบาท ปลั๊กพ่วงหลายช่อง มีสวิตช์เปิดปิดแยก เสียบพร้อมกันได้ โต๊ะไม่รก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip on desk charging laptop phone home environment handheld camera natural lighting no text no logo",
+      "tts_text": "ด่าตัวเองยังไม่พอ กูเคยซื้อปลั๊กพ่วง หนึ่งร้อยสามสิบแปดบาท วันนี้เหลือ สี่สิบแปดบาท หลายช่องเสียบ มีสวิตช์แยก เปิดปิดง่าย เสียบคอมมือถือพร้อมกันได้ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip plugged with phone charger and laptop on table realistic home lighting no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยกดปลั๊กพ่วง หนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือ สี่สิบแปดบาท หลายช่องมีสวิตช์แยก เสียบหลายเครื่องพร้อมกันได้ บ้านไม่รกสายไฟ รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip near TV console plugged devices natural living room lighting no text no logo",
+      "tts_text": "โง่จริง คนที่เคยจ่ายปลั๊กพ่วง หนึ่งร้อยสามสิบแปดบาท วันนี้เหลือ สี่สิบแปดบาท หลายช่องเสียบ มีสวิตช์เปิดปิดแยก ใช้กับทีวีคอมได้พร้อมกัน รีบกดในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip with multiple devices connected workspace desk natural lighting no text no logo",
+      "tts_text": "เฮ้ย ใครยังใช้ปลั๊กช่องเดียวอยู่ โคตรเชย ปลั๊กพ่วงจาก หนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือ สี่สิบแปดบาท หลายช่องมีสวิตช์แยก เสียบพร้อมกันได้ รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip charging laptop tablet phone on desk realistic environment no text no logo",
+      "tts_text": "แม่งเอ้ย กูซื้อปลั๊กพ่วง หนึ่งร้อยสามสิบแปดบาท ไปก่อน ตอนนี้เหลือ สี่สิบแปดบาท หลายช่องเสียบ มีสวิตช์เปิดปิดแยก เสียบหลายเครื่องพร้อมกันได้ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension socket power strip on floor near bed charging phone lamp realistic home scene no text no logo",
+      "tts_text": "โอ๊ย คนที่เคยจ่าย หนึ่งร้อยสามสิบแปดบาท นี่เจ็บใจแน่ ตอนนี้ปลั๊กพ่วงเหลือ สี่สิบแปดบาท หลายช่อง สวิตช์แยกทุกช่อง ใช้กับมือถือโคมไฟได้ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip with cable across desk workspace lighting realistic scene no text no logo",
+      "tts_text": "เฮ้ย ดูก่อน ของแบบนี้ต้องมีแล้วปะ ปลั๊กพ่วงจาก หนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือ สี่สิบแปดบาท หลายช่องเสียบ มีสวิตช์เปิดปิดแยก เสียบพร้อมกันได้ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip plugged with several chargers living room realistic lighting no text no logo",
+      "tts_text": "ใครยังใช้ปลั๊กเก่าอยู่ นี่แม่งพลาดมาก ปลั๊กพ่วงจาก หนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือ สี่สิบแปดบาท หลายช่อง สวิตช์เปิดปิดแยก เสียบหลายเครื่องพร้อมกันได้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip charging devices on office desk realistic environment no text no logo",
+      "tts_text": "โคตรพลาด ใครเคยซื้อปลั๊กพ่วง หนึ่งร้อยสามสิบแปดบาท มาก่อน ตอนนี้เหลือ สี่สิบแปดบาท หลายช่องมีสวิตช์แยก เปิดปิดง่าย เสียบคอมมือถือพร้อมกันได้ กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip on wooden desk charging phone laptop natural lighting no text no logo",
+      "tts_text": "เฮ้ย ราคานี้ไม่กดคือโง่ ปลั๊กพ่วงจาก หนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือ สี่สิบแปดบาท หลายช่องเสียบ สวิตช์เปิดปิดแยก ใช้งานพร้อมกันได้ รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip near TV stand multiple plugs connected realistic home scene no text no logo",
+      "tts_text": "โอ๊ย เห็นราคานี้แล้วขำ คนที่เคยจ่าย หนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือ สี่สิบแปดบาท ปลั๊กพ่วงหลายช่อง สวิตช์เปิดปิดแยก เสียบพร้อมกันได้ กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip plugged with electronics home interior realistic lighting no text no logo",
+      "tts_text": "ฟังนะ ใครยังไม่กดปลั๊กพ่วงตอนนี้ แม่งพลาดหนัก จาก หนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือ สี่สิบแปดบาท หลายช่องเสียบ มีสวิตช์แยกทุกช่อง รีบกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension socket strip charging phone laptop desk setup realistic lighting no text no logo",
+      "tts_text": "กูพูดตรงตรง ใครเคยซื้อปลั๊กพ่วง หนึ่งร้อยสามสิบแปดบาท มาก่อนนี่อยากร้อง ตอนนี้เหลือ สี่สิบแปดบาท หลายช่อง สวิตช์เปิดปิดแยก เสียบพร้อมกันได้ รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip with multiple chargers connected realistic room lighting no text no logo",
+      "tts_text": "เฮ้ย อย่าช้า ปลั๊กพ่วงจาก หนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือ สี่สิบแปดบาท หลายช่องเสียบ มีสวิตช์แยก เปิดปิดง่าย เสียบหลายเครื่องพร้อมกันได้ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip on floor near sofa plugged electronics realistic lighting no text no logo",
+      "tts_text": "โอ๊ย คนที่เคยจ่าย หนึ่งร้อยสามสิบแปดบาท นี่มีเจ็บใจ ตอนนี้ปลั๊กพ่วงเหลือ สี่สิบแปดบาท หลายช่องมีสวิตช์แยก ใช้พร้อมกันได้ บ้านไม่รกสายไฟ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip charging laptop tablet phone realistic home office lighting no text no logo",
+      "tts_text": "บอกเลย ใครยังไม่กดปลั๊กพ่วงตอนนี้ โคตรพลาด จาก หนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือ สี่สิบแปดบาท หลายช่องเสียบ สวิตช์เปิดปิดแยก เสียบหลายเครื่องได้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension strip on desk cable visible charging devices realistic scene no text no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีแล้วปะ ปลั๊กพ่วงจาก หนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือ สี่สิบแปดบาท หลายช่องมีสวิตช์แยก เปิดปิดง่าย เสียบพร้อมกันได้ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip near workspace charging devices realistic lighting no text no logo",
+      "tts_text": "ดูนี่ก่อน ใครเคยซื้อปลั๊กพ่วง หนึ่งร้อยสามสิบแปดบาท มาก่อนนี่มีเสียดาย ตอนนี้เหลือ สี่สิบแปดบาท หลายช่องเสียบ มีสวิตช์เปิดปิดแยก ใช้งานพร้อมกันได้ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip plugged multiple devices home desk lighting realistic no text no logo",
+      "tts_text": "โอ๊ย ราคานี้ไม่กดคือพลาดหนัก ปลั๊กพ่วงจาก หนึ่งร้อยสามสิบแปดบาท ตอนนี้เหลือ สี่สิบแปดบาท หลายช่อง สวิตช์แยกทุกช่อง เสียบหลายเครื่องพร้อมกันได้ รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1734268359826179626": [
     {
       "visual_prompt": "9:16 photorealistic no text no logo",
