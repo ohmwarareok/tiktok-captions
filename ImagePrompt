@@ -46,4 +46,22 @@
     "วางสินค้า",
     "ชี้ไปที่สินค้า",
     "จับสินค้าด้วยสองมือ"
-  ]}
+  ],
+
+  "camera_sensor_style": [
+    "ลักษณะภาพเหมือนกล้องมือถือ",
+    "noise เล็กน้อยแบบมือถือ",
+    "dynamic range แบบกล้องมือถือ",
+    "ภาพเหมือนถ่ายด้วยสมาร์ทโฟน"
+  ],
+
+  "anti_duplicate_rules": [
+    "unique scene every render",
+    "never repeat background",
+    "never reuse environment",
+    "different camera perspective every render",
+    "random composition",
+    "natural real life product scene"
+  ]
+}
+
