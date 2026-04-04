@@ -122,6 +122,738 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1734461666143667302": [
+    {
+      "visual_prompt": "9:16 photorealistic portable air cooler fan on desk, humidifier mist visible, LED glow, hand adjusting knobs, indoor summer heat, no text no logo",
+      "tts_text": "โคตรพลาดถ้าไม่ใช้ตัวนี้ พัดลมไอเย็นพกพา เมื่อก่อนเกือบสามร้อย ตอนนี้เหลือเก้าสิบเจ็ดบาท มีสเปรย์เพิ่มความชื้น ลมเย็นฉ่ำ นอนสบายทั้งคืน หาที่ไหนไม่ได้แล้ว กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up fan blowing mist, hand feeling cool air, bedroom night LED light, no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยซื้อแพงสามร้อยกว่า ตอนนี้เหลือเก้าสิบเจ็ดบาท พัดลมไอเย็นมีไฟสีสวย เปิดนอนได้ทั้งคืน ลมแรงฉ่ำไม่แห้งคอ แบบนี้ต้องรีบกด เดี๋ยวของหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman sweating then turning on air cooler fan, cool relief, no text no logo",
+      "tts_text": "เหี้ยร้อนขนาดนี้ยังไม่ซื้ออีกเหรอ พัดลมไอเย็นตัวนี้เหลือเก้าสิบเจ็ดบาท เติมน้ำแล้วพ่นไอเย็นทันที นั่งทำงานไม่ร้อนหัว เปิดทั้งวันยังไหว รีบกดเลยก่อนราคาขึ้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic desk setup with USB fan, mist blowing, laptop beside, no text no logo",
+      "tts_text": "โอ๊ยใครยังใช้พัดลมธรรมดาอยู่ โคตรเชย พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท เสียบยูเอสบีใช้ได้เลย มีไอน้ำช่วยให้ไม่แห้ง เย็นจริงไม่จกตา กดในตะกร้าได้เลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable fan with water tank opened, pouring water, mist effect, no text no logo",
+      "tts_text": "โง่จัดถ้าไม่ลองตัวนี้ พัดลมไอเย็นเติมน้ำแล้วเย็นทันที จากสามร้อยกว่าลดเหลือเก้าสิบเจ็ดบาท มีไฟสวยเปิดกลางคืนได้ ลมแรงไม่ง้อแอร์ รีบกดก่อนของหายหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedside fan glowing LED at night, person sleeping comfortably, no text no logo",
+      "tts_text": "สัสเอ้ย ราคานี้ไม่กดคือพลาด พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท เปิดนอนทั้งคืนเย็นสบาย มีไฟเจ็ดสีสวยมาก ไม่เปลืองไฟ ใช้ได้ยาว กดในตะกร้าได้เลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand carrying portable fan with handle, outdoor usage, no text no logo",
+      "tts_text": "ใครไม่ซื้อก็คือพลาดเอง พัดลมไอเย็นหิ้วไปไหนก็ได้ เหลือเก้าสิบเจ็ดบาท ลมแรงมีไอน้ำช่วยเย็น ไม่ต้องง้อแอร์ ใช้ง่ายมาก รีบกดก่อนของหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close fan blowing mist across face, cooling effect, no text no logo",
+      "tts_text": "ร้อนจนหัวจะระเบิดยังไม่ซื้ออีกเหรอ พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท เปิดแล้วเย็นทันที มีสเปรย์น้ำช่วยให้ชุ่มคอ นั่งนานก็ไม่แห้ง รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan on office desk, worker smiling feeling cool, no text no logo",
+      "tts_text": "โคตรดีแต่ไม่บอกใครไม่ได้ พัดลมไอเย็นตัวนี้เหลือเก้าสิบเจ็ดบาท ใช้ในออฟฟิศก็เย็นสบาย ไม่เสียงดัง ลมแรงกำลังดี แบบนี้ไม่กดคือพลาดจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic LED glowing fan with mist, dark room aesthetic, no text no logo",
+      "tts_text": "เหี้ยเอ้ยของดีขนาดนี้ยังลังเล พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท มีไฟสีเปลี่ยนได้ เปิดกลางคืนโคตรฟิน ลมเย็นชุ่มไม่แสบหน้า รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person pouring water into fan tank, then cool mist blowing, no text no logo",
+      "tts_text": "จะร้อนตายอยู่แล้วก็ยังไม่ซื้อ พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท เติมน้ำแล้วเย็นทันที ใช้ง่ายสุดๆ ลมแรงพอใจ ไม่ต้องเปลืองแอร์ รีบกดก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic compact fan next to bed, cooling airflow visible, no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาดมาก พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท นอนเปิดได้ทั้งคืน เย็นกำลังดีไม่หนาวเกิน เสียงเบาไม่กวน รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan cooling sweaty person, instant relief, no text no logo",
+      "tts_text": "โคตรร้อนยังจะทนอีกเหรอ พัดลมไอเย็นตัวนี้เหลือเก้าสิบเจ็ดบาท เปิดแล้วเย็นทันที มีไอน้ำช่วยชุ่ม ไม่แห้งคอ ใช้ทั้งวันยังไหว รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic small fan in kitchen cooling person cooking, no text no logo",
+      "tts_text": "ทำกับข้าวแล้วร้อนหัวแตกยังไม่ซื้ออีก พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท วางตรงไหนก็เย็น มีสเปรย์น้ำช่วยลดร้อน ใช้ง่ายมาก รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan beside laptop, cool airflow, work environment, no text no logo",
+      "tts_text": "นั่งทำงานเหงื่อแตกยังทนได้ไง พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท เสียบยูเอสบีใช้ได้เลย ลมแรงกำลังดี มีไอน้ำช่วยเย็น รีบกดตอนนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan blowing cool mist across bed, relaxed vibe, no text no logo",
+      "tts_text": "สมน้ำหน้าถ้ายังไม่ซื้อ พัดลมไอเย็นจากสามร้อยกว่าลดเหลือเก้าสิบเจ็ดบาท เปิดนอนสบาย ลมเย็นชุ่ม ไม่แห้งผิว แบบนี้ต้องรีบกดแล้วนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person smiling with cool breeze from fan, no text no logo",
+      "tts_text": "เหี้ยเอ้ยเย็นขนาดนี้ยังไม่ลอง พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท ลมแรงมีสเปรย์ช่วยชุ่ม เปิดแล้วฟินทันที ใช้ง่ายไม่ยุ่งยาก รีบกดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan with handle carried easily, lifestyle shot, no text no logo",
+      "tts_text": "จะไปไหนก็พกได้ ทำไมยังไม่ซื้อ พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท หิ้วสะดวก ลมเย็นจริง มีไอน้ำช่วยลดร้อน ใช้ได้ทุกที่ รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic LED color changing fan in dark room, mist visible, no text no logo",
+      "tts_text": "โอ๊ยยยราคานี้ไม่กดคือโง่ พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท มีไฟหลายสีสวยมาก เปิดกลางคืนฟิน ลมเย็นไม่แห้ง รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan cooling face close up, refreshing vibe, no text no logo",
+      "tts_text": "ร้อนจนจะเป็นบ้าแล้วยังไม่ซื้อ พัดลมไอเย็นเหลือเก้าสิบเจ็ดบาท เป่าลมเย็นทันที มีไอน้ำช่วยชุ่ม ใช้ทั้งวันยังไหว รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732474572975277827": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo close up electric rotary shaver bathroom lighting realistic skin shaving foam smooth glide handheld usage",
+      "tts_text": "เหี้ยเอ้ย ใครยังใช้มีดโกนอยู่คือพลาดมาก เครื่องโกนหนวดไฟฟ้าโกนเกลี้ยงนุ่มไม่บาดหน้า จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท รีบกดในตะกร้าเลยของโคตรต้องมี",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo man shaving mirror bathroom foam rotary shaver smooth skin natural light",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อเต็มราคา ห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยหกสิบเอ็ดบาท เครื่องโกนหนวดไฟฟ้าโกนไวเรียบลื่น ไม่ต้องเจ็บหน้า ใช้แล้วดูสะอาดขึ้นเยอะ กดในตะกร้าเลยด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo handheld shaver rotating head close detail shaving stubble clean result skin texture",
+      "tts_text": "โคตรพลาดถ้ายังไม่ซื้อ เครื่องโกนหนวดไฟฟ้าโกนได้รอบทิศไม่สะดุด จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้ง่ายไม่บาดหน้า ประหยัดเวลา รีบกดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo morning routine shaving clean face mirror sink water drops realistic lighting",
+      "tts_text": "โอ๊ยย ใครยังฝืนใช้แบบเดิมคือเหนื่อยฟรี เครื่องโกนหนวดไฟฟ้าโกนเร็วลื่นไม่ต้องออกแรง จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้แล้วหน้าดูเนียนขึ้น กดเลยอย่าคิดนาน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo shaving close up beard removal smooth skin result natural tone",
+      "tts_text": "เห้ย ของแบบนี้ต้องมีแล้วปะ เครื่องโกนหนวดไฟฟ้าโกนเกลี้ยงไม่ทิ้งตอ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้แล้วไม่ระคายผิว สะดวกมาก รีบกดในตะกร้าเดี๋ยวหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo man shaving jawline smooth finish bathroom mirror soft lighting",
+      "tts_text": "กูบอกเลยถ้าไม่ซื้อคือพลาด เครื่องโกนหนวดไฟฟ้าโกนไวเนียนกริบ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ไม่ต้องเปลี่ยนใบมีดบ่อย ใช้ได้นาน รีบกดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo shaving foam wipe clean face rotary blade smooth skin result",
+      "tts_text": "สัสเอ้ย ราคานี้ยังไม่กดคืออะไร เครื่องโกนหนวดไฟฟ้าโกนลื่นไม่สะดุด จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้แล้วหน้าดูดีขึ้นทันที รีบกดในตะกร้าเลยของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo clean shave result mirror close face lighting soft skin detail",
+      "tts_text": "ดูนี่ก่อนทุกคน เครื่องโกนหนวดไฟฟ้าโกนได้เร็วไม่บาดหน้า จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้ง่ายจับถนัดมือ ประหยัดเวลา รีบกดในตะกร้าเลยของหายไวมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo shaving beard detail rotary head movement realistic skin tone",
+      "tts_text": "เหี้ยจริงราคานี้ไม่กดคือพลาด เครื่องโกนหนวดไฟฟ้าโกนเกลี้ยงเรียบเนียน จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้แล้วไม่ต้องกลัวบาดหน้า รีบกดในตะกร้าเดี๋ยวหมดก่อน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo man shaving cheek smooth finish bright bathroom light",
+      "tts_text": "โอ๊ยย ของมันต้องมี เครื่องโกนหนวดไฟฟ้าโกนไวเนียนจริง จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้แล้วหน้าดูสะอาดขึ้นทันที รีบกดในตะกร้าเลยก่อนราคาขึ้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo shaving chin area close detail smooth skin result",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพง เครื่องโกนหนวดไฟฟ้าตอนนี้เหลือสามร้อยหกสิบเอ็ดบาท จากห้าร้อยเก้าสิบเก้าบาท โกนง่ายไม่เจ็บหน้า ใช้ได้ทุกวัน รีบกดในตะกร้าเลยของมีไม่เยอะแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo beard shaving smooth motion rotary blade realistic scene",
+      "tts_text": "เหี้ยเอ้ย กูเพิ่งรู้ว่ามันดีขนาดนี้ เครื่องโกนหนวดไฟฟ้าโกนลื่นมาก จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้แล้วประหยัดเวลา รีบกดในตะกร้าเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo morning shave routine mirror clean face bright light",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีแล้วปะ เครื่องโกนหนวดไฟฟ้าโกนเนียนไม่สะดุด จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้ง่ายไม่ต้องเปลี่ยนบ่อย รีบกดในตะกร้าเลยด่วนมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo shaving jawline detail smooth skin after shave",
+      "tts_text": "โคตรถูกตอนนี้ เครื่องโกนหนวดไฟฟ้าเหลือสามร้อยหกสิบเอ็ดบาท จากห้าร้อยเก้าสิบเก้าบาท โกนได้เร็วเรียบลื่น ใช้แล้วหน้าดูดีขึ้นเยอะ รีบกดในตะกร้าเลยก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo shaving foam clean wipe smooth finish realistic skin",
+      "tts_text": "เหี้ยจริง ราคานี้ไม่ซื้อคือเสียโอกาส เครื่องโกนหนวดไฟฟ้าโกนเกลี้ยงไม่บาดหน้า จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้แล้วสะดวกมาก รีบกดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo beard shaving clean result mirror close shot",
+      "tts_text": "โอ๊ยย เห็นราคาแล้วต้องกด เครื่องโกนหนวดไฟฟ้าโกนไวลื่นมาก จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้แล้วไม่ต้องกลัวแผล รีบกดในตะกร้าเลยของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo shaving chin smooth result clean face natural light",
+      "tts_text": "ดูนี่ก่อนทุกคน เครื่องโกนหนวดไฟฟ้าโกนเนียนจริงไม่สะดุด จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้แล้วหน้าดูสะอาดขึ้นมาก รีบกดในตะกร้าเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo shaving beard detail realistic skin texture smooth finish",
+      "tts_text": "เหี้ยเอ้ย กูโคตรเสียดายที่ไม่รู้ก่อน เครื่องโกนหนวดไฟฟ้าโกนง่ายมาก จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้แล้วไม่ต้องออกแรง รีบกดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo mirror shaving routine clean skin bright lighting",
+      "tts_text": "สมน้ำหน้าคนที่ยังลังเล เครื่องโกนหนวดไฟฟ้าตอนนี้เหลือสามร้อยหกสิบเอ็ดบาท จากห้าร้อยเก้าสิบเก้าบาท โกนไวลื่นไม่บาดหน้า ใช้แล้วสบายขึ้นเยอะ รีบกดในตะกร้าเลยด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo shaving jawline smooth clean face after use",
+      "tts_text": "เหี้ยจริง ของดีราคานี้หาไม่ได้แล้ว เครื่องโกนหนวดไฟฟ้าโกนเกลี้ยง จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยหกสิบเอ็ดบาท ใช้แล้วหน้าดูดีขึ้น รีบกดในตะกร้าเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732302783181326778": [
+    {
+      "visual_prompt": "9:16 photorealistic steel spray anti rust spraying on metal pipe realistic lighting workshop scene no text no logo",
+      "tts_text": "โคตรพลาดอะใครที่เคยจ่ายเก้าสิบเก้าบาท ตอนนี้เหลือสี่สิบเก้าบาทเอง สเปรย์กันสนิมฉีดแล้วเงาเลย เหล็กเก่ากลับมาดูใหม่ ใช้ง่ายแค่ฉีดแล้วจบ ของแบบนี้หาซื้อข้างนอกยาก กดตะกร้าเลยดิ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up spraying rust removal on metal bar outdoor wooden table no text no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพงไปตั้งเยอะ ตอนนี้เหลือสี่สิบเก้าบาทเอง สเปรย์เคลือบเหล็กกันสนิม ฉีดแล้วผิวเรียบเงา ใช้กับของเก่าได้หมด งานช่างต้องมี รีบกดก่อนของหมดในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying steel polish on rusty pipe industrial background no text no logo",
+      "tts_text": "โง่ชิบกูซื้อเต็มราคาไป ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์เคลือบเหล็กกันสนิม ฉีดแล้วขึ้นเงาเหมือนใหม่ ใช้ได้ทั้งในบ้านนอกบ้าน สะดวกไม่ต้องขัดให้เหนื่อย กดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand spraying anti rust on metal rail backyard scene no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพงไปก่อน ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์กันสนิมเหล็ก ฉีดง่ายแห้งไว เหล็กเก่ากลับมาดูดีทันที ไม่ต้องขัดให้เสียเวลา รีบกดในตะกร้าก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying metal polish on rusted tool realistic lighting no text no logo",
+      "tts_text": "โคตรเสียดายใครที่ซื้อราคาเต็มไป ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์เคลือบเหล็ก ฉีดปุ๊บเงาปั๊บ กันสนิมได้ ใช้ง่ายมาก งานช่างต้องมีติดบ้าน กดในตะกร้าเดี๋ยวนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic metal pipe before after spray transformation no text no logo",
+      "tts_text": "กูงงเลยทำไมไม่ซื้อตอนลด ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์กันสนิมเหล็ก ฉีดแล้วเงาเหมือนใหม่ ใช้กับท่อหรือเหล็กได้หมด ไม่ต้องเสียแรงขัด กดตะกร้าเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying on rusty bike frame outdoor no text no logo",
+      "tts_text": "เหี้ยเอ๊ยของแบบนี้เพิ่งมาลด ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์เคลือบเหล็กกันสนิม ฉีดแล้วลื่นเงา ใช้กับจักรยานหรือเหล็กได้หมด มีติดบ้านโคตรสะดวก กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying steel polish on gate metal realistic scene no text no logo",
+      "tts_text": "โคตรเซ็งกูซื้อแพงไป ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์กันสนิมเหล็ก ฉีดแล้วเหมือนใหม่ ประตูเหล็กเก่ากลับมาเงา ไม่ต้องเปลี่ยนใหม่ ประหยัดไปเยอะ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up spraying rust cleaner on tool metal no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ไม่รอโปร ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์เคลือบเหล็กกันสนิม ฉีดง่ายใช้งานไว ไม่ต้องขัดให้เมื่อย เหล็กเก่าดูใหม่ขึ้นทันที กดตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying on metal furniture indoor no text no logo",
+      "tts_text": "โคตรพลาดใครที่ซื้อก่อน ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์กันสนิมเหล็ก ฉีดแล้วเงาขึ้นทันที เฟอร์นิเจอร์เหล็กเก่ากลับมาดูดี ใช้ง่ายไม่ต้องง้อช่าง กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying on rusty pipe construction site no text no logo",
+      "tts_text": "เหี้ยจริงกูซื้อแพงไป ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์เคลือบเหล็กกันสนิม ฉีดแล้วผิวเรียบเงา ใช้กับงานช่างได้หมด มีไว้คือจบ รีบกดในตะกร้าก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying metal polish on railing outdoor no text no logo",
+      "tts_text": "โง่จัดกูซื้อเต็มราคาไป ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์กันสนิมเหล็ก ฉีดแล้วเหมือนใหม่ ราวเหล็กเก่ากลับมาสวย ใช้ง่ายมาก รีบกดตะกร้าเดี๋ยวหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand spraying rust remover on metal tool no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ไม่กดตอนลด ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์เคลือบเหล็ก ฉีดแล้วเงาทันที ไม่ต้องเสียเวลาขัด ของต้องมีติดบ้าน กดตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying steel cleaner on old metal pipe no text no logo",
+      "tts_text": "โคตรเสียดายซื้อแพงไป ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์กันสนิมเหล็ก ฉีดแล้วขึ้นเงาเหมือนใหม่ ใช้ง่ายไม่ต้องง้อช่าง รีบกดในตะกร้าเลยก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying on metal surface workshop no text no logo",
+      "tts_text": "เหี้ยเอ๊ยเพิ่งรู้ว่ามันลด ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์เคลือบเหล็ก ฉีดแล้วเงาไว กันสนิมได้ ใช้กับเหล็กได้หมด มีไว้โคตรสะดวก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rust removal spray before after metal no text no logo",
+      "tts_text": "โคตรพลาดไม่กดตอนโปร ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์กันสนิมเหล็ก ฉีดแล้วเหมือนใหม่ ไม่ต้องขัดให้เสียเวลา งานจบไวมาก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying steel polish on rusty gate no text no logo",
+      "tts_text": "กูเสียดายเงินเลยซื้อแพงไป ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์เคลือบเหล็ก ฉีดแล้วเงาเหมือนใหม่ ประตูเหล็กเก่าดูดีขึ้นทันที กดตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand using spray on metal bar outdoor no text no logo",
+      "tts_text": "สมน้ำหน้าคนที่ไม่รอโปร ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์กันสนิมเหล็ก ฉีดง่ายแห้งไว ใช้ได้กับทุกเหล็ก ไม่ต้องเสียแรงขัด กดตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying rust cleaner on pipe close up no text no logo",
+      "tts_text": "โง่ชิบกูซื้อแพงไป ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์เคลือบเหล็กกันสนิม ฉีดแล้วเงาไว ใช้กับท่อเหล็กได้หมด งานช่างต้องมี รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying metal polish on rusty object no text no logo",
+      "tts_text": "เหี้ยเอ๊ยของดีเพิ่งลด ตอนนี้เหลือสี่สิบเก้าบาท สเปรย์กันสนิมเหล็ก ฉีดแล้วผิวเรียบเงา ของเก่าดูใหม่ทันที ไม่ต้องเปลี่ยนใหม่ กดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731580347612038765": [
+    {
+      "visual_prompt": "9:16 photorealistic, indoor modern room, standing fan sixteen inch five blades, strong airflow, clean minimal background, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังใช้พัดลมกากๆอยู่ฟังนะ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นสิบหกนิ้ว ลมแรงสามระดับ เย็นทั้งห้อง เปิดนานไม่งอแง แบบนี้ห้างยังแพงกว่า กดเลยในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan blowing curtain softly, bright daylight room, no text, no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยซื้อหกร้อยกว่า ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นใบพัดห้าใบ ลมกระจายกว้าง เย็นเร็ว ไม่ต้องเปิดแอร์ทั้งวัน รีบกดก่อนของหมด เดี๋ยวร้องทีหลังนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up spinning fan blades airflow motion, no text, no logo",
+      "tts_text": "โอ๊ยย ใครยังทนร้อนคือพลาด ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นสิบหกนิ้ว ลมแรงสะใจ เปิดเบาๆก็ยังเย็น ประหยัดไฟใช้ได้ยาว รีบกดใส่ตะกร้า เดี๋ยวของหาย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, person relaxing in front of fan, cozy home vibe, no text, no logo",
+      "tts_text": "เหี้ยดีจริงไม่โม้ ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นลมแรงสามระดับ นั่งหน้าทีคือสบายตัวมาก ห้องไม่อับอีกต่อไป ราคานี้ไม่กดคือโง่เอง รีบเลยในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan oscillating left right airflow, no text, no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีแล้วปะ เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นหมุนส่ายได้ ลมกระจายทั่วห้อง เปิดทีเดียวจบ ไม่ต้องย้ายไปมา กดตอนนี้ยังทันนะ ช้าคือหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, bedroom with fan cooling environment, no text, no logo",
+      "tts_text": "ไอ้บ้าเอ้ย เพิ่งเห็นราคานี้ เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นสิบหกนิ้ว ลมแรงเย็นจริง นอนสบายทั้งคืน ไม่ต้องเปิดแอร์ทั้งคืน ประหยัดไฟไปอีก กดเลยอย่าคิดนาน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan blowing hair gently, lifestyle shot, no text, no logo",
+      "tts_text": "แม่งโคตรถูก ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นใบพัดห้าใบ ลมแรงแบบไม่ต้องเร่งสุดก็เย็น ผมปลิวสบาย ไม่อึดอัด กดเถอะของดีแบบนี้ไม่ได้มีทุกวัน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, modern living room with fan airflow, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย เห็นราคาแล้วอยากกดทันที เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นปรับระดับได้ ลมแรงครอบคลุมทั้งห้อง ใช้ง่ายไม่จุกจิก รีบกดในตะกร้า เดี๋ยวขึ้นราคา",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close shot fan control panel simple use, no text, no logo",
+      "tts_text": "โอ๊ยใช้ง่ายมาก ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นปรับแรงลมสามระดับ กดปุ๊บใช้ได้เลย ไม่ต้องงง เย็นไวทันใจ รีบกดก่อนของหาย หมดแล้วอดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan cooling sweaty person relief moment, no text, no logo",
+      "tts_text": "ใครร้อนจนหงุดหงิดต้องฟัง เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นลมแรงช่วยคลายร้อนทันที เปิดแล้วโล่งตัว ไม่อึดอัด แบบนี้ต้องมีติดบ้าน รีบกดอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan in small apartment space saving, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ห้องเล็กก็เอาอยู่ เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นขนาดกำลังดี ไม่กินที่ ลมแรงกระจายทั่ว นั่งมุมไหนก็เย็น รีบกดก่อนของหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan blowing across bed sheets, no text, no logo",
+      "tts_text": "สมน้ำหน้า คนที่ซื้อแพงกว่า ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นลมแรง นอนเย็นทั้งคืน ไม่ต้องทนร้อนอีกต่อไป รีบกดตอนนี้ ของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan cooling workspace desk area, no text, no logo",
+      "tts_text": "เฮ้ยทำงานแล้วร้อนใช่ไหม เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นลมแรงช่วยให้โฟกัสดีขึ้น ไม่รำคาญตัวเอง เปิดยาวก็ยังนิ่ง รีบกดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan oscillating wide room coverage, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ลมมันกระจายจริง เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นส่ายซ้ายขวา เย็นทั่วห้อง ไม่ต้องขยับเครื่องไปมา ใช้ง่ายมาก รีบกดใส่ตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, family relaxing with fan airflow, no text, no logo",
+      "tts_text": "ของแบบนี้บ้านต้องมี เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นลมแรง ใช้ได้ทั้งบ้าน ไม่ว่าจะนั่งหรือยืนก็เย็น รีบกดก่อนของหมด หมดแล้วหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan close-up airflow breeze effect, no text, no logo",
+      "tts_text": "โอ๊ยลมมันดีจริง ตอนนี้เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นใบพัดห้าใบ เย็นเร็วทันใจ ไม่ต้องรอนาน เปิดปุ๊บเย็นปั๊บ รีบกดอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, minimalist room fan aesthetic clean, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ทั้งถูกทั้งใช้ง่าย เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นดีไซน์เรียบ ลมแรง ใช้ได้นาน ไม่ต้องเปลี่ยนบ่อย รีบกดตอนนี้ก่อนราคาเด้ง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan blowing curtain strong breeze, no text, no logo",
+      "tts_text": "ดูนี้ก่อนทุกคน เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นลมแรงจนผ้าม่านปลิว เย็นจริงไม่ต้องเถียง เปิดแล้วสบายตัวทันที รีบกดใส่ตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan in hot weather relief scene, no text, no logo",
+      "tts_text": "ร้อนขนาดนี้ยังไม่กดอีกเหรอ เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นช่วยคลายร้อนทันที ลมแรงเย็นไว ใช้ได้ทั้งวัน รีบกดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, fan centered product shot clean lighting, no text, no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้ไม่กดคือพลาด เหลือสามร้อยยี่สิบเอ็ดบาท พัดลมตั้งพื้นสิบหกนิ้ว ลมแรงสามระดับ เย็นทั่วห้อง ใช้ง่ายมาก รีบกดในตะกร้าตอนนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731020137545369694": [
+    {
+      "visual_prompt": "9:16 photorealistic electric scooter folding compact commuting urban street no text no logo",
+      "tts_text": "โคตรพลาดอะ ใครซื้อสกู๊ตเตอร์ไฟฟ้าตอนราคาเต็มพันห้า ตอนนี้เหลือหกร้อยแปดสิบหกบาท วิ่งได้ไกลพับเก็บง่าย รับน้ำหนักได้เยอะ ขี่ไปทำงานสบาย กดในตะกร้าเดี๋ยวนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic electric scooter riding city sidewalk commute lifestyle no text no logo",
+      "tts_text": "เห้ยย ใครยังไม่กดคือพลาด สกู๊ตเตอร์ไฟฟ้าวิ่งไกลชาร์จครั้งเดียวใช้ได้ทั้งวัน พับเก็บใส่รถได้ ไม่ต้องเปลืองค่าน้ำมัน เหลือแค่หกร้อยแปดสิบหกบาท กดเลยอย่าคิดนาน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foldable electric scooter close up wheels motor urban no text no logo",
+      "tts_text": "โง่จริงตอนซื้อแพง ตอนนี้แม่งเหลือหกร้อยแปดสิบหกบาท สกู๊ตเตอร์ไฟฟ้ามอเตอร์แรง วิ่งลื่น ทางไกลก็เอาอยู่ พับง่ายไม่เปลืองที่ จะไม่กดได้ยังไง กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scooter folding mechanism detail urban transport no text no logo",
+      "tts_text": "โอ๊ยย ราคานี้ไม่กดคือเสียโอกาส สกู๊ตเตอร์ไฟฟ้าพับได้ น้ำหนักเบา ขี่ไปเรียนไปทำงานสบาย ไม่ต้องเดินให้เหนื่อย เหลือหกร้อยแปดสิบหกบาท กดในตะกร้าเดี๋ยวนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person riding electric scooter street daylight no text no logo",
+      "tts_text": "ด่าตัวเองเลยที่ซื้อแพง วันนี้เหลือหกร้อยแปดสิบหกบาท สกู๊ตเตอร์ไฟฟ้าวิ่งไกล แบตอึด ขี่ลื่นไม่สะดุด ใช้ทุกวันยังไหว แบบนี้ไม่กดคือพลาด รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scooter standing parked modern minimal no text no logo",
+      "tts_text": "เอาจริงนะ ของแบบนี้ต้องมี สกู๊ตเตอร์ไฟฟ้าขี่ง่าย ไม่ต้องออกแรง วิ่งได้ไกล รับน้ำหนักเยอะ เหลือแค่หกร้อยแปดสิบหกบาท จะไม่กดได้ยังไง รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic urban commute electric scooter evening street no text no logo",
+      "tts_text": "กูยังเสียดายไม่หาย ซื้อแพงไปตั้งนาน ตอนนี้เหลือหกร้อยแปดสิบหกบาท สกู๊ตเตอร์ไฟฟ้าพับเก็บง่าย วิ่งไกล ไม่ต้องเดินให้เมื่อย กดในตะกร้าเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scooter battery charging close up no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน สกู๊ตเตอร์ไฟฟ้าชาร์จครั้งเดียวใช้ได้ยาว วิ่งได้ไกล พับเก็บสะดวก เหลือหกร้อยแปดสิบหกบาทเท่านั้น ราคานี้ไม่กดคือโง่นะ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person folding scooter putting in car trunk no text no logo",
+      "tts_text": "โคตรดีอะ สกู๊ตเตอร์ไฟฟ้าพับใส่รถได้ ขี่ไปไหนก็สะดวก วิ่งไกลไม่ต้องกลัวหมดแรง เหลือหกร้อยแปดสิบหกบาท กดในตะกร้าเลยเดี๋ยวหมดก่อน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scooter riding park path daylight no text no logo",
+      "tts_text": "เฮ้ย ราคานี้ต้องเอาแล้ว สกู๊ตเตอร์ไฟฟ้าขี่สบาย วิ่งไกลไม่เปลืองแรง รับน้ำหนักได้เยอะ ใช้ได้ทุกวัน เหลือหกร้อยแปดสิบหกบาท กดเลยอย่าคิดเยอะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scooter detail motor wheel motion no text no logo",
+      "tts_text": "โคตรเจ็บใจ ซื้อแพงไปก่อน วันนี้เหลือหกร้อยแปดสิบหกบาท สกู๊ตเตอร์ไฟฟ้ามอเตอร์แรง ขี่ลื่น วิ่งไกล ใช้คุ้มทุกวัน รีบกดก่อนของหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic commuter using scooter morning street no text no logo",
+      "tts_text": "ใครยังเดินให้เหนื่อยอยู่ เปลี่ยนเลย สกู๊ตเตอร์ไฟฟ้าขี่ง่าย วิ่งไกล ประหยัดเวลา เหลือแค่หกร้อยแปดสิบหกบาท จะไม่กดได้ยังไง กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scooter standing near building modern lifestyle no text no logo",
+      "tts_text": "โอ๊ยย ของมันต้องมี สกู๊ตเตอร์ไฟฟ้าพับได้ วิ่งได้ไกล ใช้ไปทำงานสบาย เหลือหกร้อยแปดสิบหกบาทเท่านั้น ไม่กดคือพลาดมาก กดเลยเดี๋ยวหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic riding scooter night city lights no text no logo",
+      "tts_text": "บอกเลยใครไม่กดคือเสียดาย สกู๊ตเตอร์ไฟฟ้าวิ่งไกล แบตอึด ขี่ลื่นทุกทาง พับเก็บง่าย เหลือหกร้อยแปดสิบหกบาท รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scooter urban transport close up deck no text no logo",
+      "tts_text": "กูยังอยากได้อีกคัน สกู๊ตเตอร์ไฟฟ้าขี่ง่าย วิ่งไกล รับน้ำหนักเยอะ ใช้ทุกวันยังไหว เหลือแค่หกร้อยแปดสิบหกบาท กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person carrying folded scooter stairs no text no logo",
+      "tts_text": "โคตรสะดวก สกู๊ตเตอร์ไฟฟ้าพับแล้วถือขึ้นลงได้ง่าย วิ่งไกลไม่ต้องเดิน เหลือหกร้อยแปดสิบหกบาท ราคานี้ไม่กดคือพลาด รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scooter parked near cafe lifestyle no text no logo",
+      "tts_text": "ใครอยากเท่ต้องมี สกู๊ตเตอร์ไฟฟ้าขี่ไปคาเฟ่สบาย วิ่งไกลไม่เหนื่อย พับเก็บง่าย เหลือหกร้อยแปดสิบหกบาท กดเลยก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scooter dashboard handlebar detail no text no logo",
+      "tts_text": "ของมันดีจริง สกู๊ตเตอร์ไฟฟ้าควบคุมง่าย วิ่งลื่น ใช้งานสะดวกทุกวัน เหลือแค่หกร้อยแปดสิบหกบาท ไม่กดตอนนี้จะไปกดตอนไหน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scooter commuting office worker no text no logo",
+      "tts_text": "เลิกเสียเวลารถติด ใช้สกู๊ตเตอร์ไฟฟ้าขี่ลัดไปเลย วิ่งไกล พับง่าย ใช้สะดวก เหลือหกร้อยแปดสิบหกบาท กดในตะกร้าเดี๋ยวนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic electric scooter modern minimal product shot no text no logo",
+      "tts_text": "ราคานี้หาไม่ได้แล้ว สกู๊ตเตอร์ไฟฟ้าวิ่งไกล พับเก็บง่าย ใช้ทุกวันคุ้ม เหลือแค่หกร้อยแปดสิบหกบาท รีบกดเลยก่อนจะหมดจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730076114867882090": [
+    {
+      "visual_prompt": "9:16 photorealistic kitchen counter oven baking toast warm light no text no logo",
+      "tts_text": "เหี้ยเอ้ย ของดีขนาดนี้ไม่ซื้อคือพลาด เตาอบไฟฟ้า ความจุสิบสองลิตร อบขนม ปิ้งขนมปัง ทำได้หมด จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยสามสิบเอ็ดบาท กดเลยอย่าคิดนาน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home kitchen small oven baking bread steam warm tone no text no logo",
+      "tts_text": "โอ๊ยยย กูเพิ่งรู้ว่ามันถูกขนาดนี้ เตาอบไฟฟ้า สิบสองลิตร อบ ปิ้ง ย่าง ครบ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท ใครยังไม่กดคือพลาดหนักมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oven grilling meat crispy golden lighting no text no logo",
+      "tts_text": "เชี่ย ทำไมกูเพิ่งเจอ เตาอบไฟฟ้า ตัวเดียวจบ อบไก่ ปิ้งขนมปัง ทำอาหารง่าย จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท จะไม่กดได้ยังไง รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic toast popping out of oven morning light no text no logo",
+      "tts_text": "เหี้ย ของแบบนี้ต้องมีแล้วปะ เตาอบไฟฟ้า สิบสองลิตร ใช้ง่ายมาก อบขนม ปิ้งขนมปังได้ จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้สามร้อยสามสิบเอ็ดบาท กดตะกร้าเดี๋ยวนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic baking cookies tray inside oven cozy kitchen no text no logo",
+      "tts_text": "โอ๊ย กูเสียดายเงินที่เคยซื้อแพง เตาอบไฟฟ้า ใช้ได้สารพัด อบ ปิ้ง ย่าง ครบ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic small oven on table cooking sausage no text no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้ยังไม่ซื้ออีกเหรอ เตาอบไฟฟ้า สิบสองลิตร ทำอาหารง่ายสุด อบ ปิ้งได้หมด จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oven baking pizza cheese melt no text no logo",
+      "tts_text": "เชี่ย โคตรคุ้ม เอ้ยไม่พูดละ แต่แม่งดีจริง เตาอบไฟฟ้า อบพิซซ่า ปิ้งขนมปังง่าย จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท กดก่อนหมดนะทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic kitchen baking cake inside oven soft lighting no text no logo",
+      "tts_text": "โอ๊ยยย ใครยังไม่มีคือพลาด เตาอบไฟฟ้า สิบสองลิตร อบเค้กก็ได้ ปิ้งก็ได้ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท ถูกแบบนี้ต้องรีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic crispy chicken roasting in oven golden color no text no logo",
+      "tts_text": "เหี้ย ทำไมมันถูกขนาดนี้ เตาอบไฟฟ้า ใช้ง่าย อบไก่ ปิ้งขนมปังได้ จากห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือสามร้อยสามสิบเอ็ดบาท ไม่กดคือพลาดจริงนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic breakfast toast butter melting oven scene no text no logo",
+      "tts_text": "เชี่ย ของมันต้องมี เตาอบไฟฟ้า สิบสองลิตร ใช้ได้ทุกวัน อบ ปิ้งสะดวก จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท รีบกดก่อนของหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oven baking bread loaf fresh steam no text no logo",
+      "tts_text": "โอ๊ยย กูโง่เองที่ซื้อแพง เตาอบไฟฟ้า ใช้ดีมาก อบขนมได้ ปิ้งได้ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท รีบกดตอนนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oven cooking sausage breakfast scene no text no logo",
+      "tts_text": "เหี้ย ราคานี้ไม่กดคือพลาด เตาอบไฟฟ้า สิบสองลิตร ใช้ง่าย อบ ปิ้ง ย่างครบ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cookies baking tray golden light no text no logo",
+      "tts_text": "เชี่ย ดีเกินราคา เตาอบไฟฟ้า ตัวเดียวจบ อบคุกกี้ ปิ้งขนมปังได้ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท ใครเห็นแล้วกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oven baking pastry home scene no text no logo",
+      "tts_text": "โอ๊ย ของมันต้องมี เตาอบไฟฟ้า สิบสองลิตร ใช้ทำอาหารง่ายมาก จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท ไม่กดตอนนี้จะรออะไร",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oven cooking steak juicy grill no text no logo",
+      "tts_text": "เหี้ย ของดีราคานี้หาไม่ได้แล้ว เตาอบไฟฟ้า อบเนื้อ ปิ้งขนมได้ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท รีบกดก่อนหมดนะทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oven baking muffin tray warm tone no text no logo",
+      "tts_text": "เชี่ย กูเพิ่งรู้ว่ามันดีขนาดนี้ เตาอบไฟฟ้า สิบสองลิตร อบมัฟฟิน ปิ้งได้ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท กดตอนนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oven cooking fish crispy skin no text no logo",
+      "tts_text": "โอ๊ยย ราคานี้คือไม่กดไม่ได้ เตาอบไฟฟ้า ใช้อบปลา ปิ้งขนมง่าย จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท ใครเห็นรีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oven baking croissant golden crispy no text no logo",
+      "tts_text": "เหี้ยเอ้ย ของถูกแบบนี้มีไม่บ่อย เตาอบไฟฟ้า สิบสองลิตร อบครัวซอง ปิ้งได้ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oven baking pizza slice cheese stretch no text no logo",
+      "tts_text": "เชี่ย ของมันต้องมี เตาอบไฟฟ้า ตัวเดียวจบ อบพิซซ่า ปิ้งขนมปัง จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท จะไม่กดได้ยังไง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oven baking bread kitchen morning no text no logo",
+      "tts_text": "โอ๊ยย ของดีราคานี้หาไม่ได้แล้ว เตาอบไฟฟ้า สิบสองลิตร ใช้ง่าย อบ ปิ้งได้ จากห้าร้อยเก้าสิบเก้าบาท เหลือสามร้อยสามสิบเอ็ดบาท รีบกดตอนนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1731266009843862405": [
     {
       "visual_prompt": "9:16 photorealistic no text no logo",
