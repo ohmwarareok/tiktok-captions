@@ -124,214 +124,244 @@
   ],
   "1734396359542736875": [
     {
-      "visual_prompt": "9:16 photorealistic, portable air cooler on floor blowing air in a hot room, summer lighting, real home, no text, no logo",
-      "tts_text": "เหี้ยโคตรร้อนยังไม่ซื้ออีกเหรอ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ปรับลมได้สามระดับ เย็นกระจายทั้งห้อง รีบกดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic air cooler on wheels indoor living room blowing cool mist water tank visible remote on table soft daylight no text no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังเปิดพัดลมร้อนอยู่พลาดแล้วนะ ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท เติมน้ำแล้วเย็นจริง ลมแรงสามระดับ มีรีโมท ใช้ทั้งบ้านสบาย กดใส่ตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, close-up air cooler fan blowing water mist, hot environment, no text, no logo",
-      "tts_text": "ควายชัดที่ทนร้อนอยู่แบบนี้ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ลมแรงปรับได้สามระดับ เย็นเร็วขึ้น กดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic air cooler close up blowing mist bedroom night warm lamp cozy no text no logo",
+      "tts_text": "โอ๊ยยย คนที่เคยซื้อพันห้าร้อยเก้าสิบแปดบาทนี่จุกนะ ตอนนี้เหลือแปดร้อยหนึ่งบาท พัดลมแอร์ตัวนี้เติมน้ำแล้วเย็นไว ลมแรงปรับได้สามระดับ นอนสบายทั้งคืน ไม่ต้องเปิดแอร์ กดเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, person sitting sweating then turning on air cooler, realistic room, no text, no logo",
-      "tts_text": "แม่งร้อนขนาดนี้ยังไม่คิดจะซื้ออีก เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เติมน้ำแล้วเย็นทันที ลมแรงกระจาย รีบกดในตะกร้า",
+      "visual_prompt": "9:16 photorealistic air cooler small apartment sunlight window airflow effect no text no logo",
+      "tts_text": "แม่งเอ้ย ใครยังใช้พัดลมธรรมดานี่ร้อนตาย ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท เติมน้ำแล้วเย็นจริง ประหยัดไฟ ใช้ได้ทั้งวันทั้งคืน รีบกดใส่ตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, living room with air cooler running, cool breeze effect, no text, no logo",
-      "tts_text": "โง่เองนะถ้ายังเปิดพัดลมร้อนๆอยู่ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เย็นทั่วห้อง ปรับลมได้ กดในตะกร้าเลยตอนนี้",
+      "visual_prompt": "9:16 photorealistic air cooler near sofa remote control on table cozy home no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ใครเคยจ่ายพันห้าร้อยเก้าสิบแปดบาทนี่เสียดายแทน ตอนนี้เหลือแปดร้อยหนึ่งบาท พัดลมแอร์มีรีโมท ปรับลมสามระดับ เย็นทั่วห้อง ไม่ต้องติดตั้งให้ยุ่ง กดในตะกร้าเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, air cooler next to bed at night, soft lighting, no text, no logo",
-      "tts_text": "ยังจะนอนเหงื่อแตกอยู่อีกเหรอ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เปิดแล้วเย็นทันที หลับสบาย รีบกดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic air cooler pouring water tank close up mist blowing no text no logo",
+      "tts_text": "เหี้ยจริง ของแบบนี้ยังไม่ซื้อคือพลาด ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท เติมน้ำแล้วเย็นทันที ลมแรงกระจายกว้าง ใช้ในบ้านสบายสุด รีบกดใส่ตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, office desk with air cooler cooling person, no text, no logo",
-      "tts_text": "เหี้ยเอ๊ยทำงานร้อนๆยังไงไหว เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ลมแรงสามระดับ เย็นเร็วขึ้น กดในตะกร้าเดี๋ยวนี้",
+      "visual_prompt": "9:16 photorealistic air cooler balcony outdoor evening cooling air no text no logo",
+      "tts_text": "โอ้โห ใครยังทนร้อนอยู่กูงงมาก ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท ลมแรงเย็นจริง ใช้ได้ทั้งในบ้านนอกบ้าน ประหยัดไฟสุด กดใส่ตะกร้าเลยอย่ารอ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, close-up water tank filling air cooler, no text, no logo",
-      "tts_text": "โคตรง่ายแค่เติมน้ำก็เย็นแล้ว เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ไม่ต้องติดตั้งยุ่งยาก รีบกดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic air cooler office desk cooling airflow no text no logo",
+      "tts_text": "แม่งโคตรคุ้ม เอ้ยห้ามพูดคำนั้น ใครซื้อแพงคือเจ็บ ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท เติมน้ำแล้วเย็นทันใจ ลมแรงสามระดับ นั่งทำงานไม่ร้อนอีกต่อไป รีบกดในตะกร้าเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, air cooler blowing air in small apartment, no text, no logo",
-      "tts_text": "ห้องเล็กก็เย็นได้สบาย เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ลมกระจายทั่ว ปรับแรงลมได้ กดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic air cooler beside bed blowing mist cool night no text no logo",
+      "tts_text": "เหี้ยเอ้ย นอนร้อนอยู่ได้ไง ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท เติมน้ำแล้วเย็นจริง เปิดทั้งคืนยังไหว ลมแรงเงียบ ใช้นอนได้สบาย รีบกดใส่ตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, sweating person relieved by cooler, no text, no logo",
-      "tts_text": "ร้อนจนหัวจะระเบิดยังไม่ซื้ออีก เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เปิดปุ๊บเย็นปั๊บ รีบกดในตะกร้าเลยตอนนี้",
+      "visual_prompt": "9:16 photorealistic air cooler living room family cooling airflow wide angle no text no logo",
+      "tts_text": "โอ๊ย ราคานี้ไม่กดคือพลาด ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท ลมแรงเย็นทั่วห้อง เติมน้ำใช้งานง่าย เหมาะกับทุกบ้าน รีบกดใส่ตะกร้าเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, family relaxing with air cooler, no text, no logo",
-      "tts_text": "บ้านใครร้อนอยู่ฟังนี่ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เย็นกระจายทั้งห้อง ใช้ง่ายมาก กดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic air cooler water tank transparent level indicator no text no logo",
+      "tts_text": "แม่งเอ้ย ของดีแบบนี้ยังไม่ซื้ออีก ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท เติมน้ำแล้วเย็นไว ลมแรงปรับสามระดับ ใช้งานง่ายสุด ไม่ต้องติดตั้งให้วุ่นวาย รีบกดใส่ตะกร้าเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, air cooler in kitchen area cooling space, no text, no logo",
-      "tts_text": "ทำกับข้าวยังจะทนร้อนอยู่อีก เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ลมแรงเย็นไว รีบกดในตะกร้าเลยเดี๋ยวนี้",
+      "visual_prompt": "9:16 photorealistic air cooler corner room airflow effect sunlight no text no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังเปิดพัดลมเฉยๆนี่ร้อนตาย ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท เติมน้ำแล้วเย็นจริง ลมแรงทั่วห้อง กดใส่ตะกร้าเลยอย่าช้า",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, person turning knob to adjust speed, no text, no logo",
-      "tts_text": "ปรับลมได้ตามใจไม่ต้องทนร้อน เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท สามระดับ เย็นสบาย รีบกดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic air cooler moving wheels portable indoor no text no logo",
+      "tts_text": "โอ๊ยยย ย้ายไปตรงไหนก็เย็น ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท มีล้อเลื่อน เคลื่อนง่าย ลมแรงเย็นไว ใช้ได้ทุกมุมบ้าน รีบกดใส่ตะกร้าเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, air cooler in bedroom cooling couple, no text, no logo",
-      "tts_text": "จะนอนแบบเหงื่อแตกต่อก็เอาเลย เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เปิดแล้วเย็นจริง กดในตะกร้าเลยตอนนี้",
+      "visual_prompt": "9:16 photorealistic air cooler close airflow grille detail no text no logo",
+      "tts_text": "แม่งเอ้ย ลมแรงขนาดนี้ยังไม่ลองอีก ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท เติมน้ำแล้วเย็นจริง ปรับได้สามระดับ ใช้งานง่ายสุด ไม่ต้องง้อแอร์ กดใส่ตะกร้าเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, compact cooler next to desk setup, no text, no logo",
-      "tts_text": "ของแบบนี้ไม่มีก็ร้อนต่อไป เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ขนาดกำลังดี ลมแรง กดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic air cooler daytime bright room cooling no text no logo",
+      "tts_text": "เหี้ยเอ้ย กลางวันร้อนขนาดนี้ต้องมีแล้ว ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท เติมน้ำแล้วเย็นไว ลมแรงทั่วห้อง ใช้สบายทั้งวัน รีบกดใส่ตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, air cooler blowing towards sofa, no text, no logo",
-      "tts_text": "แม่งเย็นจริงไม่พูดเยอะ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ลมกระจายทั่วห้อง รีบกดในตะกร้าเลยตอนนี้",
+      "visual_prompt": "9:16 photorealistic air cooler family usage home cooling comfort no text no logo",
+      "tts_text": "โอ๊ย บ้านไหนยังไม่มีนี่พลาดหนัก ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท ลมแรงเย็นจริง เติมน้ำใช้งานง่าย ใช้ได้ทั้งครอบครัว ไม่ต้องทนร้อนอีก กดใส่ตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic air cooler close pouring ice water effect mist no text no logo",
+      "tts_text": "แม่งเอ้ย ใส่น้ำแล้วเย็นฉ่ำเลย ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท ลมแรงเย็นไวสุด ใช้งานง่ายมาก รีบกดใส่ตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic air cooler minimal room cooling airflow no text no logo",
+      "tts_text": "เหี้ยเอ้ย ห้องเล็กก็เย็นได้ ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท เติมน้ำแล้วเย็นจริง ลมแรงสามระดับ ใช้งานง่าย ไม่ต้องติดตั้ง รีบกดใส่ตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic air cooler modern home clean aesthetic cooling no text no logo",
+      "tts_text": "โอ๊ยยย ของดีแบบนี้ยังไม่กดอีกเหรอ ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท ลมแรงเย็นจริง ใช้ได้ทุกบ้าน กดใส่ตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic air cooler airflow mist highlight product focus no text no logo",
+      "tts_text": "แม่งเอ้ย ราคานี้ยังไม่เอาคืออะไร ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท เติมน้ำแล้วเย็นไว ลมแรงทั่วห้อง ใช้งานง่ายสุด รีบกดใส่ตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic air cooler final shot product centered cooling effect no text no logo",
+      "tts_text": "เหี้ยเอ้ย ของแบบนี้ต้องมีแล้วปะ ตอนนี้พัดลมแอร์เหลือแปดร้อยหนึ่งบาท จากพันห้าร้อยเก้าสิบแปดบาท ลมแรงเย็นจริง ใช้สบายทั้งวันทั้งคืน กดใส่ตะกร้าเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
   ],
   "1734656703513527646": [
     {
-      "visual_prompt": "9:16 photorealistic กางเกงขายาวผ้าบาง ใส่ในบ้าน แสงขาวนุ่ม โฟกัสผ้าและเอว no text no logo",
-      "tts_text": "เหี้ยเอ้ย อยากอึดอัดก็ไม่ต้องซื้อ กางเกงขายาวผ้าบางตัวนี้นะ กูเคยโดนไปสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท ใส่สบาย โคตรโล่ง รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ไอ้คนไม่อยากสบายก็อย่าซื้อเลย กูเคยจ่ายหกร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท พัดลมแอร์เย็นเร็ว พกง่าย ใช้สายไทป์ซี เสียบแล้วเย็นเลย กดตะกร้าเดี๋ยวนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic คนใส่กางเกงขายาวสีอ่อน นั่งบนเตียง โชว์ความนิ่มของผ้า no text no logo",
-      "tts_text": "สมน้ำหน้า คนที่เคยจ่ายสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงขายาวผ้าบาง ใส่นอนก็สบาย ใส่อยู่บ้านก็ชิล ของหมดไว รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โง่ชิบหายที่เคยซื้อแพง หกร้อยเก้าสิบเก้าบาท ตอนนี้เก้าสิบเจ็ดบาท พัดลมแอร์ลมแรง ปรับได้หลายระดับ แบตในตัว พกไปไหนก็เย็น ไม่กดคือพลาดหนัก รีบกดตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic โฟกัสเนื้อผ้ากางเกงบางๆ ระบายอากาศดี no text no logo",
-      "tts_text": "โคตรพลาดถ้าไม่เอา กางเกงขายาวผ้าบาง จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ผ้าเบา ใส่แล้วไม่ร้อน เอวยืดสบาย รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ใครยังทนร้อนอยู่ก็เรื่องของมึง กูเคยจ่ายหกร้อยเก้าสิบเก้าบาท ตอนนี้เก้าสิบเจ็ดบาท พัดลมแอร์ตัวนี้เย็นจริง พกสะดวก ชาร์จง่าย ใช้ได้ทั้งวัน รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic นั่งไขว่ห้างในห้องนอน ใส่กางเกงผ้าบาง no text no logo",
-      "tts_text": "เห้ย ของแบบนี้ไม่กดคือพลาด กูเคยซื้อสองร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท กางเกงขายาวผ้าบาง ใส่แล้วโล่งทั้งวัน รีบเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เห้ยอย่ามาทำพลาดแบบกู กูเคยซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เก้าสิบเจ็ดบาท พัดลมแอร์เย็นไว เสียบไทป์ซีใช้ง่าย พกไปข้างนอกได้สบาย ไม่กดคือโคตรพลาดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ยืนหน้ากระจกใส่กางเกงผ้าบาง ดูทรงหลวม no text no logo",
-      "tts_text": "อยากลำบากชีวิตก็ไม่ต้องซื้อ กางเกงขายาวผ้าบางตัวนี้ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วเบาสบาย ทรงหลวม รีบกดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ไม่อยากเย็นก็เลื่อนผ่านไป กูเคยโดนไปหกร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท พัดลมแอร์ลมแรง เสียบชาร์จง่าย พกติดตัวได้ ใช้ในรถก็ได้ รีบกดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เดินในบ้าน ใส่กางเกงผ้าบางพริ้วๆ no text no logo",
-      "tts_text": "โอ๊ย ใครเคยจ่ายสองร้อยเก้าสิบเก้าบาทนี่เจ็บเลย ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงผ้าบาง ใส่แล้วไม่อับ เดินสบาย รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โคตรเสียดายเงินตอนนั้น กูซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท พัดลมแอร์ตัวนี้เย็นเร็ว ใช้ง่าย แบตอึด พกไปไหนก็ได้ แบบนี้ต้องกดแล้ว",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ซูมช่วงเอวเห็นเอวยืดกางเกง no text no logo",
-      "tts_text": "เหี้ยจริง ราคานี้ไม่กดคือพลาด กางเกงขายาวผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท เอวยืดไม่แน่น ใส่แล้วสบาย รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ใครยังไม่รู้คือพลาด กูเคยซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เก้าสิบเจ็ดบาท พัดลมแอร์เย็นทันใจ ปรับแรงลมได้หลายระดับ ชาร์จไทป์ซี ใช้สะดวก รีบกดก่อนของหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic นั่งโซฟาในบ้าน ใส่กางเกงผ้าบางชิลๆ no text no logo",
-      "tts_text": "สมน้ำหน้า คนที่เคยซื้อแพง กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท ใส่นั่งทั้งวันยังสบาย รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "อย่าทำตัวโง่แบบกู กูเคยซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท พัดลมแอร์ลมแรง เย็นเร็ว พกไปทำงานได้ ไม่ต้องทนร้อน รีบกดตะกร้าเดี๋ยวนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ยืนโพสเต็มตัว โชว์กางเกงผ้าบาง no text no logo",
-      "tts_text": "เห้ย ฟังนะ ของแบบนี้ไม่มีขายทั่วไป กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วโล่งมาก รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เฮ้ยของแบบนี้ต้องมีแล้วปะ กูเคยซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เก้าสิบเจ็ดบาท พัดลมแอร์เย็นไว ใช้งานง่าย พกสะดวก ไม่กดตอนนี้คือพลาดหนัก รีบเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เดินถือแก้วน้ำในบ้าน ใส่กางเกงผ้าบาง no text no logo",
-      "tts_text": "โง่เลยถ้าไม่ซื้อ กางเกงผ้าบางตัวนี้นะ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่ได้ทุกวัน ไม่ร้อน รีบกดก่อนของหมด",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โอ๊ยยยราคานี้ยังไม่กดอีกเหรอ กูเคยจ่ายหกร้อยเก้าสิบเก้าบาท ตอนนี้เก้าสิบเจ็ดบาท พัดลมแอร์เย็นจริง พกง่าย ใช้สายไทป์ซี เสียบก็ใช้ได้เลย กดเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic นั่งเตียง โฟกัสผ้านิ่มๆของกางเกง no text no logo",
-      "tts_text": "เหี้ยเอ้ย ของถูกขนาดนี้ กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วนุ่ม ไม่อึดอัด รีบกดเลยก่อนจะหาย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ใครไม่อยากเย็นก็เรื่องมึง กูเคยซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท พัดลมแอร์ลมแรง ใช้ได้ทั้งวัน ชาร์จง่าย พกไปไหนก็ได้ รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ซูมช่วงขาเห็นผ้าพริ้วบาง no text no logo",
-      "tts_text": "โอ๊ย ราคานี้คือบ้าไปแล้ว กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วไม่ร้อน ใครไม่กดพลาดจริง รีบเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โคตรเจ็บใจตอนนั้น กูซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท พัดลมแอร์เย็นไว ใช้ง่าย พกติดตัวได้ ไม่ต้องง้อแอร์ใหญ่ รีบกดตอนนี้เลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ยืนหันข้างโชว์ทรงกางเกง no text no logo",
-      "tts_text": "อยากเสียเงินแพงก็ไม่ต้องซื้อ กางเกงผ้าบางตัวนี้ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ทรงสวย ใส่แล้วสบาย รีบกดตอนนี้",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "อย่ามาพลาดเหมือนกู กูเคยซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เก้าสิบเจ็ดบาท พัดลมแอร์ตัวนี้เย็นเร็ว ปรับแรงลมได้ พกง่าย ใช้ได้ทุกที่ รีบกดก่อนของหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic คนลองกางเกงหน้ากระจก no text no logo",
-      "tts_text": "สมน้ำหน้า คนที่เคยซื้อแพง กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วไม่อึดอัด เอวยืดดี รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ไม่กดตอนนี้คือโง่แล้วนะ กูเคยจ่ายหกร้อยเก้าสิบเก้าบาท ตอนนี้เก้าสิบเจ็ดบาท พัดลมแอร์ลมแรง เย็นทันใจ พกไปไหนก็ได้ ใช้ง่ายมาก รีบกดเดี๋ยวนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เดินในห้องนอน แสงนุ่ม ใส่กางเกงผ้าบาง no text no logo",
-      "tts_text": "เหี้ยจริง ของแบบนี้หายไว กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วสบาย เดินคล่อง รีบกดก่อนหมด",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "กูยังเสียดายเงินอยู่เลย กูเคยซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท พัดลมแอร์เย็นเร็ว ใช้สายไทป์ซี พกง่าย ใช้ในรถก็ได้ รีบกดตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic นั่งไขว่ห้างบนเตียง โชว์กางเกง no text no logo",
-      "tts_text": "ราคานี้ยังไม่กดอีกเหรอ กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วชิลมาก เอวไม่แน่น รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เฮ้ยดูนี่ก่อนทุกคน กูเคยซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท พัดลมแอร์เย็นไว ลมแรง ปรับได้หลายระดับ พกไปไหนก็สะดวก รีบกดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ลุกนั่งโชว์ความยืดหยุ่นกางเกง no text no logo",
-      "tts_text": "เห้ย ฟังนะ กางเกงผ้าบางตัวนี้ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท นั่งก็ไม่ตึง เอวยืดจริง ใส่สบายทั้งวัน รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ไม่อยากเย็นก็เลื่อนผ่านไป กูเคยโดนหกร้อยเก้าสิบเก้าบาท ตอนนี้เก้าสิบเจ็ดบาท พัดลมแอร์ตัวนี้เย็นจริง ใช้ง่าย พกสะดวก ไม่ต้องทนร้อน กดตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic เดินถือของในบ้าน ใส่กางเกงผ้าบาง no text no logo",
-      "tts_text": "อยากพลาดก็ปล่อยไป กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วโล่ง ใส่ได้ทุกวัน รีบกดก่อนของหมด",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ใครไม่กดตอนนี้คือพลาดหนัก กูเคยซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท พัดลมแอร์ลมแรง เย็นเร็ว พกไปไหนก็ได้ ใช้ง่าย รีบกดตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic ซูมผ้าใกล้ๆ เห็นความบางระบายอากาศ no text no logo",
-      "tts_text": "โอ๊ย ใครยังไม่รู้คือพลาด กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ผ้านิ่ม ไม่ร้อน ใส่สบาย รีบกดเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โง่เองตอนนั้น กูซื้อหกร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท พัดลมแอร์เย็นทันใจ ใช้ง่าย ชาร์จไทป์ซี พกไปทำงานก็ได้ รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic คนหมุนตัวโชว์กางเกงผ้าบาง no text no logo",
-      "tts_text": "เหี้ยเอ้ย ราคานี้ยังไม่กดอีก กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วสบายจริง รีบกดก่อนหมดนะ",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โอ๊ยของแบบนี้ต้องมีแล้วปะ กูเคยจ่ายหกร้อยเก้าสิบเก้าบาท ตอนนี้เก้าสิบเจ็ดบาท พัดลมแอร์เย็นไว ลมแรง ใช้ง่าย พกสะดวก รีบกดตอนนี้เลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
@@ -460,92 +490,122 @@
   ],
   "1730385938812078824": [
     {
-      "visual_prompt": "9:16 photorealistic, indoor desk scene with power strip plugged devices, natural lighting, real home environment, no text, no logo",
-      "tts_text": "เหี้ยจริงใครยังซื้อแพงอยู่นี่โง่จัด ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือแปดสิบสี่บาท เปิดปิดแยกได้ เสียบพร้อมกันไม่รกบ้าน กดในตะกร้าเลยเดี๋ยวนี้",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังนั่งร้อนในรถคือพลาด ตอนนี้เหลือร้อยสิบบาท พัดลมติดรถ USB หมุนสามร้อยหกสิบองศา ลมแรงปรับได้สองระดับ เปิดแล้วเย็นขึ้นทันที กดในตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, close-up plugging devices into power strip, modern home, soft light, no text, no logo",
-      "tts_text": "ควายมากที่กูเคยซื้อเต็มราคา มึงก็จะเป็นแบบกูเหรอ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือเจ็ดสิบสองบาท เสียบหลายเครื่อง เปิดปิดแยก กดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โอ๊ยย ใครยังไม่ใช้คือโง่เองนะ ราคาเต็มสองร้อยสี่สิบบาท ตอนนี้เหลือร้อยสิบบาท พัดลมติดรถแรงจริง หมุนได้รอบ เย็นไว ไม่ต้องทนร้อนแล้ว รีบกดด่วน",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, family living room with multiple devices plugged, realistic lighting, no text, no logo",
-      "tts_text": "ไอ้พวกยังลังเลนี่พลาดหนักมาก ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือหกสิบห้าบาท ใช้พร้อมกันได้หมด ไม่ต้องแย่งปลั๊ก บ้านโล่ง กดในตะกร้าเดี๋ยวนี้",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "มึงเอ้ย ร้อนขนาดนี้ยังไม่ซื้ออีกหรอ ตอนนี้เหลือร้อยสิบบาท พัดลมติดรถ USB ลมแรงจริง ปรับได้ หมุนรอบ เย็นทันใจ นั่งรถไม่อบอีกแล้ว กดเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, bedroom charging multiple devices, cozy lighting, no text, no logo",
-      "tts_text": "เออไม่ต้องใช้ก็ได้ถ้าชีวิตมึงจะรกต่อ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือเจ็ดสิบเก้าบาท เปิดปิดแยกง่าย เสียบครบทุกเครื่อง กดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โคตรเสียดายแทน คนที่ซื้อแพงไป ตอนนี้เหลือร้อยสิบบาท พัดลมติดรถตัวนี้ลมแรง หมุนได้รอบ ใช้ง่าย เสียบแล้วใช้เลย ขับรถสบายขึ้นเยอะ รีบกดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, office desk with multiple electronics plugged, clean setup, no text, no logo",
-      "tts_text": "แม่งโง่จริงที่ไม่กดตอนนี้ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือแปดสิบสองบาท ใช้ง่าย เปิดปิดแยกแต่ละช่อง ไม่ต้องถอดให้วุ่น กดในตะกร้าเลยเร็ว",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ของแบบนี้ต้องมีแล้วปะ เหลือร้อยสิบบาท พัดลมติดรถ USB ลมแรงจริง หมุนได้รอบ ปรับระดับได้ นั่งหลังยังเย็นสบาย ไม่กดคือพลาดมาก",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, night scene charging devices, soft warm light, no text, no logo",
-      "tts_text": "โคตรเจ็บใจแทนคนซื้อแพง ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือหกสิบแปดบาท เสียบหลายเครื่องไม่สะดุด บ้านดูเป็นระเบียบ รีบกดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เหี้ยจริง อากาศแม่งร้อนขนาดนี้ ยังไม่ซื้อพัดลมติดรถอีก ตอนนี้เหลือร้อยสิบบาท ลมแรง หมุนได้รอบ ใช้ในรถสบายขึ้นทันที รีบกดก่อนของหมดนะ",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, close-up switch buttons on power strip, realistic home setting, no text, no logo",
-      "tts_text": "ยังจะคิดอีกเหรอมึง ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือเจ็ดสิบบาท เปิดปิดแยกได้ทุกช่อง ใช้ง่ายโคตร รีบกดในตะกร้าก่อนหมด",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยซื้อสองร้อยสี่สิบบาท ตอนนี้เหลือร้อยสิบบาท พัดลมติดรถลมแรงจริง หมุนสามร้อยหกสิบองศา เย็นทั่วคัน เปิดแล้วโล่งขึ้นทันที กดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, minimal desk setup with organized cables, no text, no logo",
-      "tts_text": "กูบอกเลยไม่กดตอนนี้คือพลาดหนัก ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือแปดสิบเอ็ดบาท เสียบได้หลายเครื่อง ไม่ต้องวุ่นสายไฟ กดเลยในตะกร้า",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โอ๊ยย ราคานี้ไม่กดคือพลาดมากนะ เหลือร้อยสิบบาท พัดลมติดรถ USB ลมแรง ปรับได้สองระดับ หมุนได้รอบ เย็นไว ไม่ต้องเปิดแอร์แรงให้เปลือง รีบกดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, modern home with electronics plugged, bright lighting, no text, no logo",
-      "tts_text": "เอาตรงๆนะใครไม่ใช้คือโง่ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือหกสิบหกบาท ใช้ง่าย เปิดปิดแยก บ้านไม่รก รีบกดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ไอสัส ของโคตรจำเป็นในรถ ตอนนี้เหลือร้อยสิบบาท พัดลมติดรถลมแรงจริง หมุนได้รอบ ปรับได้ ขับรถกลางวันไม่ร้อนแล้ว เย็นขึ้นชัดเจน กดในตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, charging station with multiple devices, no text, no logo",
-      "tts_text": "โอ๊ยแม่งถูกขนาดนี้ยังไม่กดอีกเหรอ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือเจ็ดสิบสี่บาท เสียบครบทุกเครื่อง เปิดปิดง่าย กดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เฮ้ย ฟังนะ ของแบบนี้ควรมี เหลือร้อยสิบบาท พัดลมติดรถ USB ลมแรง หมุนได้รอบ เย็นจริง ใช้ได้ทั้งหน้าและหลังรถ นั่งสบายขึ้นเยอะ รีบกดเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, casual home setup plugging charger, no text, no logo",
-      "tts_text": "เหี้ยของแบบนี้ต้องมีแล้วปะ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือแปดสิบบาท ใช้พร้อมกันหลายเครื่อง ไม่ต้องแย่งปลั๊ก กดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "กูบอกเลย ใครไม่ซื้อคือพลาด ตอนนี้เหลือร้อยสิบบาท พัดลมติดรถลมแรง หมุนได้สามร้อยหกสิบองศา เย็นทั่วคัน ใช้ง่ายมาก เสียบแล้วเปิดเลย กดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, home desk with cable management, no text, no logo",
-      "tts_text": "ไม่กดตอนนี้แล้วจะรออะไร ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือหกสิบเก้าบาท เปิดปิดแยกได้ ใช้ง่าย บ้านดูดีขึ้น กดเลยในตะกร้า",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "แม่งดีจริงนะ เหลือร้อยสิบบาท พัดลมติดรถ USB ลมแรง ปรับได้สองระดับ หมุนรอบ เย็นเร็ว ขับรถไม่อึดอัดแล้ว นั่งสบายขึ้นเยอะ รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, multiple chargers plugged neatly, no text, no logo",
-      "tts_text": "แม่งถูกจนงง ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือเจ็ดสิบเจ็ดบาท เสียบครบทุกอย่าง เปิดปิดง่าย ใช้สบาย รีบกดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ดูนี้ก่อนทุกคน เหลือร้อยสิบบาท พัดลมติดรถลมแรงจริง หมุนได้รอบ ปรับแรงลมได้ ใช้ง่าย เสียบแล้วใช้เลย ขับรถกลางวันไม่ร้อนอีกแล้ว กดเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, cozy bedroom charging setup, no text, no logo",
-      "tts_text": "ยังจะปล่อยให้บ้านรกอยู่อีกเหรอ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือแปดสิบสามบาท ใช้พร้อมกันหลายเครื่อง ไม่ต้องสลับ กดในตะกร้าเลย",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โคตรคุ้ม เอ้ยไม่พูดละ แต่เหลือร้อยสิบบาท พัดลมติดรถ USB ลมแรง หมุนได้รอบ เย็นไว ขับรถนานก็ไม่ร้อนแล้ว ของแบบนี้ต้องมี กดในตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic, close-up plugging phone charger, no text, no logo",
-      "tts_text": "โคตรพลาดถ้าไม่เอา ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือหกสิบเจ็ดบาท ใช้ง่าย เสียบหลายเครื่อง เปิดปิดแยก กดในตะกร้าเลยตอนนี้",
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้ยังไม่ซื้ออีกหรอ เหลือร้อยสิบบาท พัดลมติดรถลมแรง หมุนได้สามร้อยหกสิบองศา เย็นทั่วคัน เปิดแล้วโล่งขึ้นทันที รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โอ๊ย ของมันต้องมีจริง เหลือร้อยสิบบาท พัดลมติดรถ USB ลมแรง ปรับได้ หมุนได้รอบ เย็นไว ไม่ต้องทนร้อนในรถอีกแล้ว กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "มึงฟังนะ เหลือร้อยสิบบาท พัดลมติดรถลมแรงจริง หมุนได้รอบ ปรับได้ ใช้ง่าย เสียบแล้วเปิดเลย ขับรถสบายขึ้นทันที รีบกดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่ยังนั่งร้อนอยู่ เหลือร้อยสิบบาท พัดลมติดรถ USB ลมแรง หมุนได้รอบ เย็นเร็ว ใช้ได้ทุกคัน ไม่ต้องทนร้อนอีกแล้ว กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เฮ้ยย ราคานี้คือเอาเลย เหลือร้อยสิบบาท พัดลมติดรถลมแรง หมุนได้สามร้อยหกสิบองศา เย็นทั่วคัน ใช้งานง่าย เปิดแล้วเย็นทันที รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "กูพูดตรงนะ ของมันต้องมี เหลือร้อยสิบบาท พัดลมติดรถ USB ลมแรง ปรับได้ หมุนได้รอบ เย็นจริง ขับรถไม่เหนียวตัวแล้ว รีบกดในตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
