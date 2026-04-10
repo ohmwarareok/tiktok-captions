@@ -122,6 +122,434 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1734396359542736875": [
+    {
+      "visual_prompt": "9:16 photorealistic, portable air cooler on floor blowing air in a hot room, summer lighting, real home, no text, no logo",
+      "tts_text": "เหี้ยโคตรร้อนยังไม่ซื้ออีกเหรอ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ปรับลมได้สามระดับ เย็นกระจายทั้งห้อง รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up air cooler fan blowing water mist, hot environment, no text, no logo",
+      "tts_text": "ควายชัดที่ทนร้อนอยู่แบบนี้ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ลมแรงปรับได้สามระดับ เย็นเร็วขึ้น กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, person sitting sweating then turning on air cooler, realistic room, no text, no logo",
+      "tts_text": "แม่งร้อนขนาดนี้ยังไม่คิดจะซื้ออีก เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เติมน้ำแล้วเย็นทันที ลมแรงกระจาย รีบกดในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, living room with air cooler running, cool breeze effect, no text, no logo",
+      "tts_text": "โง่เองนะถ้ายังเปิดพัดลมร้อนๆอยู่ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เย็นทั่วห้อง ปรับลมได้ กดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, air cooler next to bed at night, soft lighting, no text, no logo",
+      "tts_text": "ยังจะนอนเหงื่อแตกอยู่อีกเหรอ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เปิดแล้วเย็นทันที หลับสบาย รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, office desk with air cooler cooling person, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ยทำงานร้อนๆยังไงไหว เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ลมแรงสามระดับ เย็นเร็วขึ้น กดในตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up water tank filling air cooler, no text, no logo",
+      "tts_text": "โคตรง่ายแค่เติมน้ำก็เย็นแล้ว เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ไม่ต้องติดตั้งยุ่งยาก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, air cooler blowing air in small apartment, no text, no logo",
+      "tts_text": "ห้องเล็กก็เย็นได้สบาย เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ลมกระจายทั่ว ปรับแรงลมได้ กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, sweating person relieved by cooler, no text, no logo",
+      "tts_text": "ร้อนจนหัวจะระเบิดยังไม่ซื้ออีก เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เปิดปุ๊บเย็นปั๊บ รีบกดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, family relaxing with air cooler, no text, no logo",
+      "tts_text": "บ้านใครร้อนอยู่ฟังนี่ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เย็นกระจายทั้งห้อง ใช้ง่ายมาก กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, air cooler in kitchen area cooling space, no text, no logo",
+      "tts_text": "ทำกับข้าวยังจะทนร้อนอยู่อีก เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ลมแรงเย็นไว รีบกดในตะกร้าเลยเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, person turning knob to adjust speed, no text, no logo",
+      "tts_text": "ปรับลมได้ตามใจไม่ต้องทนร้อน เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท สามระดับ เย็นสบาย รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, air cooler in bedroom cooling couple, no text, no logo",
+      "tts_text": "จะนอนแบบเหงื่อแตกต่อก็เอาเลย เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท เปิดแล้วเย็นจริง กดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, compact cooler next to desk setup, no text, no logo",
+      "tts_text": "ของแบบนี้ไม่มีก็ร้อนต่อไป เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ขนาดกำลังดี ลมแรง กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, air cooler blowing towards sofa, no text, no logo",
+      "tts_text": "แม่งเย็นจริงไม่พูดเยอะ เครื่องทำลมเย็นยี่สิบลิตร ตอนนี้เหลือหนึ่งร้อยสิบบาท ลมกระจายทั่วห้อง รีบกดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1734656703513527646": [
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงขายาวผ้าบาง ใส่ในบ้าน แสงขาวนุ่ม โฟกัสผ้าและเอว no text no logo",
+      "tts_text": "เหี้ยเอ้ย อยากอึดอัดก็ไม่ต้องซื้อ กางเกงขายาวผ้าบางตัวนี้นะ กูเคยโดนไปสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท ใส่สบาย โคตรโล่ง รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic คนใส่กางเกงขายาวสีอ่อน นั่งบนเตียง โชว์ความนิ่มของผ้า no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยจ่ายสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงขายาวผ้าบาง ใส่นอนก็สบาย ใส่อยู่บ้านก็ชิล ของหมดไว รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic โฟกัสเนื้อผ้ากางเกงบางๆ ระบายอากาศดี no text no logo",
+      "tts_text": "โคตรพลาดถ้าไม่เอา กางเกงขายาวผ้าบาง จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ผ้าเบา ใส่แล้วไม่ร้อน เอวยืดสบาย รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic นั่งไขว่ห้างในห้องนอน ใส่กางเกงผ้าบาง no text no logo",
+      "tts_text": "เห้ย ของแบบนี้ไม่กดคือพลาด กูเคยซื้อสองร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท กางเกงขายาวผ้าบาง ใส่แล้วโล่งทั้งวัน รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ยืนหน้ากระจกใส่กางเกงผ้าบาง ดูทรงหลวม no text no logo",
+      "tts_text": "อยากลำบากชีวิตก็ไม่ต้องซื้อ กางเกงขายาวผ้าบางตัวนี้ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วเบาสบาย ทรงหลวม รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic เดินในบ้าน ใส่กางเกงผ้าบางพริ้วๆ no text no logo",
+      "tts_text": "โอ๊ย ใครเคยจ่ายสองร้อยเก้าสิบเก้าบาทนี่เจ็บเลย ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงผ้าบาง ใส่แล้วไม่อับ เดินสบาย รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ซูมช่วงเอวเห็นเอวยืดกางเกง no text no logo",
+      "tts_text": "เหี้ยจริง ราคานี้ไม่กดคือพลาด กางเกงขายาวผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท เอวยืดไม่แน่น ใส่แล้วสบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic นั่งโซฟาในบ้าน ใส่กางเกงผ้าบางชิลๆ no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยซื้อแพง กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท ใส่นั่งทั้งวันยังสบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ยืนโพสเต็มตัว โชว์กางเกงผ้าบาง no text no logo",
+      "tts_text": "เห้ย ฟังนะ ของแบบนี้ไม่มีขายทั่วไป กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วโล่งมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic เดินถือแก้วน้ำในบ้าน ใส่กางเกงผ้าบาง no text no logo",
+      "tts_text": "โง่เลยถ้าไม่ซื้อ กางเกงผ้าบางตัวนี้นะ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่ได้ทุกวัน ไม่ร้อน รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic นั่งเตียง โฟกัสผ้านิ่มๆของกางเกง no text no logo",
+      "tts_text": "เหี้ยเอ้ย ของถูกขนาดนี้ กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วนุ่ม ไม่อึดอัด รีบกดเลยก่อนจะหาย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ซูมช่วงขาเห็นผ้าพริ้วบาง no text no logo",
+      "tts_text": "โอ๊ย ราคานี้คือบ้าไปแล้ว กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วไม่ร้อน ใครไม่กดพลาดจริง รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ยืนหันข้างโชว์ทรงกางเกง no text no logo",
+      "tts_text": "อยากเสียเงินแพงก็ไม่ต้องซื้อ กางเกงผ้าบางตัวนี้ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ทรงสวย ใส่แล้วสบาย รีบกดตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic คนลองกางเกงหน้ากระจก no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยซื้อแพง กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วไม่อึดอัด เอวยืดดี รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic เดินในห้องนอน แสงนุ่ม ใส่กางเกงผ้าบาง no text no logo",
+      "tts_text": "เหี้ยจริง ของแบบนี้หายไว กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วสบาย เดินคล่อง รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic นั่งไขว่ห้างบนเตียง โชว์กางเกง no text no logo",
+      "tts_text": "ราคานี้ยังไม่กดอีกเหรอ กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วชิลมาก เอวไม่แน่น รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ลุกนั่งโชว์ความยืดหยุ่นกางเกง no text no logo",
+      "tts_text": "เห้ย ฟังนะ กางเกงผ้าบางตัวนี้ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท นั่งก็ไม่ตึง เอวยืดจริง ใส่สบายทั้งวัน รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic เดินถือของในบ้าน ใส่กางเกงผ้าบาง no text no logo",
+      "tts_text": "อยากพลาดก็ปล่อยไป กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วโล่ง ใส่ได้ทุกวัน รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ซูมผ้าใกล้ๆ เห็นความบางระบายอากาศ no text no logo",
+      "tts_text": "โอ๊ย ใครยังไม่รู้คือพลาด กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ผ้านิ่ม ไม่ร้อน ใส่สบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic คนหมุนตัวโชว์กางเกงผ้าบาง no text no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้ยังไม่กดอีก กางเกงผ้าบางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วสบายจริง รีบกดก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1733765200830629570": [
+    {
+      "visual_prompt": "9:16 photorealistic, portable bluetooth speaker on beach rock, water splashing lightly, RGB ring glowing, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังไม่กดนี่พลาด ลำโพงบลูทูธกันน้ำ เสียงดังเบสแน่น เชื่อมต่อง่าย จากหนึ่งพันบาท ตอนนี้เหลือสามร้อยสองบาท รีบกดก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, hand holding small bluetooth speaker outdoor sunset, RGB light glowing, no text, no logo",
+      "tts_text": "โคตรเสียดายแทนคนซื้อแพง ลำโพงบลูทูธพกพา เสียงชัดเปิดกลางแจ้งยังได้ จากหนึ่งพันบาท เหลือสามร้อยสองบาท กดเลยตอนนี้ของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker playing music near pool splash, waterproof concept, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด ลำโพงบลูทูธกันน้ำ เปิดข้างสระได้ เสียงแน่นไม่แตก จากหนึ่งพันบาท เหลือสามร้อยสองบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up RGB ring speaker glowing in dark room, no text, no logo",
+      "tts_text": "เฮ้ยของแบบนี้ต้องมี ลำโพงบลูทูธมีไฟ RGB เปิดเพลงเพลินทั้งคืน จากหนึ่งพันบาท ตอนนี้เหลือสามร้อยสองบาท กดเลยอย่าคิดนาน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker placed on desk with phone connecting bluetooth, no text, no logo",
+      "tts_text": "เห้ยเชื่อมต่อง่ายมาก ลำโพงบลูทูธเปิดปุ๊บติดปั๊บ เสียงชัดทุกเพลง จากหนึ่งพันบาท เหลือสามร้อยสองบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, outdoor camping scene with speaker playing music, no text, no logo",
+      "tts_text": "บ้าจริงทำไมไม่เจอเร็วกว่านี้ ลำโพงบลูทูธพกไปแคมป์ได้ เสียงดังชัด จากหนึ่งพันบาท เหลือสามร้อยสองบาท กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker on table party vibe RGB glowing, no text, no logo",
+      "tts_text": "โอ๊ยเปิดปาร์ตี้ได้เลย ลำโพงบลูทูธเสียงเบสแน่น ไฟสวยมาก จากหนึ่งพันบาท เหลือสามร้อยสองบาท รีบกดก่อนพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, small speaker in bag easy carry, no text, no logo",
+      "tts_text": "พกง่ายไม่หนัก ลำโพงบลูทูธตัวเล็กเสียงใหญ่ ใส่กระเป๋าได้ จากหนึ่งพันบาท ตอนนี้เหลือสามร้อยสองบาท กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker near shower water droplets, waterproof feel, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยกันน้ำจริง ลำโพงบลูทูธเปิดในห้องน้ำได้ เสียงยังชัด จากหนึ่งพันบาท เหลือสามร้อยสองบาท รีบกดเลยนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up speaker grill texture, premium feel, no text, no logo",
+      "tts_text": "ดูงานก่อนเนียนมาก ลำโพงบลูทูธวัสดุดี เสียงแน่นทุกจังหวะ จากหนึ่งพันบาท เหลือสามร้อยสองบาท กดเลยของใกล้หมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker playing music with phone playlist, no text, no logo",
+      "tts_text": "เฮ้ยเปิดเพลงอะไรก็เพราะ ลำโพงบลูทูธเสียงชัด เบสมาเต็ม จากหนึ่งพันบาท ตอนนี้เหลือสามร้อยสองบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker glowing RGB at night outdoor, no text, no logo",
+      "tts_text": "กลางคืนยิ่งสวย ลำโพงบลูทูธมีไฟ RGB เท่มาก จากหนึ่งพันบาท เหลือสามร้อยสองบาท กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, holding speaker one hand minimal shot, no text, no logo",
+      "tts_text": "มือเดียวก็ถือได้ ลำโพงบลูทูธพกง่าย ใช้ได้ทุกที่ จากหนึ่งพันบาท เหลือสามร้อยสองบาท รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker on desk working setup music vibe, no text, no logo",
+      "tts_text": "ทำงานก็เปิดได้ ลำโพงบลูทูธเสียงไม่แตก ฟังยาวสบาย จากหนึ่งพันบาท ตอนนี้เหลือสามร้อยสองบาท กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker beside laptop cozy room, no text, no logo",
+      "tts_text": "อยู่ห้องก็ฟิน ลำโพงบลูทูธเสียงดี เปิดเพลงเพลิน จากหนึ่งพันบาท เหลือสามร้อยสองบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker near window sunlight soft, no text, no logo",
+      "tts_text": "เสียงมันนุ่มจริง ลำโพงบลูทูธฟังสบายหู ใช้ได้ทุกวัน จากหนึ่งพันบาท เหลือสามร้อยสองบาท กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker on picnic mat outdoor, no text, no logo",
+      "tts_text": "ไปปิกนิกต้องมี ลำโพงบลูทูธเปิดกลางแจ้งได้ เสียงดัง จากหนึ่งพันบาท เหลือสามร้อยสองบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker beside drink chill vibe, no text, no logo",
+      "tts_text": "นั่งชิลก็เปิดได้ ลำโพงบลูทูธเสียงแน่น ฟังเพลิน จากหนึ่งพันบาท ตอนนี้เหลือสามร้อยสองบาท กดเลยก่อนพลาด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up button control speaker, no text, no logo",
+      "tts_text": "ใช้ง่ายกดไม่งง ลำโพงบลูทูธปุ่มชัด เปิดปิดสะดวก จากหนึ่งพันบาท เหลือสามร้อยสองบาท รีบกดตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, speaker with backpack travel scene, no text, no logo",
+      "tts_text": "พกไปเที่ยวได้เลย ลำโพงบลูทูธตัวเล็กเสียงใหญ่ จากหนึ่งพันบาท ตอนนี้เหลือสามร้อยสองบาท กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730385938812078824": [
+    {
+      "visual_prompt": "9:16 photorealistic, indoor desk scene with power strip plugged devices, natural lighting, real home environment, no text, no logo",
+      "tts_text": "เหี้ยจริงใครยังซื้อแพงอยู่นี่โง่จัด ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือแปดสิบสี่บาท เปิดปิดแยกได้ เสียบพร้อมกันไม่รกบ้าน กดในตะกร้าเลยเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up plugging devices into power strip, modern home, soft light, no text, no logo",
+      "tts_text": "ควายมากที่กูเคยซื้อเต็มราคา มึงก็จะเป็นแบบกูเหรอ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือเจ็ดสิบสองบาท เสียบหลายเครื่อง เปิดปิดแยก กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, family living room with multiple devices plugged, realistic lighting, no text, no logo",
+      "tts_text": "ไอ้พวกยังลังเลนี่พลาดหนักมาก ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือหกสิบห้าบาท ใช้พร้อมกันได้หมด ไม่ต้องแย่งปลั๊ก บ้านโล่ง กดในตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, bedroom charging multiple devices, cozy lighting, no text, no logo",
+      "tts_text": "เออไม่ต้องใช้ก็ได้ถ้าชีวิตมึงจะรกต่อ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือเจ็ดสิบเก้าบาท เปิดปิดแยกง่าย เสียบครบทุกเครื่อง กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, office desk with multiple electronics plugged, clean setup, no text, no logo",
+      "tts_text": "แม่งโง่จริงที่ไม่กดตอนนี้ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือแปดสิบสองบาท ใช้ง่าย เปิดปิดแยกแต่ละช่อง ไม่ต้องถอดให้วุ่น กดในตะกร้าเลยเร็ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, night scene charging devices, soft warm light, no text, no logo",
+      "tts_text": "โคตรเจ็บใจแทนคนซื้อแพง ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือหกสิบแปดบาท เสียบหลายเครื่องไม่สะดุด บ้านดูเป็นระเบียบ รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up switch buttons on power strip, realistic home setting, no text, no logo",
+      "tts_text": "ยังจะคิดอีกเหรอมึง ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือเจ็ดสิบบาท เปิดปิดแยกได้ทุกช่อง ใช้ง่ายโคตร รีบกดในตะกร้าก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, minimal desk setup with organized cables, no text, no logo",
+      "tts_text": "กูบอกเลยไม่กดตอนนี้คือพลาดหนัก ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือแปดสิบเอ็ดบาท เสียบได้หลายเครื่อง ไม่ต้องวุ่นสายไฟ กดเลยในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, modern home with electronics plugged, bright lighting, no text, no logo",
+      "tts_text": "เอาตรงๆนะใครไม่ใช้คือโง่ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือหกสิบหกบาท ใช้ง่าย เปิดปิดแยก บ้านไม่รก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, charging station with multiple devices, no text, no logo",
+      "tts_text": "โอ๊ยแม่งถูกขนาดนี้ยังไม่กดอีกเหรอ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือเจ็ดสิบสี่บาท เสียบครบทุกเครื่อง เปิดปิดง่าย กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, casual home setup plugging charger, no text, no logo",
+      "tts_text": "เหี้ยของแบบนี้ต้องมีแล้วปะ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือแปดสิบบาท ใช้พร้อมกันหลายเครื่อง ไม่ต้องแย่งปลั๊ก กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, home desk with cable management, no text, no logo",
+      "tts_text": "ไม่กดตอนนี้แล้วจะรออะไร ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือหกสิบเก้าบาท เปิดปิดแยกได้ ใช้ง่าย บ้านดูดีขึ้น กดเลยในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, multiple chargers plugged neatly, no text, no logo",
+      "tts_text": "แม่งถูกจนงง ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือเจ็ดสิบเจ็ดบาท เสียบครบทุกอย่าง เปิดปิดง่าย ใช้สบาย รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, cozy bedroom charging setup, no text, no logo",
+      "tts_text": "ยังจะปล่อยให้บ้านรกอยู่อีกเหรอ ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือแปดสิบสามบาท ใช้พร้อมกันหลายเครื่อง ไม่ต้องสลับ กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up plugging phone charger, no text, no logo",
+      "tts_text": "โคตรพลาดถ้าไม่เอา ปลั๊กพ่วงหลายช่อง ตอนนี้เหลือหกสิบเจ็ดบาท ใช้ง่าย เสียบหลายเครื่อง เปิดปิดแยก กดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1734461666143667302": [
     {
       "visual_prompt": "9:16 photorealistic portable air cooler fan on desk, humidifier mist visible, LED glow, hand adjusting knobs, indoor summer heat, no text no logo",
