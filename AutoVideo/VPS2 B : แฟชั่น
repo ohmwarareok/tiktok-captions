@@ -122,6 +122,494 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1732535376148465470": [
+    {
+      "visual_prompt": "9:16 photorealistic helmet motorcycle black open face no text no logo realistic lighting outdoor",
+      "tts_text": "เฮ้ยฟังนะ ใครไม่อยากชีวิตดีอย่าซื้อ หมวกกันน็อคครึ่งใบ ใส่สบาย ระบายอากาศดี ตอนนี้เหลือแค่หนึ่งร้อยเก้าสิบเอ็ดบาท เบา ไม่อึดอัด ขี่ไกลก็ไม่เมื่อย กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic motorcycle helmet close up visor strap detail no text no logo",
+      "tts_text": "เอ้า สมน้ำหน้าคนที่เคยจ่ายแพง หมวกกันน็อคครึ่งใบ วันนี้เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่สบาย ไม่ร้อน ลมผ่านดี สายรัดแน่น ขี่ทุกวันยังโอเค รีบกดเดี๋ยวของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rider wearing open face helmet city road no text no logo",
+      "tts_text": "โคตรพลาดถ้าไม่เอา หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่แล้วไม่อึดอัด เบา ขี่รถในเมืองสบาย ลมไม่อับ ระบายดีมาก กดในตะกร้าได้เลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet rotation showcase lighting studio no text no logo",
+      "tts_text": "เห้ยราคานี้ไม่กดคือพลาด หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่สบาย หัวไม่บีบ ระบายอากาศดี ไม่เหม็นอับ ใช้ได้ทุกวัน ขี่ใกล้ไกลเอาอยู่ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet strap buckle detail hand use no text no logo",
+      "tts_text": "โอ๊ยของแบบนี้ต้องมี หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท สายล็อกแน่น ปลอดภัย ใส่ง่าย ถอดไว ไม่ต้องรำคาญหัว ขี่แล้วโล่งสบาย กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic urban commute motorcycle helmet daily use no text no logo",
+      "tts_text": "ฟังนะ อย่ามาบ่นทีหลัง หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่เบา ไม่ร้อน ขี่ทำงานทุกวันสบาย ไม่อึดอัด ลมผ่านดี โคตรใช้ง่าย กดในตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet side angle glossy finish no text no logo",
+      "tts_text": "เอาจริงนะ ของแบบนี้ไม่มีไม่ได้ หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่แล้วหัวไม่ร้อน เบา ใส่ทั้งวันยังโอเค ไม่กดตอนนี้คือพลาดหนัก กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rider parking motorcycle helmet hand holding no text no logo",
+      "tts_text": "ใครยังใช้ของเก่าอยู่คือพลาด หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท เบา ใส่สบาย ไม่อับ ลมเข้าได้ดี ใช้ทุกวันไม่รำคาญหัว รีบกดก่อนของหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet front visor detail lighting no text no logo",
+      "tts_text": "เฮ้ยดูนี่ก่อน หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่แล้วโล่ง หายใจสบาย ไม่ร้อนหัว ขี่รถนานก็ไม่เหนื่อย ของแบบนี้ร้านข้างนอกไม่มี กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet on seat motorcycle sunlight no text no logo",
+      "tts_text": "บอกเลยนะ อย่าคิดนาน หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่สบาย น้ำหนักเบา ไม่กดหัว ระบายอากาศดี ขี่ไปทำงานทุกวันโอเคมาก กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet top angle clean minimal no text no logo",
+      "tts_text": "โอ๊ยราคานี้คือบ้าไปแล้ว หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่แล้วไม่ร้อน ไม่อับ เบาสบายหัว ขี่ไกลยังไหว รีบกดตอนนี้ก่อนของหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet worn by rider traffic background no text no logo",
+      "tts_text": "ใครไม่กดคือพลาดจริง หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่สบาย ลมเข้าได้ดี ไม่อึดอัด ขี่ในเมืองโคตรชิล ใช้ทุกวันยังโอเค กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet detail stitching edge design no text no logo",
+      "tts_text": "เฮ้ยของแบบนี้ต้องมีนะ หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่แล้วหัวไม่บีบ ไม่อับ ระบายอากาศดี ใช้ทุกวันไม่รำคาญ กดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet hand holding rotate display no text no logo",
+      "tts_text": "ฟังให้ดีนะ หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่เบา ไม่ร้อน ขี่ไปไหนก็สบาย ไม่อึดอัด ใช้ง่ายสุดๆ แบบนี้ต้องรีบกดก่อนของหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet on table daylight minimal no text no logo",
+      "tts_text": "โอ๊ยไม่กดตอนนี้คือเสียดาย หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่สบาย หัวไม่ร้อน ลมผ่านดี ใช้ทุกวันยังโอเค รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet chin strap clip close no text no logo",
+      "tts_text": "ใครยังลังเลอยู่คือพลาด หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท สายล็อกแน่น ใส่ง่าย ไม่รำคาญหัว เบา ขี่สบายมาก กดในตะกร้าได้เลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet rider urban street sunlight no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่แล้วโล่ง ไม่อึดอัด ลมเข้าได้ดี ขี่ทุกวันยังสบาย รีบกดก่อนของหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet matte finish clean background no text no logo",
+      "tts_text": "เอาจริงนะ ไม่ซื้อคือพลาด หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่เบา ไม่ร้อน ระบายอากาศดี ใช้งานทุกวันยังโอเค กดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet rider close up city blur no text no logo",
+      "tts_text": "โอ๊ยของแบบนี้ห้ามพลาด หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่แล้วสบายหัว ไม่อับ ลมผ่านดี ขี่ไกลก็ยังไหว รีบกดตอนนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic helmet showcase multiple angles no text no logo",
+      "tts_text": "บอกเลยนะ ราคานี้หายาก หมวกกันน็อคครึ่งใบ เหลือหนึ่งร้อยเก้าสิบเอ็ดบาท ใส่สบาย ไม่ร้อน น้ำหนักเบา ใช้ง่าย ขี่ทุกวันยังโอเค รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1733673666380661848": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โง่จัด คนที่เคยซื้อร้อยยี่สิบบาท ตอนนี้เหลือเจ็ดสิบสองบาท ปลั๊กพ่วงหลายช่อง เปิดปิดแยกได้ เสียบพร้อมกันสบาย บ้านไม่รก รีบกดในตะกร้า ก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "กูขำ คนที่ซื้อเต็มราคา จากร้อยห้าสิบบาท เหลือเก้าสิบสองบาท ปลั๊กพ่วงมีสวิตช์แยก ใช้งานง่าย ไม่ต้องถอดเข้าออกให้วุ่น รีบกดเลย เดี๋ยวหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "พลาดโคตรหนัก ใครเคยจ่ายแพงไป จากร้อยสามสิบบาท เหลือแปดสิบสองบาท ปลั๊กพ่วงหลายช่อง เสียบได้ครบ ไม่ต้องแย่งปลั๊ก กดตอนนี้เลย ของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เอาตรงๆนะ ไม่กดคือโง่ จากร้อยยี่สิบบาท เหลือเจ็ดสิบสี่บาท ปลั๊กพ่วงมีปุ่มแยก ใช้งานง่ายขึ้นเยอะ ไม่ต้องถอดปลั๊กบ่อย รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่รีบซื้อไปก่อน จากร้อยสี่สิบบาท เหลือเก้าสิบสองบาท ปลั๊กพ่วงหลายช่อง ใช้พร้อมกันได้ บ้านไม่รกสายไฟ กดเลยตอนนี้อย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เห้ย อย่ามัวแต่ดู ไม่กดคือพลาด จากร้อยสามสิบบาท เหลือแปดสิบสองบาท ปลั๊กพ่วงช่องเยอะ ใช้งานสะดวก ไม่ต้องหาเพิ่ม กดเลย เดี๋ยวของหมดไว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "กูบอกเลย ใครไม่กดตอนนี้เสียใจ จากร้อยยี่สิบบาท เหลือเจ็ดสิบสองบาท ปลั๊กพ่วงมีสวิตช์แยก ใช้ง่ายสุดๆ เสียบได้หลายเครื่อง รีบกดก่อนหมดจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โง่เองนะที่ซื้อแพง จากร้อยห้าสิบบาท เหลือเก้าสิบสองบาท ปลั๊กพ่วงหลายช่อง ใช้พร้อมกันได้ ไม่ต้องแย่งปลั๊กอีก กดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "อย่ามานั่งเสียดายทีหลัง จากร้อยยี่สิบบาท เหลือเจ็ดสิบสี่บาท ปลั๊กพ่วงมีปุ่มแยก ใช้งานง่ายขึ้นเยอะ บ้านไม่รก รีบกดเลย ของหมดเร็วมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เอ้า ยังไม่กดอีกเหรอ จากร้อยสี่สิบบาท เหลือเก้าสิบสองบาท ปลั๊กพ่วงหลายช่อง เสียบได้ครบทุกเครื่อง ใช้สะดวกสุด รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "กูพูดตรงๆนะ ราคานี้ไม่เอาคือพลาด จากร้อยสามสิบบาท เหลือแปดสิบสองบาท ปลั๊กพ่วงมีสวิตช์แยก ใช้ง่ายมาก ไม่ต้องถอดบ่อย กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ใครยังลังเลนี่งงมาก จากร้อยยี่สิบบาท เหลือเจ็ดสิบสองบาท ปลั๊กพ่วงหลายช่อง ใช้พร้อมกันได้ บ้านโล่งขึ้นทันที กดใส่ตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "พลาดแล้วอย่ามาร้องนะ จากร้อยห้าสิบบาท เหลือเก้าสิบสองบาท ปลั๊กพ่วงมีปุ่มแยก ใช้งานง่าย ไม่ต้องดึงปลั๊กบ่อย รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โคตรคุ้ม เอ้ยไม่พูดคำนี้ละ จากร้อยสามสิบบาท เหลือแปดสิบสองบาท ปลั๊กพ่วงหลายช่อง ใช้ได้หลายเครื่อง บ้านไม่รก กดเลยก่อนหมดจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ดูแล้วไม่กดคืออะไร จากร้อยยี่สิบบาท เหลือเจ็ดสิบสี่บาท ปลั๊กพ่วงมีสวิตช์แยก ใช้ง่าย สะดวกขึ้นเยอะ รีบกดตอนนี้เลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เอาจริงนะ คนไม่กดนี่พลาดหนัก จากร้อยสี่สิบบาท เหลือเก้าสิบสองบาท ปลั๊กพ่วงหลายช่อง ใช้พร้อมกันได้ กดในตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "กูเตือนแล้วนะ จากร้อยยี่สิบบาท เหลือเจ็ดสิบสองบาท ปลั๊กพ่วงมีปุ่มแยก ใช้ง่ายมาก ไม่ต้องถอดปลั๊กให้ยุ่ง รีบกดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "อย่าหาว่าไม่บอก จากร้อยสามสิบบาท เหลือแปดสิบสองบาท ปลั๊กพ่วงหลายช่อง ใช้ครบทุกเครื่อง บ้านดูเรียบร้อยขึ้น กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ไม่กดตอนนี้เดี๋ยวร้องนะ จากร้อยห้าสิบบาท เหลือเก้าสิบสองบาท ปลั๊กพ่วงมีสวิตช์แยก ใช้งานง่ายขึ้น รีบกดก่อนของหมดจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "กดเถอะ อย่าคิดเยอะ จากร้อยยี่สิบบาท เหลือเจ็ดสิบสี่บาท ปลั๊กพ่วงหลายช่อง ใช้พร้อมกันได้ ไม่ต้องแย่งปลั๊ก รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731779383576397978": [
+    {
+      "visual_prompt": "9:16 photorealistic กางเกงลายทางขายาว ทรงหลวม ใส่จริงในร้านคาเฟ่ นั่งไขว่ห้าง แสงธรรมชาติ โฟกัสผ้าและทรง no text no logo",
+      "tts_text": "เหี้ยเอ้ย อยากลำบากชีวิตก็ไม่ต้องซื้อ กางเกงขายาวลายทางตัวนี้นะ กูเคยโดนไปสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท ใส่สบาย โคตรชิล รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic คนใส่กางเกงลายทางเดินเล่นในร้านกาแฟ โชว์ทรงหลวมสบาย ผ้าพริ้ว no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยจ่ายสองร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท กางเกงลายทางเอวยืด ใส่แล้วไม่อึดอัด นั่งก็สบาย เดินก็คล่อง ของแบบนี้หมดไว กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic โฟกัสเนื้อผ้ากางเกงลายทาง ใกล้ๆ เห็นลายชัด ใส่ในบ้านสบายๆ no text no logo",
+      "tts_text": "โคตรพลาดถ้าไม่เอา กางเกงลายทางตัวนี้ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ผ้านิ่ม ใส่ทั้งวันไม่ร้อน เอวยืดยืดได้จริง รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic นั่งบนโซฟาใส่กางเกงลายทาง ทรงหลวม ดูสบาย no text no logo",
+      "tts_text": "เห้ย ของแบบนี้ไม่กดคือพลาด กูเคยซื้อสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงขายาวลายทาง ใส่นอนก็ได้ ใส่ออกนอกบ้านก็รอด รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic คนยืนเต็มตัวโชว์กางเกงลายทางในร้านคาเฟ่ แสงนุ่ม no text no logo",
+      "tts_text": "อยากจนก็ไม่ต้องซื้อ กางเกงลายทางตัวนี้นะ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วดูดีขึ้นเฉย ทรงสวย ใส่สบาย กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic เดินถ่ายมุมด้านข้าง เห็นกางเกงลายทางพลิ้วๆ no text no logo",
+      "tts_text": "โอ๊ยย ใครเคยจ่ายสองร้อยเก้าสิบเก้าบาทนี่เจ็บเลย ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงลายทางเอวยืด ใส่สบายไม่บีบพุง เดินแล้วพลิ้ว รีบกดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic นั่งไขว่ห้างโชว์กางเกงลายทาง ลุคชิลๆ no text no logo",
+      "tts_text": "เหี้ยจริง ราคานี้ไม่กดคือพลาด กางเกงลายทางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วไม่ร้อน นั่งก็สบาย เอวไม่อึดอัด กดเลยอย่าคิดนาน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ซูมช่วงเอวเห็นเอวยืดกางเกงลายทาง no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยซื้อแพง กางเกงลายทางจากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท เอวยืดจริง ใส่แล้วไม่แน่น ทรงสวย ใครไม่กดพลาดเอง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic คนยืนโพสเบาๆ โชว์กางเกงลายทางเต็มตัว no text no logo",
+      "tts_text": "เห้ย ฟังนะ ของแบบนี้ไม่มีหน้าร้าน กางเกงลายทางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วดูดีขึ้นทันที เอวสบาย ทรงหลวม รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic เดินในบ้าน ใส่กางเกงลายทางสบายๆ no text no logo",
+      "tts_text": "โง่เลยถ้าไม่ซื้อ กางเกงลายทางตัวนี้นะ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่ได้ทุกวัน ไม่ร้อน ไม่อึดอัด รีบกดก่อนของจะหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic นั่งเก้าอี้ไม้ ใส่กางเกงลายทางในคาเฟ่ no text no logo",
+      "tts_text": "เหี้ยเอ้ย ของถูกขนาดนี้ กางเกงลายทางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วชิลมาก นั่งทั้งวันไม่อึดอัด รีบกดเลยก่อนจะหาย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic โฟกัสช่วงขาเห็นลายทางชัด no text no logo",
+      "tts_text": "โอ๊ย ราคานี้คือบ้าไปแล้ว กางเกงลายทางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วไม่รัด ไม่ร้อน ใครยังไม่กดคือพลาดจริง กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ยืนหันข้างโชว์ทรงกางเกงลายทาง no text no logo",
+      "tts_text": "อยากเสียเงินแพงก็ไม่ต้องซื้อ กางเกงลายทางตัวนี้ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วดูดีขึ้น ทรงกำลังสวย รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic คนยืนหน้ากระจกลองกางเกงลายทาง no text no logo",
+      "tts_text": "สมน้ำหน้า คนที่เคยซื้อแพง กางเกงลายทางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วไม่อึดอัด เอวยืดดี ใส่สบายทั้งวัน กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic เดินในคาเฟ่ ถ่ายมุมต่ำเห็นกางเกงลายทาง no text no logo",
+      "tts_text": "เหี้ยจริง ของแบบนี้หายไว กางเกงลายทางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วเดินสบาย ไม่ร้อน รีบกดก่อนจะไม่ทัน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic นั่งไขว่ห้างในร้านกาแฟ โฟกัสกางเกง no text no logo",
+      "tts_text": "โคตรคุ้ม เอ้ยไม่พูดคำนี้ละ กางเกงลายทางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วสบายจริง เอวยืดไม่บีบ รีบกดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic คนลุกนั่งโชว์ความยืดหยุ่นกางเกง no text no logo",
+      "tts_text": "เห้ย ฟังนะ กางเกงลายทางตัวนี้ จากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท นั่งยองก็ไม่ตึง เอวยืดจริง ใส่สบายทั้งวัน รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic เดินในบ้านถือกาแฟ ใส่กางเกงลายทาง no text no logo",
+      "tts_text": "อยากพลาดก็ปล่อยไป กางเกงลายทางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วชิลมาก ใส่ได้ทุกวัน รีบกดก่อนของจะหายไป",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic ซูมเนื้อผ้าใกล้ๆ ลายทางชัด no text no logo",
+      "tts_text": "โอ๊ย ใครยังไม่รู้คือพลาด กางเกงลายทางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ผ้านิ่ม ใส่แล้วไม่ร้อน เอวสบาย รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic คนยืนหมุนตัวโชว์กางเกงลายทาง no text no logo",
+      "tts_text": "เหี้ยเอ้ย ราคานี้ยังไม่กดอีก กางเกงลายทางจากสองร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท ใส่แล้วดูดีขึ้นเฉย รีบกดก่อนหมดจริงๆนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731462686286185941": [
+    {
+      "visual_prompt": "9:16 photorealistic, woman hand holding white sneaker on box, walking outdoor casual vibe, close-up texture, no text, no logo",
+      "tts_text": "เหี้ยเอ้ยใครยังไม่กดนี่พลาดเอง รองเท้าผ้าใบผู้หญิงทรงหนา ใส่สบายเดินทั้งวันไม่เมื่อย จากสี่ร้อยแปดสิบเก้าบาท ตอนนี้เหลือสองร้อยสามสิบห้าบาท กดเลยของมีจำกัด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, woman wearing chunky sneakers walking street, lifestyle shot, no text, no logo",
+      "tts_text": "โคตรเสียดายแทนคนที่ซื้อเต็มราคา รองเท้าผ้าใบผู้หญิงพื้นหนา ใส่แล้วสูงขึ้นนิดนึง เดินนุ่มไม่กัดเท้า จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, unboxing sneaker from box, clean minimal scene, no text, no logo",
+      "tts_text": "โอ๊ยใครยังลังเลคือพลาดหนัก รองเท้าผ้าใบผู้หญิงทรงสวย ใส่เที่ยวใส่ทำงานได้หมด จากสี่ร้อยแปดสิบเก้าบาท ตอนนี้สองร้อยสามสิบห้าบาทเอง รีบกดก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, girl tying shoelaces close-up, soft lighting, no text, no logo",
+      "tts_text": "บ้าจริงทำไมไม่เจอเร็วกว่านี้ รองเท้าผ้าใบผู้หญิงเชือกแน่น ใส่กระชับไม่หลุด เดินสบายทั้งวัน จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, walking in park wearing sneakers, natural light, no text, no logo",
+      "tts_text": "เฮ้ยของแบบนี้ต้องมีแล้วปะ รองเท้าผ้าใบผู้หญิงพื้นนุ่ม เดินเงียบไม่เมื่อย ใส่ได้ทุกวัน จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up sole of sneaker, texture focus, no text, no logo",
+      "tts_text": "เห้ยโคตรคุ้ม เอ้ยไม่พูดงั้น เอาจริงมันถูกมาก รองเท้าผ้าใบผู้หญิงพื้นหนึบ เดินไม่ลื่น จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท รีบกดเลยนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, woman holding sneakers smiling, indoor soft light, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่จ่ายแพงไปก่อน รองเท้าผ้าใบผู้หญิงใส่ง่าย เข้ากับทุกชุด จากสี่ร้อยแปดสิบเก้าบาท ตอนนี้เหลือสองร้อยสามสิบห้าบาท กดได้เลยของหมดไว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, outfit styling with sneakers mirror shot, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือคิดดีแล้วหรอ รองเท้าผ้าใบผู้หญิงทรงฮิต ใส่แล้วดูดีขึ้น จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท รีบกดก่อนหายหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, walking upstairs wearing sneakers, dynamic shot, no text, no logo",
+      "tts_text": "เหี้ยจริงกูเพิ่งรู้ว่ามันลดแรงขนาดนี้ รองเท้าผ้าใบผู้หญิงเดินขึ้นลงสบาย ไม่ปวดเท้า จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, slow walk street fashion sneakers, no text, no logo",
+      "tts_text": "เฮ้ยดูนี่ก่อนทุกคน รองเท้าผ้าใบผู้หญิงทรงหนา ใส่แล้วดูสูงขึ้นนิดนึง เดินนุ่ม จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท กดเลยอย่าคิดนาน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, girl running lightly with sneakers, no text, no logo",
+      "tts_text": "โอ๊ยใครยังไม่กดคือช้าไปแล้ว รองเท้าผ้าใบผู้หญิงใส่วิ่งเบาๆได้ เดินก็สบาย จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, casual cafe sitting sneakers shot, no text, no logo",
+      "tts_text": "โคตรดีอะพูดตรงๆ รองเท้าผ้าใบผู้หญิงใส่ง่ายไม่ต้องคิดเยอะ จากสี่ร้อยแปดสิบเก้าบาท ตอนนี้เหลือสองร้อยสามสิบห้าบาท กดเลยร้านอื่นไม่มีแบบนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, stepping out of car wearing sneakers, no text, no logo",
+      "tts_text": "เห้ยของมันต้องมีจริง รองเท้าผ้าใบผู้หญิงใส่ได้ทุกวัน ไม่ต้องเปลี่ยนบ่อย จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท รีบกดเลยนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up stitching sneaker detail, no text, no logo",
+      "tts_text": "ดูงานเย็บก่อนดีมากนะ รองเท้าผ้าใบผู้หญิงทนใช้ยาว ใส่แล้วไม่บีบเท้า จากสี่ร้อยแปดสิบเก้าบาท ตอนนี้เหลือสองร้อยสามสิบห้าบาท กดเลยของมีไม่เยอะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, walking with friend sneakers matching vibe, no text, no logo",
+      "tts_text": "เอาจริงนะใส่แล้วเข้ากับทุกชุด รองเท้าผ้าใบผู้หญิงสไตล์เรียบๆ จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท กดในตะกร้าเลยก่อนราคาขึ้น",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, tying shoe before going out, no text, no logo",
+      "tts_text": "โอ๊ยยยราคานี้ยังไม่กดอีกหรอ รองเท้าผ้าใบผู้หญิงใส่สบายจริง ไม่ต้องทนเจ็บเท้า จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท รีบเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, walking in mall with sneakers, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพงไปก่อน รองเท้าผ้าใบผู้หญิงเดินห้างสบายทั้งวัน จากสี่ร้อยแปดสิบเก้าบาท ตอนนี้เหลือสองร้อยสามสิบห้าบาท กดเลยของใกล้หมดแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, putting shoes into bag, lifestyle, no text, no logo",
+      "tts_text": "พกง่ายใส่ง่ายไม่หนัก รองเท้าผ้าใบผู้หญิงใช้ได้ทุกโอกาส จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท กดเลยไม่ต้องคิดเยอะแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, mirror outfit full body with sneakers, no text, no logo",
+      "tts_text": "เฮ้ยใส่แล้วดูดีขึ้นจริง รองเท้าผ้าใบผู้หญิงทรงสวย ใส่แล้วมั่นใจขึ้น จากสี่ร้อยแปดสิบเก้าบาท เหลือสองร้อยสามสิบห้าบาท รีบกดเลยนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, close-up walking slow motion sneakers, no text, no logo",
+      "tts_text": "โอ๊ยของดีราคานี้หายาก รองเท้าผ้าใบผู้หญิงพื้นนุ่ม เดินเงียบสบาย จากสี่ร้อยแปดสิบเก้าบาท ตอนนี้เหลือสองร้อยสามสิบห้าบาท กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1731657613513688653": [
     {
       "visual_prompt": "9:16 photorealistic no text no logo",
