@@ -3224,123 +3224,122 @@
   ],
   "1733220216445044716": [
     {
-      "visual_prompt": "9:16 photorealistic black cargo pants full body front view studio gray background white sneakers no text no logo",
-      "tts_text": "เชี่ยเอ๊ยโคตรจี๊ด กูเพิ่งซื้อกางเกงคาร์โก้หนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท ทรงหล่อมาก รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo คนใส่กางเกงคาร์โก้ยืนในห้อง แสงธรรมชาติ",
+      "tts_text": "เหี้ยชิบหาย กูโคตรโง่ซื้อร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้เอวยืด ใส่โคตรสบาย เดินทั้งวันไม่อึดอัด รีบกดเลยก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic black cargo pants side view studio lighting minimal background no text no logo",
-      "tts_text": "เหี้ยชิบหาย กูซื้อกางเกงคาร์โก้เต็มหนึ่งร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท ใส่แล้วเท่จัด รีบสอย กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo คนลองใส่หน้ากระจก ทรงหลวม",
+      "tts_text": "สัสเอ้ย ใครเคยซื้อเต็มแม่งร้องแน่ ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้ทรงหลวม ใส่แล้วดูดี เอวยืดไม่รัด กดในตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants pocket detail close up fabric texture no text no logo",
-      "tts_text": "แม่งโคตรเสียดาย กูจ่ายกางเกงคาร์โก้หนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท กระเป๋าเยอะจุจริง รีบกดด่วน กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo คนเดินออกจากบ้าน ใส่กางเกงคาร์โก้",
+      "tts_text": "โคตรควายเลยกู ซื้อแพงไปทำไม ตอนนี้เหลือเจ็ดสิบสองบาท จากร้อยเก้าสิบเก้าบาท กางเกงคาร์โก้ใส่สบาย โคตรชิล รีบกดก่อนเกลี้ยง",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic black cargo pants walking pose urban vibe no text no logo",
-      "tts_text": "ไอ้สัสเอ๊ย กูเพิ่งซื้อกางเกงคาร์โก้หนึ่งร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท ทรงหลวมใส่สบาย รีบกดก่อนเกลี้ยง กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo โชว์กระเป๋ากางเกงหลายช่อง",
+      "tts_text": "แม่งเอ้ย ใครยังไม่กดนี่พลาดหนัก ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้กระเป๋าเยอะ ใส่ของได้จริง กดเลยเดี๋ยวหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants back view full length studio no text no logo",
-      "tts_text": "เหี้ยโคตรเจ็บใจ กูซื้อกางเกงคาร์โก้เต็มหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท ใส่ได้ทุกวัน รีบสอยก่อนหมด กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo นั่งยองๆโชว์ความยืดหยุ่น",
+      "tts_text": "เหี้ยจริง กูซื้อเต็มร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้เอวยืด นั่งยังไงก็ไม่อึดอัด รีบกดในตะกร้า",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants zipper pocket detail close up no text no logo",
-      "tts_text": "แม่งจี๊ดหนัก กูจ่ายกางเกงคาร์โก้หนึ่งร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท งานดีเกินราคา รีบกดเลย กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo นั่งเล่นมือถือในบ้าน",
+      "tts_text": "สัสโคตรถูก จากร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้ทรงหลวม ใส่แล้วโคตรสบาย กดเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants styled with sneakers street background no text no logo",
-      "tts_text": "เชี่ยเอ๊ยโคตรแรง กูซื้อกางเกงคาร์โก้หนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท แมทช์ง่ายมาก รีบกด กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo เดินชิลในบ้าน",
+      "tts_text": "โคตรบ้าเลย ใครยังไม่กดคือพลาด ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้ใส่สบาย ทรงสวย รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants fabric close up texture neutral background no text no logo",
-      "tts_text": "เหี้ยจริงว่ะ กูเพิ่งซื้อกางเกงคาร์โก้เต็มหนึ่งร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท ผ้าไม่ร้อน รีบสอย กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo จับผ้าโชว์ความนุ่ม",
+      "tts_text": "เหี้ยเอ้ย ผ้านิ่มขนาดนี้แต่โคตรถูก ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้เอวยืด ใส่แล้วไม่อึดอัด กดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants hands in pockets standing pose studio no text no logo",
-      "tts_text": "แม่งปวดใจสัส กูจ่ายกางเกงคาร์โก้หนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท ใส่แล้วดูแพง รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo หันข้างโชว์ทรง",
+      "tts_text": "สัสใครไม่ซื้อคือโง่แล้ว ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้ทรงหลวม เอวยืดไม่บีบ กดในตะกร้าเดี๋ยวนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic black cargo pants full body clean studio shot no text no logo",
-      "tts_text": "ไอ้เหี้ยเอ๊ยโคตรเสียดาย กูซื้อกางเกงคาร์โก้เต็มหนึ่งร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท รีบจัดเดี๋ยวนี้ กดได้เท่าไรบอกกูที",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-
-    {
-      "visual_prompt": "9:16 photorealistic cargo pants side angle minimalist studio no text no logo",
-      "tts_text": "สัสเอ๊ยโคตรจี๊ด กูซื้อกางเกงคาร์โก้หนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท ไม่กดตอนนี้พลาด รีบเลย กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo เดินในบ้านลุคสบาย",
+      "tts_text": "เหี้ยของโคตรถูก จากร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้ใส่สบาย เดินทั้งวันไม่อึดอัด รีบกด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants pocket flap detail close up no text no logo",
-      "tts_text": "เหี้ยชิบโคตรแรง กูเพิ่งซื้อกางเกงคาร์โก้เต็มหนึ่งร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท กระเป๋าแน่นจริง รีบกด กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo ยืนพิงกำแพง",
+      "tts_text": "โคตรซวยเลยกู ซื้อแพงไปก่อน ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้เอวยืด ใส่โคตรชิล รีบกดก่อนของหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants walking outdoor casual scene no text no logo",
-      "tts_text": "แม่งเสียดายว่ะ กูจ่ายกางเกงคาร์โก้หนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท ใส่สบายโคตร รีบสอย กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo เดินถ่ายมุมต่ำ",
+      "tts_text": "สัสราคานี้ยังไม่กดอีกหรอ ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้ทรงหลวม ใส่แล้วดูดี รีบกดในตะกร้า",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants front view minimal gray background no text no logo",
-      "tts_text": "ไอ้สัสโคตรจี๊ด กูซื้อกางเกงคาร์โก้เต็มหนึ่งร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท ทรงเท่จัด รีบกด กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo นั่งโซฟาโชว์กางเกง",
+      "tts_text": "เหี้ยถูกเกินไป จากร้อยเก้าสิบเก้าบาท เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้ใส่สบาย ไม่อึดอัด กดเลยก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants seam stitching detail close up no text no logo",
-      "tts_text": "เหี้ยโคตรเจ็บ กูเพิ่งซื้อกางเกงคาร์โก้หนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท งานเย็บดีมาก รีบกดก่อนหมด กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo เดินถือของใส่กระเป๋ากางเกง",
+      "tts_text": "แม่งโคตรดี ใส่ของได้เยอะ ตอนนี้เหลือเจ็ดสิบสองบาท จากร้อยเก้าสิบเก้าบาท กางเกงคาร์โก้ รีบกดก่อนหาย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants styled street fashion look no text no logo",
-      "tts_text": "แม่งแรงเกิน กูซื้อกางเกงคาร์โก้เต็มหนึ่งร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท ใส่แล้วดูหล่อ รีบกดเลย กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo ยืนโชว์เต็มตัว",
+      "tts_text": "สัสใครช้าอดนะ ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้เอวยืด ใส่สบายมาก รีบกดเดี๋ยวนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants close up waistband detail no text no logo",
-      "tts_text": "เชี่ยเอ๊ยโคตรสะใจ กูจ่ายกางเกงคาร์โก้หนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท ของใกล้หมด รีบสอย กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo นั่งไขว่ห้าง",
+      "tts_text": "เหี้ยกูเสียดายเงินเลย ซื้อเต็มร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้ ใส่โคตรชิล กดเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants full body walking shot no text no logo",
-      "tts_text": "เหี้ยจริง กูเพิ่งซื้อกางเกงคาร์โก้เต็มหนึ่งร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท รีบปิดดีลตอนนี้ กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo เดินเล่นในบ้าน",
+      "tts_text": "โคตรคุ้ม เอ้ยถูกจัด ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้ทรงหลวม ใส่แล้วดูดี รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants multiple angles showcase studio no text no logo",
-      "tts_text": "แม่งจี๊ดจัด กูซื้อกางเกงคาร์โก้หนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบสองบาท รีบจัดเลยตอนนี้ กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo โชว์ผ้ายับเล็กน้อยแบบธรรมชาติ",
+      "tts_text": "สัสผ้านิ่มจริง ไม่จกตา ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้ใส่สบาย รีบกดในตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
     {
-      "visual_prompt": "9:16 photorealistic cargo pants final wide clean studio lighting no text no logo",
-      "tts_text": "ไอ้เหี้ยเอ๊ยโคตรเสียดาย กูซื้อกางเกงคาร์โก้เต็มหนึ่งร้อยเก้าสิบเก้าบาท วันนี้เหลือเจ็ดสิบสองบาท รีบกดก่อนเกลี้ยง กดได้เท่าไรบอกกูที",
+      "visual_prompt": "9:16 photorealistic no text no logo ยืนหันหลังโชว์ทรง",
+      "tts_text": "เหี้ยของดีราคานี้ไม่มีแล้ว ตอนนี้เหลือเจ็ดสิบสองบาท กางเกงคาร์โก้ทรงสวย ใส่แล้วดูดี รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo เดินออกประตูบ้าน",
+      "tts_text": "สัสใครไม่เอาคือพลาดหนัก ตอนนี้เหลือเจ็ดสิบสองบาท จากร้อยเก้าสิบเก้าบาท กางเกงคาร์โก้ใส่สบาย รีบกดก่อนหมด",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
