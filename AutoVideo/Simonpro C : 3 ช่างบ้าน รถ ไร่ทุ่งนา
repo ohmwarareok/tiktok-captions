@@ -122,6 +122,1044 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1734463649738949709": [
+    {
+      "visual_prompt": "9:16 photorealistic standing fan in living room warm light airflow visible slow motion no text no logo",
+      "tts_text": "เหี้ยเอ้ย ร้อนขนาดนี้ยังไม่มีพัดลมอีก จากเจ็ดร้อยหกสิบเก้าบาท ตอนนี้เหลือสามร้อยแปดสิบเจ็ดบาท พัดลมตั้งพื้นแรงเงียบ มีรีโมทปรับได้หลายระดับ นั่งเฉยก็เย็น รีบกดก่อนหมด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan blowing hair indoor cozy room no text no logo",
+      "tts_text": "โคตรพลาดเลยคนที่ซื้อแพง จากเจ็ดร้อยหกสิบเก้าบาท เหลือสามร้อยแปดสิบเจ็ดบาท พัดลมตั้งพื้นลมแรงแต่เสียงเบา เปิดนอนได้ทั้งคืน มีรีโมทสั่งง่าย รีบกดตอนนี้เลย เดี๋ยวของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic modern fan airflow room scene no text no logo",
+      "tts_text": "สมน้ำหน้าเบาๆคนที่ซื้อราคาเต็ม ตอนนี้เหลือสามร้อยแปดสิบเจ็ดบาท พัดลมตั้งพื้นลมแรงเย็นไว ไม่ต้องเดินไปเปิด มีรีโมทกดจากเตียงได้เลย รีบกดก่อนหมด กดตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan close up spinning blades cozy home no text no logo",
+      "tts_text": "ยังจะทนร้อนอีกเหรอ จากเจ็ดร้อยหกสิบเก้าบาท เหลือสามร้อยแปดสิบเจ็ดบาท พัดลมตั้งพื้นลมแรง เงียบไม่รบกวน นั่งทำงานก็ดี นอนก็สบาย รีบกดก่อนของหมด กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan blowing curtain slow motion no text no logo",
+      "tts_text": "แม่งถูกเกินไปแล้ว จากเจ็ดร้อยหกสิบเก้าบาท เหลือสามร้อยแปดสิบเจ็ดบาท พัดลมตั้งพื้นปรับแรงลมได้หลายระดับ เย็นจริงไม่ต้องเปิดแอร์ รีบกดก่อนหมด ของมีจำกัด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bedroom fan night soft light no text no logo",
+      "tts_text": "โคตรจำเป็นช่วงนี้ จากเจ็ดร้อยหกสิบเก้าบาท เหลือสามร้อยแปดสิบเจ็ดบาท พัดลมตั้งพื้นเสียงเบา เปิดทั้งคืนไม่รำคาญ มีรีโมทใช้ง่าย รีบกดก่อนหมด เดี๋ยวต้องซื้อแพง กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan airflow in living room sofa no text no logo",
+      "tts_text": "ยังไม่กดอีกคือพลาดแล้วนะ จากเจ็ดร้อยหกสิบเก้าบาท เหลือสามร้อยแปดสิบเจ็ดบาท พัดลมตั้งพื้นลมแรง เย็นไว ไม่ต้องรอนาน รีโมทกดสบาย รีบกดก่อนหมด กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan near bed cooling airflow no text no logo",
+      "tts_text": "เอาจริงนะของมันต้องมี จากเจ็ดร้อยหกสิบเก้าบาท เหลือสามร้อยแปดสิบเจ็ดบาท พัดลมตั้งพื้นลมแรงแต่เงียบ นอนหลับสบายทั้งคืน รีบกดก่อนหมด ของหายไว กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan oscillating indoor no text no logo",
+      "tts_text": "ใครไม่ซื้อคือพลาดหนัก จากเจ็ดร้อยหกสิบเก้าบาท เหลือสามร้อยแปดสิบเจ็ดบาท พัดลมตั้งพื้นปรับส่ายได้ เย็นทั่วห้อง ไม่ต้องย้ายบ่อย รีบกดก่อนหมด กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan airflow close shot no text no logo",
+      "tts_text": "เห้ย ราคานี้ยังไม่กดอีก จากเจ็ดร้อยหกสิบเก้าบาท เหลือสามร้อยแปดสิบเจ็ดบาท พัดลมตั้งพื้นลมแรงเย็นจริง มีรีโมทใช้ง่าย ไม่ต้องลุก รีบกดก่อนหมด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732301696691833227": [
+    {
+      "visual_prompt": "9:16 photorealistic foot pump bicycle gauge close up pumping action natural lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ย ใครยังไม่มีกูงงมาก จากร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบเร็วแรงไม่ต้องออกแรงเยอะ มีเกจวัดลมเป๊ะ รีบกดก่อนของหมด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pumping bicycle tire with foot pump gauge visible no text no logo",
+      "tts_text": "โคตรพลาดเลยคนที่ซื้อเต็มร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบโคตรเร็ว ไม่ต้องเมื่อยมือ มีตัววัดแรงดันลม เติมได้พอดี รีบกดตอนนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bike tire inflation foot pump action no text no logo",
+      "tts_text": "สมน้ำหน้าเบาๆคนซื้อแพง จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมแบบเหยียบ เติมลมเร็วทันใจ ไม่ต้องนั่งปั๊มให้เหนื่อย มีเกจดูง่าย รีบกดก่อนของหาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foot pressing pump inflating tire no text no logo",
+      "tts_text": "เอาจริงนะยังไม่ซื้ออีกเหรอ จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบไวมาก ไม่ต้องออกแรงแขน มีตัววัดลม เติมพอดีเป๊ะ รีบกดก่อนหมด กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up gauge reading air pressure no text no logo",
+      "tts_text": "แม่งถูกจนงง จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ มีเกจวัดแรงดันลม ดูง่าย เติมไม่พลาด สูบเร็วมาก ใช้งานง่าย รีบกดก่อนของหมด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic inflating bike tire outdoor no text no logo",
+      "tts_text": "ใครไม่มีนี่โคตรลำบาก จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบลมไว ไม่ต้องเมื่อยมือ มีตัววัดลมครบ รีบกดก่อนของหมด เดี๋ยวหาซื้อไม่ได้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable foot pump bicycle use no text no logo",
+      "tts_text": "ยังไม่กดอีกคือพลาดแล้วนะ จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบแรงเร็วทันใจ ไม่ต้องเหนื่อย มีเกจวัดลม รีบกดตอนนี้เลย ของหมดไวมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic compact foot pump detail no text no logo",
+      "tts_text": "โคตรจำเป็นเลยของแบบนี้ จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบเร็ว ไม่ต้องใช้แรงเยอะ พกง่าย ใช้ได้หลายแบบ รีบกดก่อนหมด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic inflation process close shot no text no logo",
+      "tts_text": "ของดีราคานี้ไม่กดคือพลาด จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ เติมลมไวมาก มีเกจวัดลม ไม่ต้องเดา รีบกดก่อนหมด กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pump in use indoor floor no text no logo",
+      "tts_text": "เห้ยของมันต้องมี จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบเร็วทันใจ ไม่ต้องใช้แรงมือ มีเกจวัดลมแม่น รีบกดก่อนของหมด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic gauge and hose detail no text no logo",
+      "tts_text": "ใครยังไม่ซื้อคือพลาดจริง จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบไวไม่ต้องเหนื่อย มีตัววัดแรงดันลม ใช้ง่ายมาก รีบกดก่อนหมด กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pumping tire action dynamic no text no logo",
+      "tts_text": "แม่งดีเกินราคา จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบแรงไว เติมลมได้พอดี มีเกจวัดลม ไม่ต้องเดา รีบกดก่อนของหมด กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bike maintenance scene no text no logo",
+      "tts_text": "อย่ารอให้ยางแบนแล้วค่อยหา จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบเร็ว ไม่ต้องใช้แรงมาก มีตัววัดลมครบ รีบกดก่อนหมด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up foot pressing pump no text no logo",
+      "tts_text": "โคตรง่ายเลยแค่เหยียบ จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบเร็วมาก ไม่ต้องเหนื่อย มีเกจวัดลม รีบกดก่อนหมด ของมีจำกัด กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bicycle tire inflation outdoor no text no logo",
+      "tts_text": "พูดตรงๆนะ ราคานี้ต้องมีติดบ้าน จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบไว ใช้ง่าย มีเกจวัดลม รีบกดก่อนหมด กดตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic detailed gauge meter shot no text no logo",
+      "tts_text": "ใครไม่กดตอนนี้คือพลาดหนัก จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ มีตัววัดลมแม่น เติมง่าย ไม่ต้องเดา รีบกดก่อนหมด กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pumping bike tire close action no text no logo",
+      "tts_text": "เอาจริงนะโคตรจำเป็น จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบเร็ว ไม่ต้องใช้แรงเยอะ มีเกจวัดลมครบ รีบกดก่อนหมด กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable pump usage home no text no logo",
+      "tts_text": "ของมันต้องมีติดบ้าน จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบไว ใช้ง่าย ไม่ต้องเมื่อยมือ มีเกจวัดลม รีบกดก่อนหมด กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic bike tire inflation floor scene no text no logo",
+      "tts_text": "อย่าคิดเยอะเลย ของดีราคานี้ จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบเร็ว ไม่เหนื่อย มีตัววัดลมครบ รีบกดก่อนหมด กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pressure gauge detail clear no text no logo",
+      "tts_text": "สุดท้ายแล้วจะรู้ว่ามันจำเป็น จากร้อยเก้าสิบเก้าบาท เหลือแปดสิบหกบาท เครื่องสูบลมเท้าเหยียบ สูบแรงไว มีเกจวัดลม เติมพอดีเป๊ะ รีบกดก่อนหมด กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732025614942374541": [
+    {
+      "visual_prompt": "9:16 photorealistic yellow extension cord 30m coiled on floor hand plugging socket home setting no text no logo",
+      "tts_text": "เหี้ยเอ๊ยยังไม่ใช้ก็คือพลาด ปลั๊กพ่วงสายยาวสามสิบเมตร เสียบได้หลายเครื่อง ทองแดงแท้ ไฟนิ่งใช้งานลื่น ตอนนี้เหลือหกสิบสี่บาท กดตะกร้าเลยด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cord stretched across house plugging appliances real lighting no text no logo",
+      "tts_text": "โอ๊ยยคนเคยซื้อแพงมีร้อง ตอนนี้เหลือหกสิบสี่บาท ปลั๊กพ่วงสายยาวสามสิบเมตร ใช้ได้ทั้งบ้าน ไฟไม่สะดุด เสียบหลายช่องสบาย รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up socket extension plugging devices home usage no text no logo",
+      "tts_text": "กูพูดตรงนะ ของแบบนี้ต้องมี ปลั๊กพ่วงสายยาวสามสิบเมตร ทองแดงแท้ ไฟเสถียร ใช้งานได้หลายจุด ตอนนี้เหลือหกสิบสี่บาท กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cord unrolling across room powering fan and devices no text no logo",
+      "tts_text": "เห้ยไม่อยากชีวิตง่ายอย่าใช้ ปลั๊กพ่วงสายยาวสามสิบเมตร ลากได้ทั่วบ้าน เสียบหลายเครื่องไม่งอแง ตอนนี้เหลือหกสิบสี่บาท รีบกดก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic yellow extension cord with multiple sockets plugged in real home no text no logo",
+      "tts_text": "สมน้ำหน้าคนซื้อแพง ตอนนี้เหลือหกสิบสี่บาท ปลั๊กพ่วงสายยาวสามสิบเมตร เสียบได้หลายช่อง ใช้สะดวกมาก บ้านไม่ต้องหาปลั๊กเพิ่ม กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand holding extension plug connecting appliances indoor no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือโง่ ปลั๊กพ่วงสายยาวสามสิบเมตร ไฟนิ่ง ทองแดงแท้ ใช้กับเครื่องใช้ไฟฟ้าได้สบาย ตอนนี้เหลือหกสิบสี่บาท กดเลยอย่าคิดนาน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cable powering multiple devices in room no text no logo",
+      "tts_text": "เฮ้ยของมันต้องมีแล้วปะ ปลั๊กพ่วงสายยาวสามสิบเมตร เสียบหลายเครื่องพร้อมกันได้ ไฟไม่ตก ตอนนี้เหลือหกสิบสี่บาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cable running outdoor to indoor powering tools no text no logo",
+      "tts_text": "กูเสียดายแทนคนซื้อเต็มราคา ตอนนี้เหลือหกสิบสี่บาท ปลั๊กพ่วงสายยาวสามสิบเมตร ใช้งานได้ไกล ลากสบายไม่ต้องย้ายปลั๊ก กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up copper wire inside cable realistic detail no text no logo",
+      "tts_text": "เหี้ยของดีโคตร ปลั๊กพ่วงสายยาวสามสิบเมตร ทองแดงแท้ ไฟเสถียร ใช้งานได้นาน ไม่ต้องเปลี่ยนบ่อย ตอนนี้เหลือหกสิบสี่บาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cord powering fan TV multiple devices no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ปลั๊กพ่วงสายยาวสามสิบเมตร เสียบได้หลายช่อง ใช้พร้อมกันได้จริง บ้านไม่รกสายไฟ ตอนนี้เหลือหกสิบสี่บาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cable unrolled across large space no text no logo",
+      "tts_text": "เห้ยถูกขนาดนี้ยังไม่เอาอีก ปลั๊กพ่วงสายยาวสามสิบเมตร ใช้งานได้ทั่วบ้าน ไฟไม่สะดุด ตอนนี้เหลือหกสิบสี่บาท กดตะกร้าเดี๋ยวนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic plugging extension into wall outlet realistic no text no logo",
+      "tts_text": "โอ๊ยยของจำเป็นมาก ปลั๊กพ่วงสายยาวสามสิบเมตร เสียบได้หลายเครื่อง ไฟนิ่ง ใช้สะดวก ตอนนี้เหลือหกสิบสี่บาท รีบกดก่อนหาย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cord used in kitchen powering appliances no text no logo",
+      "tts_text": "กูบอกเลยบ้านไหนไม่มีคือพลาด ปลั๊กพ่วงสายยาวสามสิบเมตร ใช้ได้ทุกห้อง เสียบหลายช่องไม่งอแง ตอนนี้เหลือหกสิบสี่บาท กดเลยด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cable powering tools in garage no text no logo",
+      "tts_text": "สมน้ำหน้าคนยังลังเล ตอนนี้เหลือหกสิบสี่บาท ปลั๊กพ่วงสายยาวสามสิบเมตร ลากไกลได้จริง ใช้งานง่ายมาก รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic multiple plugs connected to extension cord indoors no text no logo",
+      "tts_text": "เหี้ยเอ๊ยของมันต้องมี ปลั๊กพ่วงสายยาวสามสิบเมตร เสียบหลายเครื่องพร้อมกันได้ ไฟไม่ตก ใช้งานลื่น ตอนนี้เหลือหกสิบสี่บาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cord running across living room powering TV and fan no text no logo",
+      "tts_text": "โอ๊ยยราคานี้ไม่กดคือพลาด ปลั๊กพ่วงสายยาวสามสิบเมตร ใช้ได้ทั้งบ้าน ไม่ต้องหาปลั๊กเพิ่ม ตอนนี้เหลือหกสิบสี่บาท รีบกดตอนนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand rolling extension cable after use clean storage no text no logo",
+      "tts_text": "เฮ้ยใช้ง่ายมาก ปลั๊กพ่วงสายยาวสามสิบเมตร เก็บก็ง่าย ใช้ก็สะดวก ไฟเสถียร ตอนนี้เหลือหกสิบสี่บาท กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cord powering outdoor tools realistic no text no logo",
+      "tts_text": "กูพูดจริงนะ ของดีแบบนี้ต้องรีบ ปลั๊กพ่วงสายยาวสามสิบเมตร ใช้ได้ไกล เสียบหลายเครื่องได้ ตอนนี้เหลือหกสิบสี่บาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up socket and plug connection glowing power no text no logo",
+      "tts_text": "เห้ยไฟนิ่งจริง ปลั๊กพ่วงสายยาวสามสิบเมตร ทองแดงแท้ ใช้แล้วไม่สะดุด เสียบพร้อมกันได้ ตอนนี้เหลือหกสิบสี่บาท กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cord laid across room powering multiple electronics no text no logo",
+      "tts_text": "โอ๊ยยของโคตรจำเป็น ปลั๊กพ่วงสายยาวสามสิบเมตร บ้านไหนก็ต้องมี ใช้งานได้หลายจุด ตอนนี้เหลือหกสิบสี่บาท รีบกดก่อนหมดจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732010750484907088": [
+    {
+      "visual_prompt": "9:16 photorealistic portable air compressor inflating car tire digital display night garage no text no logo",
+      "tts_text": "เหี้ยเอ้ย คนเคยซื้อเต็มห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา อัดลมไว หยุดอัตโนมัติ มีหน้าจอดูค่า กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic inflating motorcycle tire portable compressor handheld digital screen no text no logo",
+      "tts_text": "สัสพลาด คนเคยจ่ายห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา อัดลมแรง ใช้ง่าย พกติดรถสบาย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic inflating bicycle tire compact air pump digital display daylight no text no logo",
+      "tts_text": "โอ๊ยโคตรพลาด คนซื้อเต็มห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา อัดลมไว หยุดเอง ไม่ต้องเฝ้า กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable compressor pumping tire closeup hose connection clean setup no text no logo",
+      "tts_text": "แม่งเอ้ย ใครเคยซื้อห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมไว มีหน้าจอดูค่า ใช้ได้ทุกล้อ กดเลยเดี๋ยวหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic inflating car tire portable pump digital lcd night scene no text no logo",
+      "tts_text": "ฉิบหายละพลาด คนซื้อเต็มห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา อัดลมเร็ว หยุดอัตโนมัติ สะดวกมาก กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld air compressor inflating tire outdoor daylight digital display no text no logo",
+      "tts_text": "เหี้ยจริง คนเคยซื้อห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมง่าย พกติดรถได้ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic inflating ball portable air pump small compact device indoor no text no logo",
+      "tts_text": "สัสเอ้ยพลาด คนซื้อเต็มห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมได้หลายแบบ ใช้ง่าย กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable air pump inflating tire closeup digital lcd screen clear no text no logo",
+      "tts_text": "โคตรพลาด คนเคยจ่ายห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา อัดลมไว มีจอแสดงผล กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic inflating tire with portable compressor hose connected clean setup no text no logo",
+      "tts_text": "เวรเอ้ย คนซื้อเต็มห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมไว ใช้ง่าย ไม่ต้องง้อร้าน กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car tire inflating portable pump nighttime led display no text no logo",
+      "tts_text": "เหี้ยโคตรพลาด คนเคยซื้อห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมเร็ว หยุดเอง กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic inflating motorcycle tire portable air pump digital display closeup no text no logo",
+      "tts_text": "โอ๊ยพลาดหนัก คนซื้อเต็มห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมไว ใช้สะดวก กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld compressor inflating tire outdoor natural light no text no logo",
+      "tts_text": "แม่งพลาด คนเคยซื้อห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมง่าย พกสะดวก กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable air compressor inflating bicycle tire daylight clean no text no logo",
+      "tts_text": "ฉิบหายพลาด คนซื้อเต็มห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา อัดลมไว ใช้ง่าย กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic inflating tire portable compressor lcd display clear numbers no text no logo",
+      "tts_text": "สัสพลาดแรง คนเคยซื้อห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมเร็ว มีจอให้ดู กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable compressor pumping tire closeup hose connection no text no logo",
+      "tts_text": "เหี้ยเอ้ยโง่เอง คนซื้อเต็มห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมง่าย ใช้สะดวก กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic inflating car tire with portable air pump night scene led light no text no logo",
+      "tts_text": "โคตรเจ็บใจ คนเคยซื้อห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมไว หยุดเอง กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld compressor inflating tire outdoor sunlight clean no text no logo",
+      "tts_text": "เวรเอ้ยพลาดหนัก คนซื้อเต็มห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมง่าย พกติดรถ กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic inflating tire portable pump lcd display closeup clean no text no logo",
+      "tts_text": "เหี้ยพลาดจริง คนเคยซื้อห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมไว ใช้ง่าย กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable air pump inflating ball indoor clean minimal no text no logo",
+      "tts_text": "โอ๊ยโคตรพลาด คนซื้อเต็มห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา ใช้ได้หลายอย่าง เติมลมไว กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car tire inflating with portable compressor hose connected clean setup no text no logo",
+      "tts_text": "สัสพลาดสุด คนเคยซื้อห้าร้อยหกสิบเก้าบาท ตอนนี้เหลือสองร้อยหกสิบเอ็ดบาท ปั๊มลมพกพา เติมลมง่าย สะดวกมาก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731786223845869870": [
+    {
+      "visual_prompt": "9:16 photorealistic engine bay hand spraying coating shine before after natural light no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ของแบบนี้ไม่ใช้ก็ควายแล้ว น้ำยาเคลือบเงารถ ฉีดแล้วเครื่องดูใหม่ขึ้นเงาวับ กันฝุ่นติดง่าย ตอนนี้เหลือแค่เก้าสิบเอ็ดบาท กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up engine plastic shine spray wipe clean realistic garage no text no logo",
+      "tts_text": "โอ๊ยพลาดแรง คนเคยซื้อแพงแม่งร้องไห้ ตอนนี้เหลือเก้าสิบเอ็ดบาท น้ำยาเคลือบเงารถ ฉีดปุ๊บเงาปั๊บ ฝุ่นไม่เกาะง่าย ห้องเครื่องดูใหม่ กดเลยอย่าคิดนาน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman hand spraying engine bay wiping cloth shine result no text no logo",
+      "tts_text": "กูบอกเลยไม่อยากดูดีอย่าใช้ น้ำยาเคลือบเงารถ ฉีดแล้วดำเงาเนียนขึ้น ฝุ่นไม่จับง่าย ล้างรถน้อยลง ตอนนี้เหลือเก้าสิบเอ็ดบาท รีบกดก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic before dirty engine after shiny comparison real light no text no logo",
+      "tts_text": "เฮ้ยของมันต้องมีแล้วปะ น้ำยาเคลือบเงารถ ฉีดทีเดียวเงาเหมือนเพิ่งล้าง ลดคราบฝุ่นเกาะ ตอนนี้เหลือเก้าสิบเอ็ดบาท ร้านข้างนอกไม่มีแบบนี้ กดเลยด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying plastic trim engine shine reflection garage no text no logo",
+      "tts_text": "สมน้ำหน้าคนเคยจ่ายแพงเว่อร์ ตอนนี้เหลือเก้าสิบเอ็ดบาท น้ำยาเคลือบเงารถ ฉีดแล้วเงาขึ้นจริง เช็ดง่าย ประหยัดเวลา ไม่ต้องล้างบ่อย กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand spray wipe car engine bay detail shine no text no logo",
+      "tts_text": "เห้ยใครยังไม่ใช้คือพลาด น้ำยาเคลือบเงารถ ฉีดแล้วเครื่องดูสะอาดขึ้นทันที ฝุ่นเกาะยาก ใช้ไม่กี่นาที ตอนนี้เหลือเก้าสิบเอ็ดบาท รีบกดก่อนหาย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close shot spray mist on engine plastic shine effect no text no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือโง่ น้ำยาเคลือบเงารถ ฉีดแล้วเงาขึ้นไวมาก ห้องเครื่องดูใหม่ขึ้น ไม่ต้องขัดแรง ตอนนี้เหลือเก้าสิบเอ็ดบาท กดในตะกร้าเลยจ้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic engine bay detail wipe shine reflection realistic no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน น้ำยาเคลือบเงารถ ฉีดปุ๊บเงาปั๊บ ลดฝุ่นเกาะ ทำความสะอาดง่ายขึ้น เหมาะกับคนขี้เกียจล้าง ตอนนี้เหลือเก้าสิบเอ็ดบาท กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic before after engine shine natural sunlight garage no text no logo",
+      "tts_text": "กูเสียดายเงินแทนคนซื้อแพง ตอนนี้เหลือเก้าสิบเอ็ดบาท น้ำยาเคลือบเงารถ ฉีดแล้วดำเงาเนียน สายรถต้องมีไว้ ใช้ง่ายมาก กดตะกร้าเดี๋ยวนี้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spray coating engine plastic trim shine close no text no logo",
+      "tts_text": "เฮ้ยแม่งโคตรถูก น้ำยาเคลือบเงารถ ฉีดแล้วเครื่องดูสะอาดขึ้น เงาเห็นชัด ฝุ่นไม่เกาะง่าย ตอนนี้เหลือเก้าสิบเอ็ดบาท ของมีจำกัด รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic wiping cloth after spray shine smooth surface no text no logo",
+      "tts_text": "ไม่อยากรถดูโทรมอย่าพลาด น้ำยาเคลือบเงารถ ฉีดแล้วเงาขึ้นทันที เช็ดง่ายไม่เหนื่อย ตอนนี้เหลือเก้าสิบเอ็ดบาท กดเลยก่อนคนอื่นแย่งหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand spraying engine bay shine reflection detail no text no logo",
+      "tts_text": "โอ๊ยถูกขนาดนี้ยังไม่กดอีก น้ำยาเคลือบเงารถ ฉีดแล้วเงาสวย ลดฝุ่นเกาะ ห้องเครื่องดูใหม่ขึ้น ตอนนี้เหลือเก้าสิบเอ็ดบาท รีบกดก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic garage engine bay shine after spray realistic no text no logo",
+      "tts_text": "กูพูดตรงนะ ของแบบนี้ต้องมี น้ำยาเคลือบเงารถ ฉีดแล้วเงาขึ้นจริง ใช้ง่ายมาก ไม่ต้องล้างบ่อย ตอนนี้เหลือเก้าสิบเอ็ดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up shine plastic trim engine after spray no text no logo",
+      "tts_text": "สมน้ำหน้าคนยังลังเล ตอนนี้เหลือเก้าสิบเอ็ดบาท น้ำยาเคลือบเงารถ ฉีดแล้วดูใหม่ขึ้นทันที ฝุ่นเกาะยาก ใช้สะดวก กดเลยก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic before dull engine after glossy shine no text no logo",
+      "tts_text": "เหี้ยเอ๊ยของโคตรดี น้ำยาเคลือบเงารถ ฉีดแล้วเงาวับเหมือนเพิ่งล้าง ประหยัดเวลา ทำเองง่าย ตอนนี้เหลือเก้าสิบเอ็ดบาท รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spray mist on engine plastic glossy effect no text no logo",
+      "tts_text": "เฮ้ยอย่าคิดเยอะ น้ำยาเคลือบเงารถ ฉีดแล้วเงาขึ้นทันที ลดฝุ่นเกาะ ใช้ครั้งเดียวเห็นผล ตอนนี้เหลือเก้าสิบเอ็ดบาท กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic wiping engine plastic shine reflection realistic no text no logo",
+      "tts_text": "โอ๊ยยราคานี้ไม่กดคือพลาด น้ำยาเคลือบเงารถ ฉีดแล้วดำเงาเนียน ห้องเครื่องดูใหม่ขึ้น ตอนนี้เหลือเก้าสิบเอ็ดบาท รีบกดก่อนหมดจริง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic engine bay shine after spray natural lighting no text no logo",
+      "tts_text": "กูบอกเลยใช้แล้วต่าง น้ำยาเคลือบเงารถ ฉีดแล้วเงาชัด ฝุ่นไม่เกาะง่าย ทำความสะอาดง่าย ตอนนี้เหลือเก้าสิบเอ็ดบาท กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spray and wipe sequence engine shine no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ของมันต้องมี น้ำยาเคลือบเงารถ ฉีดแล้วเงาขึ้นไว ใช้ง่ายมาก ประหยัดเวลา ตอนนี้เหลือเก้าสิบเอ็ดบาท รีบกดเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic engine bay glossy finish after coating no text no logo",
+      "tts_text": "เห้ยถูกขนาดนี้ไม่เอาคือเสียดาย น้ำยาเคลือบเงารถ ฉีดแล้วเครื่องดูใหม่ขึ้น ฝุ่นเกาะยาก ใช้สบาย ตอนนี้เหลือเก้าสิบเอ็ดบาท กดตะกร้าเลยจ้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731952445329213505": [
+    {
+      "visual_prompt": "9:16 photorealistic applying silicone oil on car tire sponge glossy black shine garage lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ย คนเคยซื้อเต็มสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาดำทันที กันแห้งแตกลาย ทำเองง่าย กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand applying tire shine with sponge glossy wet look outdoor no text no logo",
+      "tts_text": "สัสพลาด คนซื้อสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาฉ่ำ ยางดูใหม่ขึ้นทันที ไม่ต้องเข้าร้าน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tire shine application closeup glossy reflection black rubber clean no text no logo",
+      "tts_text": "โอ๊ยโคตรพลาด คนเคยซื้อสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาวับ กันแห้งแตกลาย รถดูใหม่ขึ้น กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic applying silicone oil to tire sponge detail glossy finish driveway no text no logo",
+      "tts_text": "แม่งเอ้ย ใครเคยซื้อสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วดำเงา ทนฝุ่นง่าย ใช้ได้นาน กดเลยเดี๋ยวหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tire detailing shine sponge applying gloss rubber clean no text no logo",
+      "tts_text": "ฉิบหายละพลาด คนซื้อเต็มสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาขึ้นทันที ยางดูใหม่ ใช้ง่าย กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic glossy tire after applying silicone oil reflection sunlight clean no text no logo",
+      "tts_text": "เหี้ยจริง คนเคยซื้อสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาฉ่ำ กันแห้ง ยางไม่ซีด กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand applying tire shine sponge glossy rubber detail no text no logo",
+      "tts_text": "สัสเอ้ยพลาด คนซื้อเต็มสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วดำเงา ยางดูใหม่ กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tire shine before after glossy black rubber comparison no text no logo",
+      "tts_text": "โคตรพลาด คนเคยจ่ายสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาวับ ยางสวยขึ้นทันที กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic sponge applying silicone oil tire glossy finish driveway no text no logo",
+      "tts_text": "เวรเอ้ย คนซื้อเต็มสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาฉ่ำ ยางดูใหม่ ไม่ต้องง้อร้าน กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic shiny tire after applying oil reflection closeup detail no text no logo",
+      "tts_text": "เหี้ยโคตรพลาด คนเคยซื้อสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วดำเงา ยางไม่ซีด กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic applying tire shine sponge glossy black rubber clean no text no logo",
+      "tts_text": "โอ๊ยพลาดหนัก คนซื้อเต็มสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาขึ้นทันที ใช้ง่ายมาก กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tire detailing applying silicone oil sponge shine reflection no text no logo",
+      "tts_text": "แม่งพลาด คนเคยซื้อสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาฉ่ำ ยางดูใหม่ขึ้น กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic glossy tire closeup after applying shine product clean no text no logo",
+      "tts_text": "ฉิบหายพลาด คนซื้อเต็มสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วดำเงา ยางไม่แห้ง กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic sponge applying tire shine glossy rubber detail outdoor no text no logo",
+      "tts_text": "สัสพลาดแรง คนเคยซื้อสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาขึ้นไว ยางสวย กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic applying silicone oil tire sponge glossy clean finish no text no logo",
+      "tts_text": "เหี้ยเอ้ยโง่เอง คนซื้อเต็มสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วดำเงา ยางดูใหม่ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic shiny tire reflection after applying oil clean glossy rubber no text no logo",
+      "tts_text": "โคตรเจ็บใจ คนเคยซื้อสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาฉ่ำ ยางไม่ซีด กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tire shine application sponge glossy rubber detail no text no logo",
+      "tts_text": "เวรเอ้ยพลาดหนัก คนซื้อเต็มสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาขึ้นทันที กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic glossy tire after applying shine outdoor sunlight clean no text no logo",
+      "tts_text": "เหี้ยพลาดจริง คนเคยซื้อสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วดำเงา ยางสวยขึ้น กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic sponge applying tire shine glossy rubber reflection clean no text no logo",
+      "tts_text": "โอ๊ยโคตรพลาด คนซื้อเต็มสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วเงาขึ้นไว ใช้ง่าย กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tire detailing shine after applying oil glossy black rubber no text no logo",
+      "tts_text": "สัสพลาดสุด คนเคยซื้อสามร้อยบาท ตอนนี้เหลือหนึ่งร้อยสามสิบห้าบาท น้ำยาทายางดำ ทาแล้วดำเงา ยางดูใหม่ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731291083811292709": [
+    {
+      "visual_prompt": "9:16 photorealistic car interior dashboard wiping spray cloth shine clean before after natural light no text no logo",
+      "tts_text": "เหี้ยเอ้ย คนเคยซื้อเต็มหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เคลือบเงารถ ฉีดเช็ดจบ เงาขึ้นทันที ฝุ่นไม่เกาะง่าย กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying dashboard cleaning cloth wiping glossy interior sunlight no text no logo",
+      "tts_text": "สัสพลาด คนซื้อหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เช็ดรถ ฉีดแล้วเช็ดจบ เงาวับ ไม่ต้องล้างน้ำให้ยุ่ง กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand spraying interior cleaner wiping car console shine clean no text no logo",
+      "tts_text": "โอ๊ยโคตรพลาด คนเคยซื้อหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เคลือบเงา ฉีดง่าย เช็ดสะอาด เงาขึ้นไว ใช้ในรถได้หมด กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cleaning car dashboard spray cloth wiping shiny surface no text no logo",
+      "tts_text": "แม่งเอ้ย ใครเคยซื้อหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เช็ดรถ ฉีดปุ๊บเช็ดปั๊บ ฝุ่นหลุด เงาขึ้น ไม่ต้องล้างน้ำ กดเลยเดี๋ยวหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic dashboard cleaning spray wipe glossy finish car interior no text no logo",
+      "tts_text": "ฉิบหายละพลาด คนซื้อเต็มหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เคลือบเงา ฉีดแล้วเช็ด คราบออกไว เงาขึ้นทันที กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic wiping car interior with cloth after spray shiny dashboard no text no logo",
+      "tts_text": "เหี้ยจริง คนเคยซื้อหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เช็ดรถ ใช้ง่าย ฉีดเช็ดจบ เงาขึ้น ฝุ่นไม่เกาะง่าย กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying cleaner on car console wiping cloth clean shiny no text no logo",
+      "tts_text": "สัสเอ้ยพลาด คนซื้อเต็มหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เคลือบเงา ฉีดแล้วเช็ดจบ รถดูใหม่ขึ้น กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car interior cleaning spray wipe dashboard glossy finish no text no logo",
+      "tts_text": "โคตรพลาด คนเคยซื้อหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เช็ดรถ ฉีดง่าย เช็ดไว เงาขึ้นทันที ใช้ได้ทุกจุด กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic wiping dashboard after spray clean glossy interior sunlight no text no logo",
+      "tts_text": "เวรเอ้ย คนซื้อเต็มหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เคลือบเงา ฉีดเช็ดจบ คราบหลุด เงาขึ้น ไม่ต้องล้างน้ำ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying dashboard cleaner wiping cloth shine reflection no text no logo",
+      "tts_text": "เหี้ยโคตรพลาด คนเคยซื้อหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เช็ดรถ ฉีดแล้วเช็ดจบ เงาขึ้นไว ฝุ่นไม่เกาะง่าย กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cleaning car interior spray cloth wipe glossy dashboard no text no logo",
+      "tts_text": "โอ๊ยพลาดหนัก คนซื้อเต็มหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เคลือบเงา ฉีดเช็ดจบ เงาขึ้นทันที ใช้ง่ายมาก กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic wiping car dashboard after spray clean glossy finish no text no logo",
+      "tts_text": "แม่งพลาด คนเคยซื้อหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เช็ดรถ ฉีดง่าย เช็ดสะอาด เงาขึ้น รถดูใหม่ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spray cleaning car console wiping cloth shine no text no logo",
+      "tts_text": "ฉิบหายพลาด คนซื้อเต็มหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เคลือบเงา ฉีดแล้วเช็ดจบ เงาขึ้นจริง กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic wiping interior after spray shiny dashboard sunlight no text no logo",
+      "tts_text": "สัสพลาดแรง คนเคยซื้อหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เช็ดรถ ฉีดเช็ดจบ เงาขึ้นไว ประหยัดเวลา กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic dashboard cleaning spray wipe glossy finish reflection no text no logo",
+      "tts_text": "เหี้ยเอ้ยโง่เอง คนซื้อเต็มหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เคลือบเงา ฉีดง่าย เช็ดจบ เงาขึ้น ไม่ต้องล้างน้ำ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spraying cleaner wiping dashboard glossy clean car interior no text no logo",
+      "tts_text": "โคตรเจ็บใจ คนเคยซื้อหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เช็ดรถ ฉีดเช็ดจบ เงาขึ้นไว รถดูใหม่ กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cleaning car interior spray wipe cloth shine no text no logo",
+      "tts_text": "เวรเอ้ยพลาดหนัก คนซื้อเต็มหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เคลือบเงา ฉีดแล้วเช็ด คราบออก เงาขึ้น กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic wiping dashboard after spray shiny reflection sunlight no text no logo",
+      "tts_text": "เหี้ยพลาดจริง คนเคยซื้อหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เช็ดรถ ฉีดง่าย เช็ดไว เงาขึ้นทันที กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic spray cleaning dashboard wipe cloth glossy interior no text no logo",
+      "tts_text": "โอ๊ยโคตรพลาด คนซื้อเต็มหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เคลือบเงา ฉีดเช็ดจบ เงาขึ้นไว ใช้ง่ายมาก กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic wiping car interior after spray clean glossy finish no text no logo",
+      "tts_text": "สัสพลาดสุด คนเคยซื้อหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแปดสิบบาท สเปรย์เช็ดรถ ฉีดเช็ดจบ เงาขึ้นทันที รถดูใหม่ กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729749686809102660": [
+    {
+      "visual_prompt": "9:16 photorealistic car scratch repair liquid polishing with cloth closeup glossy paint garage lighting no text no logo",
+      "tts_text": "เหี้ยเอ้ย ใครเคยซื้อเต็มสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาลบรอยขีดข่วนรถ ถูแล้วรอยจาง เงาขึ้นทันที ใช้เองง่ายๆ กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand applying car scratch remover with sponge glossy finish reflection outdoor no text no logo",
+      "tts_text": "สัสพลาด คนเคยจ่ายสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาขัดรอยรถ ลบรอยเล็กๆได้ เงาวับเหมือนเดิม ไม่ต้องเข้าร้าน กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car paint scratch before after polishing shine detail closeup no text no logo",
+      "tts_text": "โอ๊ยโคตรพลาด คนซื้อเต็มสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาลบรอยรถ ขัดง่าย รอยจางไว รถดูใหม่ขึ้น ประหยัดเงินสุด กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic applying scratch remover on car with cloth glossy reflection sunlight no text no logo",
+      "tts_text": "แม่งเอ้ย ใครเคยซื้อสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาขัดรอยขีดข่วน ใช้แค่ถู รอยจาง เงาขึ้นทันใจ กดเลยเดี๋ยวหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic closeup car surface polishing removing scratch reflection clean finish no text no logo",
+      "tts_text": "ฉิบหายละพลาด คนซื้อเต็มสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาลบรอยรถ รอยเล็กหายไว ผิวเงาขึ้น ใช้เองได้ง่าย กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car detailing scratch remover sponge polishing shine garage no text no logo",
+      "tts_text": "เหี้ยจริง คนเคยซื้อสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาขัดรอยรถ ขัดแล้วเนียน รอยจาง รถเงาขึ้น ไม่ต้องเสียแพง กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand polishing car removing scratches shiny reflection detail no text no logo",
+      "tts_text": "สัสเอ้ยพลาด คนซื้อเต็มสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาลบรอยขีดข่วน ถูง่าย รอยจางไว เงาขึ้นจริง กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car scratch repair liquid polishing before after effect shine no text no logo",
+      "tts_text": "โคตรพลาด คนเคยจ่ายสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาขัดรอยรถ รอยเล็กจาง เงาขึ้นทันที ทำเองง่าย กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic detailing car scratch removal sponge cloth shine reflection no text no logo",
+      "tts_text": "เวรเอ้ย คนซื้อเต็มสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาลบรอยรถ ใช้แค่ถู รอยจาง เงาขึ้น ไม่ต้องเข้าร้าน กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic polishing car paint removing scratches glossy finish sunlight no text no logo",
+      "tts_text": "เหี้ยโคตรพลาด คนเคยซื้อสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาขัดรอยรถ ขัดแล้วเนียน รอยหายไว รถเงาขึ้น กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand applying scratch remover car detailing shine no text no logo",
+      "tts_text": "โอ๊ยพลาดหนัก คนซื้อเต็มสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาลบรอยขีดข่วน ถูง่าย รอยจาง เงาขึ้นทันที กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car detailing polishing scratch removal glossy surface no text no logo",
+      "tts_text": "แม่งพลาด คนเคยซื้อสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาขัดรอยรถ รอยเล็กจางไว เงาขึ้น ประหยัดเงิน กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic polishing car paint removing light scratches reflection clean no text no logo",
+      "tts_text": "ฉิบหายพลาด คนซื้อเต็มสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาลบรอยรถ ใช้ง่าย ถูแล้วเนียน เงาขึ้นจริง กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scratch remover application on car closeup shiny result no text no logo",
+      "tts_text": "สัสพลาดแรง คนเคยซื้อสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาขัดรอยรถ รอยจางไว รถดูใหม่ขึ้น ทำเองได้ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car detailing removing scratches sponge cloth shine reflection no text no logo",
+      "tts_text": "เหี้ยเอ้ยโง่เอง คนซื้อเต็มสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาลบรอยขีดข่วน ถูง่าย เงาขึ้นไว ไม่ต้องง้อร้าน กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic polishing car removing scratches glossy finish closeup no text no logo",
+      "tts_text": "โคตรเจ็บใจ คนเคยซื้อสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาขัดรอยรถ รอยเล็กหายไว รถเงาขึ้นทันที กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic applying car scratch remover with sponge clean shiny paint no text no logo",
+      "tts_text": "เวรเอ้ยพลาดหนัก คนซื้อเต็มสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาลบรอยรถ ใช้แค่ถู รอยจาง เงาขึ้น กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car paint detailing removing scratches glossy reflection sunlight no text no logo",
+      "tts_text": "เหี้ยพลาดจริง คนเคยซื้อสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาขัดรอยรถ ขัดแล้วเนียน รอยจาง รถเงาขึ้น กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic scratch remover application closeup shiny car paint no text no logo",
+      "tts_text": "โอ๊ยโคตรพลาด คนซื้อเต็มสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาลบรอยรถ รอยเล็กจาง เงาขึ้นไว ทำเองได้ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car detailing polishing removing scratches clean glossy finish no text no logo",
+      "tts_text": "สัสพลาดสุด คนเคยซื้อสองร้อยสี่สิบเก้าบาท ตอนนี้เหลือเก้าสิบสามบาท น้ำยาขัดรอยรถ ถูง่าย รอยจางไว รถเงาขึ้น กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729424643763046525": [
+    {
+      "visual_prompt": "9:16 photorealistic foam car wash kit handheld sprayer sponge brushes bucket garage daylight no text no logo",
+      "tts_text": "เหี้ยโคตรพลาด คนที่เคยซื้อเต็มหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท เซ็ตโฟมล้างรถ แรงดันดี ล้างสะอาดไว ฟองแน่น ไม่ต้องง้อคาร์แคร์ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car washing foam thick bubbles closeup hand spray detailing tools driveway no text no logo",
+      "tts_text": "สัสเอ้ย ใครเคยจ่ายหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท โฟมล้างรถ ฟองโคตรแน่น คราบหลุดไว ล้างเองได้ที่บ้าน ไม่ต้องเสียเงินแพง รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic washing car at home foam sprayer bucket sponge sunlight clean finish no text no logo",
+      "tts_text": "โอ๊ยโง่ชิบ คนซื้อเต็มหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท เซ็ตล้างรถครบ ฟองหนา แปรงถูง่าย รถเงาวับ ประหยัดเงินล้างร้าน กดตะกร้าเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foam spraying car glossy finish driveway tools detailing kit no text no logo",
+      "tts_text": "แม่งเอ้ย พลาดหนัก คนซื้อเต็มหนึ่งพันหนึ่งบาท วันนี้เหลือสองร้อยเก้าสิบเก้าบาท โฟมล้างรถ ฉีดง่าย ฟองเกาะดี คราบออกไว ใช้ได้ทุกคัน รีบกดเลยก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic closeup foam bubbles on car hand holding sprayer detailing tools no text no logo",
+      "tts_text": "ฉิบหายละ คนที่เคยซื้อหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท เซ็ตโฟมล้างรถ ฟองหนา ล้างสะอาด ประหยัดเวลา ไม่ต้องไปคาร์แคร์ รีบกดก่อนหาย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic washing car with foam sponge brush driveway clean shine no text no logo",
+      "tts_text": "โคตรพัง คนซื้อเต็มหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท โฟมล้างรถ ฟองแน่น ถูง่าย รถเงาไว ทำเองที่บ้านสบาย กดในตะกร้าเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foam spraying car outdoor sunlight clean glossy result no text no logo",
+      "tts_text": "เวรเอ้ย คนเคยซื้อหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท เซ็ตล้างรถ ฟองหนา ล้างเร็ว คราบออกง่าย ไม่ต้องเสียค่าล้างร้าน กดเลยเดี๋ยวหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic detailing car foam sprayer bucket sponge clean driveway no text no logo",
+      "tts_text": "กูงงเลย คนซื้อเต็มหนึ่งพันหนึ่งบาท วันนี้เหลือสองร้อยเก้าสิบเก้าบาท โฟมล้างรถ ฟองเยอะ ล้างสะอาด รถใสขึ้นทันที ทำเองได้ กดตะกร้าไว้ก่อน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foam washing car closeup bubbles brush scrubbing shiny finish no text no logo",
+      "tts_text": "ชิบหายจริง คนเคยซื้อหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท เซ็ตโฟมล้างรถ ฟองแน่น คราบหายไว รถเงาขึ้น ใช้ง่าย รีบกดก่อนของหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic washing car foam thick bubbles sprayer hand detail kit no text no logo",
+      "tts_text": "เหี้ยเอ้ย พลาดแรง คนซื้อเต็มหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท โฟมล้างรถ ฟองหนา ล้างไว ประหยัดเงิน ลองแล้วติดใจ กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foam car wash outdoor driveway sponge brush cleaning no text no logo",
+      "tts_text": "โอ๊ยพลาดหนัก คนซื้อหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท เซ็ตล้างรถ ฟองเยอะ ล้างง่าย รถเงาไว ใช้ได้ทุกวัน กดเลยอย่าคิดนาน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car covered foam washing sprayer closeup shiny finish no text no logo",
+      "tts_text": "สัสพลาด คนเคยซื้อหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท โฟมล้างรถ ฟองหนา คราบออกไว รถใสทันใจ ไม่ต้องง้อร้าน กดเลยด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic detailing foam wash car sponge bucket outdoor scene no text no logo",
+      "tts_text": "แม่งเอ้ย เสียดาย คนซื้อเต็มหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท เซ็ตโฟมล้างรถ ฟองแน่น ล้างง่าย รถเงาขึ้นจริง รีบกดก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foam sprayer washing car driveway sunlight clean glossy car no text no logo",
+      "tts_text": "เหี้ยจริง คนเคยซื้อหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท โฟมล้างรถ ฟองหนา คราบหลุดไว ล้างเองได้ ไม่ต้องจ่ายแพง กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic washing car foam thick bubbles brush cleaning detail kit no text no logo",
+      "tts_text": "ฉิบหายละพลาด คนซื้อหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท เซ็ตล้างรถ ฟองแน่น ถูง่าย รถเงาวับ ประหยัดเงิน รีบกดเลยก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foam wash car closeup sprayer bubbles clean finish no text no logo",
+      "tts_text": "โคตรเจ็บใจ คนซื้อเต็มหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท โฟมล้างรถ ฟองหนา ล้างไว รถใสขึ้นทันที กดเลยอย่าช้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic detailing wash car foam sprayer sponge bucket clean car no text no logo",
+      "tts_text": "เวรเอ้ยพลาดหนัก คนซื้อหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท เซ็ตโฟมล้างรถ ฟองเยอะ คราบออกไว ใช้ง่ายสุด กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foam spraying car shiny finish driveway detailing tools no text no logo",
+      "tts_text": "สัสโคตรพลาด คนเคยซื้อหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท โฟมล้างรถ ฟองหนา ล้างสะอาด รถเงาไว กดเลยก่อนของหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic car foam wash closeup bubbles sprayer hand clean finish no text no logo",
+      "tts_text": "เหี้ยจริงพลาด คนซื้อเต็มหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท เซ็ตล้างรถ ฟองแน่น คราบหลุดง่าย รถใสขึ้น กดเลยอย่ารอ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic foam car wash outdoor driveway sponge brush clean glossy no text no logo",
+      "tts_text": "โอ๊ยพลาดสุด คนซื้อหนึ่งพันหนึ่งบาท ตอนนี้เหลือสองร้อยเก้าสิบเก้าบาท โฟมล้างรถ ฟองหนา ล้างไว รถเงาขึ้น ประหยัดเงิน กดตะกร้าเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1734396359542736875": [
     {
       "visual_prompt": "9:16 photorealistic air cooler on wheels indoor living room blowing cool mist water tank visible remote on table soft daylight no text no logo",
@@ -3995,128 +5033,6 @@
     {
       "visual_prompt": "9:16 photorealistic no text no logo",
       "tts_text": "เวรจริงใครไม่ซื้อคือเสียโอกาส ตอนนี้เหลือสามร้อยห้าสิบห้าบาท พัดลมไร้สาย ลมแรง พกง่าย ใช้งานสะดวก กดในตะกร้าเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    }
-  ],
-  "1731786223845869870": [
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo car tire before and after shiny coating realistic garage lighting close-up hand spraying tire shine",
-      "tts_text": "เหี้ยเอ้ย ใครเคยซื้อเต็มร้อยหกสิบเก้าบาท โคตรพลาด ตอนนี้เหลือแค่เก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วเงาเลย ยางดูใหม่ขึ้นทันที รีบกดตะกร้าเลย ของหมดไวมาก",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo close-up spraying tire coating glossy finish before after split scene realistic",
-      "tts_text": "โง่จัด คนที่ซื้อแพงไปก่อน จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วดำเงา ยางดูใหม่ขึ้นทันที กดตะกร้าเลย เดี๋ยวหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo tire shine application slow motion foam applicator glossy rubber realistic",
-      "tts_text": "แม่งพลาด คนที่ซื้อเต็ม จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดง่าย เงาทันที รถดูใหม่ขึ้น กดตะกร้าเลยก่อนของหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo car tire detailed shine reflection lighting realistic showroom look",
-      "tts_text": "เหี้ยจริง ราคานี้ยังไม่กด จากร้อยหกสิบเก้าบาท เหลือเก้าสิบบาท สเปรย์เคลือบยาง ทำให้ยางดำเงาเหมือนใหม่ ฉีดแป๊บเดียวจบ รีบกดตะกร้าเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo before after tire shine split visual high contrast realistic",
-      "tts_text": "โคตรโง่ ใครซื้อราคาเก่า จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วเงาขึ้นทันที ยางดูใหม่ขึ้น กดตะกร้าเลย เดี๋ยวหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo spraying tire outdoor daylight glossy finish close-up realistic",
-      "tts_text": "เหี้ยเอ้ย ของแบบนี้ต้องมี จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วดำเงา รถดูแพงขึ้นทันที รีบกดตะกร้าเลยตอนนี้",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo tire cleaning then coating transformation realistic detailing garage",
-      "tts_text": "พลาดเองอย่ามาร้อง จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วเงาเลย ไม่ต้องขัดให้เหนื่อย กดตะกร้าเลยก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo hand holding spray coating tire close macro shine effect realistic",
-      "tts_text": "โง่ไม่รอราคาเอง จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วดูใหม่ขึ้นทันที ใช้ง่ายมาก รีบกดตะกร้าเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo tire shine reflection cinematic lighting wet look realistic",
-      "tts_text": "เหี้ยจัด ราคานี้ยังลังเล จากร้อยหกสิบเก้าบาท เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วเงาแบบเห็นชัด รถดูดีขึ้น รีบกดเลยตอนนี้",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo car wheel detail shiny tire close-up realistic",
-      "tts_text": "สมน้ำหน้า คนที่ซื้อแพง จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วดำเงาเหมือนใหม่ รีบกดตะกร้าเลย ของมีจำกัด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo tire coating spray action slow motion realistic",
-      "tts_text": "แม่งโคตรพลาด ใครซื้อเต็มไปก่อน จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วเงาเลย รถดูใหม่ขึ้นทันที รีบกดตะกร้าเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo before dull tire after glossy shine realistic split view",
-      "tts_text": "โง่ชิบหาย คนที่ไม่รอ จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วดำเงา ยางดูใหม่ขึ้นทันที รีบกดเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo spraying tire foam shine applicator realistic detail",
-      "tts_text": "เหี้ยจริง ยังไม่กดอีก จากร้อยหกสิบเก้าบาท เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดง่ายมาก เงาทันที รถดูดีขึ้น รีบกดตะกร้าเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo tire shine glossy wet effect close realistic",
-      "tts_text": "โคตรเสียดาย คนที่ซื้อแพง จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วยางดูใหม่ขึ้นทันที กดตะกร้าเลยก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo car detailing tire shine garage scene realistic",
-      "tts_text": "เหี้ยเอ้ย ราคานี้ไม่กดคือพลาด จากร้อยหกสิบเก้าบาท เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วเงาขึ้นทันที ใช้ง่าย รีบกดเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo tire shine spray outdoor sunlight realistic gloss",
-      "tts_text": "แม่งพลาดหนัก คนที่ซื้อเต็ม จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วดำเงา รถดูใหม่ขึ้นทันที รีบกดตะกร้าเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo glossy tire rotating slow motion realistic",
-      "tts_text": "โง่จัด ยังไม่รีบกด จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วเงาเลย ไม่ต้องขัดให้เหนื่อย รีบกดเลยตอนนี้",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo before after tire shine strong contrast realistic",
-      "tts_text": "เหี้ยจริง คนที่ซื้อแพงเจ็บเลย จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วดูใหม่ขึ้นทันที รีบกดตะกร้าเลย",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo hand spraying tire shine macro detail realistic",
-      "tts_text": "โคตรโง่ ไม่กดตอนนี้ จากร้อยหกสิบเก้าบาท ตอนนี้เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วเงาเลย รถดูดีขึ้น รีบกดก่อนหมด",
-      "audio": "female_thai",
-      "duration": "แปดวินาที"
-    },
-    {
-      "visual_prompt": "9:16 photorealistic no text no logo car wheel shine cinematic lighting realistic",
-      "tts_text": "เหี้ยเอ้ย ของถูกขนาดนี้ยังไม่เอา จากร้อยหกสิบเก้าบาท เหลือเก้าสิบบาท สเปรย์เคลือบยาง ฉีดแล้วดำเงาเหมือนใหม่ รีบกดตะกร้าเลยตอนนี้",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
