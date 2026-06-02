@@ -122,6 +122,2578 @@
       "duration": "แปดวินาที"
     }
   ],
+  "1734750758223578843": [
+    {
+      "visual_prompt": "9:16 photorealistic automatic folding umbrella opening outdoors in light rain, realistic daylight, elegant handheld footage, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ต้องรีบกด ร่มพับอัตโนมัติยี่สิบสี่ก้าน กางง่ายพกสะดวก จากหนึ่งร้อยเก้าสิบแปดบาท ตอนนี้เหลือแค่หนึ่งร้อยเก้าบาท รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person opening automatic folding umbrella while walking outdoors in daylight, realistic motion, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครซื้อก่อนหน้านี้มีเสียดายแน่ ร่มพับอัตโนมัติกางง่ายมาก จากหนึ่งร้อยเก้าสิบแปดบาท ตอนนี้เหลือหนึ่งร้อยเก้าบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up automatic umbrella opening with rain droplets on surface, realistic outdoor footage, product unchanged, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพงกว่า ตอนนี้เหลือแค่หนึ่งร้อยเก้าบาท ร่มพับอัตโนมัติเปิดง่ายพกง่ายมาก พิกัดอยู่ในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic folding umbrella opening quickly outdoors with realistic daylight and wind, product unchanged, no text, no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีติดกระเป๋า ร่มพับอัตโนมัติกางง่ายใช้งานสะดวก จากหนึ่งร้อยเก้าสิบแปดบาท เหลือหนึ่งร้อยเก้าบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person holding folded umbrella while walking outdoors in bright daylight, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไง หนึ่งร้อยเก้าบาทเอง ร่มพับอัตโนมัติพกง่ายมาก กางใช้งานสะดวกสุด รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic automatic umbrella opening in rainy street scene, realistic rain droplets and movement, product unchanged, no text, no logo",
+      "tts_text": "แม่เอ๊ยลดแรงมาก ร่มพับอัตโนมัติจากหนึ่งร้อยเก้าสิบแปดบาท ตอนนี้เหลือหนึ่งร้อยเก้าบาท พกสะดวกใช้งานง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up umbrella opening with water droplets rolling off in daylight, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด ร่มพับอัตโนมัติกางเร็วมาก พกใส่กระเป๋าสะดวกสุด ตอนนี้เหลือแค่หนึ่งร้อยเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person using automatic folding umbrella while walking outdoors, realistic urban daylight, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหาร่มพกพาดูนี่ก่อน ร่มพับอัตโนมัติกางง่ายมาก จากหนึ่งร้อยเก้าสิบแปดบาท ตอนนี้เหลือหนึ่งร้อยเก้าบาท รีบกดไว้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up folded umbrella being held in hand outdoors, realistic movement, product unchanged, no text, no logo",
+      "tts_text": "เห้ยถูกเกิน ร่มพับอัตโนมัติหยิบใช้สะดวกมาก กางง่ายพกง่ายสุด ตอนนี้เหลือหนึ่งร้อยเก้าบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic automatic umbrella opening with smooth motion in outdoor daylight, product unchanged, no text, no logo",
+      "tts_text": "จากหนึ่งร้อยเก้าสิบแปดบาทไม่ต้องจ่ายแล้ว ตอนนี้เหลือหนึ่งร้อยเก้าบาท ร่มพับอัตโนมัติใช้งานสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person opening umbrella one-handed outdoors, realistic natural light, product unchanged, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ร่มพับอัตโนมัติกางง่ายมาก ใช้มือเดียวก็สะดวก จากหนึ่งร้อยเก้าสิบแปดบาท เหลือหนึ่งร้อยเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic umbrella opening outdoors with light wind and realistic movement, product unchanged, no text, no logo",
+      "tts_text": "ลดแบบนี้เอาจริงดิ ร่มพับอัตโนมัติพกง่ายมาก ใช้งานสะดวกสุด จากหนึ่งร้อยเก้าสิบแปดบาท ตอนนี้เหลือหนึ่งร้อยเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic folded umbrella placed in handbag then taken out outdoors, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "ใครออกจากบ้านบ่อยต้องมี ร่มพับอัตโนมัติพกง่ายหยิบใช้สะดวกมาก ตอนนี้เหลือแค่หนึ่งร้อยเก้าบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up water rolling off umbrella canopy in daylight, realistic outdoor scene, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยหนึ่งร้อยเก้าบาทเอง ร่มพับอัตโนมัติพกง่ายมาก หยิบใช้ได้ทุกวัน รีบกดก่อนของหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person carrying folding umbrella while walking outside in daylight, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหาร่มพับดูอันนี้ กางง่ายพกสะดวกมาก จากหนึ่งร้อยเก้าสิบแปดบาท ตอนนี้เหลือหนึ่งร้อยเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic automatic umbrella opening smoothly outdoors with realistic lighting, product unchanged, no text, no logo",
+      "tts_text": "ของมันต้องมีจริง ร่มพับอัตโนมัติหยิบใช้ง่ายมาก พกติดกระเป๋าได้ทุกวัน ตอนนี้เหลือหนึ่งร้อยเก้าบาท รีบกดก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic folded umbrella held in hand with urban outdoor background, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "ลดจนตกใจ ร่มพับอัตโนมัติจากหนึ่งร้อยเก้าสิบแปดบาท ตอนนี้เหลือแค่หนึ่งร้อยเก้าบาท ใช้ง่ายมาก รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person opening compact umbrella outdoors with one hand, realistic movement, product unchanged, no text, no logo",
+      "tts_text": "ใครยังไม่มีต้องรีบแล้ว ร่มพับอัตโนมัติกางง่ายพกสะดวกมาก ตอนนี้เหลือหนึ่งร้อยเก้าบาท กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic umbrella in use outdoors with daylight and light rain, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยจะไม่กดได้ไงราคานี้ ร่มพับอัตโนมัติใช้งานสะดวกมาก พกง่ายสุด ตอนนี้เหลือหนึ่งร้อยเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic compact automatic umbrella being opened outdoors in natural light, product unchanged, no text, no logo",
+      "tts_text": "เห้ยราคานี้ดีเกิน ร่มพับอัตโนมัติกางง่ายพกสะดวกสุด ตอนนี้เหลือแค่หนึ่งร้อยเก้าบาท พิกัดอยู่ในตะกร้า กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1734498345659172316": [
+    {
+      "visual_prompt": "9:16 photorealistic square solar wall light mounted on outdoor wall glowing warm light at night realistic home exterior no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อไปหนึ่งร้อยห้าสิบบาทมีเสียดาย ตอนนี้เหลือห้าสิบหกบาท โคมไฟติดผนังโซล่าเซลล์ ชาร์จแดดได้ เปิดตอนกลางคืน รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar wall lamp glowing on exterior house wall night realistic product showcase no text no logo",
+      "tts_text": "โอ๊ยราคานี้จะไม่กดได้ยังไง จากหนึ่งร้อยห้าสิบบาทเหลือห้าสิบหกบาท โคมไฟติดผนังโซล่าเซลล์ ชาร์จแดดกลางวัน ใช้งานง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic square outdoor solar wall light glowing warm on house wall no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนซื้อราคาเต็ม ตอนนี้เหลือห้าสิบหกบาท โคมไฟติดผนังโซล่าเซลล์ ติดกำแพงง่าย เปิดใช้งานตอนกลางคืนสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic modern solar LED wall light mounted outside home at night realistic no text no logo",
+      "tts_text": "เฮ้ยทุกคนดูนี่ก่อน โคมไฟโซล่าเซลล์เหลือห้าสิบหกบาทเอง ติดผนังง่าย ชาร์จแดดได้ เปิดตอนเย็นใช้งานได้เลย รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic waterproof solar wall light glowing on textured wall realistic no text no logo",
+      "tts_text": "โอ๊ยเห็นราคาแล้วต้องรีบ จากหนึ่งร้อยห้าสิบบาทเหลือห้าสิบหกบาท โคมไฟติดผนังโซล่าเซลล์ ใช้นอกบ้านสะดวกมาก กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar powered wall lamp warm light exterior home wall realistic no text no logo",
+      "tts_text": "ของแบบนี้ต้องมีแล้วปะ ห้าสิบหกบาทเอง โคมไฟโซล่าเซลล์ติดผนัง ชาร์จกลางวัน ตกเย็นเปิดใช้งานได้ รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic square solar wall light on balcony wall at night realistic no text no logo",
+      "tts_text": "แม่เอ๊ยราคานี้โคตรน่ากด เหลือห้าสิบหกบาทเอง โคมไฟติดผนังโซล่าเซลล์ กันน้ำ ชาร์จแดดได้ ใช้งานง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar LED wall lamp mounted outdoors glowing at night no text no logo",
+      "tts_text": "ใครหาไฟติดกำแพงอยู่ดูอันนี้เลย เหลือห้าสิบหกบาท โคมไฟโซล่าเซลล์ติดผนัง ชาร์จแดดได้ ติดบ้านหรือรั้วก็สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor square solar light warm glow on house wall realistic no text no logo",
+      "tts_text": "โอ๊ยห้าสิบหกบาทเองทุกคน โคมไฟติดผนังโซล่าเซลล์ ใช้งานง่าย ชาร์จแดดได้ ติดไว้มุมบ้านหรือทางเดินก็สะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar wall light glowing on exterior wall nighttime realistic product photo no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ไม่กดคือพลาดมาก จากหนึ่งร้อยห้าสิบบาทเหลือห้าสิบหกบาท โคมไฟโซล่าเซลล์ติดผนัง ชาร์จแดดได้ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1734353504119850350": [
+    {
+      "visual_prompt": "9:16 photorealistic long-handled sickle cutting tall grass in outdoor field, realistic daylight, natural handheld footage, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ต้องรีบกด มีดหมอตัดหญ้าด้ามยาวฟันหญ้าได้ไวมาก จากหนึ่งร้อยเจ็ดสิบบาท ตอนนี้เหลือแค่ห้าสิบเจ็ดบาท รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person using long-handled sickle to clear grass outdoors in bright daylight, realistic movement, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครซื้อก่อนหน้านี้มีเสียดายแน่ มีดหมอตัดหญ้าด้ามยาวฟันหญ้าได้คล่องมาก จากหนึ่งร้อยเจ็ดสิบบาท ตอนนี้เหลือห้าสิบเจ็ดบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up curved blade sickle cutting grass in field, realistic outdoor daylight, product unchanged, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพงกว่า ตอนนี้เหลือแค่ห้าสิบเจ็ดบาท มีดหมอตัดหญ้าด้ามยาวคมมาก ใช้งานง่ายสุด พิกัดอยู่ในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long-handled sickle slicing through weeds and grass outdoors, natural sunlight, product unchanged, no text, no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีติดบ้าน มีดหมอตัดหญ้าด้ามยาวฟันง่ายคมมาก จากหนึ่งร้อยเจ็ดสิบบาท เหลือห้าสิบเจ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person clearing tall grass with curved blade tool in garden, realistic movement, product unchanged, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไง ห้าสิบเจ็ดบาทเอง มีดหมอตัดหญ้าด้ามยาวใช้งานคล่องมาก ฟันหญ้าหรือวัชพืชก็ง่าย รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long-handled sickle cutting through thick grass outdoors in natural daylight, product unchanged, no text, no logo",
+      "tts_text": "แม่เอ๊ยลดแรงมาก มีดหมอตัดหญ้าด้ามยาวจากหนึ่งร้อยเจ็ดสิบบาท ตอนนี้เหลือห้าสิบเจ็ดบาท คมมากใช้งานง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved sickle blade trimming grass in field close-up, realistic outdoor footage, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด มีดหมอตัดหญ้าด้ามยาวคมมาก ฟันหญ้าได้ไวสุด ใช้งานง่ายมาก ตอนนี้เหลือแค่ห้าสิบเจ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person swinging long-handled sickle through grass in field, bright daylight, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหามีดตัดหญ้าดูนี่ก่อน มีดหมอตัดหญ้าด้ามยาวฟันง่ายมาก จากหนึ่งร้อยเจ็ดสิบบาท ตอนนี้เหลือห้าสิบเจ็ดบาท รีบกดไว้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up curved blade cutting weeds outdoors with grass falling, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "เห้ยถูกเกิน มีดหมอตัดหญ้าด้ามยาวคมมาก ฟันหญ้าได้ไวใช้งานคล่องสุด ตอนนี้เหลือห้าสิบเจ็ดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long-handled sickle being used in grassy field under sunlight, realistic movement, product unchanged, no text, no logo",
+      "tts_text": "จากหนึ่งร้อยเจ็ดสิบบาทไม่ต้องจ่ายแล้ว ตอนนี้เหลือห้าสิบเจ็ดบาท มีดหมอตัดหญ้าด้ามยาวคมมาก ใช้งานสะดวกสุด รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic clearing weeds with long curved blade tool outdoors in field, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน มีดหมอตัดหญ้าด้ามยาวฟันหญ้าได้ง่ายมาก จากหนึ่งร้อยเจ็ดสิบบาท เหลือห้าสิบเจ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved sickle cutting weeds and tall grass in outdoor garden, natural daylight, product unchanged, no text, no logo",
+      "tts_text": "ลดแบบนี้เอาจริงดิ มีดหมอตัดหญ้าด้ามยาวคมมาก ใช้งานง่ายสุด จากหนึ่งร้อยเจ็ดสิบบาท ตอนนี้เหลือห้าสิบเจ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person cutting overgrown grass with long-handled sickle outdoors, realistic sunlight, product unchanged, no text, no logo",
+      "tts_text": "บ้านไหนมีสวนต้องมี มีดหมอตัดหญ้าด้ามยาวฟันคล่องมาก ใช้ตัดหญ้าได้ไวสุด ตอนนี้เหลือแค่ห้าสิบเจ็ดบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up blade cutting grass stems in field with natural movement, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยห้าสิบเจ็ดบาทเอง มีดหมอตัดหญ้าด้ามยาวคมมาก ใช้งานง่ายหยิบใช้สะดวกสุด รีบกดก่อนของหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long-handled curved sickle clearing weeds in outdoor field, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหามีดฟันหญ้าดูอันนี้ คมมากใช้งานง่าย จากหนึ่งร้อยเจ็ดสิบบาท ตอนนี้เหลือห้าสิบเจ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person cutting thick grass with curved blade tool in garden, natural outdoor footage, product unchanged, no text, no logo",
+      "tts_text": "ของมันต้องมีจริง มีดหมอตัดหญ้าด้ามยาวฟันหญ้าได้คล่องมาก ใช้งานง่ายสุด ตอนนี้เหลือห้าสิบเจ็ดบาท รีบกดก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved sickle cutting through green weeds outdoors, realistic close-up daylight, product unchanged, no text, no logo",
+      "tts_text": "ลดจนตกใจ มีดหมอตัดหญ้าด้ามยาวจากหนึ่งร้อยเจ็ดสิบบาท ตอนนี้เหลือแค่ห้าสิบเจ็ดบาท คมมาก รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person holding long-handled sickle in grassy field under sunlight, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "ใครยังไม่มีต้องรีบแล้ว มีดหมอตัดหญ้าด้ามยาวฟันง่ายมาก ใช้งานคล่องมือสุด ตอนนี้เหลือห้าสิบเจ็ดบาท กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved blade tool cutting grass outdoors with natural leaf movement, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยจะไม่กดได้ไงราคานี้ มีดหมอตัดหญ้าด้ามยาวคมมาก ฟันหญ้าได้ไวสุด ตอนนี้เหลือห้าสิบเจ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long-handled sickle used in field clearing grass under bright daylight, realistic motion, product unchanged, no text, no logo",
+      "tts_text": "เห้ยราคานี้ดีเกิน มีดหมอตัดหญ้าด้ามยาวใช้งานง่าย คมมากหยิบใช้สะดวก ตอนนี้เหลือแค่ห้าสิบเจ็ดบาท พิกัดอยู่ในตะกร้า กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1734317929219000217": [
+    {
+      "visual_prompt": "9:16 photorealistic steel garden hoe with long handle standing in flower garden outdoor daylight realistic product showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อไปหนึ่งร้อยหกสิบเก้าบาทมีเสียดาย ตอนนี้เหลือหกสิบเจ็ดบาท จอบพร้อมด้ามเหล็ก ใช้พรวนดินขุดดินง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long handle garden hoe tool placed in garden path natural daylight no text no logo",
+      "tts_text": "โอ๊ยราคานี้จะไม่กดได้ยังไง จากหนึ่งร้อยหกสิบเก้าบาทเหลือหกสิบเจ็ดบาท จอบพร้อมด้ามเหล็ก น้ำหนักเบา ใช้งานสวนสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic steel hoe gardening tool in outdoor garden realistic no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนซื้อราคาเต็ม ตอนนี้เหลือหกสิบเจ็ดบาท จอบพร้อมด้ามเหล็ก จับถนัดมือ ใช้ขุดดินพรวนดินได้ง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic gardening hoe tool standing in backyard garden realistic daylight no text no logo",
+      "tts_text": "เฮ้ยทุกคนดูนี่ก่อน จอบพร้อมด้ามเหล็กเหลือหกสิบเจ็ดบาทเอง ใช้งานสวนง่ายมาก ขุดดินพรวนดินสะดวก จับง่าย รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic metal garden hoe tool outdoor with flowers background realistic no text no logo",
+      "tts_text": "โอ๊ยเห็นราคาแล้วต้องรีบ จากหนึ่งร้อยหกสิบเก้าบาทเหลือหกสิบเจ็ดบาท จอบพร้อมด้ามเหล็ก ใช้งานง่ายมาก ทำสวนสะดวกสุด กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic garden hoe tool in soil with outdoor natural background no text no logo",
+      "tts_text": "ของแบบนี้ต้องมีแล้วปะ หกสิบเจ็ดบาทเอง จอบพร้อมด้ามเหล็ก ใช้ขุดดิน พรวนดิน จัดสวนสะดวกมาก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long handled steel hoe gardening tool outdoors realistic no text no logo",
+      "tts_text": "แม่เอ๊ยราคานี้โคตรน่ากด เหลือหกสิบเจ็ดบาทเอง จอบพร้อมด้ามเหล็ก น้ำหนักเบา จับถนัดมือ ใช้งานง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic steel hoe tool standing on garden pathway realistic outdoor daylight no text no logo",
+      "tts_text": "ใครทำสวนอยู่ดูอันนี้เลย เหลือหกสิบเจ็ดบาท จอบพร้อมด้ามเหล็ก ใช้พรวนดินขุดดินสะดวกมาก หยิบใช้คล่องมือ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic gardening tool metal hoe in colorful garden realistic no text no logo",
+      "tts_text": "โอ๊ยหกสิบเจ็ดบาทเองทุกคน จอบพร้อมด้ามเหล็ก ใช้งานสวนง่าย ขุดดินสะดวก น้ำหนักเบา จับง่ายมาก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic steel garden hoe tool outdoor realistic product display no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ไม่กดคือพลาดมาก จากหนึ่งร้อยหกสิบเก้าบาทเหลือหกสิบเจ็ดบาท จอบพร้อมด้ามเหล็ก ใช้งานสวนโคตรสะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1734109806353548865": [
+    {
+      "visual_prompt": "9:16 photorealistic close-up work gloves being worn on both hands while gripping tools, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ต้องรีบกด ถุงมือกันลื่นแพ็กสิบสองคู่ หยิบใช้ได้ยาวๆ จากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแค่หกสิบเอ็ดบาท รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person wearing anti-slip work gloves while holding gardening tools outdoors, realistic movement, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครซื้อก่อนหน้านี้มีเสียดายแน่ ถุงมือกันลื่นแพ็กสิบสองคู่ ใช้งานหยิบจับถนัดมาก จากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเอ็ดบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up hands wearing work gloves gripping household tools, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพงกว่า ตอนนี้เหลือแค่หกสิบเอ็ดบาท ถุงมือกันลื่นแพ็กสิบสองคู่ จับของถนัดมือมาก ใช้งานสะดวกสุด พิกัดอยู่ในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hands wearing anti-slip gloves lifting boxes indoors, realistic natural light, product unchanged, no text, no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีติดบ้าน ถุงมือกันลื่นแพ็กสิบสองคู่ ใช้งานได้หลายงาน จากสองร้อยเก้าสิบเก้าบาท เหลือหกสิบเอ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person wearing work gloves while cleaning or organizing at home, realistic movement, product unchanged, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไง หกสิบเอ็ดบาทเอง ถุงมือกันลื่นแพ็กสิบสองคู่ หยิบจับของได้ถนัด ใช้ในบ้านก็สะดวกมาก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up anti-slip gloves holding gardening shears outdoors, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "แม่เอ๊ยลดแรงมาก ถุงมือกันลื่นแพ็กสิบสองคู่จากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเอ็ดบาท ใช้งานง่ายหยิบจับคล่อง รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic work gloves worn while handling tools and equipment, realistic close-up footage, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด ถุงมือกันลื่นแพ็กสิบสองคู่ ใช้งานสะดวกมาก จับของแน่นมือสุด ตอนนี้เหลือแค่หกสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hands wearing anti-slip gloves doing household chores, realistic indoor daylight, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหาถุงมือใช้งานดูนี่ก่อน ถุงมือกันลื่นแพ็กสิบสองคู่ ใช้ได้ยาวๆ จากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเอ็ดบาท รีบกดไว้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up textured anti-slip gloves gripping handle tightly, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "เห้ยถูกเกิน ถุงมือกันลื่นแพ็กสิบสองคู่ หยิบจับของไม่ลื่น ใช้งานคล่องมาก ตอนนี้เหลือหกสิบเอ็ดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person wearing work gloves while gardening outdoors, realistic motion, product unchanged, no text, no logo",
+      "tts_text": "จากสองร้อยเก้าสิบเก้าบาทไม่ต้องจ่ายแล้ว ตอนนี้เหลือหกสิบเอ็ดบาท ถุงมือกันลื่นแพ็กสิบสองคู่ ใช้งานสะดวกสุด รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic anti-slip gloves being worn before work, realistic close-up indoor scene, product unchanged, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ถุงมือกันลื่นแพ็กสิบสองคู่ ใช้งานหยิบจับสะดวกมาก จากสองร้อยเก้าสิบเก้าบาท เหลือหกสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hands in work gloves holding cleaning tools indoors, realistic natural lighting, product unchanged, no text, no logo",
+      "tts_text": "ลดแบบนี้เอาจริงดิ ถุงมือกันลื่นแพ็กสิบสองคู่ ใช้ได้หลายงานมาก จากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person working with gloves in garden or workshop setting, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "บ้านไหนควรมีติดไว้ ถุงมือกันลื่นแพ็กสิบสองคู่ หยิบใช้สะดวกมาก ใช้งานได้บ่อย ตอนนี้เหลือแค่หกสิบเอ็ดบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up anti-slip glove texture while gripping object, realistic product footage, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยหกสิบเอ็ดบาทเอง ถุงมือกันลื่นแพ็กสิบสองคู่ ใช้งานคุ้มใช้ได้นาน หยิบจับคล่องมาก รีบกดก่อนของหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic work gloves being used for home cleaning and lifting tasks, realistic indoor scene, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหาถุงมือทำงานดูอันนี้ ถุงมือกันลื่นแพ็กสิบสองคู่ ใช้งานสะดวกมาก จากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hands wearing gloves while doing outdoor work, natural daylight, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "ของมันต้องมีจริง ถุงมือกันลื่นแพ็กสิบสองคู่ จับของแน่นมือ ใช้งานง่ายมาก ตอนนี้เหลือหกสิบเอ็ดบาท รีบกดก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic anti-slip gloves placed on workbench and then worn by hands, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "ลดจนตกใจ ถุงมือกันลื่นแพ็กสิบสองคู่จากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแค่หกสิบเอ็ดบาท ใช้ง่ายมาก รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person putting on anti-slip work gloves before work, realistic natural light, product unchanged, no text, no logo",
+      "tts_text": "ใครยังไม่มีต้องรีบแล้ว ถุงมือกันลื่นแพ็กสิบสองคู่ หยิบใช้สะดวกมาก ใช้ได้หลายงาน ตอนนี้เหลือหกสิบเอ็ดบาท กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic anti-slip gloves gripping tool handle tightly in close-up, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยจะไม่กดได้ไงราคานี้ ถุงมือกันลื่นแพ็กสิบสองคู่ ใช้งานสะดวกจับของถนัดมาก ตอนนี้เหลือหกสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hands wearing anti-slip gloves holding tools in realistic home or garden setting, product unchanged, no text, no logo",
+      "tts_text": "เห้ยราคานี้ดีเกิน ถุงมือกันลื่นแพ็กสิบสองคู่ ใช้งานง่ายหยิบจับสบายมือ ตอนนี้เหลือแค่หกสิบเอ็ดบาท พิกัดอยู่ในตะกร้า กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732343790642169312": [
+    {
+      "visual_prompt": "9:16 photorealistic mobile phone cooling fan attached to the back of a smartphone with icy cooling effect, realistic close-up footage, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ย ของแบบนี้สายเล่นมือถือต้องมี พัดลมระบายความร้อนมือถือช่วยเป่าเย็นทันที จากสองร้อยสามสิบหกบาท ตอนนี้เหลือแค่หนึ่งร้อยสามสิบแปดบาท รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone cooling fan clipped on phone while gaming indoors, icy airflow effect, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครซื้อก่อนหน้านี้มีเสียดายแน่ พัดลมระบายความร้อนมือถือเปิดแล้วเย็นเร็วมาก จากสองร้อยสามสิบหกบาท ตอนนี้เหลือหนึ่งร้อยสามสิบแปดบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up mobile cooling fan spinning on smartphone with frosty effect, realistic indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพงกว่า ตอนนี้เหลือแค่หนึ่งร้อยสามสิบแปดบาท พัดลมระบายความร้อนมือถือเปิดใช้ง่าย เย็นไวมาก พิกัดอยู่ในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person gaming on smartphone with cooling fan attached on the back, realistic room lighting, product unchanged, no text, no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีแล้วปะ พัดลมระบายความร้อนมือถือช่วยเป่าเย็นสบาย จากสองร้อยสามสิบหกบาท เหลือหนึ่งร้อยสามสิบแปดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone cooler fan attached to phone with icy cooling mist effect, realistic close-up, product unchanged, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไง หนึ่งร้อยสามสิบแปดบาทเอง พัดลมระบายความร้อนมือถือช่วยให้จับมือถือสบายขึ้น เปิดง่ายใช้สะดวก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mobile cooling fan attached to phone with visible airflow and frost effect, realistic indoor scene, product unchanged, no text, no logo",
+      "tts_text": "แม่เอ๊ยลดแรงมาก พัดลมระบายความร้อนมือถือจากสองร้อยสามสิบหกบาท ตอนนี้เหลือหนึ่งร้อยสามสิบแปดบาท เย็นเร็วใช้งานง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up smartphone cooling accessory running with icy effect, realistic lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด พัดลมระบายความร้อนมือถือเปิดแล้วเย็นเร็วมาก ใช้ง่ายสุด ตอนนี้เหลือแค่หนึ่งร้อยสามสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person holding smartphone with cooling fan attached while gaming, realistic indoor footage, product unchanged, no text, no logo",
+      "tts_text": "ใครเล่นมือถือบ่อยดูนี่ก่อน พัดลมระบายความร้อนมือถือใช้ง่ายมาก จากสองร้อยสามสิบหกบาท ตอนนี้เหลือหนึ่งร้อยสามสิบแปดบาท รีบกดไว้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up phone cooler fan spinning fast with glowing light and frost effect, product unchanged, no text, no logo",
+      "tts_text": "เห้ยถูกเกิน พัดลมระบายความร้อนมือถือเปิดแล้วเย็นไวมาก ติดหลังมือถือใช้ง่ายสุด ตอนนี้เหลือหนึ่งร้อยสามสิบแปดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone cooling fan clipped to mobile phone with icy background, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "จากสองร้อยสามสิบหกบาทไม่ต้องจ่ายแล้ว ตอนนี้เหลือหนึ่งร้อยสามสิบแปดบาท พัดลมระบายความร้อนมือถือเปิดแล้วเย็นทันใจ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mobile cooling fan attached to smartphone in hand with realistic frosty airflow effect, product unchanged, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน พัดลมระบายความร้อนมือถือเปิดแล้วเย็นเร็วมาก ใช้งานสะดวก จากสองร้อยสามสิบหกบาท เหลือหนึ่งร้อยสามสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up smartphone cooler with icy mist effect in indoor setting, realistic lighting, product unchanged, no text, no logo",
+      "tts_text": "ลดแบบนี้เอาจริงดิ พัดลมระบายความร้อนมือถือเย็นเร็วมาก ใช้งานง่าย จากสองร้อยสามสิบหกบาท ตอนนี้เหลือหนึ่งร้อยสามสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person using smartphone with cooling fan attached while sitting indoors, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "ใครใช้มือถือหนักต้องมี พัดลมระบายความร้อนมือถือเปิดง่ายเย็นไวมาก ตอนนี้เหลือแค่หนึ่งร้อยสามสิบแปดบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mobile phone cooling fan spinning with frost effect close-up, realistic light, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยหนึ่งร้อยสามสิบแปดบาทเอง พัดลมระบายความร้อนมือถือใช้งานง่ายมาก เปิดแล้วเย็นเร็วทันใจ รีบกดก่อนของหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone cooling fan attached to phone while gaming indoors, realistic movement, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหาพัดลมติดมือถือดูอันนี้ เย็นเร็วใช้ง่ายมาก จากสองร้อยสามสิบหกบาท ตอนนี้เหลือหนึ่งร้อยสามสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of phone cooling accessory with icy effect and spinning fan, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "ของมันต้องมีจริง พัดลมระบายความร้อนมือถือเปิดแล้วเย็นเร็ว ใช้งานสะดวกสุด ตอนนี้เหลือหนึ่งร้อยสามสิบแปดบาท รีบกดก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic phone cooler fan running with visible frost effect on smartphone, indoor realistic scene, product unchanged, no text, no logo",
+      "tts_text": "ลดจนตกใจ พัดลมระบายความร้อนมือถือจากสองร้อยสามสิบหกบาท ตอนนี้เหลือแค่หนึ่งร้อยสามสิบแปดบาท ใช้ง่ายมาก รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person clipping mobile cooling fan onto phone, realistic close-up footage, product unchanged, no text, no logo",
+      "tts_text": "ใครยังไม่มีต้องรีบแล้ว พัดลมระบายความร้อนมือถือเปิดง่าย ติดมือถือสะดวกมาก ตอนนี้เหลือหนึ่งร้อยสามสิบแปดบาท กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic smartphone with cooling fan attached and icy airflow effect, realistic indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยจะไม่กดได้ไงราคานี้ พัดลมระบายความร้อนมือถือเย็นเร็วมาก ใช้แล้วสบายมือสุด ตอนนี้เหลือหนึ่งร้อยสามสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up mobile cooling fan attached to smartphone with realistic frosty effect, product unchanged, no text, no logo",
+      "tts_text": "เห้ยราคานี้ดีเกิน พัดลมระบายความร้อนมือถือเปิดแล้วเย็นทันที ใช้งานง่ายมาก ตอนนี้เหลือแค่หนึ่งร้อยสามสิบแปดบาท พิกัดอยู่ในตะกร้า กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732730260415612845": [
+    {
+      "visual_prompt": "9:16 photorealistic white power strip extension socket with usb ports on clean desk indoor natural light realistic product showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อไปสองร้อยสี่สิบเก้าบาทมีเสียดาย ตอนนี้เหลือร้อยห้าบาท ปลั๊กไฟพ่วงหลายช่อง มียูเอสบี เสียบพร้อมกันสบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic white extension power strip with usb ports on table realistic no text no logo",
+      "tts_text": "โอ๊ยราคานี้จะไม่กดได้ยังไง จากสองร้อยสี่สิบเก้าบาทเหลือร้อยห้าบาท ปลั๊กไฟพ่วงหลายช่อง มีช่องยูเอสบี ใช้งานสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip with usb charging ports placed beside desk setup realistic no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนซื้อราคาเต็ม ตอนนี้เหลือร้อยห้าบาท ปลั๊กไฟพ่วงหลายช่อง เสียบได้หลายเครื่อง มียูเอสบี ใช้งานง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension socket power strip on bedside table indoor realistic no text no logo",
+      "tts_text": "เฮ้ยทุกคนดูนี่ก่อน ปลั๊กไฟพ่วงเหลือร้อยห้าบาทเอง มีหลายช่อง มียูเอสบี เสียบมือถือเสียบของใช้พร้อมกันได้เลย รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic white power strip extension with usb ports clean minimal background no text no logo",
+      "tts_text": "โอ๊ยเห็นราคาแล้วต้องรีบ จากสองร้อยสี่สิบเก้าบาทเหลือร้อยห้าบาท ปลั๊กไฟพ่วงหลายช่อง ใช้งานโต๊ะทำงานหรือข้างเตียงสะดวกมาก กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension socket with usb charging ports on desk realistic product photo no text no logo",
+      "tts_text": "ของแบบนี้ต้องมีแล้วปะ ร้อยห้าบาทเอง ปลั๊กไฟพ่วงหลายช่อง มีช่องยูเอสบี เสียบได้พร้อมกันหลายเครื่อง ใช้งานโคตรสะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic white power strip with usb ports beside laptop on desk realistic no text no logo",
+      "tts_text": "แม่เอ๊ยราคานี้โคตรน่ากด เหลือร้อยห้าบาทเอง ปลั๊กไฟพ่วงหลายช่อง มียูเอสบี ใช้งานง่าย โต๊ะไม่รก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power extension socket with usb ports on home desk natural light no text no logo",
+      "tts_text": "ใครหาปลั๊กไฟอยู่ดูอันนี้เลย เหลือร้อยห้าบาท ปลั๊กไฟพ่วงหลายช่อง มีช่องยูเอสบี ใช้ชาร์จหลายอย่างพร้อมกันสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip with usb ports clean indoor setup no text no logo",
+      "tts_text": "โอ๊ยร้อยห้าบาทเองทุกคน ปลั๊กไฟพ่วงหลายช่อง มียูเอสบี ใช้งานง่าย เสียบมือถือหรือของใช้พร้อมกันได้สบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic white power strip extension socket product showcase realistic no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ไม่กดคือพลาดมาก จากสองร้อยสี่สิบเก้าบาทเหลือร้อยห้าบาท ปลั๊กไฟพ่วงหลายช่อง มียูเอสบี ใช้งานสะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732702201635964358": [
+    {
+      "visual_prompt": "9:16 photorealistic long-handled sickle being used to cut grass in a garden outdoors during daylight, realistic hand movement, fresh green grass, no text, no logo",
+      "tts_text": "เฮ้ยดูนี่ก่อน เคียวด้ามยาวเหลือห้าสิบเจ็ดบาท ด้ามจับถนัดมาก ใช้เกี่ยวหญ้าหรือตัดวัชพืชได้ง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman using a long-handled sickle cutting grass in backyard garden under natural sunlight, realistic outdoor footage, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด เคียวด้ามยาวเหลือห้าสิบเจ็ดบาท เอาไว้ตัดหญ้าหรือเกี่ยววัชพืชง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of a long-handled garden sickle blade cutting through grass outdoors in daylight, realistic footage, no text, no logo",
+      "tts_text": "ใครมีสวนมีหญ้ารกต้องดู เคียวด้ามยาวห้าสิบเจ็ดบาท จับถนัดมือ ใช้ง่ายมาก ตัดหญ้าได้สบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long-handled sickle leaning beside plants in a garden with natural sunlight, realistic outdoor lifestyle footage, no text, no logo",
+      "tts_text": "เฮ้ยของมันต้องมีติดบ้าน เคียวด้ามยาวเหลือห้าสิบเจ็ดบาท ใช้เกี่ยวหญ้าหรือเก็บงานสวนง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand holding long-handled sickle while trimming grass beside garden path in bright daylight, no text, no logo",
+      "tts_text": "โอ๊ยใช้ง่ายเกินเรื่อง เคียวด้ามยาวห้าสิบเจ็ดบาท ด้ามยาวจับถนัด ตัดหญ้าได้เร็วขึ้นเยอะ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of curved sickle blade with long handle in use in grassy garden, realistic outdoor footage, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน เคียวด้ามยาวเหลือห้าสิบเจ็ดบาท ใบโค้งเกี่ยวง่าย ใช้ในสวนหรือหลังบ้านสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person cutting weeds with long-handled sickle in outdoor garden under bright daylight, realistic motion, no text, no logo",
+      "tts_text": "เฮ้ยใครทำสวนต้องรีบเอา เคียวด้ามยาวห้าสิบเจ็ดบาท ใช้ตัดวัชพืชง่ายมาก ไม่ต้องออกแรงเยอะ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long garden sickle placed on ground beside trimmed grass and potted plants outdoors, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้มีเสียดาย เคียวด้ามยาวเหลือห้าสิบเจ็ดบาท งานสวนใช้ง่าย หยิบใช้สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand using long-handled sickle to cut tall grass outdoors in home garden, natural daylight, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไงอะ เคียวด้ามยาวห้าสิบเจ็ดบาท ใช้เกี่ยวหญ้าหรือตัดหญ้าได้สบาย จับง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved garden sickle with long handle shown clearly in outdoor garden setting, realistic daylight, no text, no logo",
+      "tts_text": "เฮ้ยราคาดีมาก เคียวด้ามยาวเหลือห้าสิบเจ็ดบาท มีติดบ้านไว้หยิบใช้ได้ตลอด งานสวนง่ายขึ้นเยอะ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person clearing weeds using long-handled sickle in sunny backyard, realistic garden footage, no text, no logo",
+      "tts_text": "ใครหญ้าขึ้นรกต้องดู เคียวด้ามยาวห้าสิบเจ็ดบาท ตัดง่าย เกี่ยวง่าย ใช้สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long-handled sickle beside potted plants indoors near open garden doorway with daylight, no text, no logo",
+      "tts_text": "โอ๊ยของมันต้องมี เคียวด้ามยาวเหลือห้าสิบเจ็ดบาท เอาไว้จัดสวนหรือตัดหญ้าก็สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of hand gripping long garden sickle handle firmly outdoors, natural lighting, no text, no logo",
+      "tts_text": "เฮ้ยด้ามจับถนัดมาก เคียวด้ามยาวห้าสิบเจ็ดบาท ใช้ง่าย ตัดหญ้าได้คล่อง รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long-handled sickle being used around plants and garden edge outdoors in realistic daylight, no text, no logo",
+      "tts_text": "โอ๊ยใช้งานง่ายจริง เคียวด้ามยาวเหลือห้าสิบเจ็ดบาท ใช้เก็บขอบหญ้าหรือวัชพืชได้ดีมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic garden sickle cutting through weeds in home garden under natural sunlight, realistic outdoor clip, no text, no logo",
+      "tts_text": "ใครมีสวนต้องรีบเลย เคียวด้ามยาวห้าสิบเจ็ดบาท ใช้ตัดวัชพืชง่ายมาก ทำงานไวขึ้นเยอะ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long-handled sickle resting beside trimmed grass pile in bright outdoor garden, realistic footage, no text, no logo",
+      "tts_text": "เฮ้ยห้าสิบเจ็ดบาทเอง เคียวด้ามยาวใช้ง่ายมาก มีติดบ้านไว้คือคุ้ม หยิบใช้เมื่อไรก็สะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person using curved sickle with long handle to clear grass around plants outdoors, no text, no logo",
+      "tts_text": "โอ๊ยงานสวนต้องมีอันนี้ เคียวด้ามยาวเหลือห้าสิบเจ็ดบาท ใช้ง่ายมาก เกี่ยวหญ้าสบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of curved metal blade of garden sickle in outdoor sunlight, realistic detail, no text, no logo",
+      "tts_text": "เห็นแล้วต้องรีบเอา เคียวด้ามยาวห้าสิบเจ็ดบาท ใบโค้งใช้งานง่าย ตัดหญ้าได้เร็วขึ้นเยอะ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long-handled sickle used around home garden in natural daylight with realistic movement, no text, no logo",
+      "tts_text": "ไม่อยากให้หญ้ารกก็จัดเลย เคียวด้ามยาวเหลือห้าสิบเจ็ดบาท หยิบใช้ง่าย งานสวนสบายขึ้นเยอะ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long-handled garden sickle displayed clearly beside plants in home garden, natural daylight, no text, no logo",
+      "tts_text": "ห้าสิบเจ็ดบาทเอง เคียวด้ามยาวใช้ตัดหญ้าหรือเกี่ยววัชพืชได้ง่ายมาก มีติดบ้านไว้สะดวก กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732236921625152461": [
+    {
+      "visual_prompt": "9:16 photorealistic telescopic fruit picker with net basket reaching high tree branches outdoors in daylight, woman using it to pick fruit naturally, realistic garden footage, no text, no logo",
+      "tts_text": "เฮ้ยดูนี่ก่อน ไม้สอยผลไม้เหลือสองร้อยหกสิบสองบาท ด้ามยืดได้สูงมาก สอยง่ายไม่ต้องปีน เก็บผลไม้สบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman using telescopic fruit picker with net basket to pick mango from tree in bright daylight, realistic outdoor footage, no text, no logo",
+      "tts_text": "โอ๊ยมีอันนี้คือสบายเลย ไม้สอยผลไม้เหลือสองร้อยหกสิบสองบาท ไม่ต้องปีนบันได สอยจากพื้นได้เลย รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of long telescopic fruit picker catching fruit in net basket from tree branch, realistic outdoor garden, no text, no logo",
+      "tts_text": "ใครมีต้นไม้ที่บ้านต้องดู ไม้สอยผลไม้สองร้อยหกสิบสองบาท ด้ามยาว สอยง่าย มีถุงรับผลไม้ ใช้ง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic telescopic fruit picker extended high toward tree canopy outdoors with fruit dropping into basket, realistic footage, no text, no logo",
+      "tts_text": "เฮ้ยของมันต้องมี ไม้สอยผลไม้เหลือสองร้อยหกสิบสองบาท ดึงยืดได้สูง สอยง่ายมาก ไม่ต้องเอื้อมให้เหนื่อย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman standing under fruit tree using telescopic fruit picker naturally in daylight, realistic movement, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือเสียดาย ไม้สอยผลไม้สองร้อยหกสิบสองบาท สอยได้จากพื้น ใช้ง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of metal fruit picker basket with cloth net catching fruit from branch outdoors, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน ไม้สอยผลไม้เหลือสองร้อยหกสิบสองบาท มีตาข่ายรับผลไม้ สอยแล้วไม่ตกพื้น ใช้ง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long fruit picker pole leaning against tree outdoors in garden with bright natural daylight, no text, no logo",
+      "tts_text": "เฮ้ยบ้านไหนมีต้นไม้ต้องรีบเอา ไม้สอยผลไม้สองร้อยหกสิบสองบาท ด้ามยาวมาก สอยถึงง่าย ไม่ต้องปีน รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman collecting fruit into basket with telescopic picker under tree in daylight, realistic outdoor scene, no text, no logo",
+      "tts_text": "โอ๊ยใช้ง่ายเกินเรื่อง ไม้สอยผลไม้เหลือสองร้อยหกสิบสองบาท เก็บผลไม้จากที่สูงได้สบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic telescopic fruit picker reaching fruit tree branch with net basket visible, realistic garden footage, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไงอะ ไม้สอยผลไม้สองร้อยหกสิบสองบาท ด้ามยาว สอยง่าย มีถุงรับในตัว สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman smiling while picking fruit from tree using telescopic fruit picker in sunny garden, no text, no logo",
+      "tts_text": "โอ๊ยมีอันนี้เก็บผลไม้ง่ายขึ้นเยอะ ไม้สอยผลไม้เหลือสองร้อยหกสิบสองบาท ไม่ต้องปีนให้เหนื่อย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of telescopic fruit picker pole extending upward toward fruit tree outdoors, realistic daylight, no text, no logo",
+      "tts_text": "เฮ้ยราคานี้ดีมาก ไม้สอยผลไม้สองร้อยหกสิบสองบาท ด้ามยืดได้สูงมาก หยิบง่าย ใช้งานสะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fruit being caught inside white net basket of telescopic fruit picker outdoors, realistic close-up footage, no text, no logo",
+      "tts_text": "ใครชอบเก็บผลไม้เองต้องดู ไม้สอยผลไม้เหลือสองร้อยหกสิบสองบาท สอยแล้วลงตาข่ายเลย ใช้ง่ายมาก รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic telescopic fruit picker used in home garden reaching tree canopy in bright daylight, no text, no logo",
+      "tts_text": "เฮ้ยของมันต้องใช้จริง ไม้สอยผลไม้สองร้อยหกสิบสองบาท ด้ามยาวหยิบถึงง่าย ไม่ต้องใช้บันได รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor garden scene with fruit picker collecting fruit from tree naturally, realistic footage, no text, no logo",
+      "tts_text": "โอ๊ยเก็บผลไม้สะดวกมาก ไม้สอยผลไม้เหลือสองร้อยหกสิบสองบาท หยิบง่าย สอยง่าย ใช้ได้ทุกบ้าน รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic telescopic fruit picker held upward toward fruit tree with visible basket net, realistic daylight, no text, no logo",
+      "tts_text": "ใครมีสวนมีต้นไม้ต้องรีบเลย ไม้สอยผลไม้สองร้อยหกสิบสองบาท ด้ามยืดได้ไกล สอยง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person using fruit picker from ground level collecting fruit outdoors, bright natural sunlight, no text, no logo",
+      "tts_text": "ไม่อยากปีนให้เหนื่อยก็จัดเลย ไม้สอยผลไม้เหลือสองร้อยหกสิบสองบาท ใช้จากพื้นได้เลย สะดวกมาก รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of fruit picker net basket and long pole outdoors in garden, realistic movement, no text, no logo",
+      "tts_text": "เฮ้ยใช้ง่ายมากจริง ไม้สอยผลไม้สองร้อยหกสิบสองบาท มีตาข่ายรับผลไม้ในตัว สอยง่ายไม่ตกพื้น รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fruit picker leaning against tree after use in sunny garden, realistic home outdoor footage, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ต้องรีบเอา ไม้สอยผลไม้เหลือสองร้อยหกสิบสองบาท ด้ามยาว ใช้ง่าย เก็บผลไม้สบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman reaching fruit tree with telescopic picker in bright outdoor daylight, realistic garden scene, no text, no logo",
+      "tts_text": "เห็นแล้วต้องรีบกด ไม้สอยผลไม้สองร้อยหกสิบสองบาท ไม่ต้องปีน ไม่ต้องเอื้อม สอยจากพื้นได้เลย รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic telescopic fruit picker in action collecting fruit from tree branch in natural daylight, realistic outdoor footage, no text, no logo",
+      "tts_text": "สองร้อยหกสิบสองบาทเอง ไม้สอยผลไม้ด้ามยาว ใช้งานง่าย สอยผลไม้จากที่สูงได้สบาย กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1732128111177009768": [
+    {
+      "visual_prompt": "9:16 photorealistic solar wall light mounted on house wall glowing warm light at night realistic product showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อไปหนึ่งร้อยสามสิบบาทมีเสียดาย ตอนนี้เหลือหกสิบเจ็ดบาท โคมไฟติดผนังโซล่าเซลล์ ชาร์จแดดได้ เปิดใช้งานง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor solar wall light glowing on exterior wall at night realistic no text no logo",
+      "tts_text": "โอ๊ยราคานี้จะไม่กดได้ยังไง จากหนึ่งร้อยสามสิบบาทเหลือหกสิบเจ็ดบาท โคมไฟโซล่าเซลล์ติดผนัง ชาร์จแดดกลางวัน ตกเย็นใช้งานได้ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar wall lamp on outdoor house wall warm lighting night realistic no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนซื้อราคาเต็ม ตอนนี้เหลือหกสิบเจ็ดบาท โคมไฟติดผนังโซล่าเซลล์ กันน้ำ ใช้งานนอกบ้านสะดวกมาก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar LED wall light glowing beside house exterior realistic no text no logo",
+      "tts_text": "เฮ้ยทุกคนดูนี่ก่อน โคมไฟโซล่าเซลล์เหลือหกสิบเจ็ดบาทเอง ติดผนังง่าย ชาร์จแดดได้ เปิดใช้งานสะดวกมาก รีบกดด่วนเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic waterproof solar wall light on textured wall at night no text no logo",
+      "tts_text": "โอ๊ยเห็นราคาแล้วต้องรีบ จากหนึ่งร้อยสามสิบบาทเหลือหกสิบเจ็ดบาท โคมไฟติดผนังชาร์จแดดได้ ใช้นอกบ้านสะดวกมาก กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar powered wall lamp glowing warm light outdoor realistic no text no logo",
+      "tts_text": "ของแบบนี้ต้องมีแล้วปะ หกสิบเจ็ดบาทเอง โคมไฟโซล่าเซลล์ติดผนัง ชาร์จกลางวัน ใช้ตอนเย็นสะดวกมาก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic solar wall light installed outdoors glowing at night realistic no text no logo",
+      "tts_text": "แม่เอ๊ยราคานี้โคตรน่ากด เหลือหกสิบเจ็ดบาทเอง โคมไฟติดผนังโซล่าเซลล์ กันน้ำ ชาร์จแดดได้ ใช้งานง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic LED solar wall lamp illuminating exterior wall at night no text no logo",
+      "tts_text": "ใครหาไฟติดกำแพงอยู่ดูอันนี้เลย เหลือหกสิบเจ็ดบาท โคมไฟโซล่าเซลล์ติดผนัง ชาร์จแดดได้ ใช้งานสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic modern solar wall light outdoor warm illumination realistic no text no logo",
+      "tts_text": "โอ๊ยหกสิบเจ็ดบาทเองทุกคน โคมไฟติดผนังโซล่าเซลล์ ใช้งานง่าย ชาร์จแดดได้ ติดไว้มุมบ้านหรือกำแพงก็สะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor solar wall lamp glowing on home wall realistic product display no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ไม่กดคือพลาดมาก จากหนึ่งร้อยสามสิบบาทเหลือหกสิบเจ็ดบาท โคมไฟโซล่าเซลล์ติดผนัง ชาร์จแดดได้ รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731800921136924804": [
+    {
+      "visual_prompt": "9:16 photorealistic portable waist fan clipped on clothing while woman walking outdoors in daylight, strong airflow moving shirt naturally, realistic lifestyle footage, no text, no logo",
+      "tts_text": "เฮ้ยร้อนแบบนี้ต้องมี พัดลมคาดเอวเหลือสองร้อยแปดสิบสี่บาท ลมแรงมาก พกติดตัวได้เลย เดินข้างนอกคือสบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of portable waist fan clipped to waistband blowing strongly outdoors in natural daylight, realistic footage, no text, no logo",
+      "tts_text": "โอ๊ยตัวนี้ลมแรงสะใจ พัดลมคาดเอวเหลือสองร้อยแปดสิบสี่บาท หนีร้อนง่ายมาก พกไปไหนก็สะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman wearing portable waist fan while walking in outdoor market under sunlight, hair moving from airflow, no text, no logo",
+      "tts_text": "ใครขี้ร้อนต้องหยุดดู พัดลมคาดเอวสองร้อยแปดสิบสี่บาท ลมแรง เปิดแล้วเย็นเลย เดินนานแค่ไหนก็ยังสบาย รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable waist fan clipped on pants while working outdoors in sunny weather, realistic movement, no text, no logo",
+      "tts_text": "เฮ้ยของมันต้องมี พัดลมคาดเอวเหลือสองร้อยแปดสิบสี่บาท ลมแรงมาก คาดไว้กับเอวแล้วเย็นตลอด รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of orange and black portable waist fan running in outdoor daylight with visible strong airflow effect, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด พัดลมคาดเอวสองร้อยแปดสิบสี่บาท ลมแรงจริง พกง่าย ใช้ข้างนอกสบายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person clipping portable waist fan onto waistband before walking outdoors, realistic sunny footage, no text, no logo",
+      "tts_text": "ไม่อยากเย็นสบายก็เลื่อนผ่านได้เลย พัดลมคาดเอวเหลือสองร้อยแปดสิบสี่บาท คาดง่าย ลมแรง ใช้สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable waist fan used while standing outdoors under sunlight, shirt moving from wind, realistic lifestyle clip, no text, no logo",
+      "tts_text": "ร้อนแค่ไหนก็เอาอยู่ พัดลมคาดเอวสองร้อยแปดสิบสี่บาท ลมแรงเป่าตรงตัว พกไปข้างนอกคือสบายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable waist fan charging on table with usb cable, ready to use in bright natural daylight, no text, no logo",
+      "tts_text": "เฮ้ยชาร์จง่ายใช้ง่าย พัดลมคาดเอวเหลือสองร้อยแปดสิบสี่บาท ลมแรง พกสะดวก หยิบใช้ได้ทุกวัน รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman walking outdoors with portable waist fan clipped to clothing in hot weather, realistic footage, no text, no logo",
+      "tts_text": "โอ๊ยข้างนอกร้อนแค่ไหนก็ไม่กลัว พัดลมคาดเอวสองร้อยแปดสิบสี่บาท ลมแรงเย็นทันใจ รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of portable waist fan clipped securely on waistband while moving outdoors, realistic daylight, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน พัดลมคาดเอวเหลือสองร้อยแปดสิบสี่บาท คาดติดเอวง่าย ลมแรงมาก เดินทำงานหรือเดินตลาดก็สบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable waist fan in use while person standing outside under sun, realistic airflow effect, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไงอะ พัดลมคาดเอวสองร้อยแปดสิบสี่บาท ลมแรง เปิดแล้วเย็นเลย พกติดตัวง่ายมาก รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person using portable waist fan while commuting outdoors in bright daylight, realistic movement, no text, no logo",
+      "tts_text": "ใครต้องออกข้างนอกบ่อยต้องมี พัดลมคาดเอวเหลือสองร้อยแปดสิบสี่บาท ลมแรงมาก คาดแล้วเย็นสบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of portable waist fan attached to pants while walking naturally, bright sunny day, no text, no logo",
+      "tts_text": "โอ๊ยของมันต้องใช้จริง พัดลมคาดเอวสองร้อยแปดสิบสี่บาท พกง่าย ลมแรง ใช้แล้วไม่อยากถอด รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable waist fan placed on outdoor bench before being clipped on, realistic daylight, no text, no logo",
+      "tts_text": "เฮ้ยราคานี้มีร้อง พัดลมคาดเอวเหลือสองร้อยแปดสิบสี่บาท ลมแรงมาก พกง่าย ใช้งานสะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person clipping waist fan on shirt while standing outside in warm weather, realistic footage, no text, no logo",
+      "tts_text": "ใครร้อนง่ายต้องจัด พัดลมคาดเอวสองร้อยแปดสิบสี่บาท ลมแรงแบบรู้เรื่อง คาดแล้วเย็นเลย รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable waist fan running while clipped to clothing outdoors with visible wind effect, no text, no logo",
+      "tts_text": "โอ๊ยใช้แล้วสบายมาก พัดลมคาดเอวเหลือสองร้อยแปดสิบสี่บาท ลมแรง พกติดตัวง่าย ใช้ทุกวันได้เลย รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman smiling while wearing portable waist fan during sunny outdoor walk, realistic casual footage, no text, no logo",
+      "tts_text": "เฮ้ยอันนี้เหมาะกับอากาศตอนนี้มาก พัดลมคาดเอวสองร้อยแปดสิบสี่บาท ลมแรง เย็นสบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable waist fan clipped on waistband during outdoor work under sunlight, realistic lifestyle footage, no text, no logo",
+      "tts_text": "ของแบบนี้ต้องมีติดไว้ พัดลมคาดเอวเหลือสองร้อยแปดสิบสี่บาท คาดง่าย ลมแรง ใช้แล้วสบายขึ้นเยอะ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of portable waist fan with visible airflow blowing shirt fabric while outdoors, no text, no logo",
+      "tts_text": "เห็นแล้วต้องรีบเอา พัดลมคาดเอวสองร้อยแปดสิบสี่บาท ลมแรงเป่าตรงตัว พกไปไหนก็เย็นสบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable waist fan clipped to clothing while walking in sunlight with natural motion, realistic footage, no text, no logo",
+      "tts_text": "สองร้อยแปดสิบสี่บาทเอง พัดลมคาดเอวลมแรงมาก พกง่าย คาดแล้วเย็นสบาย ใช้งานทุกวันได้เลย กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731653884213167689": [
+    {
+      "visual_prompt": "9:16 photorealistic long handle fruit picker pruning cutter tool in orchard daylight realistic product showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อไปสามร้อยเก้าสิบเก้าบาทมีเสียดาย ตอนนี้เหลือร้อยแปดสิบเก้าบาท กรรไกรตัดกิ่งด้ามยาว เก็บผลไม้สูงได้ง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long reach pruning cutter tool in fruit garden outdoor natural daylight no text no logo",
+      "tts_text": "โอ๊ยราคานี้จะไม่กดได้ยังไง จากสามร้อยเก้าสิบเก้าบาทเหลือร้อยแปดสิบเก้าบาท กรรไกรตัดกิ่งด้ามยาว ตัดง่าย เก็บผลไม้สูงสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fruit picking tool with long pole in orchard realistic no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนซื้อราคาเต็ม ตอนนี้เหลือร้อยแปดสิบเก้าบาท กรรไกรตัดกิ่งด้ามยาว ใช้ตัดกิ่งหรือเก็บผลไม้บนสูงได้ง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long pole fruit picker tool outdoors garden realistic no text no logo",
+      "tts_text": "เฮ้ยทุกคนดูนี่ก่อน กรรไกรตัดกิ่งด้ามยาวเหลือร้อยแปดสิบเก้าบาทเอง เอื้อมเก็บผลไม้สูงได้ง่าย ใช้งานสวนสะดวกมาก รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pruning cutter tool with long handle in orchard daylight no text no logo",
+      "tts_text": "โอ๊ยเห็นราคาแล้วต้องรีบ จากสามร้อยเก้าสิบเก้าบาทเหลือร้อยแปดสิบเก้าบาท กรรไกรตัดกิ่งด้ามยาว ใช้งานง่ายมาก กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long handled fruit harvesting tool outdoor garden realistic no text no logo",
+      "tts_text": "ของแบบนี้ต้องมีแล้วปะ ร้อยแปดสิบเก้าบาทเอง กรรไกรตัดกิ่งด้ามยาว ตัดกิ่งก็ได้ เก็บผลไม้ก็ง่าย ใช้งานสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic orchard harvesting tool with long pole realistic outdoor no text no logo",
+      "tts_text": "แม่เอ๊ยราคานี้โคตรน่ากด เหลือร้อยแปดสิบเก้าบาทเอง กรรไกรตัดกิ่งด้ามยาว เอื้อมสูงได้ง่าย ใช้งานสวนสะดวกสุด รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fruit picker pruning tool in garden natural daylight realistic no text no logo",
+      "tts_text": "ใครทำสวนอยู่ดูอันนี้เลย เหลือร้อยแปดสิบเก้าบาท กรรไกรตัดกิ่งด้ามยาว เก็บผลไม้สูงได้ง่าย ไม่ต้องปีนให้เหนื่อย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long reach garden cutter tool outdoors realistic showcase no text no logo",
+      "tts_text": "โอ๊ยร้อยแปดสิบเก้าบาทเองทุกคน กรรไกรตัดกิ่งด้ามยาว ใช้งานง่าย ตัดกิ่งสะดวก เก็บผลไม้บนสูงได้สบาย รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long handle pruning and fruit picking tool orchard background no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ไม่กดคือพลาดมาก จากสามร้อยเก้าสิบเก้าบาทเหลือร้อยแปดสิบเก้าบาท กรรไกรตัดกิ่งด้ามยาว ใช้งานสวนโคตรสะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731448295413418956": [
+    {
+      "visual_prompt": "9:16 photorealistic close-up of white multi-purpose power strip with eight sockets and usb ports on a home table, phone charging cable plugged in, natural daylight, realistic product footage, no text, no logo",
+      "tts_text": "เฮ้ยดูนี่ก่อน ปลั๊กพ่วงแปดช่องเหลือหนึ่งร้อยยี่สิบบาท มีทั้งยูเอสบีกับไทป์ซี เสียบพร้อมกันได้หลายเครื่อง รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic white power strip with eight sockets charging phone tablet and laptop at same time on desk, natural indoor light, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด ปลั๊กพ่วงแปดช่องหนึ่งร้อยยี่สิบบาท เสียบได้หลายอย่าง มีช่องยูเอสบีด้วย ใช้งานโคตรสะดวก รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic female hand plugging charger into white power strip with usb and type c ports in bright home setting, no text, no logo",
+      "tts_text": "ใครปลั๊กไม่พอใช้ต้องดู ปลั๊กพ่วงแปดช่องเหลือหนึ่งร้อยยี่สิบบาท เสียบพร้อมกันได้หลายเครื่อง จบในตัวเดียว รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip on wooden desk with several devices charging, realistic home lifestyle footage, no text, no logo",
+      "tts_text": "เฮ้ยของแบบนี้ต้องมีติดบ้าน ปลั๊กพ่วงแปดช่องหนึ่งร้อยยี่สิบบาท มียูเอสบีมีไทป์ซี ชาร์จพร้อมกันได้หมด รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of white extension power strip beside sofa with multiple cables plugged in, natural daylight, no text, no logo",
+      "tts_text": "โอ๊ยถูกเกินเรื่อง ปลั๊กพ่วงแปดช่องเหลือหนึ่งร้อยยี่สิบบาท สายชาร์จไม่ต้องแย่งกันเสียบ ใช้สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip with usb ports on bedside table charging smartphone and tablet, realistic home footage, no text, no logo",
+      "tts_text": "ไม่อยากใช้ชีวิตง่ายขึ้นก็เลื่อนผ่านได้เลย ปลั๊กพ่วงแปดช่องหนึ่งร้อยยี่สิบบาท เสียบได้เยอะมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic white multi socket power strip on office desk beside laptop and cables, natural lighting, no text, no logo",
+      "tts_text": "โต๊ะใครสายชาร์จรกต้องเอาอันนี้ ปลั๊กพ่วงแปดช่องเหลือหนึ่งร้อยยี่สิบบาท มีทั้งยูเอสบีและไทป์ซี กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand plugging usb cable into white power strip with multiple ports, realistic indoor scene, no text, no logo",
+      "tts_text": "โอ๊ยจะไม่กดยังไงไหว ปลั๊กพ่วงแปดช่องหนึ่งร้อยยี่สิบบาท เสียบปลั๊กก็ได้ ชาร์จมือถือก็ได้ ครบมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension plug charging multiple devices on modern home desk, clean bright background, no text, no logo",
+      "tts_text": "เฮ้ยราคานี้มีร้อง ปลั๊กพ่วงแปดช่องเหลือหนึ่งร้อยยี่สิบบาท เสียบพร้อมกันหลายเครื่อง บ้านเป็นระเบียบขึ้นเยอะ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of power strip with phone charger plugged into usb port, realistic home setup, no text, no logo",
+      "tts_text": "ใครกำลังหาปลั๊กเพิ่มต้องหยุดดู ปลั๊กพ่วงแปดช่องหนึ่งร้อยยี่สิบบาท มีช่องยูเอสบีพร้อม ใช้ง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip placed on floor near wall charging home appliances naturally, bright daylight, no text, no logo",
+      "tts_text": "โอ๊ยของมันต้องมี ปลั๊กพ่วงแปดช่องเหลือหนึ่งร้อยยี่สิบบาท เสียบได้หลายอย่างพร้อมกัน ไม่ต้องถอดเข้าออกบ่อย รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic white power strip with multiple chargers connected in bright living room, realistic product video, no text, no logo",
+      "tts_text": "เห็นแล้วต้องรีบเอา ปลั๊กพ่วงแปดช่องหนึ่งร้อยยี่สิบบาท ชาร์จมือถือพร้อมกันหลายเครื่องได้ ใช้สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of white multi-purpose power strip with usb type c port being used naturally, no text, no logo",
+      "tts_text": "เฮ้ยตัวนี้โคตรใช้งานง่าย ปลั๊กพ่วงแปดช่องเหลือหนึ่งร้อยยี่สิบบาท มีไทป์ซีในตัว ไม่ต้องหาหัวเพิ่ม รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic modern desk with white extension plug powering multiple electronics, realistic home office style, no text, no logo",
+      "tts_text": "โอ๊ยหนึ่งร้อยยี่สิบบาทเอง ปลั๊กพ่วงแปดช่องพร้อมยูเอสบี เสียบได้หลายเครื่องพร้อมกัน ใช้แล้วสะดวกสุด รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman hand organizing charging cables into white power strip on desk, natural daylight, no text, no logo",
+      "tts_text": "สายชาร์จเต็มบ้านต้องมีอันนี้ ปลั๊กพ่วงแปดช่องเหลือหนึ่งร้อยยี่สิบบาท เก็บโต๊ะง่ายขึ้นเยอะ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip with usb charging ports on bedside shelf with smartphone connected, no text, no logo",
+      "tts_text": "โอ๊ยใช้แล้วหยิบใช้ทุกวัน ปลั๊กพ่วงแปดช่องหนึ่งร้อยยี่สิบบาท มีช่องชาร์จในตัว เสียบง่ายมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of white eight socket extension plug in realistic indoor environment, no text, no logo",
+      "tts_text": "เฮ้ยของดีราคานี้หายาก ปลั๊กพ่วงแปดช่องเหลือหนึ่งร้อยยี่สิบบาท เสียบได้เยอะ ชาร์จได้ครบ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic white power strip charging multiple home electronics in clean room, realistic daylight, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไงอะ ปลั๊กพ่วงแปดช่องหนึ่งร้อยยี่สิบบาท ใช้ได้ทั้งปลั๊กทั้งยูเอสบี ครบในตัวเดียว รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip on desk with cables plugged in naturally, realistic home lifestyle video, no text, no logo",
+      "tts_text": "ใครอยู่หอหรืออยู่บ้านต้องดู ปลั๊กพ่วงแปดช่องเหลือหนึ่งร้อยยี่สิบบาท เสียบพร้อมกันได้เยอะมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of white multi-purpose extension plug with usb ports charging several devices at once, no text, no logo",
+      "tts_text": "เฮ้ยหนึ่งร้อยยี่สิบบาทเอง ปลั๊กพ่วงแปดช่องพร้อมยูเอสบีกับไทป์ซี ใช้งานสะดวกมาก กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731294558930961737": [
+    {
+      "visual_prompt": "9:16 photorealistic large yellow waterproof umbrella with protective cover open outdoors dramatic daylight realistic product showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อไปสามร้อยบาทมีเสียดาย ตอนนี้เหลือร้อยสี่สิบบาทเอง ร่มกันแดดกันฝนคันใหญ่ มีผ้าคลุมกันน้ำ รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic large umbrella with waterproof cover open outdoors realistic natural light no text no logo",
+      "tts_text": "โอ๊ยราคานี้จะไม่กดได้ยังไง จากสามร้อยบาทเหลือร้อยสี่สิบบาท ร่มคันใหญ่กันแดดกันฝน มีผ้าคลุมกันน้ำ พกใช้สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oversized umbrella with rain cover outdoor product display no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนซื้อราคาเต็ม ตอนนี้เหลือร้อยสี่สิบบาท ร่มคันใหญ่กางกว้าง ใช้ได้สองถึงสามคน กันแดดกันฝน รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic large waterproof umbrella open outdoors sky background no text no logo",
+      "tts_text": "เฮ้ยทุกคนดูนี่ก่อน ร่มกันแดดคันใหญ่เหลือร้อยสี่สิบบาทเอง กางกว้างมาก มีผ้าคลุมกันน้ำ ใช้หน้าฝนก็สะดวก รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic umbrella with water cover outdoors realistic product showcase no text no logo",
+      "tts_text": "โอ๊ยเห็นราคาแล้วต้องรีบ จากสามร้อยบาทเหลือร้อยสี่สิบบาท ร่มคันใหญ่กันแดดกันฝน กางง่าย พกไปไหนก็สะดวก กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extra large umbrella open outside realistic bright daylight no text no logo",
+      "tts_text": "ของแบบนี้ต้องมีแล้วปะ ร้อยสี่สิบบาทเอง ร่มคันใหญ่กางกว้าง กันแดดกันฝนได้ มีผ้าคลุมกันน้ำ ใช้งานสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oversized umbrella outdoor dramatic sky realistic no text no logo",
+      "tts_text": "แม่เอ๊ยราคานี้โคตรน่ากด เหลือร้อยสี่สิบบาทเอง ร่มคันใหญ่ใช้ได้หลายคน กางง่าย กันแดดกันฝน พกใช้ทุกวันได้เลย รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic large open umbrella outdoors natural light realistic no text no logo",
+      "tts_text": "ใครหาร่มคันใหญ่อยู่ดูอันนี้เลย เหลือร้อยสี่สิบบาท ร่มกันแดดกันฝนกางกว้าง มีผ้าคลุมกันน้ำ ใช้งานสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic large umbrella with protective rain cover product display outdoors no text no logo",
+      "tts_text": "โอ๊ยร้อยสี่สิบบาทเองทุกคน ร่มคันใหญ่กันแดดกันฝน ใช้ได้สองถึงสามคน กางง่าย พกง่าย หยิบใช้สะดวก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic oversized waterproof umbrella open outside realistic showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ไม่กดคือพลาดมาก จากสามร้อยบาทเหลือร้อยสี่สิบบาท ร่มกันแดดกันฝนคันใหญ่ กางง่าย ใช้สะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731197053159246700": [
+    {
+      "visual_prompt": "9:16 photorealistic curved branch cutter slicing green bamboo branch outdoors in front of a house, realistic daylight, natural handheld footage, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้คือมีงง เคียวตัดกิ่งด้ามยาวเกี่ยวแล้วตัดได้เลย จากห้าร้อยแปดสิบแปดบาท ตอนนี้เหลือแค่แปดสิบเอ็ดบาท รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up curved branch cutter cutting tree branch in outdoor garden, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครเคยซื้อแพงมีเสียดายแน่ เคียวตัดกิ่งด้ามยาวเกี่ยวกิ่งแล้วตัดง่ายมาก จากห้าร้อยแปดสิบแปดบาท ตอนนี้เหลือแปดสิบเอ็ดบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person using curved sickle branch cutter to trim branches outdoors, natural sunlight, product unchanged, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อก่อนแพงกว่า ตอนนี้เหลือแค่แปดสิบเอ็ดบาท เคียวตัดกิ่งด้ามยาวเกี่ยวง่ายตัดไว ใช้สะดวกมาก พิกัดอยู่ในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic branch being cut cleanly with curved cutter in garden, realistic outdoor movement, product unchanged, no text, no logo",
+      "tts_text": "เฮ้ย ของแบบนี้คนมีสวนต้องมี เคียวตัดกิ่งด้ามยาวเกี่ยวแล้วดึงตัดได้เลย จากห้าร้อยแปดสิบแปดบาท เหลือแปดสิบเอ็ดบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved pruning sickle cutting branch in home garden with leaves falling, product unchanged, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไง แปดสิบเอ็ดบาทเอง เคียวตัดกิ่งด้ามยาวเกี่ยวกิ่งสูงได้ง่ายมาก ไม่ต้องปีนให้เหนื่อย รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up branch hook cutter slicing through branch outdoors in daylight, product unchanged, no text, no logo",
+      "tts_text": "แม่เอ๊ยลดแรงมาก เคียวตัดกิ่งด้ามยาวจากห้าร้อยแปดสิบแปดบาท ตอนนี้เหลือแปดสิบเอ็ดบาท เกี่ยวแล้วตัดง่ายสุด รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor garden trimming with curved branch cutter under sunlight, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด เคียวตัดกิ่งด้ามยาวคมมาก เกี่ยวกิ่งแล้วตัดได้เลย ใช้งานง่ายมาก ตอนนี้เหลือแค่แปดสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand holding curved branch cutter reaching toward branch in garden, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "ใครมีต้นไม้หน้าบ้านดูนี่ก่อน เคียวตัดกิ่งด้ามยาวเกี่ยวกิ่งสูงได้ง่ายมาก จากห้าร้อยแปดสิบแปดบาท ตอนนี้เหลือแปดสิบเอ็ดบาท รีบกดไว้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved sickle cutter trimming branch outdoors in daylight, natural movement, product unchanged, no text, no logo",
+      "tts_text": "เห้ยถูกเกิน เคียวตัดกิ่งด้ามยาวเกี่ยวแล้วตัดง่ายมาก ใช้ตัดกิ่งสดกิ่งแห้งได้สบาย ตอนนี้เหลือแปดสิบเอ็ดบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic branch cutter slicing bamboo stem cleanly outdoors, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "จากห้าร้อยแปดสิบแปดบาทไม่ต้องจ่ายแล้ว ตอนนี้เหลือแค่แปดสิบเอ็ดบาท เคียวตัดกิ่งด้ามยาวเกี่ยวง่ายตัดไว ใช้สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved cutter cutting tree branch with clean slice in garden, product unchanged, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน เคียวตัดกิ่งด้ามยาวเกี่ยวแล้วตัดได้เลย ไม่ต้องเอื้อมเยอะ จากห้าร้อยแปดสิบแปดบาท เหลือแปดสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor trimming with curved hook branch cutter in bright daylight, product unchanged, no text, no logo",
+      "tts_text": "โหลดแบบนี้เอาจริงดิ เคียวตัดกิ่งด้ามยาวคมมาก ใช้เกี่ยวกิ่งไม้ได้ง่ายสุด จากห้าร้อยแปดสิบแปดบาท ตอนนี้เหลือแปดสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic garden branch being hooked and cut with curved blade tool, realistic outdoor footage, product unchanged, no text, no logo",
+      "tts_text": "บ้านไหนมีต้นไม้ต้องมี เคียวตัดกิ่งด้ามยาวเกี่ยวกิ่งสูงง่ายมาก ใช้สะดวกไม่ต้องปีน ตอนนี้เหลือแค่แปดสิบเอ็ดบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up curved cutter blade slicing branch outdoors with leaves falling, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยแปดสิบเอ็ดบาทเอง เคียวตัดกิ่งด้ามยาวเกี่ยวแล้วตัดได้ไวมาก มีติดบ้านไว้หยิบใช้สะดวกสุด รีบกดก่อนของหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic branch trimming outdoors with long handle curved cutter near house garden, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหาที่ตัดกิ่งดูอันนี้ เคียวตัดกิ่งด้ามยาวเกี่ยวง่ายตัดไวมาก ตอนนี้เหลือแปดสิบเอ็ดบาท จากห้าร้อยแปดสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor home garden trimming with curved sickle cutter, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "ของมันต้องมีจริง เคียวตัดกิ่งด้ามยาวใช้เกี่ยวกิ่งสูงแล้วตัดได้เลย สะดวกมาก ตอนนี้เหลือแปดสิบเอ็ดบาท รีบกดก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved pruning cutter slicing branch outdoors with natural sunlight, product unchanged, no text, no logo",
+      "tts_text": "ลดจนตกใจ เคียวตัดกิ่งด้ามยาวจากห้าร้อยแปดสิบแปดบาท ตอนนี้เหลือแค่แปดสิบเอ็ดบาท ใช้ง่ายมาก รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cutting branch with curved hook blade in bright outdoor garden, product unchanged, no text, no logo",
+      "tts_text": "ใครยังไม่มีต้องรีบแล้ว เคียวตัดกิ่งด้ามยาวเกี่ยวกิ่งได้ง่ายมาก ไม่ต้องออกแรงเยอะ ตอนนี้เหลือแปดสิบเอ็ดบาท กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved cutter trimming branch outdoors in natural daylight near home, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยจะไม่กดได้ไงราคานี้ เคียวตัดกิ่งด้ามยาวเกี่ยวแล้วตัดง่ายสุด ใช้งานสะดวกมาก ตอนนี้เหลือแปดสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long handle curved branch cutter being used outdoors in garden, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "เห้ยราคานี้ดีเกิน เคียวตัดกิ่งด้ามยาวเกี่ยวกิ่งสูงได้สบาย ใช้ง่ายหยิบใช้ได้ทุกวัน ตอนนี้เหลือแค่แปดสิบเอ็ดบาท พิกัดอยู่ในตะกร้า กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1731030418480138965": [
+    {
+      "visual_prompt": "9:16 photorealistic curved grass cutting sickle tool in rice field outdoor daylight realistic product showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อไปหนึ่งร้อยเจ็ดสิบแปดบาทมีเสียดาย ตอนนี้เหลือเก้าสิบเอ็ดบาทเอง เคียวเกี่ยวหญ้าใบโค้ง คม ใช้งานง่าย จับถนัดมือ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic farming sickle tool standing in grass field natural daylight realistic no text no logo",
+      "tts_text": "โอ๊ยราคานี้จะไม่กดได้ยังไง จากหนึ่งร้อยเจ็ดสิบแปดบาทเหลือเก้าสิบเอ็ดบาท เคียวเกี่ยวหญ้าคมมาก ใช้งานสวนใช้งานไร่สะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved sickle tool in agricultural field realistic outdoor no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนซื้อราคาเต็ม ตอนนี้เหลือเก้าสิบเอ็ดบาท เคียวเกี่ยวหญ้าใบโค้ง จับง่าย ใช้งานคล่อง เอาไว้ตัดหญ้าหรือใช้งานสวนก็สะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic sickle farming tool in grassy field daylight realistic no text no logo",
+      "tts_text": "เฮ้ยทุกคนดูนี่ก่อน เคียวเกี่ยวหญ้าเหลือเก้าสิบเอ็ดบาทเอง ใบโค้งจับถนัดมือ ใช้งานง่ายมาก เอาไว้สวนไว้ไร่หยิบใช้สะดวก รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic grass cutting sickle close-up outdoors field background no text no logo",
+      "tts_text": "โอ๊ยเห็นราคาแล้วต้องรีบ จากหนึ่งร้อยเจ็ดสิบแปดบาทเหลือเก้าสิบเอ็ดบาท เคียวเกี่ยวหญ้าใช้งานง่าย จับถนัดมือ หยิบใช้สะดวกมาก กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved blade farming tool in rice field realistic daylight no text no logo",
+      "tts_text": "ของแบบนี้ต้องมีแล้วปะ เก้าสิบเอ็ดบาทเอง เคียวเกี่ยวหญ้าใบโค้ง ใช้งานสวนใช้งานไร่ได้สบาย จับง่าย ใช้งานคล่อง รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic agricultural sickle tool placed in green field natural light no text no logo",
+      "tts_text": "แม่เอ๊ยราคานี้โคตรน่ากด เหลือเก้าสิบเอ็ดบาทเอง เคียวเกี่ยวหญ้าคม ใช้งานง่าย ด้ามจับถนัดมือ เอาไว้ติดสวนไว้ไร่สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic sickle tool outdoor field realistic product display no text no logo",
+      "tts_text": "ใครทำสวนทำไร่ดูอันนี้เลย เหลือเก้าสิบเอ็ดบาท เคียวเกี่ยวหญ้าใบโค้ง ใช้งานง่าย หยิบใช้สะดวก จับถนัดมือ รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic curved farming sickle standing in grass field outdoor no text no logo",
+      "tts_text": "โอ๊ยเก้าสิบเอ็ดบาทเองทุกคน เคียวเกี่ยวหญ้าใช้งานง่ายมาก จะตัดหญ้าหรือใช้ในสวนก็หยิบใช้สะดวก จับสบายมือ รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic farming sickle product showcase in field realistic daylight no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ไม่กดคือพลาดมาก จากหนึ่งร้อยเจ็ดสิบแปดบาทเหลือเก้าสิบเอ็ดบาท เคียวเกี่ยวหญ้าใบโค้ง ใช้งานคล่อง รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730853800657520772": [
+    {
+      "visual_prompt": "9:16 photorealistic handheld turbo fan blowing strong wind with visible hair movement outdoors in daylight, realistic handheld footage, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ย ของแบบนี้ไม่มีคือร้อนตาย พัดลมเทอร์โบลมแรงสะใจ พกไปไหนก็สะดวก จากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแค่เก้าสิบเก้าบาท กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman holding turbo fan blowing at face outdoors on a sunny day, realistic movement, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ย ราคานี้จะไม่กดได้ไง พัดลมเทอร์โบลมแรงมาก เปิดปุ๊บเย็นปั๊บ จากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเก้าบาทเอง รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up turbo fan spinning fast with strong wind effect, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพงกว่า ตอนนี้เหลือเก้าสิบเก้าบาท พัดลมเทอร์โบลมแรงแบบสะใจ พกง่าย เปิดใช้ได้ทุกที่ พิกัดอยู่ในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld turbo fan used while walking outdoors, hair moving from strong wind, product unchanged, no text, no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีแล้วปะ พัดลมเทอร์โบลมแรงมาก พกใส่กระเป๋าได้ จากสองร้อยเก้าสิบเก้าบาท เหลือเก้าสิบเก้าบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up person using portable turbo fan in sunny outdoor setting, realistic movement, product unchanged, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไง เก้าสิบเก้าบาทเอง พัดลมเทอร์โบลมแรงมาก เป่าแล้วเย็นทันใจ พกไปข้างนอกหรือใช้ในห้องก็สบาย รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic turbo fan running at high speed with strong airflow in bright daylight, product unchanged, no text, no logo",
+      "tts_text": "แม่เอ๊ย ลดแรงมาก พัดลมเทอร์โบจากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเก้าบาท ลมแรงใช้งานง่าย พกติดตัวได้ทุกวัน รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable turbo fan blowing hair and clothes outdoors in natural sunlight, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด พัดลมเทอร์โบลมแรงจัด เปิดแล้วเย็นสบายเลย ใช้งานง่ายมาก ตอนนี้เหลือแค่เก้าสิบเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld fan being used while sitting outdoors, strong airflow visible, product unchanged, no text, no logo",
+      "tts_text": "ใครขี้ร้อนดูนี่ก่อน พัดลมเทอร์โบลมแรงสะใจ พกไปไหนก็สะดวก จากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเก้าบาท รีบกดไว้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up portable fan spinning fast in hand, outdoor daylight, product unchanged, no text, no logo",
+      "tts_text": "เห้ย ถูกเกิน พัดลมเทอร์โบลมแรงมาก เปิดใช้แล้วเย็นทันใจ ขนาดพกง่ายถือสบาย ตอนนี้เหลือเก้าสิบเก้าบาท กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable turbo fan used in sunny outdoor park with natural movement, product unchanged, no text, no logo",
+      "tts_text": "จากสองร้อยเก้าสิบเก้าบาทไม่ต้องจ่ายแล้ว ตอนนี้เหลือเก้าสิบเก้าบาท พัดลมเทอร์โบลมแรงมาก ใช้แล้วเย็นเร็ว รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman cooling face with handheld turbo fan outdoors in daylight, product unchanged, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน พัดลมเทอร์โบลมแรงมาก พกง่ายเปิดใช้งานสะดวก จากสองร้อยเก้าสิบเก้าบาท เหลือเก้าสิบเก้าบาท ราคานี้ต้องรีบกดแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up fan blades spinning rapidly with visible airflow, natural lighting, product unchanged, no text, no logo",
+      "tts_text": "โห ลดแบบนี้เอาจริงดิ พัดลมเทอร์โบลมแรงสะใจ ใช้ข้างนอกหรือบนรถก็สบาย จากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable turbo fan used while commuting outdoors, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "บ้านไหนขี้ร้อนต้องมี พัดลมเทอร์โบลมแรงมาก เปิดแล้วเย็นเร็ว พกพาง่ายหยิบใช้สะดวก ตอนนี้เหลือแค่เก้าสิบเก้าบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person using handheld turbo fan in warm outdoor setting, strong airflow visible, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยย เก้าสิบเก้าบาทเอง พัดลมเทอร์โบลมแรงสะใจ เป่าแล้วเย็นทันที พกติดกระเป๋าได้สบาย รีบกดก่อนของหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic turbo fan being held in hand with strong wind effect outdoors, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหาพัดลมพกพาดูอันนี้ พัดลมเทอร์โบลมแรงมาก ใช้ง่ายถือสบาย ตอนนี้เหลือเก้าสิบเก้าบาท จากสองร้อยเก้าสิบเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up portable fan running fast outdoors with hair moving naturally, product unchanged, no text, no logo",
+      "tts_text": "ของมันต้องมีจริง พัดลมเทอร์โบลมแรงเย็นสะใจ ใช้ระหว่างเดินทางหรือทำงานก็สบาย ตอนนี้เหลือเก้าสิบเก้าบาท รีบกดก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable turbo fan blowing in daylight close-up cinematic footage, product unchanged, no text, no logo",
+      "tts_text": "ลดจนตกใจ พัดลมเทอร์โบจากสองร้อยเก้าสิบเก้าบาท ตอนนี้เหลือแค่เก้าสิบเก้าบาท ลมแรงมาก พกง่าย ใช้เพลินสุด รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld turbo fan in outdoor sunny background with strong airflow effect, product unchanged, no text, no logo",
+      "tts_text": "ใครยังไม่มีต้องรีบแล้ว พัดลมเทอร์โบลมแรงจัด ใช้ง่ายถือสะดวก พกไปไหนก็ได้ ตอนนี้เหลือเก้าสิบเก้าบาท กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up portable fan with realistic airflow effect in bright daylight, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยจะไม่กดได้ไงราคานี้ พัดลมเทอร์โบลมแรงมาก เปิดแล้วเย็นเร็ว ใช้งานสะดวกสุด ตอนนี้เหลือเก้าสิบเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person enjoying cool breeze from turbo fan outdoors under daylight, realistic movement, product unchanged, no text, no logo",
+      "tts_text": "เห้ย ราคานี้ดีเกิน พัดลมเทอร์โบลมแรงสะใจ พกง่ายเปิดใช้สะดวกมาก ตอนนี้เหลือแค่เก้าสิบเก้าบาท พิกัดอยู่ในตะกร้า กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730787487529273840": [
+    {
+      "visual_prompt": "9:16 photorealistic long umbrella with curved handle displayed open outdoors daylight realistic product showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อไปสามร้อยเก้าสิบเก้าบาทมีเสียดาย ตอนนี้เหลือร้อยยี่สิบหกบาท ร่มปลอกกล้วยคันใหญ่ กันแดดกันฝน พกง่าย รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long umbrella open in outdoor daylight sky background realistic no text no logo",
+      "tts_text": "โอ๊ยราคานี้จะไม่กดได้ยังไง จากสามร้อยเก้าสิบเก้าบาทเหลือร้อยยี่สิบหกบาท ร่มคันใหญ่ กางง่าย กันแดดกันฝน ใช้ทุกวันได้เลย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic umbrella standing outdoors with blue sky natural light no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนซื้อราคาเต็ม ตอนนี้เหลือร้อยยี่สิบหกบาท ร่มปลอกกล้วยคันใหญ่ ด้ามจับถือง่าย กันแดดกันฝน พกติดรถไว้สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long handled umbrella open outside daytime realistic product photo no text no logo",
+      "tts_text": "เฮ้ยทุกคนดูนี่ก่อน ร่มปลอกกล้วยเหลือร้อยยี่สิบหกบาทเอง คันใหญ่กางง่าย กันฝนกันแดดได้ พกไปไหนก็สะดวก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic umbrella product showcase outdoor bright daylight realistic no text no logo",
+      "tts_text": "โอ๊ยเห็นราคาแล้วต้องรีบ จากสามร้อยเก้าสิบเก้าบาทเหลือร้อยยี่สิบหกบาท ร่มคันใหญ่ ใช้งานง่าย กันแดดกันฝน กดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic large umbrella open against sky outdoor realistic no text no logo",
+      "tts_text": "ของแบบนี้ต้องมีแล้วปะ ร้อยยี่สิบหกบาทเอง ร่มปลอกกล้วยคันใหญ่ กางง่าย จับถนัดมือ กันแดดกันฝนได้สบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic umbrella with curved handle standing outdoors realistic daylight no text no logo",
+      "tts_text": "แม่เอ๊ยราคานี้โคตรน่ากด เหลือร้อยยี่สิบหกบาทเอง ร่มคันใหญ่ พกง่าย กางง่าย กันฝนกันแดด ใช้งานสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic large umbrella outdoor nature background realistic product shot no text no logo",
+      "tts_text": "ใครยังไม่มีร่มติดบ้านดูอันนี้เลย เหลือร้อยยี่สิบหกบาท ร่มปลอกกล้วยคันใหญ่ กางง่าย พกง่าย ฝนตกแดดออกหยิบใช้ได้เลย รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic open umbrella outdoors under sunlight realistic no text no logo",
+      "tts_text": "โอ๊ยร้อยยี่สิบหกบาทเองทุกคน ร่มคันใหญ่ใช้ง่ายมาก กันแดดกันฝนได้ พกไว้ในรถหรือหน้าบ้านหยิบใช้สะดวก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic umbrella product outdoor bright sky realistic showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ไม่กดคือพลาดมาก จากสามร้อยเก้าสิบเก้าบาทเหลือร้อยยี่สิบหกบาท ร่มปลอกกล้วยคันใหญ่ กางง่าย ใช้สะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730383565980141778": [
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip with multiple sockets placed on table in home setting, realistic indoor daylight, close-up product footage, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อแพงมีจุกแน่ รางปลั๊กไฟหลายช่องเสียบพร้อมกันสบาย จากร้อยสามสิบแปดบาท ตอนนี้เหลือแค่หกสิบบาท รีบกดในตะกร้าด่วนเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up plugging charger into white power strip at home, realistic lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ย ราคานี้จะไม่กดได้ไง รางปลั๊กไฟหลายช่อง เสียบได้ทั้งโทรศัพท์พัดลมพร้อมกัน จากร้อยสามสิบแปดบาท ตอนนี้เหลือหกสิบบาทเอง กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip on floor beside sofa with chargers plugged in, natural indoor daylight, product unchanged, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อก่อนแพงกว่า ตอนนี้เหลือหกสิบบาท รางปลั๊กไฟหลายช่อง ใช้พร้อมกันได้เยอะมาก สายยาวหยิบใช้ง่าย พิกัดอยู่ในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cord power strip with phone charger connected in bedroom, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีทุกบ้านปะ รางปลั๊กไฟหลายช่องเสียบได้จุกๆ จากร้อยสามสิบแปดบาท ตอนนี้เหลือแค่หกสิบบาท รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand plugging device into multi socket power strip at home, realistic indoor scene, product unchanged, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไง หกสิบบาทเอง รางปลั๊กไฟหลายช่อง ใช้เสียบพร้อมกันได้หมด โต๊ะไม่รก ใช้งานสะดวกมาก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic white extension power strip on desk with multiple chargers connected, daylight, product unchanged, no text, no logo",
+      "tts_text": "แม่เอ๊ย ลดแรงเกิน รางปลั๊กไฟหลายช่องจากร้อยสามสิบแปดบาท ตอนนี้เหลือหกสิบบาท เสียบได้หลายอย่างพร้อมกัน ใช้โคตรสะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up multi socket extension cord charging devices indoors, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด รางปลั๊กไฟหลายช่องเสียบพร้อมกันได้สบาย สายยาวใช้ง่ายมาก ตอนนี้เหลือแค่หกสิบบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip with charger cables connected beside bed, realistic home footage, product unchanged, no text, no logo",
+      "tts_text": "ใครปลั๊กไม่พอใช้ดูนี่ก่อน รางปลั๊กไฟหลายช่องเสียบได้เยอะมาก จากร้อยสามสิบแปดบาท ตอนนี้เหลือหกสิบบาท รีบกดไว้ก่อนเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension strip charging electronics on tabletop, realistic indoor daylight, product unchanged, no text, no logo",
+      "tts_text": "เห้ย ถูกเกิน รางปลั๊กไฟหลายช่องเสียบพร้อมกันได้หลายเครื่อง สายยาวใช้ง่ายจัดบ้านง่ายขึ้น ตอนนี้เหลือหกสิบบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip on desk with phone and tablet charging, natural home lighting, product unchanged, no text, no logo",
+      "tts_text": "จากร้อยสามสิบแปดบาทไม่ต้องจ่ายแล้ว ตอนนี้เหลือหกสิบบาท รางปลั๊กไฟหลายช่องเสียบได้จุกๆ ใช้ในบ้านหรือโต๊ะทำงานก็สะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up hand plugging cable into white extension strip, indoor home scene, product unchanged, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน รางปลั๊กไฟหลายช่องเสียบพร้อมกันได้แบบสบายมาก จากร้อยสามสิบแปดบาท เหลือหกสิบบาท ราคานี้ต้องรีบกดแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension cord power strip in living room charging electronics, natural daylight, product unchanged, no text, no logo",
+      "tts_text": "โห ลดแบบนี้เอาจริงดิ รางปลั๊กไฟหลายช่อง ใช้เสียบพร้อมกันได้เยอะมาก จากร้อยสามสิบแปดบาท ตอนนี้เหลือหกสิบบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power strip on wooden table with chargers connected, realistic home environment, product unchanged, no text, no logo",
+      "tts_text": "บ้านไหนปลั๊กไม่พอต้องมี รางปลั๊กไฟหลายช่องเสียบได้หลายอย่างพร้อมกัน ตอนนี้เหลือแค่หกสิบบาท กดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up extension strip charging phone indoors, realistic daylight footage, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยย หกสิบบาทเอง รางปลั๊กไฟหลายช่องใช้โคตรสะดวก เสียบได้หลายเครื่องพร้อมกัน บ้านเป็นระเบียบขึ้นเยอะ รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic multi plug extension strip in bedroom with devices charging, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหาปลั๊กไฟดูอันนี้ รางปลั๊กไฟหลายช่องเสียบได้เยอะ สายยาวใช้ง่ายมาก ตอนนี้เหลือหกสิบบาท จากร้อยสามสิบแปดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic white power strip with multiple cables plugged in at home, realistic indoor lighting, product unchanged, no text, no logo",
+      "tts_text": "ของมันต้องมีจริง รางปลั๊กไฟหลายช่องเสียบพร้อมกันได้หมด ใช้ได้ทั้งห้องนอนโต๊ะทำงาน ตอนนี้เหลือหกสิบบาท รีบกดก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip charging multiple devices in home interior, daylight, product unchanged, no text, no logo",
+      "tts_text": "ลดจนตกใจ รางปลั๊กไฟจากร้อยสามสิบแปดบาท ตอนนี้เหลือแค่หกสิบบาท เสียบได้หลายช่อง ใช้งานสะดวกมาก รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up extension strip with chargers plugged in on desk, realistic home footage, product unchanged, no text, no logo",
+      "tts_text": "ใครยังไม่มีต้องรีบแล้ว รางปลั๊กไฟหลายช่องเสียบได้ครบทั้งโต๊ะ ใช้พร้อมกันสบายมาก ตอนนี้เหลือหกสิบบาท กดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home scene with extension strip and charging cables neatly arranged, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยจะไม่กดได้ไงราคานี้ รางปลั๊กไฟหลายช่องเสียบได้เยอะ ใช้ง่ายมาก สายยาวหยิบสะดวก ตอนนี้เหลือหกสิบบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic multi socket power strip used in home with chargers connected, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "เห้ย ราคานี้ดีเกิน รางปลั๊กไฟหลายช่องเสียบพร้อมกันได้หลายเครื่อง ใช้ในบ้านสะดวกมาก ตอนนี้เหลือแค่หกสิบบาท พิกัดอยู่ในตะกร้า กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730275906273446657": [
+    {
+      "visual_prompt": "9:16 photorealistic automatic folding umbrella on dark background premium product showcase natural light no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยซื้อไปสองร้อยเจ็ดสิบเก้าบาทมีเสียดาย ตอนนี้เหลือร้อยสามสิบแปดบาท ร่มพับอัตโนมัติ กดเปิดกดปิดได้เลย กันแดดกันฝน รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic automatic folding umbrella product display dark premium background no text no logo",
+      "tts_text": "โอ๊ยราคานี้จะไม่กดได้ยังไง จากสองร้อยเจ็ดสิบเก้าบาทเหลือร้อยสามสิบแปดบาท ร่มพับอัตโนมัติ เปิดปิดง่าย พกติดกระเป๋าโคตรสะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic folded umbrella close-up on dark background realistic no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนซื้อเต็มราคา ตอนนี้เหลือร้อยสามสิบแปดบาท ร่มพับอัตโนมัติ กดปุ่มเดียวเปิดได้เลย กันแดดกันฝน พับเก็บง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable folding umbrella on minimal dark table realistic no text no logo",
+      "tts_text": "เฮ้ยทุกคนดูนี่ก่อน ร่มพับอัตโนมัติเหลือร้อยสามสิบแปดบาทเอง กดเปิดกดปิดได้ พับเก็บง่าย พกไปไหนก็สะดวกมาก รีบกดด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic premium compact umbrella product showcase dark background no text no logo",
+      "tts_text": "โอ๊ยเห็นราคาแล้วต้องรีบ จากสองร้อยเจ็ดสิบเก้าบาทเหลือร้อยสามสิบแปดบาท ร่มพับอัตโนมัติ กันฝนกันแดดได้ พกง่าย กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic compact folding umbrella premium display realistic no text no logo",
+      "tts_text": "ของแบบนี้ต้องมีแล้วปะ ร้อยสามสิบแปดบาทเอง ร่มพับอัตโนมัติ กดเปิดได้ทันที พับเก็บง่ายมาก พกใส่รถหรือใส่กระเป๋าก็สะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic folded automatic umbrella on dark surface realistic product photo no text no logo",
+      "tts_text": "แม่เอ๊ยราคานี้โคตรน่ากด เหลือร้อยสามสิบแปดบาทเอง ร่มพับอัตโนมัติ เปิดปิดด้วยปุ่มเดียว พกง่าย ใช้งานสะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic premium folding umbrella on black background clean product showcase no text no logo",
+      "tts_text": "ใครยังไม่มีร่มติดกระเป๋าดูอันนี้เลย เหลือร้อยสามสิบแปดบาท ร่มพับอัตโนมัติ กันแดดกันฝน พับเก็บง่าย หยิบใช้สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic automatic umbrella folded premium style dark realistic no text no logo",
+      "tts_text": "โอ๊ยร้อยสามสิบแปดบาทเองทุกคน ร่มพับอัตโนมัติ กดเปิดกดปิดง่าย พับเล็กพกสะดวก จะฝนตกหรือแดดออกก็หยิบใช้ได้เลย รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable automatic umbrella product close-up dark background no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ไม่กดคือพลาดมาก จากสองร้อยเจ็ดสิบเก้าบาทเหลือร้อยสามสิบแปดบาท ร่มพับอัตโนมัติ กันแดดกันฝน พับง่าย รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1730187102535649461": [
+    {
+      "visual_prompt": "9:16 photorealistic handheld mini portable fan on a clean table near window, female hand holding the fan and turning it on, strong airflow moving hair naturally, realistic home lifestyle footage, no text, no logo",
+      "tts_text": "เฮ้ยดูนี่ก่อนทุกคน พัดลมมือถือเหลือแค่สี่สิบแปดบาท ลมแรงมาก พกง่าย ชาร์จยูเอสบีได้ เอาไปข้างนอกคือโคตรสะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman holding mini portable fan close to face with hair blowing in natural daylight, realistic movement, no text, no logo",
+      "tts_text": "โอ๊ยร้อนแบบนี้ไม่มีติดกระเป๋าคือพลาดมาก พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรงเปิดแล้วเย็นเลย ชาร์จง่าย กดในตะกร้าไว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable mini fan standing on desk beside phone and water bottle, indoor daylight, realistic footage, no text, no logo",
+      "tts_text": "ไม่อยากเย็นสบายก็เลื่อนผ่านได้เลย พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรงมาก ตั้งโต๊ะก็ได้ ถือก็ได้ รีบกดก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up mini handheld fan blowing strongly while woman uses it outdoors in sunlight, realistic casual footage, no text, no logo",
+      "tts_text": "เฮ้ยราคานี้จะไม่กดยังไงไหว พัดลมมือถือแค่สี่สิบแปดบาท ลมแรงแบบโดนเต็มหน้า พกไปไหนก็ง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mini portable fan on work desk with notebook and phone, natural home office light, no text, no logo",
+      "tts_text": "ใครทำงานแล้วร้อนต้องมีอันนี้ พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรง เปิดเงียบ พกง่าย วางโต๊ะก็ได้ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic female hand holding portable fan while walking outdoors, hair moving with wind, realistic natural footage, no text, no logo",
+      "tts_text": "โอ๊ยของมันต้องมีจริง พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรงเย็นทันใจ ถือขึ้นรถหรือเดินตลาดคือสบายมาก รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mini fan charging with usb cable on table, realistic home setup, no text, no logo",
+      "tts_text": "เห็นราคาแล้วตกใจอะ สี่สิบแปดบาทเอง พัดลมมือถือชาร์จยูเอสบีได้ ลมแรงใช้งานง่าย พกใส่กระเป๋าได้เลย กดไว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable fan being used inside bedroom near bed and window with daylight, realistic movement, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อแพงก่อนหน้านี้ ตอนนี้พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรงมาก ใช้งานง่าย กดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mini handheld fan blowing against woman's face in bright daylight indoor scene, realistic home lifestyle, no text, no logo",
+      "tts_text": "ร้อนเมื่อไรหยิบมาเปิดได้เลย พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรงแบบรู้เรื่อง พกง่าย ใช้ทุกวันได้สบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of mini portable fan on a white table spinning, strong wind visible in hair strands, no text, no logo",
+      "tts_text": "เฮ้ยอันนี้ราคาดีมาก พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรงสุดๆ ชาร์จยูเอสบี พกไปไหนก็สะดวก กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable mini fan beside cosmetic bag and phone on table, daylight, realistic footage, no text, no logo",
+      "tts_text": "ของแบบนี้มีไว้ไม่เสียใจ พัดลมมือถือเหลือแค่สี่สิบแปดบาท ลมแรง พกง่าย ใส่กระเป๋าได้ทุกวัน รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic handheld fan used by woman in casual room setting with sunlight, realistic natural camera movement, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดมีเสียดาย พัดลมมือถือเหลือสี่สิบแปดบาท เปิดแล้วเย็นเลย ลมแรงกำลังดี พกง่ายมาก กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mini fan on office desk blowing papers slightly, realistic airflow effect, no text, no logo",
+      "tts_text": "ใครขี้ร้อนต้องรีบดู พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรง ใช้ง่าย ตั้งโต๊ะก็ได้ ถือก็ได้ รีบกดในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up portable fan in female hand with soft daylight background, realistic footage, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไงอะ พัดลมมือถือเหลือสี่สิบแปดบาทเอง ลมแรงพกง่าย ชาร์จได้ ใช้ข้างนอกหรือในห้องก็สบาย รีบเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mini fan placed beside laptop and iced drink on cafe table, realistic daylight, no text, no logo",
+      "tts_text": "เห็นแล้วต้องรีบเอา พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรงมาก ชาร์จยูเอสบี พกไปเรียนไปทำงานคือสะดวกสุด รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman relaxing with portable fan blowing hair indoors near bright window, no text, no logo",
+      "tts_text": "อากาศร้อนแบบนี้ต้องมีเลย พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรงเปิดแล้วเย็นทันที พกง่ายมาก กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mini portable fan rotating on desk with natural sunlight and home background, no text, no logo",
+      "tts_text": "เฮ้ยถูกเกินเรื่อง พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรง ใช้งานง่าย ชาร์จได้ พกติดตัวไว้คือหยิบใช้ตลอด กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable fan held near face with hair blowing in realistic sunlight, no text, no logo",
+      "tts_text": "โอ๊ยอันนี้ร้านข้างนอกหาแทบไม่ได้ พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรงมาก พกง่าย เปิดเมื่อไรก็เย็น รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mini fan charging via usb on clean desk with natural home lighting, no text, no logo",
+      "tts_text": "ของมันต้องมีติดบ้านจริง พัดลมมือถือเหลือสี่สิบแปดบาท ชาร์จยูเอสบีได้ ลมแรงมาก ถือใช้ง่าย กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of portable fan spinning fast while held by female hand, natural daylight, no text, no logo",
+      "tts_text": "เฮ้ยชิ้นนี้รีบเลย พัดลมมือถือเหลือสี่สิบแปดบาท ลมแรงสะใจ พกง่ายมาก ใช้ได้ทุกวัน กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729999416453335358": [
+    {
+      "visual_prompt": "9:16 photorealistic close-up garden hedge shears trimming green leaves outdoors under blue sky, realistic handheld footage, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ย เจอราคานี้คือหยุดดูเลย กรรไกรแต่งสวนตัดหญ้าตัดกิ่งคมมาก จากสองร้อยแปดสิบเก้าบาท ตอนนี้เหลือแค่เจ็ดสิบเอ็ดบาท รีบกดในตะกร้าก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman trimming garden bushes with hedge shears in daylight, natural outdoor movement, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยใครซื้อก่อนหน้านี้มีเสียดายแน่ กรรไกรแต่งสวนตัดกิ่งตัดหญ้าได้หมด จากสองร้อยแปดสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาทเอง กดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic garden shears cutting fresh leaves close-up, bright natural daylight, product unchanged, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่เคยซื้อแพง ตอนนี้เหลือเจ็ดสิบเอ็ดบาท กรรไกรแต่งสวนคมมาก ตัดหญ้าตัดกิ่งง่ายจับถนัดมือ ใช้เพลินมาก พิกัดอยู่ในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of hedge shears clipping bushes in home garden, natural sunlight, product unchanged, no text, no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีติดบ้านแล้วปะ กรรไกรแต่งสวนตัดกิ่งได้ลื่นมาก จากสองร้อยแปดสิบเก้าบาท เหลือแค่เจ็ดสิบเอ็ดบาท รีบกดก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic trimming grass and bushes with garden shears, realistic outdoor backyard footage, product unchanged, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไง เจ็ดสิบเอ็ดบาทเอง กรรไกรแต่งสวนเอาไว้ตัดหญ้าหรือตัดกิ่งก็ได้ คมดีใช้ง่ายมาก ข้างนอกหายาก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic garden hedge shears cutting branch outdoors with leaves falling, product unchanged, no text, no logo",
+      "tts_text": "แม่เอ๊ย ลดแรงเกิน กรรไกรแต่งสวนจากสองร้อยแปดสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท ตัดกิ่งไม้สบายมือ ตัดหญ้าก็คล่อง รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor garden trimming bushes with large manual hedge shears, bright daylight, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้ไม่กดคือพลาด กรรไกรแต่งสวนคมมาก ตัดหญ้าตัดพุ่มไม้ได้แบบเพลินมือ ตอนนี้เหลือแค่เจ็ดสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand holding garden shears trimming leafy hedge under blue sky, realistic footage, product unchanged, no text, no logo",
+      "tts_text": "ใครมีสวนหน้าบ้านดูนี่ก่อน กรรไกรแต่งสวนตัดกิ่งง่ายมาก จากสองร้อยแปดสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท รีบกดไว้ก่อนเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up cutting green hedge with shears, natural movement and sunlight, product unchanged, no text, no logo",
+      "tts_text": "เห้ย ถูกเกิน กรรไกรแต่งสวนตัดหญ้าตัดกิ่งคมมาก ใช้แต่งพุ่มไม้ได้สวยเลย ตอนนี้เหลือเจ็ดสิบเอ็ดบาท รีบกดตะกร้าก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic garden trimming with hedge shears in backyard, realistic daylight, product unchanged, no text, no logo",
+      "tts_text": "จากสองร้อยแปดสิบเก้าบาทไม่ต้องจ่ายแล้ว ตอนนี้เหลือเจ็ดสิบเอ็ดบาท กรรไกรแต่งสวนตัดลื่นมาก จับง่ายมือไม่ล้า กดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic trimming garden hedge close-up with large shears, blue sky background, product unchanged, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน กรรไกรแต่งสวนเอาไว้ตัดหญ้าตัดกิ่งได้ครบ จากสองร้อยแปดสิบเก้าบาท เหลือเจ็ดสิบเอ็ดบาท ราคานี้ต้องรีบกดแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic shears cutting bush branches outdoors in natural garden, product unchanged, no text, no logo",
+      "tts_text": "โห ลดแบบนี้เอาจริงดิ กรรไกรแต่งสวนคมมาก ใช้ตัดกิ่งตัดใบได้สบาย จากราคาสองร้อยแปดสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor gardening with hedge shears trimming plants in daylight, product unchanged, no text, no logo",
+      "tts_text": "บ้านไหนปลูกต้นไม้ต้องมี กรรไกรแต่งสวนตัดกิ่งได้ง่ายมาก ตัดหญ้าก็ลื่นมือ ตอนนี้เหลือแค่เจ็ดสิบเอ็ดบาท กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up garden shears snipping leaves, realistic daylight footage, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยย เจ็ดสิบเอ็ดบาทเอง กรรไกรแต่งสวนคมมาก ตัดกิ่งไม้หรือแต่งพุ่มก็ได้หมด ใช้ง่ายจับถนัดมือ รีบกดก่อนของหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic trimming shrubs with hedge shears in backyard garden, natural camera movement, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหากรรไกรแต่งสวนอยู่ดูอันนี้ ตัดกิ่งง่ายมาก คมดีใช้งานลื่น ตอนนี้เหลือเจ็ดสิบเอ็ดบาท จากสองร้อยแปดสิบเก้าบาท กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic gardener trimming hedge with manual shears outdoors, blue sky background, product unchanged, no text, no logo",
+      "tts_text": "ของมันต้องมีจริง กรรไกรแต่งสวนเอาไว้ตัดหญ้าตัดพุ่มไม้ได้สบายมาก ตอนนี้เหลือเจ็ดสิบเอ็ดบาท รีบกดในตะกร้าก่อนเกลี้ยง",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up garden tool trimming branches with leaves moving naturally, product unchanged, no text, no logo",
+      "tts_text": "ลดจนตกใจ กรรไกรแต่งสวนจากสองร้อยแปดสิบเก้าบาท ตอนนี้เหลือแค่เจ็ดสิบเอ็ดบาท ตัดกิ่งได้ง่ายมาก รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic cutting hedge with garden shears outdoors under bright daylight, product unchanged, no text, no logo",
+      "tts_text": "ใครยังไม่มีต้องรีบแล้ว กรรไกรแต่งสวนตัดกิ่งตัดหญ้าได้หมด คมดีใช้ง่ายมาก ตอนนี้เหลือเจ็ดสิบเอ็ดบาท กดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic garden shears cutting bush leaves close-up, realistic home garden, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยจะไม่กดได้ไงราคานี้ กรรไกรแต่งสวนตัดลื่นมาก ใช้แต่งพุ่มไม้สวยเลย ตอนนี้เหลือเจ็ดสิบเอ็ดบาท รีบกดก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic realistic trimming green plants with hedge shears in daylight, natural outdoor footage, product unchanged, no text, no logo",
+      "tts_text": "เห้ย ราคานี้ดีเกิน กรรไกรแต่งสวนตัดกิ่งตัดหญ้าได้ครบ ใช้ง่ายจับสบายมือ ตอนนี้เหลือแค่เจ็ดสิบเอ็ดบาท พิกัดอยู่ในตะกร้า กดได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729954998339144639": [
+    {
+      "visual_prompt": "9:16 photorealistic handheld close-up of a multi-socket power plug extension with usb ports placed on a table at home, female hand plugging charger in, natural daylight, realistic home lifestyle footage, no text, no logo",
+      "tts_text": "เฮ้ยใครยังไม่มีปลั๊กพ่วงแบบนี้บอกเลยพลาดมาก หนึ่งร้อยเอ็ดบาทเอง เสียบได้หลายช่อง มีช่องยูเอสบี ชาร์จพร้อมกันได้เลย กดในตะกร้าไว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home desk scene, multi-purpose power plug extension with usb ports, charging phone and tablet at the same time, natural light, realistic footage, no text, no logo",
+      "tts_text": "โอ๊ยใครซื้อแพงก่อนหน้านี้มีเจ็บใจอะ ตอนนี้เหลือหนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องมียูเอสบี ชาร์จทีเดียวจบ โต๊ะไม่รก กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of multi socket power extension on bedroom floor beside bed, phone cable plugged in, natural lighting, no text, no logo",
+      "tts_text": "ไม่อยากใช้ชีวิตง่ายขึ้นก็เลื่อนผ่านได้เลย ปลั๊กพ่วงหลายช่องตัวนี้หนึ่งร้อยเอ็ดบาท เสียบได้หลายเครื่องพร้อมกัน มียูเอสบี ใช้งานโคตรสะดวก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic plug extension with multiple sockets and usb charging on wooden table, woman hand using it naturally, bright daylight, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน หนึ่งร้อยเอ็ดบาทเอง ได้ปลั๊กพ่วงหลายช่องพร้อมยูเอสบี เสียบมือถือ เสียบพัดลม เสียบพร้อมกันได้หมด รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home lifestyle footage, multi plug extension beside sofa with charging cables connected, realistic motion, no text, no logo",
+      "tts_text": "เห้ยราคานี้ไม่กดคือมีเสียดายอะ หนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องพร้อมช่องยูเอสบี ใช้พร้อมกันได้หลายเครื่อง สายไม่พันกัน รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic modern home interior, multi-purpose power plug extension charging multiple devices at once, close-up realistic footage, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่เคยซื้อแพงกว่านี้ ตอนนี้เหลือหนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องมียูเอสบี เสียบพร้อมกันได้หลายอย่าง ใช้โคตรง่าย กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of power extension with usb ports on work desk, charger cables plugged in, daylight, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไงอะ หนึ่งร้อยเอ็ดบาทเอง ปลั๊กพ่วงหลายช่องมีช่องยูเอสบี เสียบชาร์จได้พร้อมกันหลายเครื่อง ใช้ในบ้านคือสะดวกมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman hand plugging charger into white power extension with usb ports, indoor natural daylight, no text, no logo",
+      "tts_text": "ใครปลั๊กไม่พอใช้ต้องดูอันนี้เลย หนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องพร้อมยูเอสบี ชาร์จได้พร้อมกันหลายอย่าง ไม่ต้องแย่งปลั๊กแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension plug on bedside table charging smartphone and tablet, realistic home footage, no text, no logo",
+      "tts_text": "โอ๊ยราคานี้มันน่ากดมาก หนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องมียูเอสบี เสียบทีเดียวได้หลายเครื่อง ชาร์จสะดวก ใช้งานทุกวันเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic family home table with multi socket extension powering several devices, realistic daylight, no text, no logo",
+      "tts_text": "ของแบบนี้ต้องมีติดบ้านไว้จริง หนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องพร้อมยูเอสบี เสียบได้หลายเครื่องพร้อมกัน ใช้สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of white extension plug with multiple colorful socket circles and usb ports, realistic home background, no text, no logo",
+      "tts_text": "เห็นแล้วต้องรีบกดอะ หนึ่งร้อยเอ็ดบาทเอง ปลั๊กพ่วงหลายช่องพร้อมยูเอสบี ชาร์จมือถือพร้อมกันได้หลายเครื่อง บ้านเป็นระเบียบขึ้นเยอะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension plug on office desk beside laptop and phone, cables connected naturally, no text, no logo",
+      "tts_text": "ใครชอบสายชาร์จเต็มโต๊ะต้องเอาอันนี้ หนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องมีช่องยูเอสบี เสียบทีเดียวครบ จบง่ายมาก กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic home charging setup with multi-purpose extension plug and usb ports, natural camera movement, no text, no logo",
+      "tts_text": "เฮ้ยหนึ่งร้อยเอ็ดบาทได้ขนาดนี้เลยนะ ปลั๊กพ่วงหลายช่องพร้อมยูเอสบี ชาร์จได้พร้อมกันหลายเครื่อง ใช้ตรงไหนก็สะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension plug charging multiple household electronics, close-up realistic footage, no text, no logo",
+      "tts_text": "อย่ารอให้ของหมดก่อนค่อยกดนะ หนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องพร้อมยูเอสบี ใช้พร้อมกันได้หลายอย่าง ชาร์จง่ายมาก กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hand plugging cable into multi socket power strip at home, bright realistic natural light, no text, no logo",
+      "tts_text": "ราคานี้คือมีร้องอะ หนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องพร้อมยูเอสบี เสียบมือถือ เสียบปลั๊กได้พร้อมกันหลายเครื่อง รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic power extension plug beside bed charging devices overnight, realistic home environment, no text, no logo",
+      "tts_text": "ปลั๊กไม่พอใช้ต้องจัดแล้วนะ หนึ่งร้อยเอ็ดบาทเอง ปลั๊กพ่วงหลายช่องมีช่องยูเอสบี เสียบพร้อมกันได้หลายอย่าง ใช้สะดวกมาก รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic realistic home tabletop with extension plug and phone charging cables connected, no text, no logo",
+      "tts_text": "โอ๊ยยของแบบนี้เห็นแล้วต้องรีบเอา หนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องพร้อมยูเอสบี ใช้ได้หลายเครื่องพร้อมกัน กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic extension power strip with usb charging multiple electronics in living room, no text, no logo",
+      "tts_text": "ใครกำลังหาปลั๊กเพิ่มต้องหยุดดูเลย หนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องมียูเอสบี เสียบได้หลายเครื่อง ใช้งานง่าย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up of extension plug with usb ports used in home environment, realistic daylight, no text, no logo",
+      "tts_text": "เห็นราคาแล้วตกใจมาก หนึ่งร้อยเอ็ดบาทเอง ปลั๊กพ่วงหลายช่องพร้อมยูเอสบี ชาร์จได้หลายอย่างพร้อมกัน แบบนี้ต้องรีบกดแล้ว",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic multi socket power extension in daily home use charging several devices naturally, no text, no logo",
+      "tts_text": "เฮ้ยถูกขนาดนี้ไม่กดไม่ไหว หนึ่งร้อยเอ็ดบาท ปลั๊กพ่วงหลายช่องพร้อมยูเอสบี เสียบพร้อมกันได้หลายเครื่อง ใช้งานสะดวก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729764235929684435": [
+    {
+      "visual_prompt": "9:16 photorealistic close-up footage of long pole pruning shears cutting tree branches outdoors in a home garden, realistic daylight, natural hand movement, product unchanged, no text, no logo",
+      "tts_text": "เหี้ยเอ๊ย ของแบบนี้ไม่มีติดบ้านคือพลาดมาก กรรไกรตัดกิ่งด้ามยาวหนึ่งจุดห้าเมตร ตัดสูงได้แบบไม่ต้องปีน จากสี่ร้อยห้าสิบเก้าบาท ตอนนี้เหลือแค่หนึ่งร้อยหกสิบเก้าบาท กดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic woman using long pruning shears to cut high branches in backyard garden, smooth handheld camera, realistic outdoor daylight, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยย ใครเคยซื้อเต็มสี่ร้อยห้าสิบเก้าบาทมีเซ็งแน่ ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาทเอง กรรไกรตัดกิ่งด้ามยาว เอื้อมถึงง่าย ตัดกิ่งสูงแบบไม่ต้องเขย่ง รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pruning shears snipping branches with leaves falling naturally, outdoor garden footage, detailed metal blade, product unchanged, no text, no logo",
+      "tts_text": "สมน้ำหน้าคนที่ซื้อก่อนแพงกว่านี้ ตอนนี้เหลือแค่หนึ่งร้อยหกสิบเก้าบาท กรรไกรตัดกิ่งด้ามยาว ตัดง่ายแรงไม่เยอะ กิ่งสูงแค่ไหนก็ตัดถึง พิกัดอยู่ในตะกร้า กดทันคือได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic garden branch cutting with long pole shears, realistic leaves and sunlight, handheld perspective, product unchanged, no text, no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีแล้วปะ กรรไกรตัดกิ่งด้ามยาวหนึ่งจุดห้าเมตร ไม่ต้องปีนไม่ต้องหาเก้าอี้ จากสี่ร้อยห้าสิบเก้าบาท เหลือหนึ่งร้อยหกสิบเก้าบาท รีบกดเลยก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor garden trimming with long reach pruning shears, realistic sunlight, clean background, product unchanged, no text, no logo",
+      "tts_text": "จะไม่กดได้ยังไงราคานี้ กรรไกรตัดกิ่งด้ามยาว ตัดกิ่งไม้สูงได้แบบยืนพื้นสบาย ไม่ต้องปีนให้เหนื่อย ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท รีบกดในตะกร้าด่วนเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pole pruning shears in use cutting dry branch, natural outdoor movement, cinematic garden footage, product unchanged, no text, no logo",
+      "tts_text": "แม่เอ๊ย ลดแรงมาก กรรไกรตัดกิ่งด้ามยาวหนึ่งจุดห้าเมตร จากสี่ร้อยห้าสิบเก้าบาท ตอนนี้เหลือแค่หนึ่งร้อยหกสิบเก้าบาท ตัดกิ่งสูงง่ายมาก ใช้งานสะดวก กดตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up blade cutting fresh branch outdoors, leaves dropping, realistic sunlight, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ย ราคานี้ไม่กดคือพลาด กรรไกรตัดกิ่งด้ามยาว ตัดได้สูงแบบไม่ต้องออกแรงเยอะ อยู่บ้านมีต้นไม้ต้องมีติดไว้ ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person pruning tree branches with long pole shears in home garden, realistic daylight footage, product unchanged, no text, no logo",
+      "tts_text": "ใครมีต้นไม้หน้าบ้านดูนี่ก่อน กรรไกรตัดกิ่งด้ามยาวหนึ่งจุดห้าเมตร เอื้อมตัดได้ถึงแบบไม่ต้องปีน จากสี่ร้อยห้าสิบเก้าบาท เหลือหนึ่งร้อยหกสิบเก้าบาท กดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic garden maintenance footage using long reach pruning shears, outdoor sunlight, product unchanged, no text, no logo",
+      "tts_text": "เห้ยถูกเกิน กรรไกรตัดกิ่งด้ามยาว ตัดกิ่งสูงง่ายมาก ยืนพื้นก็ตัดได้ไม่ต้องเสี่ยงปีนบันได ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท หาแบบนี้ข้างนอกไม่ง่าย รีบกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long pruning shears cutting branch from low angle, realistic outdoor garden, product unchanged, no text, no logo",
+      "tts_text": "สี่ร้อยกว่าบาทไม่ต้องจ่ายแล้ว ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท กรรไกรตัดกิ่งด้ามยาว ตัดกิ่งสูงได้ง่ายมาก ใช้งานสะดวก หยิบใช้ได้เลย รีบกดก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pruning branches with long handle shears in green backyard, natural camera movement, product unchanged, no text, no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน กรรไกรตัดกิ่งด้ามยาวหนึ่งจุดห้าเมตร ตัดถึงกิ่งสูงแบบไม่ต้องเขย่ง จากสี่ร้อยห้าสิบเก้าบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor branch cutting with long pole cutter, realistic leaf motion, daylight, product unchanged, no text, no logo",
+      "tts_text": "โห ลดแบบนี้เอาจริงดิ กรรไกรตัดกิ่งด้ามยาว ตัดกิ่งไม้สูงง่ายมาก ไม่ต้องปีนให้ลำบาก ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท กดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic gardener using pole pruning shears to trim tree outdoors, detailed blade, product unchanged, no text, no logo",
+      "tts_text": "บ้านไหนมีต้นไม้คือควรมี กรรไกรตัดกิ่งด้ามยาว เอื้อมถึงง่าย ตัดกิ่งสูงได้สบาย จากสี่ร้อยห้าสิบเก้าบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up pruning blade cutting branch in bright natural garden, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยย ราคานี้ใจจะขาด กรรไกรตัดกิ่งด้ามยาวหนึ่งจุดห้าเมตร ตัดง่ายถึงกิ่งสูง ไม่ต้องปีน ไม่ต้องเมื่อย ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic backyard gardening with long reach pruning shears cutting branches, realistic sunlight, product unchanged, no text, no logo",
+      "tts_text": "ใครกำลังหากรรไกรตัดกิ่งดูอันนี้ กรรไกรตัดกิ่งด้ามยาว ตัดกิ่งสูงได้ง่ายมาก จากสี่ร้อยห้าสิบเก้าบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic outdoor tree trimming with pole cutter in natural garden environment, product unchanged, no text, no logo",
+      "tts_text": "ของมันต้องมีจริง กรรไกรตัดกิ่งด้ามยาวหนึ่งจุดห้าเมตร ยืนตัดกิ่งสูงได้เลยไม่ต้องปีน ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท รีบกดในตะกร้าก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic long handled pruning shears trimming branches in daylight, natural movement, product unchanged, no text, no logo",
+      "tts_text": "ลดจนตกใจ กรรไกรตัดกิ่งด้ามยาว จากสี่ร้อยห้าสิบเก้าบาท เหลือหนึ่งร้อยหกสิบเก้าบาท ตัดกิ่งสูงง่ายมาก ไม่ต้องออกแรงเยอะ รีบกดเลยตอนนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic pruning high tree branches with long pole shears outdoors, realistic backyard scene, product unchanged, no text, no logo",
+      "tts_text": "ใครยังใช้กรรไกรสั้นอยู่ต้องดู กรรไกรตัดกิ่งด้ามยาวหนึ่งจุดห้าเมตร ตัดกิ่งสูงถึงแบบง่ายมาก ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท กดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close-up long pruning shears cutting branch with natural outdoor lighting, product unchanged, no text, no logo",
+      "tts_text": "โอ๊ยจะไม่กดได้ไง กรรไกรตัดกิ่งด้ามยาว ตัดกิ่งสูงได้ง่ายแบบยืนพื้นเลย จากสี่ร้อยห้าสิบเก้าบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic realistic garden branch trimming with pole shears, smooth handheld footage, product unchanged, no text, no logo",
+      "tts_text": "เห้ย ของแบบนี้ราคาดีมาก กรรไกรตัดกิ่งด้ามยาวหนึ่งจุดห้าเมตร ตัดกิ่งไม้สูงง่ายไม่ต้องปีนบันได ตอนนี้เหลือหนึ่งร้อยหกสิบเก้าบาท กดตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729712959921686529": [
+    {
+      "visual_prompt": "9:16 photorealistic handheld rechargeable flashlight on outdoor night background realistic product showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย หกสิบเก้าบาทเอง ไฟฉายตัวนี้สว่างมาก ชาร์จยูเอสบีได้ มีไฟข้าง เปิดใช้งานง่าย พกติดรถติดบ้านไว้โคตรสะดวก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rechargeable flashlight placed on table with dark background realistic no text no logo",
+      "tts_text": "โอ๊ยราคานี้จะไม่กดได้ยังไง หกสิบเก้าบาทเอง ไฟฉายชาร์จได้ สว่างชัด ใช้งานง่าย มีไฟข้าง พกไว้ใช้ตอนจำเป็นสะดวกมาก",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic powerful flashlight in hand at night realistic no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนซื้อแพงไปก่อน ตอนนี้เหลือหกสิบเก้าบาท ไฟฉายแรงสูง ชาร์จยูเอสบีได้ มีไฟข้าง เปิดใช้งานง่าย รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic flashlight outdoor night use realistic beam light no text no logo",
+      "tts_text": "เฮ้ยทุกคนดูนี่ก่อน หกสิบเก้าบาทเอง ไฟฉายสว่างมาก ชาร์จได้ พกติดบ้านติดรถไว้หยิบใช้สะดวกสุด รีบกดก่อนหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rechargeable flashlight on dark table night realistic no text no logo",
+      "tts_text": "โอ๊ยเห็นราคาแล้วต้องรีบ ไฟฉายเหลือหกสิบเก้าบาทเอง ชาร์จยูเอสบีได้ เปิดง่าย สว่างชัด พกไปไหนก็สะดวก กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic metallic flashlight product close-up realistic dark background no text no logo",
+      "tts_text": "ของแบบนี้ต้องมีแล้วปะ หกสิบเก้าบาทเอง ไฟฉายชาร์จได้ มีไฟข้าง ใช้งานง่ายมาก ไฟดับหรือออกข้างนอกหยิบใช้ได้เลย รีบกด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic flashlight held in hand outdoors at night realistic no text no logo",
+      "tts_text": "แม่เอ๊ยราคานี้โคตรน่ากด หกสิบเก้าบาทเอง ไฟฉายสว่างมาก ชาร์จได้ พกง่าย เปิดใช้งานสะดวก ใช้ได้บ่อยแน่นอน รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic flashlight beside car at night realistic outdoor scene no text no logo",
+      "tts_text": "ใครยังไม่มีติดบ้านดูอันนี้เลย หกสิบเก้าบาท ไฟฉายชาร์จยูเอสบีได้ สว่างมาก พกไว้ในรถหรือในบ้านก็สะดวกมาก รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rechargeable flashlight on wooden table realistic low light no text no logo",
+      "tts_text": "โอ๊ยหกสิบเก้าบาทเองทุกคน ไฟฉายตัวนี้ชาร์จได้ มีไฟข้าง เปิดใช้งานง่าย พกสะดวก ใช้ตอนกลางคืนคือหยิบใช้ได้ทันที รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic flashlight glowing in dark realistic product showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ราคานี้ไม่กดคือพลาดมาก หกสิบเก้าบาทเอง ไฟฉายสว่าง ชาร์จยูเอสบีได้ มีไฟข้าง ใช้งานสะดวก รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729647881131363226": [
+    {
+      "visual_prompt": "9:16 photorealistic handheld folding portable fan on table indoor natural daylight realistic product showcase no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ใครเคยกดพัดลมแบบนี้ไปหนึ่งร้อยเก้าสิบเก้าบาทมีเจ็บใจ ตอนนี้เหลือหกสิบเก้าบาทเอง พัดแรง ชาร์จแบตได้ พับเก็บได้ รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable folding fan placed beside bed soft daylight realistic no text no logo",
+      "tts_text": "โอ๊ยพลาดมาก ใครซื้อราคาเต็มไปก่อนมีร้อง ตอนนี้เหลือหกสิบเก้าบาท พัดลมพกพาแบตในตัว ลมแรง ปรับได้สามระดับ กดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable fan on desk near window realistic home setting no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนที่ซื้อไปหนึ่งร้อยเก้าสิบเก้าบาท ตอนนี้เหลือหกสิบเก้าบาท พัดลมพับได้ ชาร์จไฟได้ เปิดตรงไหนก็เย็น รีบกดก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable rechargeable fan on wooden table natural light no text no logo",
+      "tts_text": "เฮ้ย ของแบบนี้ต้องมีแล้วปะ จากหนึ่งร้อยเก้าสิบเก้าบาทเหลือหกสิบเก้าบาทเอง พัดลมพกพาแบตในตัว พับเก็บง่าย ลมแรงมาก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic folding rechargeable fan in living room realistic no text no logo",
+      "tts_text": "แม่เอ๊ย ราคานี้จะไม่กดได้ยังไง จากหนึ่งร้อยเก้าสิบเก้าบาทเหลือหกสิบเก้าบาท พัดลมพกพาพับได้ ชาร์จได้ ใช้งานสบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable fan on floor beside sofa daylight realistic no text no logo",
+      "tts_text": "ดูนี่ก่อนทุกคน หกสิบเก้าบาทเอง พัดลมพกพาแบบชาร์จแบตได้ พับเก็บก็ง่าย เปิดใช้งานก็เย็น ลมปรับได้สามระดับ รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rechargeable portable folding fan close-up product realistic no text no logo",
+      "tts_text": "โอ๊ยยย เห็นราคานี้แล้วใจสั่น จากหนึ่งร้อยเก้าสิบเก้าบาทเหลือหกสิบเก้าบาท พัดลมพกพามีแบตในตัว พับได้ ลมแรงมาก กดด่วนเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan beside laptop on desk natural home scene no text no logo",
+      "tts_text": "เห้ยรีบดู พัดลมพกพาตัวนี้เหลือหกสิบเก้าบาทเอง ชาร์จไฟได้ พับเก็บได้ ลมเย็นสบาย เปิดนั่งโต๊ะหรือหัวเตียงก็ใช้ได้ กดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable fan on bedside table realistic daylight no text no logo",
+      "tts_text": "ใครยังไม่มีบอกเลยพลาด พัดลมพกพาจากหนึ่งร้อยเก้าสิบเก้าบาทเหลือหกสิบเก้าบาท มีแบตในตัว พับได้ ลมแรง กดตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable rechargeable fan indoors soft natural lighting no text no logo",
+      "tts_text": "โอ๊ยราคานี้มันน่ากดเกิน พัดลมพกพาเหลือหกสิบเก้าบาทเอง ชาร์จแบตได้ พับเก็บง่าย ลมเย็นกำลังดี รีบกดก่อนของหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic folding fan standing on desk realistic room scene no text no logo",
+      "tts_text": "บอกเลยใครเคยซื้อเต็มราคามีเสียดาย ตอนนี้เหลือหกสิบเก้าบาท พัดลมพกพาแบบพับได้ ชาร์จได้ ลมแรง ใช้งานง่าย กดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic fan on minimal table indoor daylight realistic no text no logo",
+      "tts_text": "หกสิบเก้าบาทเองทุกคน พัดลมพกพามีแบตในตัว พับเก็บได้ ปรับลมได้สามระดับ ใช้ตรงไหนก็สะดวก รีบกดในตะกร้าเลยนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable fan by window realistic natural shadow no text no logo",
+      "tts_text": "ของแบบนี้ต้องรีบกด จากหนึ่งร้อยเก้าสิบเก้าบาทเหลือหกสิบเก้าบาท พัดลมพับได้ ชาร์จไฟได้ ลมแรงมาก รีบกดก่อนหมดนะทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rechargeable folding fan on table home background no text no logo",
+      "tts_text": "เฮ้ยจะไม่กดได้ยังไง หกสิบเก้าบาทเอง พัดลมพกพาแบตในตัว พับเก็บง่าย เปิดใช้งานก็เย็นสบาย รีบกดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable fan in bedroom daylight realistic no text no logo",
+      "tts_text": "แม่เอ๊ยลดแรงมาก จากหนึ่งร้อยเก้าสิบเก้าบาทเหลือหกสิบเก้าบาท พัดลมพกพาพับได้ ชาร์จแบตได้ ลมเย็นสบาย รีบกดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic folding fan product close-up realistic soft daylight no text no logo",
+      "tts_text": "โอ๊ยเห็นแล้วต้องรีบกด พัดลมพกพาเหลือหกสิบเก้าบาทเอง มีแบตในตัว พับเก็บได้ ลมแรง ใช้งานง่ายมาก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable fan on home desk bright daylight no text no logo",
+      "tts_text": "ดูไว้เลย ของแบบนี้ราคาเหลือหกสิบเก้าบาท พัดลมพกพาแบบชาร์จแบต พับเก็บง่าย เปิดใช้งานได้ทุกมุม รีบกดก่อนหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic rechargeable fan indoor realistic table setup no text no logo",
+      "tts_text": "สมน้ำหน้าเลยคนซื้อแพงไปก่อน ตอนนี้เหลือหกสิบเก้าบาท พัดลมพกพาชาร์จไฟได้ พับได้ ลมเย็นสบาย กดในตะกร้าได้เลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable folding fan near sofa realistic natural light no text no logo",
+      "tts_text": "โอ๊ยราคานี้ต้องรีบแล้ว พัดลมพกพาเหลือหกสิบเก้าบาท มีแบตในตัว พับเก็บได้ ปรับลมได้สามระดับ รีบกดในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic portable fan product showcase indoor natural daylight no text no logo",
+      "tts_text": "เหี้ยเอ๊ย ลดเหลือหกสิบเก้าบาทเอง พัดลมพกพาตัวนี้ชาร์จแบตได้ พับเก็บง่าย ลมแรงกำลังดี ใช้ได้ทุกวัน รีบกดก่อนหมดเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
   "1734463649738949709": [
     {
       "visual_prompt": "9:16 photorealistic standing fan in living room warm light airflow visible slow motion no text no logo",
