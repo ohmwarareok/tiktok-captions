@@ -11143,5 +11143,30 @@
       { "problem": "อยาก เชื่อม สะดวก รวดเร็ว", "product": "ตู้เชื่อมไฟฟ้า Mini Inverter IGBT", "price": "854.-" },
       { "problem": "ต้องการ เครื่องชาร์จ แบต ฉุกเฉิน", "product": "ตู้เชื่อมไฟฟ้า Mini Inverter IGBT", "price": "854.-" }
   ]
+  },
+  {
+  "pid": "1731430725761205322",
+  "data": [
+      { "problem": "ไฟฉุกเฉินยามไฟดับ", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ตั้งแคมป์ไฟไม่พอ", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ตลาดกลางคืนต้องแสงสว่าง", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ต้องไฟพกพาสำหรับเดินทาง", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "หาไฟฉุกเฉินชาร์จไฟง่าย", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "บ้านมุมมืดอยากสว่าง", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ไฟสำรองเมื่อไฟตัด", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "กิจกรรมกลางแจ้งแสงไม่พอ", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ไฟตั้งแคมป์ใช้งานทน", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ต้องการไฟใช้ชั่วคราว", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ชาร์จผ่านUSBสะดวก", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ต้องการไฟกันน้ำ", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "งานกลางคืนต้องไฟสว่าง", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "หาหลอดไฟพกพา", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ไฟถนนเล็กๆไม่พอ", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ต้องไฟฉุกเฉินใช้งานง่าย", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ไฟพกพาสำหรับตลาดกลางคืน", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ไฟสำรองสำหรับบ้านและทริป", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ไฟฉุกเฉิน 3 โหมดใช้งาน", "product": "หลอดไฟ LED", "price": "90.-" },
+      { "problem": "ต้องการไฟที่ใช้งานยาวนาน", "product": "หลอดไฟ LED", "price": "90.-" }
+  ]
   }
 ]
