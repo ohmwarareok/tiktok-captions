@@ -11318,5 +11318,30 @@
       { "problem": "พกออกทริป ใช้งานง่าย", "product": "แท็บเล็ต Imp Pad i16", "price": "3792.-" },
       { "problem": "รับประกันศูนย์ 13 เดือน", "product": "แท็บเล็ต Imp Pad i16", "price": "3792.-" }
   ]
+  },
+  {
+  "pid": "1732196592464922029",
+  "data": [
+      { "problem": "ต้องการไฟสว่างไกล", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "แบตหมดเร็วไม่พอ", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "ต้องการชาร์จเร็ว", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "แคมป์ปิ้งไฟไม่พอ", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "อยากได้ไฟแรงสูง", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "ไฟไม่สว่างพอเที่ยว", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "กลัวไฟฉายเสียกลางทาง", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "อยากได้ระยะส่องไกล", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "ต้องการแบต Li-ion", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "ต้องการไฟฉายทนทาน", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "หาไฟฉายชาร์จด่วน", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "ต้องการไฟกลางคืนสว่าง", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "ใช้กลางแจ้งต้องสว่าง", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "ไฟแรง ประหยัดพลังงาน", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "หาตัวสว่างพกพาง่าย", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "ไฟฉายสำหรับแคมป์ปิ้ง", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "กลัวแบตหมดกลางคัน", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "ต้องไฟส่องไกล 1000ม.", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "ต้องการไฟฉายชาร์จได้", "product": "ไฟฉาย LED Leerout", "price": "455.-" },
+      { "problem": "ต้องการไฟทนทานใช้งานหนัก", "product": "ไฟฉาย LED Leerout", "price": "455.-" }
+  ]
   }
 ]
