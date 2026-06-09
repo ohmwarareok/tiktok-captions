@@ -60,7 +60,6 @@
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic electric air pump on car trunk ready for emergency use no text no logo",
       "tts_text": "สัสเอ๊ยโคตรจี๊ด กูซื้อปั้มลมไฟฟ้าพกพาเต็มสองร้อยยี่สิบสามบาท ตอนนี้เหลือหนึ่งร้อยหกสิบเจ็ดบาท พกไว้สบายใจ รีบกด กดได้เท่าไรบอกกูที",
@@ -6325,56 +6324,48 @@
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic phone handheld shot showing portable fan with LED screen on tabletop like product ecommerce scene, indoor light, product unchanged, no text, no logo",
       "tts_text": "โอ๊ยใครยังไม่มีพัดลมมือถือดูนี่ก่อน พัดลมหน้าจอดิจิตอล ปรับแรงลมหลายระดับ แบตในตัว พกง่าย จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท รีบกดตะกร้า",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic smartphone clip of portable handheld fan standing on simple desk like ecommerce filming, natural indoor light, product unchanged, no text, no logo",
       "tts_text": "เหี้ยจริง ใครกำลังหาพัดลมพกพาดูนี่ พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ มีแบตในตัว จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท กดตะกร้า",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic handheld smartphone video showing portable fan N607 on desk exactly like product image, indoor lighting, product unchanged, no text, no logo",
       "tts_text": "โอ๊ยราคานี้ไม่กดคือเสียดาย พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ มีแบตในตัว ใช้ได้นาน จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท กดตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic smartphone footage of handheld fan with LED display on tabletop like ecommerce listing video, natural light, product unchanged, no text, no logo",
       "tts_text": "เหี้ยเอ้ย คนที่ซื้อสี่ร้อยเก้าสิบเก้าบาทนี่มีร้อง ตอนนี้พัดลมมือถือหน้าจอดิจิตอลเหลือเก้าสิบแปดบาท ปรับแรงลมได้หลายระดับ พกง่าย รีบกดตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic casual smartphone shot showing portable fan standing on desk like ecommerce filming scene, indoor lighting, product unchanged, no text, no logo",
       "tts_text": "โอ๊ยกูเห็นราคานี้ยังตกใจ พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ แบตในตัว ใช้ได้นาน จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท รีบกดตะกร้า",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic handheld phone video showing portable handheld fan with LED display placed on simple table like ecommerce filming setup, natural indoor lighting, product unchanged, no text, no logo",
       "tts_text": "เหี้ยเอ้ย ถ้าไม่อยากมีพัดลมพกพาก็ไม่ต้องกดนะ พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท กดตะกร้าเลย",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic vertical smartphone video showing portable fan N607 standing upright on desk like ecommerce video scene, indoor light, product unchanged, no text, no logo",
       "tts_text": "โอ๊ยใครกำลังหาอะไรเป่าลมแรงๆดูนี่ก่อน พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมได้หลายระดับ แบตในตัว จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท รีบกดตะกร้า",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic handheld smartphone footage of portable fan with LED display on table like ecommerce filming scene, natural lighting, product unchanged, no text, no logo",
       "tts_text": "เหี้ยราคานี้ใครไม่กดคือโง่ละ พัดลมมือถือหน้าจอดิจิตอล ปรับแรงลมหลายระดับ มีแบตในตัว ใช้ได้นาน จากสี่ร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเก้าสิบแปดบาท กดตะกร้า",
@@ -6699,7 +6690,6 @@
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic desk product showcase smartphone on mobile phone speaker stand glowing sound wave base packaging behind minimal setup no text no logo",
       "tts_text": "เหี้ยเอ้ย สมน้ำหน้าคนที่ซื้อเต็มห้าร้อยเก้าสิบเก้าบาท ตอนนี้เหลือเจ็ดสิบเอ็ดบาท ขาตั้งมือถือพร้อมลำโพง วางมือถือดูคลิปเสียงก้อง โต๊ะโล่ง กดตะกร้าเลย",
@@ -8470,7 +8460,6 @@
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic orange black nail gun beside steel plate and nail set, workshop scene, product unchanged, no text, no logo",
       "tts_text": "ไอเหี้ยกูช้ำใจ กูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงแรงทะลุเหล็ก ใช้งานโคตรง่าย ของใกล้หมด รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
@@ -8501,7 +8490,6 @@
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic orange nail gun on construction site metal frame, nails scattered, no text, no logo",
       "tts_text": "เหี้ยจริงกูซื้อแพง กูจ่ายสามร้อยสามสิบสามบาท เครื่องยิงตะปูแรงดันสูง ตอนนี้เหลือเก้าสิบเจ็ดบาท ยิงเหล็กติดแน่นโคตรไว ของใกล้เกลี้ยง รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
@@ -8538,7 +8526,6 @@
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic nail gun pressing into steel plate, close up action shot, workshop setting, no text, no logo",
       "tts_text": "ไอเหี้ยเอ้ยกูช้ำใจ กูซื้อเครื่องยิงตะปูแรงดันสูงสามร้อยสามสิบสามบาท วันนี้เหลือเก้าสิบเจ็ดบาท ยิงแรงทะลุเหล็กสบาย ของใกล้เกลี้ยง รีบกดเหลือเก้าสิบเจ็ดบาท กดได้กี่บาทบอกกูที",
@@ -9681,7 +9668,6 @@
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic bluetooth speaker modern lifestyle no text no logo",
       "tts_text": "ของมันต้องมี ลำโพงพกพาใช้ง่าย เสียงดังเกินราคา ตอนนี้เหลือสองร้อยสิบสามบาท กดตอนนี้คุ้มสุด",
@@ -9712,7 +9698,6 @@
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic portable speaker lifestyle clean background no text no logo",
       "tts_text": "ลำโพงพกพาเปิดง่าย เสียงดัง ไม่จุกจิก เหมาะทุกวัย ตอนนี้ลดเหลือสองร้อยสิบสามบาท รีบเลย",
@@ -9743,7 +9728,6 @@
       "audio": "female_thai",
       "duration": "แปดวินาที"
     },
-
     {
       "visual_prompt": "9:16 photorealistic bluetooth speaker clean product scene no text no logo",
       "tts_text": "ลำโพงพกพาตัวเดียว ใช้ได้ทุกที่ เสียงดังเกินราคา ตอนนี้สองร้อยสิบสามบาท ต้องรีบแล้ว",
@@ -11505,6 +11489,134 @@
     {
       "visual_prompt": "9:16 photorealistic เปลไซส์ใหญ่ผูกต้นไม้สองฝั่ง เห็นผืนผ้ากว้างชัด no text no logo",
       "tts_text": "ฉิบหายแม่งแรงมาก! กูซื้อเต็มร้อยห้าสิบเก้าบาท วันนี้เหลือห้าสิบแปดบาท เปลไซส์ใหญ่ นอนสบายจริง รีบกดด่วน มึงได้กี่บาทบอกกู",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1729634036475530155": [
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "แซ่บโว้ย ดูนี้ก่อนทุกคน ไฟโซล่าเซลล์พกพา ตัวเล็กแต่แรง เหลือเพียงหนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า แสงขาวกับสปอตไลท์ ชาร์จไมโครยูเอสบี พกไปแคมป์ได้สบาย กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เหี้ยหน่า โอ๊ยยย ของแบบนี้ต้องมีแล้วปะ ไฟโซล่าเซลล์พกพา ตอนนี้ราคาเพียงหนึ่งร้อยห้าสิบเอ็ดบาท ให้แสงขาวกับสปอตไลท์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า เสียบชาร์จไมโครยูเอสบี หยิบไปตั้งแคมป์ได้เลย กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "บัดซบ นี่แหละที่ต้องมี ไฟโซล่าเซลล์พกพา เหลือแค่หนึ่งร้อยห้าสิบเอ็ดบาท ใช้ได้ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า ให้แสงขาวและสปอตไลท์ ชาร์จผ่านไมโครยูเอสบี พกง่ายไม่หนัก กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "หาเชี้ย เฮ้ย ดูนี้ก่อนทุกคน ไฟโซล่าเซลล์พกพา ลดเหลือหนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ พกสะดวก แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า ให้แสงขาวกับสปอต เสียบชาร์จไมโครยูเอสบี เอาไปผจญภัยได้เลย กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เวรเอ๊ย โอ๊ยย ของดีราคาตีหัว ไฟโซล่าเซลล์พกพา ตอนนี้เพียงหนึ่งร้อยห้าสิบเอ็ดบาท ให้แสงขาวสว่างพร้อมสปอตไลท์ ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า ชาร์จไมโครยูเอสบี หยิบไปใช้ฉุกเฉินได้ทันที กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โธ่เอ๊ย ดูนี่ก่อน ไฟโซล่าเซลล์พกพา เหลือเพียงหนึ่งร้อยห้าสิบเอ็ดบาท ให้แสงขาวและสปอตไลท์ ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า ชาร์จสะดวกด้วยไมโครยูเอสบี เหมาะเอาไปตั้งเต็นท์หรือฉุกเฉิน กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ห่าเอ๊ย ฟังก่อนนะ ไฟโซล่าเซลล์พกพา ราคาเพียงหนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ ให้แสงขาวกับสปอตไลท์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า ชาร์จผ่านไมโครยูเอสบี พกไปข้างนอกไม่มีผิดหวัง กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โว้ยยย ดูนี้ก่อนทุกคน ไฟโซล่าเซลล์พกพา เหลือเท่านั้นหนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า แสงขาวกับสปอต ชาร์จง่ายด้วยไมโครยูเอสบี เหมาะแคมป์ปิ้งและฉุกเฉิน กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "แกร่กกก ฟังก่อน ไฟโซล่าเซลล์พกพา ตัวนี้เหลือหนึ่งร้อยห้าสิบเอ็ดบาท ให้แสงขาวและสปอตไลท์ ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า ชาร์จไมโครยูเอสบี พกใส่กระเป๋าแล้วออกไปได้เลย กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เฮ้ยยย ของแบบนี้ต้องมีแล้วปะ ไฟโซล่าเซลล์พกพา ลดเหลือหนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า แสงขาวสว่างพร้อมสปอต ชาร์จผ่านไมโครยูเอสบี เอาไปตั้งที่ไหนก็สว่าง กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ชิบหาย ดูก่อนทุกคน ไฟโซล่าเซลล์พกพา ตอนนี้ราคาเพียงหนึ่งร้อยห้าสิบเอ็ดบาท ให้แสงขาวและสปอตไลท์ ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า ชาร์จสะดวกด้วยไมโครยูเอสบี พกไปออกทริปได้เลย กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "อีเหี้ย ฟังนี่ก่อน ไฟโซล่าเซลล์พกพา เหลือแค่หนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ ให้แสงขาวและสปอต แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า ชาร์จผ่านไมโครยูเอสบี น้ำหนักเบาพกง่าย ใช้งานฉุกเฉินได้ กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ย๊ะโว้ย ดูนี่ก่อน โปรเด็ด ไฟโซล่าเซลล์พกพา ตอนนี้หนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า แสงขาวกับสปอต ชาร์จด้วยไมโครยูเอสบี เอาไปตั้งแคมป์หรือวางฉุกเฉินได้เลย กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "โอ๊ยยย เชี่ย มาดู ไฟโซล่าเซลล์พกพา เหลือหนึ่งร้อยห้าสิบเอ็ดบาท ให้แสงขาวและสปอตไลท์ ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า ชาร์จง่ายด้วยไมโครยูเอสบี พกสะดวกใช้ได้หลายที่ กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "แหม่เอ๊ย ฟังนี่ก่อน ไฟโซล่าเซลล์พกพา ลดเหลือหนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า แสงขาวพร้อมสปอต ชาร์จผ่านไมโครยูเอสบี เหมาะพกออกทริปหรือเก็บไว้ฉุกเฉิน กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เหวอออ ฟังก่อน ไฟโซล่าเซลล์พกพา ตอนนี้เพียงหนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า ให้แสงขาวและสปอตไลท์ ชาร์จผ่านไมโครยูเอสบี พกไปค้างแคมป์สบายๆ กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "อีหยังวะ ฟังนี่ก่อนทุกคน ไฟโซล่าเซลล์พกพา เหลือหนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า แสงขาวกับสปอต ชาร์จสะดวกด้วยไมโครยูเอสบี เก็บไว้ฉุกเฉินหรือใช้แคมป์ได้ กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "กูแม่ง เฮ้ย ของจริง ไฟโซล่าเซลล์พกพา ลดเหลือหนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า แสงขาวสว่างกับสปอต ชาร์จไมโครยูเอสบี พกง่ายใช้งานสะดวก กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "ปังเว้ย ฟังนี่ก่อน ไฟโซล่าเซลล์พกพา ตอนนี้ราคาเพียงหนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า แสงขาวพร้อมสปอต ชาร์จผ่านไมโครยูเอสบี พกไปตั้งแคมป์หรือใช้ฉุกเฉินได้เลย กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "อ๊าาา โอ๊ยย ฟังนี่ ไฟโซล่าเซลล์พกพา เหลือแค่หนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า ให้แสงขาวกับสปอตไลท์ ชาร์จไมโครยูเอสบี เบาและทน พกติดรถได้เลย กดได้เท่าไรบอกกูที",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic no text no logo",
+      "tts_text": "เอออออ มาดูนี้ก่อน ไฟโซล่าเซลล์พกพา ตอนนี้หนึ่งร้อยห้าสิบเอ็ดบาท ห้าวัตต์ แบตหนึ่งพันสองร้อยมิลลิแอมป์ กันน้ำระดับหกสิบห้า แสงขาวกับสปอต ชาร์จด้วยไมโครยูเอสบี เหมาะเอาไว้ใช้ตอนออกทริปและฉุกเฉินสุดๆ กดได้เท่าไรบอกกูที",
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
