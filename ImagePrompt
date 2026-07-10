@@ -197,6 +197,11 @@
     "never reuse environment",
     "different camera perspective every render",
     "random composition",
-    "natural real life product scene"
+    "natural real life product scene",
+    "กฎราคาบนป้าย (สำคัญที่สุด ห้ามฝ่าฝืน): ห้ามคิดราคาเอง ห้ามคิดโปรโมชั่นเอง ห้ามเดา ห้ามใช้ราคาจากความจำ เด็ดขาด",
+    "ราคาบนป้ายต้องมาจากตัวเลขราคาที่มองเห็นและอ่านได้จริงในรูปสินค้าที่แนบมาเท่านั้น เอาราคานั้นปัดเศษทศนิยมขึ้นเป็นจำนวนเต็ม แล้วบวก 2 บาท เช่น ในรูปเห็น 75.73 ให้เขียน 78.-",
+    "โปรโมชั่นบนป้าย (เช่น 1แถม1 หรือ ลด 45%) ต้องเป็นโปรที่มองเห็นจริงในรูปสินค้าที่แนบมาเท่านั้น ถ้าในรูปไม่มีโปร ห้ามเขียนโปร",
+    "ถ้ามองไม่เห็นตัวเลขราคาในรูปสินค้าที่แนบมา ห้ามเขียนตัวเลขใด ๆ บนป้ายเด็ดขาด ให้เขียนแค่บรรทัดที่ 1 บรรทัดเดียว",
+    "THE SIGN PRICE MUST COME ONLY FROM THE PRICE VISIBLE IN THE ATTACHED PRODUCT IMAGE (rounded up, plus 2 baht). NEVER invent, guess, or recall prices. If no price is visible in the attached image, write NO numbers at all on the sign."
   ]
 }
