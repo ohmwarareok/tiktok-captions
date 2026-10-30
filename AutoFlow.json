@@ -335562,5 +335562,249 @@
       "audio": "female_thai",
       "duration": "แปดวินาที"
     }
+  ],
+  "1732564729672795994": [
+    {
+      "visual_prompt": "9:16 photorealistic close up of a mechanic tool set, no children, no baby, no kids",
+      "tts_text": "โอ๊ยสายช่างทั้งหลายยอมจ่ายแพงทำไม ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนปรับเปลี่ยนหัวได้ ถอดง่ายจบในชุดเดียว มีกล่องเก็บพกพาสะดวกมาก ไปกดในตะกร้ากันด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hands using pliers on a motorcycle part, no children, no baby, no kids",
+      "tts_text": "เฮ้ยคนชอบซ่อมรถเองจะทนใช้ของพังๆทำไม ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนสี่ในหนึ่งเดียว เปลี่ยนหัวไว จับถนัดมือ ทนทานสุดๆ รีบกดสั่งในตะกร้าเลยทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic repairing a machine, no children, no baby, no kids",
+      "tts_text": "บอกเลยสายช่างที่งานไม่เดินเพราะเครื่องมือไม่พร้อม ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนชุดนี้เด็ดมาก ปากรวมใช้งานได้หลากหลาย มีกล่องเก็บเป็นระเบียบ กดในตะกร้าด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic various tools laid out on a workbench, no children, no baby, no kids",
+      "tts_text": "งานซ่อมจุกจิกทีไรหัวร้อนทุกทีใช่ไหมล่ะ ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนช่วยให้ถอดแหวนง่ายขึ้นเยอะ หัวสลับได้สี่แบบ ทนทานโคตรๆ ไปกดสั่งในตะกร้ากัน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tool box opening revealing tools, no children, no baby, no kids",
+      "tts_text": "ล็อตนี้มาแค่นี้คนถามหาเพียบหมดไวแน่ ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนชุดสี่ชิ้นพร้อมกล่องเก็บ พกพาสะดวก งานช่างไหนก็เอาอยู่ รีบกดตะกร้าก่อนของหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic workshop environment with tools, no children, no baby, no kids",
+      "tts_text": "เพื่อนบอกต่อมาว่าต้องมีติดบ้านไว้จริงๆ ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนสารพัดประโยชน์ ถอดหุบได้หมดในชุดเดียว วัสดุทนทานงานจบไว กดสั่งในตะกร้าเลยจ้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic hands holding a tool case, no children, no baby, no kids",
+      "tts_text": "สายช่างคนไหนยังไม่มีถือว่าพลาดมากนะ ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนปรับเปลี่ยนหัวได้ทันที ไม่ต้องพกหลายอันให้เกะกะ มีกล่องเก็บเรียบร้อย กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up of pliers head, no children, no baby, no kids",
+      "tts_text": "ปัญหาน็อตแหวนหลุดยากจะหมดไปซะที ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนสี่ในหนึ่งเดียวหัวสลับง่าย แข็งแรงทนทานใช้งานได้ยาวนาน รีบกดสั่งในตะกร้ากันเถอะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic person organizing tools in a box, no children, no baby, no kids",
+      "tts_text": "ของมาน้อยแต่คนแย่งกันซื้อสนั่นเลยแม่ ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนชุดคุ้มค่าครบเครื่องเรื่องช่าง พร้อมกล่องเก็บไม่หายแน่นอน กดตะกร้าด่วนๆ เลยจ้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic working on a vehicle part, no children, no baby, no kids",
+      "tts_text": "เพื่อนทักมาบอกว่าเจอของดีเลยเอามาฝาก ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนชุดสี่ชิ้นคุณภาพโคตรดี ถอดหุบง่ายไม่ต้องออกแรงเยอะ รีบไปกดในตะกร้ากันเดี๋ยวนี้",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic garage setting with tool organization, no children, no baby, no kids",
+      "tts_text": "โอ๊ยทนใช้คีมเก่าๆ พังง่ายอยู่ทำไม ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนเปลี่ยนหัวได้สี่สไตล์ ทนทานแข็งแรงไม่ก๊องแก๊ง มีกล่องเก็บพกพาสะดวก กดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปດวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic close up of tool set in plastic case, no children, no baby, no kids",
+      "tts_text": "เรื่องซ่อมรถซ่อมบ้านจะไม่ปวดหัวอีกต่อไป ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนสี่ในหนึ่งเดียวใช้งานง่ายมาก เก็บใส่กล่องเป็นระเบียบสุดๆ ไปกดสั่งในตะกร้าสิ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic holding pliers in workshop, no children, no baby, no kids",
+      "tts_text": "ของเพิ่งเข้ามาเมื่อเช้าคนถามหากันเพียบ ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนชุดนี้คือที่สุด เปลี่ยนหัวไว งานเสร็จไว ไม่เสียเวลา รีบกดตะกร้าก่อนของหมดนะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic hands opening a red tool box, no children, no baby, no kids",
+      "tts_text": "เพื่อนใช้แล้วดีเลยเอามาบอกต่อทุกคนจ้า ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนสารพัดประโยชน์ ทนทานคุ้มค่าเกินราคา มีกล่องเก็บครบชุด กดสั่งในตะกร้าด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanical parts and tools on table, no children, no baby, no kids",
+      "tts_text": "สายช่างคนไหนหาเครื่องมือดีๆ อยู่ฟังทางนี้ ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนปรับหัวได้สี่แบบในชุดเดียว เคลื่อนที่สะดวก ทนทานสุดๆ ไปกดในตะกร้ากันเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic tightening a component, no children, no baby, no kids",
+      "tts_text": "เบื่อไหมเวลามีงานซ่อมแล้วหาเครื่องมือไม่เจอ ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนพร้อมกล่องเก็บจัดระเบียบง่าย หัวเปลี่ยนไว ใช้งานสะดวก รีบกดสั่งในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic tool set neatly arranged, no children, no baby, no kids",
+      "tts_text": "ล็อตนี้ของเข้ามาน้อยมากช้าหมดอดนะจ๊ะ ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนชุดสี่ชิ้นเด็ดจริง ถอดหุบแหวนได้เนียนกริบ ทนทานสุดยอด รีบกดตะกร้าเลยทุกคน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic repair work in progress with tools, no children, no baby, no kids",
+      "tts_text": "เพื่อนกระซิบมาว่าอันนี้ดีจริงต้องตำด่วน ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนสี่ในหนึ่งเดียวจบครบทุกงานช่าง หัวเปลี่ยนง่ายไม่ยุ่งยาก กดสั่งซื้อในตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic mechanic inspecting tools, no children, no baby, no kids",
+      "tts_text": "เฮ้ยคนรักการซ่อมแซมเองต้องมีติดบ้านไว้ ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนชุดนี้ทนทานมาก พกพาสะดวกด้วยกล่องเก็บอย่างดี ไม่ซื้อคือพลาด รีบกดตะกร้าด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic workshop bench with professional tools, no children, no baby, no kids",
+      "tts_text": "ปัญหาหัวน็อตแหวนล็อกยากๆ จะหมดไปเลย ในคลิปนี้ถูกกว่าเยอะเลย คีมถ่างแหวนเปลี่ยนหัวได้สี่แบบ ใช้งานง่าย ทนทานสุดๆ ของมันต้องมี ไปกดในตะกร้ากันเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
+  ],
+  "1736015851780474385": [
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "โอ๊ยสายทำกับข้าวทั้งหลายรู้ตัวบ้างไหมว่าในคลิปนี้ถูกกว่าข้างนอกเยอะมากเตาปิ้งย่างไฟฟ้าไร้ควันสเตนเลสสามศูนย์สี่ทำความร้อนเร็วปิ้งย่างหมูไก่ซีฟู้ดฟินจัดกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "เฮ้ยแม่บ้านคนรักบ้านสะอาดชอบทำอาหารกินเองแต่ขี้เกียจล้างเตาในคลิปถูกกว่าเจ้าอื่นเยอะเตาปิ้งย่างไฟฟ้าไร้ควันควบคุมอุณหภูมิได้ปรับความร้อนไวปิ้งหมูเนื้อผักไม่ติดเตารีบกดสั่งซื้อด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "บอกเลยว่าล็อตนี้มาแค่นี้เพิ่งเข้ามาเมื่อเช้าคนถามกันเยอะมากเตาปิ้งย่างไฟฟ้าไร้ควันในคลิปถูกกว่าเยอะเตาย่างสเตนเลสสามศูนย์สี่ทำความร้อนไวไร้ควันรบกวนใจย่างคอนโดได้สบายใจไทยแลนด์กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "ซื้อมาใช้เองแล้วต้องมาบอกต่อเจอของดีเลยเอามาฝากเตาปิ้งย่างไฟฟ้าไร้ควันในคลิปถูกกว่าข้างนอกเยอะมากสเตนเลสสามศูนย์สี่ทำความร้อนเร็วปรับความร้อนได้ย่างเนื้อหมูซีฟู้ดอร่อยเหาะรีบกดตะกร้าก่อนหมด",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "สายทำกับข้าวคนไหนยังไม่มีเตาปิ้งดีๆใช้ฟังทางนี้ในคลิปถูกกว่าข้างนอกเยอะเตาปิ้งย่างไฟฟ้าไร้ควันสเตนเลสสามศูนย์สี่ควบคุมอุณหภูมิได้ทำความร้อนเร็วปิ้งหมูย่างซีฟู้ดฟินๆในบ้านห้ามพลาดกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "แม่บ้านสายปิ้งย่างฟังทางนี้ปัญหาควันท่วมบ้านจะหมดไปเตาปิ้งย่างไฟฟ้าไร้ควันช่วยได้ในคลิปถูกกว่าเยอะสเตนเลสสามศูนย์สี่ปรับความร้อนได้ทำความร้อนไวปิ้งเนื้อหมูผักอร่อยชัวร์จุกๆกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "ของมาน้อยของกำลังจะหมดล็อตนี้มาแค่นี้เพิ่งเข้ามาเมื่อเช้าเตาปิ้งย่างไฟฟ้าไร้ควันในคลิปถูกกว่าข้างนอกเยอะมากสเตนเลสสามศูนย์สี่ปรับความร้อนได้ทำความร้อนเร็วปิ้งย่างในคอนโดชิลๆกดตะกร้าด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "เพื่อนบอกเพื่อนซื้อมาใช้เองแล้วต้องมาบอกต่อเตาปิ้งย่างไฟฟ้าไร้ควันในคลิปถูกกว่าข้างนอกเยอะมากเตาย่างสเตนเลสสามศูนย์สี่ควบคุมอุณหภูมิได้ทำความร้อนเร็วปิ้งหมูไก่ซีฟู้ดไม่ติดเตาของมันต้องมีกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "โอ๊ยสายทำกับข้าวรู้ยังว่าของดีมาแล้วในคลิปถูกกว่าข้างนอกเยอะมากเตาปิ้งย่างไฟฟ้าไร้ควันสเตนเลสสามศูนย์สี่ควบคุมอุณหภูมิได้ปรับความร้อนไวทำความร้อนเร็วปิ้งหมูเนื้อซีฟู้ดอร่อยชัวร์กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "เบื่อไหมควันโขมงเวลาปิ้งย่างเตาปิ้งย่างไฟฟ้าไร้ควันช่วยได้ในคลิปถูกกว่าข้างนอกเยอะเตาย่างสเตนเลสสามศูนย์สี่ทำความร้อนเร็วปรับความร้อนได้ย่างหมูเนื้อซีฟู้ดสะใจไม่มีควันกวนใจกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "เฮ้ยล็อตนี้มาแค่นี้เพิ่งเข้ามาเมื่อเช้าคนแย่งกันซื้อเตาปิ้งย่างไฟฟ้าไร้ควันในคลิปถูกกว่าข้างนอกเยอะมากสเตนเลสสามศูนย์สี่ควบคุมอุณหภูมิได้ทำความร้อนเร็วปิ้งย่างในบ้านคอนโดฟินสุดๆกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "เพื่อนบอกเพื่อนใช้ดีจนต้องเอามาป้ายยาเตาปิ้งย่างไฟฟ้าไร้ควันในคลิปถูกกว่าข้างนอกเยอะมากสเตนเลสสามศูนย์สี่ปรับความร้อนได้ทำความร้อนเร็วปิ้งหมูเนื้อซีฟู้ดผักอร่อยไม่ติดเตากดตะกร้าด่วนๆ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "แม่บ้านคนรักบ้านสะอาดฟังทางนี้เตาปิ้งย่างไฟฟ้าไร้ควันในคลิปถูกกว่าข้างนอกเยอะเตาย่างสเตนเลสสามศูนย์สี่ควบคุมอุณหภูมิได้ทำความร้อนเร็วปิ้งหมูไก่ซีฟู้ดบ้านไม่เหม็นควันแน่นอนกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "โอ๊ยปัญหานั่งปิ้งย่างแล้วควันเข้าตาจะหมดไปเตาปิ้งย่างไฟฟ้าไร้ควันช่วยได้ในคลิปถูกกว่าเยอะสเตนเลสสามศูนย์สี่ทำความร้อนเร็วปรับความร้อนได้ย่างหมูเนื้อซีฟู้ดฟินกระจายกดสั่งซื้อในตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "ของมาน้อยของกำลังจะหมดล็อตนี้มาแค่นี้คนถามหากันเพียบเตาปิ้งย่างไฟฟ้าไร้ควันในคลิปถูกกว่าข้างนอกเยอะมากสเตนเลสสามศูนย์สี่ควบคุมอุณหภูมิได้ทำความร้อนเร็วปิ้งย่างอร่อยชัวร์กดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "เพื่อนบอกเพื่อนลองใช้แล้วเลิศมากเลยเอามาบอกต่อเตาปิ้งย่างไฟฟ้าไร้ควันในคลิปถูกกว่าข้างนอกเยอะสเตนเลสสามศูนย์สี่ปรับความร้อนได้ทำความร้อนเร็วปิ้งหมูเนื้อซีฟู้ดสะใจไร้ควันกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "สายทำกับข้าวตัวจริงต้องมีเตาปิ้งย่างไฟฟ้าไร้ควันในคลิปถูกกว่าข้างนอกเยอะมากเตาย่างสเตนเลสสามศูนย์สี่ควบคุมอุณหภูมิได้ทำความร้อนเร็วปิ้งหมูเนื้อซีฟู้ดผักอร่อยฟินในบ้านกดตะกร้าด่วน",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "เฮ้ยปัญหาย่างหมูแล้วควันฟุ้งบ้านจะหมดไปเตาปิ้งย่างไฟฟ้าไร้ควันช่วยชีวิตในคลิปถูกกว่าเยอะสเตนเลสสามศูนย์สี่ทำความร้อนเร็วปรับความร้อนได้ย่างซีฟู้ดหมูเนื้อสบายใจเฉิบกดตะกร้าสิคะ",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "บอกเลยล็อตนี้มาน้อยมากเพิ่งเข้ามาเมื่อเช้าเตาปิ้งย่างไฟฟ้าไร้ควันในคลิปถูกกว่าข้างนอกเยอะสเตนเลสสามศูนย์สี่ควบคุมอุณหภูมิได้ทำความร้อนเร็วปิ้งหมูเนื้อซีฟู้ดอร่อยชัวร์ของหมดอดนะกดตะกร้า",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    },
+    {
+      "visual_prompt": "9:16 photorealistic, visual_prompt, no children, no baby, no kids",
+      "tts_text": "เพื่อนบอกเพื่อนเตาปิ้งย่างไฟฟ้าไร้ควันตัวนี้เด็ดจริงในคลิปถูกกว่าข้างนอกเยอะมากเตาย่างสเตนเลสสามศูนย์สี่ปรับความร้อนได้ทำความร้อนเร็วปิ้งหมูเนื้อซีฟู้ดฟินบ้านไม่เหม็นควันกดตะกร้าเลย",
+      "audio": "female_thai",
+      "duration": "แปดวินาที"
+    }
   ]
 }
